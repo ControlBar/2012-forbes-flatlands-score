@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+     creator="GpsDump 4.42"
+     version="1.1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.gethome.no/stein.sorensen/">
+      <text>GPS dump for www.flightlog.org</text>
+    </link>
+    <time>2012-01-09T21:53:24Z</time>
+    <bounds minlat="-33.171400" minlon="148.263250" maxlat="-32.998517" maxlon="148.282833"/>
+  </metadata>
+  <wpt lat="-33.170100" lon="148.263250">
+    <ele>370.0</ele>
+    <time>2012-01-09T21:50:55</time>
+    <name>JOHN0</name>
+    <cmt>john0</cmt>
+  </wpt>
+  <wpt lat="-33.171400" lon="148.263783">
+    <ele>369.0</ele>
+    <time>2012-01-09T21:50:55</time>
+    <name>JOHN1</name>
+    <cmt>john1</cmt>
+  </wpt>
+  <wpt lat="-33.008683" lon="148.274433">
+    <ele>369.0</ele>
+    <time>2012-01-09T21:50:55</time>
+    <name>LEN0</name>
+    <cmt>len0</cmt>
+  </wpt>
+  <wpt lat="-33.011483" lon="148.276533">
+    <ele>371.0</ele>
+    <time>2012-01-09T21:50:55</time>
+    <name>LEN1</name>
+    <cmt>len1</cmt>
+  </wpt>
+  <wpt lat="-32.998517" lon="148.263917">
+    <ele>382.0</ele>
+    <time>2012-01-09T21:50:55</time>
+    <name>LES0</name>
+    <cmt>les0</cmt>
+  </wpt>
+  <wpt lat="-33.014150" lon="148.271083">
+    <ele>364.0</ele>
+    <time>2012-01-09T21:50:55</time>
+    <name>LES1</name>
+    <cmt>les1</cmt>
+  </wpt>
+  <wpt lat="-32.999917" lon="148.273850">
+    <ele>375.0</ele>
+    <time>2012-01-09T21:50:55</time>
+    <name>PATRIC</name>
+    <cmt>patrick0</cmt>
+  </wpt>
+  <wpt lat="-33.003767" lon="148.282833">
+    <ele>373.0</ele>
+    <time>2012-01-09T21:50:55</time>
+    <name>PATRIC</name>
+    <cmt>patrick1</cmt>
+  </wpt>
+</gpx>

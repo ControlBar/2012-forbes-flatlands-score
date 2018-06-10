@@ -7,6 +7,7 @@ comp:
   civilId: '7592'
   utcOffset:
     timeZoneMinutes: 660
+  scoreBack: null
 nominal:
   launch: 0.96
   goal: 0.2
@@ -46,6 +47,7 @@ tasks:
   absent:
   - ! 'Andrew Luton '
   - Francesco Rinaldi
+  stopped: null
 - taskName: day 2
   zones:
   - zoneName: FORBES
@@ -79,6 +81,7 @@ tasks:
   - ! 'Andrew Luton '
   - Davis Straub
   - Talgat Irgaleev
+  stopped: null
 - taskName: Day 3
   zones:
   - zoneName: FORBES
@@ -113,6 +116,7 @@ tasks:
   - Francesco Rinaldi
   - ! 'Luke Browne '
   - Talgat Irgaleev
+  stopped: null
 - taskName: Day 4
   zones:
   - zoneName: FORBES
@@ -145,6 +149,7 @@ tasks:
   - Monique Pavy
   - Talgat Irgaleev
   - Tove Heaney
+  stopped: null
 - taskName: Day 5
   zones:
   - zoneName: FORBES
@@ -174,6 +179,7 @@ tasks:
   - Davis Straub
   - Jonny Durand
   - Marat Matnurov
+  stopped: null
 - taskName: Day 6
   zones:
   - zoneName: FORBES
@@ -203,6 +209,7 @@ tasks:
   - Davis Straub
   - Jonny Durand
   - Marat Matnurov
+  stopped: null
 - taskName: Day 7
   zones:
   - zoneName: FORBES
@@ -238,6 +245,7 @@ tasks:
   - Julia Kucherenko
   - ! 'Luke Browne '
   - Marat Matnurov
+  stopped: null
 - taskName: Day 8
   zones:
   - zoneName: FORBES
@@ -274,6 +282,7 @@ tasks:
   - Julia Kucherenko
   - Marat Matnurov
   - Tove Heaney
+  stopped: null
 taskFolders:
 - - Tracklogs
   - day 1

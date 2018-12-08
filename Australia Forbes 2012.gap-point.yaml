@@ -10,7 +10,7 @@ validityWorking:
     flying: 91
     present: 95
   distance:
-    sum: 0.0 km
+    sum: 2904.2 km
     flying: 91
     area: 49.4403577
     nominalGoal: 0.2
@@ -146,8 +146,8 @@ validityWorking:
 validity:
 - time: 1
   launch: 0.99992241
-  distance: 0
-  task: 0
+  distance: 0.64550336
+  task: 0.64545328
 - time: 1
   launch: 1
   distance: 1
@@ -184,13 +184,13 @@ allocation:
     arrival: 1.25e-2
     time: 7.0e-2
   points:
-    reach: 0
-    effort: 0
-    distance: 0
-    leading: 0
-    arrival: 0
-    time: 0
-  taskPoints: 0
+    reach: 290.5
+    effort: 290.5
+    distance: 580.9
+    leading: 11.3
+    arrival: 8.1
+    time: 45.2
+  taskPoints: 645
 - goalRatio: 0.34042553
   weight:
     distance: 0.50855209
@@ -290,437 +290,17 @@ allocation:
     time: 334.3
   taskPoints: 988
 score:
-- - - - '106'
-      - Adam Parer
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:28:06Z
-        gs: null
-        es: null
-        distance: 38.7 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '90'
-      - Adam Stevens
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:03:20Z
-        gs: null
-        es: null
-        distance: 47.2 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '82'
-      - Alain Le-gac
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:41:44Z
-        gs: null
-        es: null
-        distance: 22.6 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '31'
-      - Andrew Barnes
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:30:16Z
-        gs: null
-        es: null
-        distance: 38.7 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '67'
-      - ! 'Andy Phillips '
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:59:02Z
-        gs: null
-        es: null
-        distance: 10.5 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '95'
-      - Anton Struganov
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:17:31Z
-        gs: null
-        es: null
-        distance: 61.5 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '59'
-      - Artur Dzamikhov
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:01:27Z
-        gs: null
-        es: null
-        distance: 39.4 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '100'
-      - Attila Bertok
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:30:14Z
-        gs: null
-        es: null
-        distance: 36.9 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '27'
-      - ! 'Boris Marold '
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:34:06Z
-        gs: null
-        es: null
-        distance: 16.8 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '96'
-      - Brodrick Osborne
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:30:30Z
-        gs: null
-        es: null
-        distance: 27.8 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '56'
-      - Cameron Tunbridge
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:06:47Z
-        gs: null
-        es: null
-        distance: 82.7 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '35'
-      - Carole Tobler
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:13:57Z
-        gs: null
-        es: null
-        distance: 36.7 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '105'
-      - Chris Lawry
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:32:49Z
-        gs: null
-        es: null
-        distance: 18.6 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '24'
-      - Christian Baertschi
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:15:49Z
-        gs: null
-        es: null
-        distance: 31.3 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '78'
-      - Christine Aichner
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: null
-        gs: null
-        es: null
-        distance: 6.3 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '33'
-      - Conrad Loten
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:05:48Z
-        gs: null
-        es: null
-        distance: 30.8 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '87'
-      - Corinna Schwiegershausen
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:30:07Z
-        gs: null
-        es: null
-        distance: 33.8 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '41'
-      - Curt Warren
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:16:25Z
-        gs: null
-        es: null
-        distance: 124.4 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '102'
-      - Davide Guiducci
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:17:14Z
-        gs: null
-        es: null
-        distance: 40.9 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '65'
-      - Davis Straub
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:30:36Z
-        gs: null
-        es: null
-        distance: 38.9 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '76'
-      - Dmitriy Korchenkov
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:50:45Z
-        gs: null
-        es: null
-        distance: 28.3 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '71'
+- - - - '71'
       - Edoardo Giudiceandrea
     - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
+        reach: 290.3
+        effort: 145.2
+        distance: 435.6
+        leading: 10.4
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '1'
+      total: 446
       velocity:
         ss: 2012-01-05T03:03:11Z
         gs: null
@@ -730,477 +310,17 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-  - - - '62'
-      - Enda Murphy
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:22:05Z
-        gs: null
-        es: null
-        distance: 14.8 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '28'
-      - Evgeniya Laritskaya
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: null
-        gs: null
-        es: null
-        distance: 2.2 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '44'
-      - Francoise Dieuzeide-banet
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: null
-        gs: null
-        es: null
-        distance: 7.1 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '36'
-      - Franz Herrmann
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:16:56Z
-        gs: null
-        es: null
-        distance: 54.6 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '30'
-      - Fredy Bircher
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:18:06Z
-        gs: null
-        es: null
-        distance: 54.4 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '21'
-      - Gavin Myers
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:26:59Z
-        gs: null
-        es: null
-        distance: 6.0 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '23'
-      - Gerolf Heinrichs
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:30:18Z
-        gs: null
-        es: null
-        distance: 55.2 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '73'
-      - Gijs Wanders
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:30:47Z
-        gs: null
-        es: null
-        distance: 31.2 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '12'
-      - Glen Mcfarlane
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:30:36Z
-        gs: null
-        es: null
-        distance: 72.6 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '16'
-      - Grant Edward
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T04:09:44Z
-        gs: null
-        es: null
-        distance: 4.9 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '68'
-      - Grant Heaney
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:20:24Z
-        gs: null
-        es: null
-        distance: 38.4 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '64'
-      - Gustavo Carvalho
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:36:17Z
-        gs: null
-        es: null
-        distance: 27.0 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '26'
-      - Guy Hubbard
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:30:15Z
-        gs: null
-        es: null
-        distance: 54.6 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '53'
-      - Hadewych van Kempen
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: null
-        gs: null
-        es: null
-        distance: 5.3 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '92'
-      - Hans Kiefinger
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:03:17Z
-        gs: null
-        es: null
-        distance: 43.3 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '15'
-      - ! 'Jean Souviron '
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:25:17Z
-        gs: null
-        es: null
-        distance: 87.3 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '75'
-      - Joerg Bajewski
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:30:22Z
-        gs: null
-        es: null
-        distance: 42.2 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '13'
-      - John Smith
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:18:17Z
-        gs: null
-        es: null
-        distance: 38.5 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '17'
-      - John Urlich
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: null
-        gs: null
-        es: null
-        distance: 1.1 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '34'
-      - Jon snr Durand
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:04:54Z
-        gs: null
-        es: null
-        distance: 24.8 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '66'
-      - Jonas Lobitz
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:19:24Z
-        gs: null
-        es: null
-        distance: 44.2 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '69'
-      - Jonathan Kinred
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:44:50Z
-        gs: null
-        es: null
-        distance: 32.8 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '46'
-      - Jonathon Foote
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T04:24:18Z
-        gs: null
-        es: null
-        distance: -2.6 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
   - - - '61'
       - Jonny Durand
     - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
+        reach: 275.4
+        effort: 144
+        distance: 419.4
+        leading: 10.3
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '2'
+      total: 430
       velocity:
         ss: 2012-01-05T03:30:26Z
         gs: null
@@ -1210,362 +330,62 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-  - - - '57'
-      - Julia Kucherenko
+  - - - '8'
+      - Primoz Gricar
     - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
+        reach: 263.3
+        effort: 143.5
+        distance: 406.8
+        leading: 10.2
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '3'
+      total: 417
       velocity:
-        ss: 2012-01-05T03:23:43Z
+        ss: 2012-01-05T03:17:32Z
         gs: null
         es: null
-        distance: 8.3 km
+        distance: 112.8 km
         ssElapsed: null
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-  - - - '18'
-      - Jürgen Pasker
+  - - - '93'
+      - Trent Brown
     - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
+        reach: 205.5
+        effort: 141.4
+        distance: 347
+        leading: 10.3
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '4'
+      total: 357
       velocity:
-        ss: 2012-01-05T03:10:59Z
+        ss: 2012-01-05T03:30:02Z
         gs: null
         es: null
-        distance: 33.0 km
+        distance: 88.0 km
         ssElapsed: null
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-  - - - '55'
-      - Kari Suhonen
+  - - - '15'
+      - ! 'Jean Souviron '
     - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
+        reach: 203.8
+        effort: 140.6
+        distance: 344.4
+        leading: 10.3
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '5'
+      total: 355
       velocity:
-        ss: 2012-01-05T03:30:57Z
+        ss: 2012-01-05T03:25:17Z
         gs: null
         es: null
-        distance: 19.8 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '32'
-      - Kathryn O'Riordan
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: null
-        gs: null
-        es: null
-        distance: 5.7 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '97'
-      - Konrad Schwab
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:31:28Z
-        gs: null
-        es: null
-        distance: 26.4 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '29'
-      - Konstantin Lukyanov
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:14:29Z
-        gs: null
-        es: null
-        distance: 10.7 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '77'
-      - Len Paton
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:30:13Z
-        gs: null
-        es: null
-        distance: 48.5 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '43'
-      - Les Bestt
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:45:30Z
-        gs: null
-        es: null
-        distance: 38.9 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '1'
-      - Lukas Bader
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:17:46Z
-        gs: null
-        es: null
-        distance: 54.7 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '20'
-      - ! 'Luke Browne '
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T04:08:14Z
-        gs: null
-        es: null
-        distance: 14.0 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '10'
-      - Marat Matnurov
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:44:21Z
-        gs: null
-        es: null
-        distance: 34.0 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '22'
-      - Mark Russell
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:29:56Z
-        gs: null
-        es: null
-        distance: 12.4 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '88'
-      - Martin Sielaff
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: null
-        gs: null
-        es: null
-        distance: 0.4 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '70'
-      - Matthew Barlow
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:30:20Z
-        gs: null
-        es: null
-        distance: 41.0 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '47'
-      - ! 'Miguel De Jong '
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:41:02Z
-        gs: null
-        es: null
-        distance: 40.0 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '19'
-      - Mikhail Karmazin
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: null
-        gs: null
-        es: null
-        distance: 5.1 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '94'
-      - Mitch Shipley
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:30:15Z
-        gs: null
-        es: null
-        distance: 27.0 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '50'
-      - Monique Pavy
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: null
-        gs: null
-        es: null
-        distance: 0.6 km
+        distance: 87.3 km
         ssElapsed: null
         gsElapsed: null
         ssVelocity: null
@@ -1573,14 +393,14 @@ score:
   - - - '85'
       - Neil Petersen
     - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
+        reach: 188.4
+        effort: 138
+        distance: 326.5
+        leading: 10.4
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '6'
+      total: 337
       velocity:
         ss: 2012-01-05T03:24:44Z
         gs: null
@@ -1590,17 +410,217 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+  - - - '11'
+      - Steve Blenkinsop
+    - breakdown:
+        reach: 170.2
+        effort: 135.1
+        distance: 305.3
+        leading: 10.4
+        arrival: 0
+        time: 0
+      place: '7'
+      total: 316
+      velocity:
+        ss: 2012-01-05T03:24:11Z
+        gs: null
+        es: null
+        distance: 72.9 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '12'
+      - Glen Mcfarlane
+    - breakdown:
+        reach: 169.4
+        effort: 134.6
+        distance: 304.1
+        leading: 10.4
+        arrival: 0
+        time: 0
+      place: '8'
+      total: 315
+      velocity:
+        ss: 2012-01-05T03:30:36Z
+        gs: null
+        es: null
+        distance: 72.6 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '41'
+      - Curt Warren
+    - breakdown:
+        reach: 290.5
+        effort: 0
+        distance: 290.5
+        leading: 10.3
+        arrival: 0
+        time: 0
+      place: '9'
+      total: 301
+      velocity:
+        ss: 2012-01-05T03:16:25Z
+        gs: null
+        es: null
+        distance: 124.4 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '30'
+      - Fredy Bircher
+    - breakdown:
+        reach: 127.1
+        effort: 132.9
+        distance: 260.1
+        leading: 10.7
+        arrival: 0
+        time: 0
+      place: 10=
+      total: 271
+      velocity:
+        ss: 2012-01-05T03:18:06Z
+        gs: null
+        es: null
+        distance: 54.4 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '89'
+      - Scott Barrett
+    - breakdown:
+        reach: 127.1
+        effort: 132.9
+        distance: 260
+        leading: 10.7
+        arrival: 0
+        time: 0
+      place: 10=
+      total: 271
+      velocity:
+        ss: 2012-01-05T03:30:42Z
+        gs: null
+        es: null
+        distance: 54.4 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '60'
+      - Rohan Holtkamp
+    - breakdown:
+        reach: 127.1
+        effort: 132.9
+        distance: 260
+        leading: 10.7
+        arrival: 0
+        time: 0
+      place: 10=
+      total: 271
+      velocity:
+        ss: 2012-01-05T03:30:11Z
+        gs: null
+        es: null
+        distance: 54.4 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '77'
+      - Len Paton
+    - breakdown:
+        reach: 113.3
+        effort: 129.6
+        distance: 242.9
+        leading: 10.8
+        arrival: 0
+        time: 0
+      place: '11'
+      total: 254
+      velocity:
+        ss: 2012-01-05T03:30:13Z
+        gs: null
+        es: null
+        distance: 48.5 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '92'
+      - Hans Kiefinger
+    - breakdown:
+        reach: 101.1
+        effort: 124.9
+        distance: 226
+        leading: 11
+        arrival: 0
+        time: 0
+      place: '12'
+      total: 237
+      velocity:
+        ss: 2012-01-05T03:03:17Z
+        gs: null
+        es: null
+        distance: 43.3 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '70'
+      - Matthew Barlow
+    - breakdown:
+        reach: 95.7
+        effort: 123.2
+        distance: 218.9
+        leading: 10.9
+        arrival: 0
+        time: 0
+      place: 13=
+      total: 230
+      velocity:
+        ss: 2012-01-05T03:30:20Z
+        gs: null
+        es: null
+        distance: 41.0 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '102'
+      - Davide Guiducci
+    - breakdown:
+        reach: 95.5
+        effort: 123.2
+        distance: 218.7
+        leading: 10.9
+        arrival: 0
+        time: 0
+      place: 13=
+      total: 230
+      velocity:
+        ss: 2012-01-05T03:17:14Z
+        gs: null
+        es: null
+        distance: 40.9 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
   - - - '25'
       - Nick Purcell
     - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
+        reach: 93.7
+        effort: 120.2
+        distance: 214
+        leading: 10.8
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '14'
+      total: 225
       velocity:
         ss: 2012-01-05T03:30:15Z
         gs: null
@@ -1610,17 +630,57 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+  - - - '99'
+      - Tullio Gervasoni
+    - breakdown:
+        reach: 92.4
+        effort: 118.1
+        distance: 210.5
+        leading: 10.9
+        arrival: 0
+        time: 0
+      place: '15'
+      total: 221
+      velocity:
+        ss: 2012-01-05T03:17:19Z
+        gs: null
+        es: null
+        distance: 39.6 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '59'
+      - Artur Dzamikhov
+    - breakdown:
+        reach: 92
+        effort: 116
+        distance: 208
+        leading: 11
+        arrival: 0
+        time: 0
+      place: '16'
+      total: 219
+      velocity:
+        ss: 2012-01-05T03:01:27Z
+        gs: null
+        es: null
+        distance: 39.4 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
   - - - '14'
       - Olav Lien Olsen
     - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
+        reach: 91
+        effort: 113.5
+        distance: 204.5
+        leading: 10.9
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: 17=
+      total: 215
       velocity:
         ss: 2012-01-05T03:30:25Z
         gs: null
@@ -1630,22 +690,22 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-  - - - '2'
-      - Pablo Gomes
+  - - - '65'
+      - Davis Straub
     - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
+        reach: 90.9
+        effort: 113.5
+        distance: 204.4
+        leading: 10.9
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: 17=
+      total: 215
       velocity:
-        ss: 2012-01-05T03:36:05Z
+        ss: 2012-01-05T03:30:36Z
         gs: null
         es: null
-        distance: 24.4 km
+        distance: 38.9 km
         ssElapsed: null
         gsElapsed: null
         ssVelocity: null
@@ -1653,14 +713,14 @@ score:
   - - - '48'
       - Paolo Rosichetti
     - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
+        reach: 90.9
+        effort: 113.5
+        distance: 204.3
+        leading: 10.9
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: 17=
+      total: 215
       velocity:
         ss: 2012-01-05T03:16:47Z
         gs: null
@@ -1670,17 +730,1037 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+  - - - '43'
+      - Les Bestt
+    - breakdown:
+        reach: 90.8
+        effort: 113.5
+        distance: 204.3
+        leading: 10.8
+        arrival: 0
+        time: 0
+      place: 17=
+      total: 215
+      velocity:
+        ss: 2012-01-05T03:45:30Z
+        gs: null
+        es: null
+        distance: 38.9 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '31'
+      - Andrew Barnes
+    - breakdown:
+        reach: 90.4
+        effort: 108
+        distance: 198.4
+        leading: 10.9
+        arrival: 0
+        time: 0
+      place: '18'
+      total: 209
+      velocity:
+        ss: 2012-01-05T03:30:16Z
+        gs: null
+        es: null
+        distance: 38.7 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '45'
+      - Roland Wöhrle
+    - breakdown:
+        reach: 90.2
+        effort: 104.6
+        distance: 194.8
+        leading: 11
+        arrival: 0
+        time: 0
+      place: 19=
+      total: 206
+      velocity:
+        ss: 2012-01-05T03:03:45Z
+        gs: null
+        es: null
+        distance: 38.6 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '106'
+      - Adam Parer
+    - breakdown:
+        reach: 90.3
+        effort: 104.6
+        distance: 194.9
+        leading: 10.8
+        arrival: 0
+        time: 0
+      place: 19=
+      total: 206
+      velocity:
+        ss: 2012-01-05T03:28:06Z
+        gs: null
+        es: null
+        distance: 38.7 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '56'
+      - Cameron Tunbridge
+    - breakdown:
+        reach: 193.1
+        effort: 0
+        distance: 193.1
+        leading: 10.5
+        arrival: 0
+        time: 0
+      place: '20'
+      total: 204
+      velocity:
+        ss: 2012-01-05T03:06:47Z
+        gs: null
+        es: null
+        distance: 82.7 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '68'
+      - Grant Heaney
+    - breakdown:
+        reach: 89.7
+        effort: 100.8
+        distance: 190.5
+        leading: 10.9
+        arrival: 0
+        time: 0
+      place: '21'
+      total: 201
+      velocity:
+        ss: 2012-01-05T03:20:24Z
+        gs: null
+        es: null
+        distance: 38.4 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '10'
+      - Marat Matnurov
+    - breakdown:
+        reach: 79.3
+        effort: 71.6
+        distance: 150.9
+        leading: 10.9
+        arrival: 0
+        time: 0
+      place: '22'
+      total: 162
+      velocity:
+        ss: 2012-01-05T03:44:21Z
+        gs: null
+        es: null
+        distance: 34.0 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '51'
+      - Rob In 't Groen
+    - breakdown:
+        reach: 76.2
+        effort: 69.4
+        distance: 145.6
+        leading: 11.1
+        arrival: 0
+        time: 0
+      place: '23'
+      total: 157
+      velocity:
+        ss: 2012-01-05T02:52:58Z
+        gs: null
+        es: null
+        distance: 32.6 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '95'
+      - Anton Struganov
+    - breakdown:
+        reach: 143.6
+        effort: 0
+        distance: 143.6
+        leading: 10.5
+        arrival: 0
+        time: 0
+      place: '24'
+      total: 154
+      velocity:
+        ss: 2012-01-05T03:17:31Z
+        gs: null
+        es: null
+        distance: 61.5 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '23'
+      - Gerolf Heinrichs
+    - breakdown:
+        reach: 128.8
+        effort: 0
+        distance: 128.8
+        leading: 10.7
+        arrival: 0
+        time: 0
+      place: '25'
+      total: 140
+      velocity:
+        ss: 2012-01-05T03:30:18Z
+        gs: null
+        es: null
+        distance: 55.2 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '1'
+      - Lukas Bader
+    - breakdown:
+        reach: 127.6
+        effort: 0
+        distance: 127.6
+        leading: 10.7
+        arrival: 0
+        time: 0
+      place: 26=
+      total: 138
+      velocity:
+        ss: 2012-01-05T03:17:46Z
+        gs: null
+        es: null
+        distance: 54.7 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '36'
+      - Franz Herrmann
+    - breakdown:
+        reach: 127.5
+        effort: 0
+        distance: 127.5
+        leading: 10.8
+        arrival: 0
+        time: 0
+      place: 26=
+      total: 138
+      velocity:
+        ss: 2012-01-05T03:16:56Z
+        gs: null
+        es: null
+        distance: 54.6 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '26'
+      - Guy Hubbard
+    - breakdown:
+        reach: 127.6
+        effort: 0
+        distance: 127.6
+        leading: 10.7
+        arrival: 0
+        time: 0
+      place: 26=
+      total: 138
+      velocity:
+        ss: 2012-01-05T03:30:15Z
+        gs: null
+        es: null
+        distance: 54.6 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '84'
+      - Yasuhiro Noma
+    - breakdown:
+        reach: 125.5
+        effort: 0
+        distance: 125.5
+        leading: 10.7
+        arrival: 0
+        time: 0
+      place: '27'
+      total: 136
+      velocity:
+        ss: 2012-01-05T03:20:44Z
+        gs: null
+        es: null
+        distance: 53.8 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '6'
+      - Phil Schroder
+    - breakdown:
+        reach: 65.9
+        effort: 56.3
+        distance: 122.3
+        leading: 11
+        arrival: 0
+        time: 0
+      place: '28'
+      total: 133
+      velocity:
+        ss: 2012-01-05T03:14:58Z
+        gs: null
+        es: null
+        distance: 28.2 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '42'
+      - Suan Selenati
+    - breakdown:
+        reach: 119
+        effort: 0
+        distance: 119
+        leading: 10.7
+        arrival: 0
+        time: 0
+      place: '29'
+      total: 130
+      velocity:
+        ss: 2012-01-05T03:17:20Z
+        gs: null
+        es: null
+        distance: 51.0 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '64'
+      - Gustavo Carvalho
+    - breakdown:
+        reach: 63
+        effort: 51.7
+        distance: 114.7
+        leading: 11
+        arrival: 0
+        time: 0
+      place: '30'
+      total: 126
+      velocity:
+        ss: 2012-01-05T03:36:17Z
+        gs: null
+        es: null
+        distance: 27.0 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '3'
+      - Rod Flockhart
+    - breakdown:
+        reach: 110.9
+        effort: 0
+        distance: 110.9
+        leading: 10.8
+        arrival: 0
+        time: 0
+      place: '31'
+      total: 122
+      velocity:
+        ss: 2012-01-05T03:17:20Z
+        gs: null
+        es: null
+        distance: 47.5 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '90'
+      - Adam Stevens
+    - breakdown:
+        reach: 110.1
+        effort: 0
+        distance: 110.1
+        leading: 10.9
+        arrival: 0
+        time: 0
+      place: '32'
+      total: 121
+      velocity:
+        ss: 2012-01-05T03:03:20Z
+        gs: null
+        es: null
+        distance: 47.2 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '49'
+      - Tony Giammichele
+    - breakdown:
+        reach: 108.1
+        effort: 0
+        distance: 108.1
+        leading: 10.9
+        arrival: 0
+        time: 0
+      place: '33'
+      total: 119
+      velocity:
+        ss: 2012-01-05T03:06:35Z
+        gs: null
+        es: null
+        distance: 46.3 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '97'
+      - Konrad Schwab
+    - breakdown:
+        reach: 61.6
+        effort: 42.8
+        distance: 104.4
+        leading: 11
+        arrival: 0
+        time: 0
+      place: '34'
+      total: 115
+      velocity:
+        ss: 2012-01-05T03:31:28Z
+        gs: null
+        es: null
+        distance: 26.4 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '66'
+      - Jonas Lobitz
+    - breakdown:
+        reach: 103.1
+        effort: 0
+        distance: 103.1
+        leading: 10.8
+        arrival: 0
+        time: 0
+      place: '35'
+      total: 114
+      velocity:
+        ss: 2012-01-05T03:19:24Z
+        gs: null
+        es: null
+        distance: 44.2 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '75'
+      - Joerg Bajewski
+    - breakdown:
+        reach: 98.5
+        effort: 0
+        distance: 98.5
+        leading: 10.7
+        arrival: 0
+        time: 0
+      place: '36'
+      total: 109
+      velocity:
+        ss: 2012-01-05T03:30:22Z
+        gs: null
+        es: null
+        distance: 42.2 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '34'
+      - Jon snr Durand
+    - breakdown:
+        reach: 57.9
+        effort: 39.4
+        distance: 97.3
+        leading: 11.1
+        arrival: 0
+        time: 0
+      place: '37'
+      total: 108
+      velocity:
+        ss: 2012-01-05T03:04:54Z
+        gs: null
+        es: null
+        distance: 24.8 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '81'
+      - Valentino Bau
+    - breakdown:
+        reach: 94.8
+        effort: 0
+        distance: 94.8
+        leading: 10.9
+        arrival: 0
+        time: 0
+      place: '38'
+      total: 106
+      velocity:
+        ss: 2012-01-05T03:24:35Z
+        gs: null
+        es: null
+        distance: 40.6 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '2'
+      - Pablo Gomes
+    - breakdown:
+        reach: 57
+        effort: 36.4
+        distance: 93.5
+        leading: 11
+        arrival: 0
+        time: 0
+      place: 39=
+      total: 104
+      velocity:
+        ss: 2012-01-05T03:36:05Z
+        gs: null
+        es: null
+        distance: 24.4 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '47'
+      - ! 'Miguel De Jong '
+    - breakdown:
+        reach: 93.4
+        effort: 0
+        distance: 93.4
+        leading: 10.9
+        arrival: 0
+        time: 0
+      place: 39=
+      total: 104
+      velocity:
+        ss: 2012-01-05T03:41:02Z
+        gs: null
+        es: null
+        distance: 40.0 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '7'
+      - Shaun O'neill
+    - breakdown:
+        reach: 91.1
+        effort: 0
+        distance: 91.1
+        leading: 10.9
+        arrival: 0
+        time: 0
+      place: '40'
+      total: 102
+      velocity:
+        ss: 2012-01-05T03:23:53Z
+        gs: null
+        es: null
+        distance: 39.0 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '13'
+      - John Smith
+    - breakdown:
+        reach: 89.9
+        effort: 0
+        distance: 89.9
+        leading: 10.9
+        arrival: 0
+        time: 0
+      place: '41'
+      total: 101
+      velocity:
+        ss: 2012-01-05T03:18:17Z
+        gs: null
+        es: null
+        distance: 38.5 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '100'
+      - Attila Bertok
+    - breakdown:
+        reach: 86.1
+        effort: 0
+        distance: 86.1
+        leading: 10.9
+        arrival: 0
+        time: 0
+      place: 42=
+      total: 97
+      velocity:
+        ss: 2012-01-05T03:30:14Z
+        gs: null
+        es: null
+        distance: 36.9 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '103'
+      - Roberto Nichele
+    - breakdown:
+        reach: 85.8
+        effort: 0
+        distance: 85.8
+        leading: 10.9
+        arrival: 0
+        time: 0
+      place: 42=
+      total: 97
+      velocity:
+        ss: 2012-01-05T03:30:20Z
+        gs: null
+        es: null
+        distance: 36.7 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '35'
+      - Carole Tobler
+    - breakdown:
+        reach: 85.6
+        effort: 0
+        distance: 85.6
+        leading: 10.9
+        arrival: 0
+        time: 0
+      place: 42=
+      total: 97
+      velocity:
+        ss: 2012-01-05T03:13:57Z
+        gs: null
+        es: null
+        distance: 36.7 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '87'
+      - Corinna Schwiegershausen
+    - breakdown:
+        reach: 79
+        effort: 0
+        distance: 79
+        leading: 10.9
+        arrival: 0
+        time: 0
+      place: '43'
+      total: 90
+      velocity:
+        ss: 2012-01-05T03:30:07Z
+        gs: null
+        es: null
+        distance: 33.8 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '18'
+      - Jürgen Pasker
+    - breakdown:
+        reach: 77.1
+        effort: 0
+        distance: 77.1
+        leading: 10.9
+        arrival: 0
+        time: 0
+      place: 44=
+      total: 88
+      velocity:
+        ss: 2012-01-05T03:10:59Z
+        gs: null
+        es: null
+        distance: 33.0 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '69'
+      - Jonathan Kinred
+    - breakdown:
+        reach: 76.7
+        effort: 0
+        distance: 76.7
+        leading: 10.9
+        arrival: 0
+        time: 0
+      place: 44=
+      total: 88
+      velocity:
+        ss: 2012-01-05T03:44:50Z
+        gs: null
+        es: null
+        distance: 32.8 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '24'
+      - Christian Baertschi
+    - breakdown:
+        reach: 73
+        effort: 0
+        distance: 73
+        leading: 11
+        arrival: 0
+        time: 0
+      place: 45=
+      total: 84
+      velocity:
+        ss: 2012-01-05T03:15:49Z
+        gs: null
+        es: null
+        distance: 31.3 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '73'
+      - Gijs Wanders
+    - breakdown:
+        reach: 72.8
+        effort: 0
+        distance: 72.8
+        leading: 10.9
+        arrival: 0
+        time: 0
+      place: 45=
+      total: 84
+      velocity:
+        ss: 2012-01-05T03:30:47Z
+        gs: null
+        es: null
+        distance: 31.2 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '33'
+      - Conrad Loten
+    - breakdown:
+        reach: 71.9
+        effort: 0
+        distance: 71.9
+        leading: 11.1
+        arrival: 0
+        time: 0
+      place: '46'
+      total: 83
+      velocity:
+        ss: 2012-01-05T03:05:48Z
+        gs: null
+        es: null
+        distance: 30.8 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '5'
+      - Wolfgang Siess
+    - breakdown:
+        reach: 39.2
+        effort: 30.9
+        distance: 70.1
+        leading: 11.2
+        arrival: 0
+        time: 0
+      place: '47'
+      total: 81
+      velocity:
+        ss: 2012-01-05T03:30:08Z
+        gs: null
+        es: null
+        distance: 16.8 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '76'
+      - Dmitriy Korchenkov
+    - breakdown:
+        reach: 66.1
+        effort: 0
+        distance: 66.1
+        leading: 10.8
+        arrival: 0
+        time: 0
+      place: '48'
+      total: 77
+      velocity:
+        ss: 2012-01-05T03:50:45Z
+        gs: null
+        es: null
+        distance: 28.3 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '96'
+      - Brodrick Osborne
+    - breakdown:
+        reach: 64.9
+        effort: 0
+        distance: 64.9
+        leading: 11
+        arrival: 0
+        time: 0
+      place: '49'
+      total: 76
+      velocity:
+        ss: 2012-01-05T03:30:30Z
+        gs: null
+        es: null
+        distance: 27.8 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '94'
+      - Mitch Shipley
+    - breakdown:
+        reach: 63.1
+        effort: 0
+        distance: 63.1
+        leading: 11
+        arrival: 0
+        time: 0
+      place: 50=
+      total: 74
+      velocity:
+        ss: 2012-01-05T03:30:15Z
+        gs: null
+        es: null
+        distance: 27.0 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '20'
+      - ! 'Luke Browne '
+    - breakdown:
+        reach: 32.7
+        effort: 30.1
+        distance: 62.8
+        leading: 11
+        arrival: 0
+        time: 0
+      place: 50=
+      total: 74
+      velocity:
+        ss: 2012-01-05T04:08:14Z
+        gs: null
+        es: null
+        distance: 14.0 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '82'
+      - Alain Le-gac
+    - breakdown:
+        reach: 52.7
+        effort: 0
+        distance: 52.7
+        leading: 11.1
+        arrival: 0
+        time: 0
+      place: '51'
+      total: 64
+      velocity:
+        ss: 2012-01-05T03:41:44Z
+        gs: null
+        es: null
+        distance: 22.6 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '67'
+      - ! 'Andy Phillips '
+    - breakdown:
+        reach: 24.6
+        effort: 22.9
+        distance: 47.5
+        leading: 11.1
+        arrival: 0
+        time: 0
+      place: '52'
+      total: 59
+      velocity:
+        ss: 2012-01-05T03:59:02Z
+        gs: null
+        es: null
+        distance: 10.5 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '55'
+      - Kari Suhonen
+    - breakdown:
+        reach: 46.2
+        effort: 0
+        distance: 46.2
+        leading: 11.1
+        arrival: 0
+        time: 0
+      place: '53'
+      total: 57
+      velocity:
+        ss: 2012-01-05T03:30:57Z
+        gs: null
+        es: null
+        distance: 19.8 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '105'
+      - Chris Lawry
+    - breakdown:
+        reach: 43.5
+        effort: 0
+        distance: 43.5
+        leading: 11.1
+        arrival: 0
+        time: 0
+      place: '54'
+      total: 55
+      velocity:
+        ss: 2012-01-05T03:32:49Z
+        gs: null
+        es: null
+        distance: 18.6 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '27'
+      - ! 'Boris Marold '
+    - breakdown:
+        reach: 39.3
+        effort: 0
+        distance: 39.3
+        leading: 11.2
+        arrival: 0
+        time: 0
+      place: '55'
+      total: 50
+      velocity:
+        ss: 2012-01-05T03:34:06Z
+        gs: null
+        es: null
+        distance: 16.8 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '62'
+      - Enda Murphy
+    - breakdown:
+        reach: 34.6
+        effort: 0
+        distance: 34.6
+        leading: 11.2
+        arrival: 0
+        time: 0
+      place: '56'
+      total: 46
+      velocity:
+        ss: 2012-01-05T03:22:05Z
+        gs: null
+        es: null
+        distance: 14.8 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '57'
+      - Julia Kucherenko
+    - breakdown:
+        reach: 19.4
+        effort: 14.8
+        distance: 34.2
+        leading: 11.3
+        arrival: 0
+        time: 0
+      place: '57'
+      total: 45
+      velocity:
+        ss: 2012-01-05T03:23:43Z
+        gs: null
+        es: null
+        distance: 8.3 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '22'
+      - Mark Russell
+    - breakdown:
+        reach: 29
+        effort: 0
+        distance: 29
+        leading: 11.3
+        arrival: 0
+        time: 0
+      place: '58'
+      total: 40
+      velocity:
+        ss: 2012-01-05T03:29:56Z
+        gs: null
+        es: null
+        distance: 12.4 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
   - - - '98'
       - Patrick Collin
     - breakdown:
-        reach: 0
+        reach: 27.8
         effort: 0
-        distance: 0
-        leading: 0
+        distance: 27.8
+        leading: 11.2
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '59'
+      total: 39
       velocity:
         ss: 2012-01-05T03:22:02Z
         gs: null
@@ -1693,14 +1773,14 @@ score:
   - - - '83'
       - Peter Dall
     - breakdown:
-        reach: 0
+        reach: 26.8
         effort: 0
-        distance: 0
-        leading: 0
+        distance: 26.8
+        leading: 11.1
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '60'
+      total: 38
       velocity:
         ss: 2012-01-05T04:12:26Z
         gs: null
@@ -1710,282 +1790,22 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-  - - - '37'
-      - Peter Ebeling
+  - - - '29'
+      - Konstantin Lukyanov
     - breakdown:
-        reach: 0
+        reach: 24.9
         effort: 0
-        distance: 0
-        leading: 0
+        distance: 24.9
+        leading: 11.3
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '61'
+      total: 36
       velocity:
-        ss: null
+        ss: 2012-01-05T03:14:29Z
         gs: null
         es: null
-        distance: 3.1 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '6'
-      - Phil Schroder
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:14:58Z
-        gs: null
-        es: null
-        distance: 28.2 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '40'
-      - Phil de Joux
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: null
-        gs: null
-        es: null
-        distance: 5.8 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '8'
-      - Primoz Gricar
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:17:32Z
-        gs: null
-        es: null
-        distance: 112.8 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '51'
-      - Rob In 't Groen
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T02:52:58Z
-        gs: null
-        es: null
-        distance: 32.6 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '103'
-      - Roberto Nichele
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:30:20Z
-        gs: null
-        es: null
-        distance: 36.7 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '3'
-      - Rod Flockhart
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:17:20Z
-        gs: null
-        es: null
-        distance: 47.5 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '60'
-      - Rohan Holtkamp
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:30:11Z
-        gs: null
-        es: null
-        distance: 54.4 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '45'
-      - Roland Wöhrle
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:03:45Z
-        gs: null
-        es: null
-        distance: 38.6 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '89'
-      - Scott Barrett
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:30:42Z
-        gs: null
-        es: null
-        distance: 54.4 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '7'
-      - Shaun O'neill
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:23:53Z
-        gs: null
-        es: null
-        distance: 39.0 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '11'
-      - Steve Blenkinsop
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:24:11Z
-        gs: null
-        es: null
-        distance: 72.9 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '42'
-      - Suan Selenati
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:17:20Z
-        gs: null
-        es: null
-        distance: 51.0 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '49'
-      - Tony Giammichele
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2012-01-05T03:06:35Z
-        gs: null
-        es: null
-        distance: 46.3 km
+        distance: 10.7 km
         ssElapsed: null
         gsElapsed: null
         ssVelocity: null
@@ -1993,14 +1813,14 @@ score:
   - - - '72'
       - Tove Heaney
     - breakdown:
-        reach: 0
+        reach: 22.1
         effort: 0
-        distance: 0
-        leading: 0
+        distance: 22.1
+        leading: 11.3
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '62'
+      total: 33
       velocity:
         ss: 2012-01-05T03:27:56Z
         gs: null
@@ -2010,102 +1830,282 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-  - - - '93'
-      - Trent Brown
+  - - - '16'
+      - Grant Edward
     - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
+        reach: 11.5
+        effort: 3
+        distance: 14.4
+        leading: 11.2
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '63'
+      total: 26
       velocity:
-        ss: 2012-01-05T03:30:02Z
+        ss: 2012-01-05T04:09:44Z
         gs: null
         es: null
-        distance: 88.0 km
+        distance: 4.9 km
         ssElapsed: null
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-  - - - '99'
-      - Tullio Gervasoni
+  - - - '53'
+      - Hadewych van Kempen
     - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
+        reach: 12.4
+        effort: 5.5
+        distance: 17.9
         leading: 0
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '64'
+      total: 18
       velocity:
-        ss: 2012-01-05T03:17:19Z
+        ss: null
         gs: null
         es: null
-        distance: 39.6 km
+        distance: 5.3 km
         ssElapsed: null
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-  - - - '81'
-      - Valentino Bau
+  - - - '44'
+      - Francoise Dieuzeide-banet
     - breakdown:
-        reach: 0
+        reach: 16.6
         effort: 0
-        distance: 0
+        distance: 16.6
         leading: 0
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '65'
+      total: 17
       velocity:
-        ss: 2012-01-05T03:24:35Z
+        ss: null
         gs: null
         es: null
-        distance: 40.6 km
+        distance: 7.1 km
         ssElapsed: null
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-  - - - '5'
-      - Wolfgang Siess
+  - - - '78'
+      - Christine Aichner
     - breakdown:
-        reach: 0
+        reach: 14.7
         effort: 0
-        distance: 0
+        distance: 14.7
         leading: 0
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '66'
+      total: 15
       velocity:
-        ss: 2012-01-05T03:30:08Z
+        ss: null
         gs: null
         es: null
-        distance: 16.8 km
+        distance: 6.3 km
         ssElapsed: null
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-  - - - '84'
-      - Yasuhiro Noma
+  - - - '21'
+      - Gavin Myers
     - breakdown:
-        reach: 0
+        reach: 13.9
         effort: 0
-        distance: 0
+        distance: 13.9
         leading: 0
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: 67=
+      total: 14
       velocity:
-        ss: 2012-01-05T03:20:44Z
+        ss: 2012-01-05T03:26:59Z
         gs: null
         es: null
-        distance: 53.8 km
+        distance: 6.0 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '40'
+      - Phil de Joux
+    - breakdown:
+        reach: 13.6
+        effort: 0
+        distance: 13.6
+        leading: 0
+        arrival: 0
+        time: 0
+      place: 67=
+      total: 14
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        distance: 5.8 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '32'
+      - Kathryn O'Riordan
+    - breakdown:
+        reach: 13.4
+        effort: 0
+        distance: 13.4
+        leading: 0
+        arrival: 0
+        time: 0
+      place: '68'
+      total: 13
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        distance: 5.7 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '19'
+      - Mikhail Karmazin
+    - breakdown:
+        reach: 12
+        effort: 0
+        distance: 12
+        leading: 0
+        arrival: 0
+        time: 0
+      place: '69'
+      total: 12
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        distance: 5.1 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '37'
+      - Peter Ebeling
+    - breakdown:
+        reach: 7.2
+        effort: 3
+        distance: 10.1
+        leading: 0
+        arrival: 0
+        time: 0
+      place: '70'
+      total: 10
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        distance: 3.1 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '28'
+      - Evgeniya Laritskaya
+    - breakdown:
+        reach: 5.2
+        effort: 3
+        distance: 8.2
+        leading: 0
+        arrival: 0
+        time: 0
+      place: '71'
+      total: 8
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        distance: 2.2 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '17'
+      - John Urlich
+    - breakdown:
+        reach: 2.5
+        effort: 3
+        distance: 5.5
+        leading: 0
+        arrival: 0
+        time: 0
+      place: '72'
+      total: 5
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        distance: 1.1 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '50'
+      - Monique Pavy
+    - breakdown:
+        reach: 1.4
+        effort: 3
+        distance: 4.3
+        leading: 0
+        arrival: 0
+        time: 0
+      place: 73=
+      total: 4
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        distance: 0.6 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '88'
+      - Martin Sielaff
+    - breakdown:
+        reach: 0.9
+        effort: 3
+        distance: 3.9
+        leading: 0
+        arrival: 0
+        time: 0
+      place: 73=
+      total: 4
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        distance: 0.4 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '46'
+      - Jonathon Foote
+    - breakdown:
+        reach: -6.1
+        effort: 3
+        distance: -3.1
+        leading: 0
+        arrival: 0
+        time: 0
+      place: '74'
+      total: -3
+      velocity:
+        ss: 2012-01-05T04:24:18Z
+        gs: null
+        es: null
+        distance: -2.6 km
         ssElapsed: null
         gsElapsed: null
         ssVelocity: null

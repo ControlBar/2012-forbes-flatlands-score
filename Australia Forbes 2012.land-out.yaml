@@ -41,6 +41,15 @@ difficulty:
     endChunk: 5.0 km
     endAhead: 9.1 km
     down: 8
+    downs:
+    - -4.8 km
+    - -2.31 km
+    - -1.49 km
+    - 0.4 km
+    - 2.19 km
+    - 2.23 km
+    - 4.74 km
+    - 4.92 km
     downward: 7
     rel: 1.020408e-2
     frac: 1.020408e-2
@@ -49,6 +58,10 @@ difficulty:
     endChunk: 5.4 km
     endAhead: 9.5 km
     down: 3
+    downs:
+    - 5.33 km
+    - 5.33 km
+    - 5.38 km
     downward: 6
     rel: 8.74636e-3
     frac: 1.895044e-2
@@ -57,6 +70,8 @@ difficulty:
     endChunk: 5.5 km
     endAhead: 9.6 km
     down: 1
+    downs:
+    - 5.4 km
     downward: 5
     rel: 7.28863e-3
     frac: 2.623907e-2
@@ -65,6 +80,8 @@ difficulty:
     endChunk: 6.2 km
     endAhead: 10.3 km
     down: 1
+    downs:
+    - 6.11 km
     downward: 4
     rel: 5.8309e-3
     frac: 3.206997e-2
@@ -73,6 +90,8 @@ difficulty:
     endChunk: 6.8 km
     endAhead: 10.9 km
     down: 1
+    downs:
+    - 6.75 km
     downward: 6
     rel: 8.74636e-3
     frac: 4.081633e-2
@@ -81,6 +100,8 @@ difficulty:
     endChunk: 8.3 km
     endAhead: 12.4 km
     down: 1
+    downs:
+    - 8.28 km
     downward: 7
     rel: 1.020408e-2
     frac: 5.102041e-2
@@ -89,6 +110,8 @@ difficulty:
     endChunk: 9.1 km
     endAhead: 13.2 km
     down: 1
+    downs:
+    - 9.05 km
     downward: 6
     rel: 8.74636e-3
     frac: 5.976676e-2
@@ -97,6 +120,8 @@ difficulty:
     endChunk: 10.5 km
     endAhead: 14.6 km
     down: 1
+    downs:
+    - 10.46 km
     downward: 7
     rel: 1.020408e-2
     frac: 6.997085e-2
@@ -105,6 +130,8 @@ difficulty:
     endChunk: 10.6 km
     endAhead: 14.7 km
     down: 1
+    downs:
+    - 10.52 km
     downward: 6
     rel: 8.74636e-3
     frac: 7.87172e-2
@@ -113,6 +140,8 @@ difficulty:
     endChunk: 10.9 km
     endAhead: 15.0 km
     down: 1
+    downs:
+    - 10.8 km
     downward: 5
     rel: 7.28863e-3
     frac: 8.600583e-2
@@ -121,6 +150,9 @@ difficulty:
     endChunk: 11.8 km
     endAhead: 15.9 km
     down: 2
+    downs:
+    - 11.74 km
+    - 11.75 km
     downward: 4
     rel: 5.8309e-3
     frac: 9.183673e-2
@@ -129,6 +161,8 @@ difficulty:
     endChunk: 12.2 km
     endAhead: 16.3 km
     down: 1
+    downs:
+    - 12.13 km
     downward: 3
     rel: 4.37318e-3
     frac: 9.620991e-2
@@ -137,6 +171,8 @@ difficulty:
     endChunk: 13.7 km
     endAhead: 17.8 km
     down: 1
+    downs:
+    - 13.67 km
     downward: 3
     rel: 4.37318e-3
     frac: 0.10058309
@@ -145,6 +181,8 @@ difficulty:
     endChunk: 14.1 km
     endAhead: 18.2 km
     down: 1
+    downs:
+    - 14.05 km
     downward: 2
     rel: 2.91545e-3
     frac: 0.10349854
@@ -153,6 +191,9 @@ difficulty:
     endChunk: 16.8 km
     endAhead: 20.9 km
     down: 2
+    downs:
+    - 16.7 km
+    - 16.76 km
     downward: 2
     rel: 2.91545e-3
     frac: 0.10641399
@@ -161,6 +202,8 @@ difficulty:
     endChunk: 18.6 km
     endAhead: 22.7 km
     down: 1
+    downs:
+    - 18.58 km
     downward: 2
     rel: 2.91545e-3
     frac: 0.10932945
@@ -169,6 +212,8 @@ difficulty:
     endChunk: 21.1 km
     endAhead: 25.2 km
     down: 1
+    downs:
+    - 21.05 km
     downward: 3
     rel: 4.37318e-3
     frac: 0.11370262
@@ -177,6 +222,8 @@ difficulty:
     endChunk: 24.5 km
     endAhead: 28.6 km
     down: 1
+    downs:
+    - 24.43 km
     downward: 8
     rel: 1.166181e-2
     frac: 0.12536443
@@ -185,6 +232,8 @@ difficulty:
     endChunk: 24.8 km
     endAhead: 28.9 km
     down: 1
+    downs:
+    - 24.76 km
     downward: 7
     rel: 1.020408e-2
     frac: 0.13556851
@@ -193,6 +242,8 @@ difficulty:
     endChunk: 26.4 km
     endAhead: 30.5 km
     down: 1
+    downs:
+    - 26.4 km
     downward: 8
     rel: 1.166181e-2
     frac: 0.14723032
@@ -201,6 +252,8 @@ difficulty:
     endChunk: 26.8 km
     endAhead: 30.9 km
     down: 1
+    downs:
+    - 26.74 km
     downward: 8
     rel: 1.166181e-2
     frac: 0.15889213
@@ -209,6 +262,8 @@ difficulty:
     endChunk: 26.9 km
     endAhead: 31.0 km
     down: 1
+    downs:
+    - 26.89 km
     downward: 7
     rel: 1.020408e-2
     frac: 0.16909621
@@ -217,6 +272,8 @@ difficulty:
     endChunk: 27.0 km
     endAhead: 31.1 km
     down: 1
+    downs:
+    - 26.97 km
     downward: 6
     rel: 8.74636e-3
     frac: 0.17784257
@@ -225,6 +282,8 @@ difficulty:
     endChunk: 27.7 km
     endAhead: 31.8 km
     down: 1
+    downs:
+    - 27.69 km
     downward: 5
     rel: 7.28863e-3
     frac: 0.1851312
@@ -233,6 +292,8 @@ difficulty:
     endChunk: 28.3 km
     endAhead: 32.4 km
     down: 1
+    downs:
+    - 28.25 km
     downward: 6
     rel: 8.74636e-3
     frac: 0.19387755
@@ -241,6 +302,8 @@ difficulty:
     endChunk: 29.0 km
     endAhead: 33.1 km
     down: 1
+    downs:
+    - 28.98 km
     downward: 6
     rel: 8.74636e-3
     frac: 0.20262391
@@ -249,6 +312,8 @@ difficulty:
     endChunk: 29.8 km
     endAhead: 33.9 km
     down: 1
+    downs:
+    - 29.73 km
     downward: 5
     rel: 7.28863e-3
     frac: 0.20991254
@@ -257,6 +322,8 @@ difficulty:
     endChunk: 30.6 km
     endAhead: 34.7 km
     down: 1
+    downs:
+    - 30.51 km
     downward: 5
     rel: 7.28863e-3
     frac: 0.21720117
@@ -265,6 +332,9 @@ difficulty:
     endChunk: 32.3 km
     endAhead: 36.4 km
     down: 2
+    downs:
+    - 32.22 km
+    - 32.26 km
     downward: 6
     rel: 8.74636e-3
     frac: 0.22594752
@@ -273,6 +343,8 @@ difficulty:
     endChunk: 32.4 km
     endAhead: 36.5 km
     down: 1
+    downs:
+    - 32.34 km
     downward: 5
     rel: 7.28863e-3
     frac: 0.23323615
@@ -281,6 +353,8 @@ difficulty:
     endChunk: 32.7 km
     endAhead: 36.8 km
     down: 1
+    downs:
+    - 32.63 km
     downward: 4
     rel: 5.8309e-3
     frac: 0.23906706
@@ -289,6 +363,8 @@ difficulty:
     endChunk: 34.0 km
     endAhead: 38.1 km
     down: 1
+    downs:
+    - 33.96 km
     downward: 5
     rel: 7.28863e-3
     frac: 0.24635569
@@ -297,6 +373,8 @@ difficulty:
     endChunk: 35.3 km
     endAhead: 39.4 km
     down: 1
+    downs:
+    - 35.28 km
     downward: 11
     rel: 1.603499e-2
     frac: 0.26239067
@@ -305,6 +383,9 @@ difficulty:
     endChunk: 36.1 km
     endAhead: 40.2 km
     down: 2
+    downs:
+    - 36.01 km
+    - 36.03 km
     downward: 12
     rel: 1.749271e-2
     frac: 0.27988338
@@ -313,6 +394,8 @@ difficulty:
     endChunk: 37.0 km
     endAhead: 41.1 km
     down: 1
+    downs:
+    - 36.97 km
     downward: 13
     rel: 1.895044e-2
     frac: 0.29883382
@@ -321,6 +404,8 @@ difficulty:
     endChunk: 37.8 km
     endAhead: 41.9 km
     down: 1
+    downs:
+    - 37.77 km
     downward: 12
     rel: 1.749271e-2
     frac: 0.31632653
@@ -329,6 +414,9 @@ difficulty:
     endChunk: 38.4 km
     endAhead: 42.5 km
     down: 2
+    downs:
+    - 38.39 km
+    - 38.4 km
     downward: 11
     rel: 1.603499e-2
     frac: 0.33236152
@@ -337,6 +425,8 @@ difficulty:
     endChunk: 38.5 km
     endAhead: 42.6 km
     down: 1
+    downs:
+    - 38.46 km
     downward: 10
     rel: 1.457726e-2
     frac: 0.34693878
@@ -345,6 +435,8 @@ difficulty:
     endChunk: 38.7 km
     endAhead: 42.8 km
     down: 1
+    downs:
+    - 38.63 km
     downward: 9
     rel: 1.311953e-2
     frac: 0.36005831
@@ -353,6 +445,8 @@ difficulty:
     endChunk: 38.8 km
     endAhead: 42.9 km
     down: 1
+    downs:
+    - 38.73 km
     downward: 8
     rel: 1.166181e-2
     frac: 0.37172012
@@ -361,6 +455,10 @@ difficulty:
     endChunk: 38.9 km
     endAhead: 43.0 km
     down: 3
+    downs:
+    - 38.81 km
+    - 38.89 km
+    - 38.9 km
     downward: 7
     rel: 1.020408e-2
     frac: 0.3819242
@@ -369,6 +467,9 @@ difficulty:
     endChunk: 39.0 km
     endAhead: 43.1 km
     down: 2
+    downs:
+    - 38.9 km
+    - 38.92 km
     downward: 6
     rel: 8.74636e-3
     frac: 0.39067055
@@ -377,6 +478,8 @@ difficulty:
     endChunk: 39.4 km
     endAhead: 43.5 km
     down: 1
+    downs:
+    - 39.39 km
     downward: 6
     rel: 8.74636e-3
     frac: 0.39941691
@@ -385,6 +488,8 @@ difficulty:
     endChunk: 39.6 km
     endAhead: 43.7 km
     down: 1
+    downs:
+    - 39.57 km
     downward: 5
     rel: 7.28863e-3
     frac: 0.40670554
@@ -393,6 +498,9 @@ difficulty:
     endChunk: 40.2 km
     endAhead: 44.3 km
     down: 2
+    downs:
+    - 40.15 km
+    - 40.18 km
     downward: 5
     rel: 7.28863e-3
     frac: 0.41399417
@@ -401,6 +509,9 @@ difficulty:
     endChunk: 40.8 km
     endAhead: 44.9 km
     down: 2
+    downs:
+    - 40.7 km
+    - 40.71 km
     downward: 4
     rel: 5.8309e-3
     frac: 0.41982507
@@ -409,6 +520,8 @@ difficulty:
     endChunk: 41.0 km
     endAhead: 45.1 km
     down: 1
+    downs:
+    - 40.97 km
     downward: 3
     rel: 4.37318e-3
     frac: 0.42419825
@@ -417,6 +530,8 @@ difficulty:
     endChunk: 43.3 km
     endAhead: 47.4 km
     down: 1
+    downs:
+    - 43.29 km
     downward: 4
     rel: 5.8309e-3
     frac: 0.43002915
@@ -425,6 +540,8 @@ difficulty:
     endChunk: 44.1 km
     endAhead: 48.2 km
     down: 1
+    downs:
+    - 44.09 km
     downward: 3
     rel: 4.37318e-3
     frac: 0.43440233
@@ -433,6 +550,8 @@ difficulty:
     endChunk: 46.2 km
     endAhead: 50.3 km
     down: 1
+    downs:
+    - 46.18 km
     downward: 3
     rel: 4.37318e-3
     frac: 0.43877551
@@ -441,6 +560,8 @@ difficulty:
     endChunk: 46.8 km
     endAhead: 50.9 km
     down: 1
+    downs:
+    - 46.77 km
     downward: 3
     rel: 4.37318e-3
     frac: 0.44314869
@@ -449,6 +570,8 @@ difficulty:
     endChunk: 48.6 km
     endAhead: 52.7 km
     down: 1
+    downs:
+    - 48.53 km
     downward: 2
     rel: 2.91545e-3
     frac: 0.44606414
@@ -457,6 +580,8 @@ difficulty:
     endChunk: 50.4 km
     endAhead: 54.5 km
     down: 1
+    downs:
+    - 50.31 km
     downward: 3
     rel: 4.37318e-3
     frac: 0.45043732
@@ -465,6 +590,8 @@ difficulty:
     endChunk: 53.6 km
     endAhead: 57.7 km
     down: 1
+    downs:
+    - 53.53 km
     downward: 3
     rel: 4.37318e-3
     frac: 0.4548105
@@ -473,6 +600,8 @@ difficulty:
     endChunk: 54.5 km
     endAhead: 58.6 km
     down: 1
+    downs:
+    - 54.45 km
     downward: 2
     rel: 2.91545e-3
     frac: 0.45772595
@@ -481,6 +610,8 @@ difficulty:
     endChunk: 55.0 km
     endAhead: 59.1 km
     down: 1
+    downs:
+    - 54.91 km
     downward: 1
     rel: 1.45773e-3
     frac: 0.45918367
@@ -489,6 +620,8 @@ difficulty:
     endChunk: 61.3 km
     endAhead: 65.4 km
     down: 1
+    downs:
+    - 61.23 km
     downward: 1
     rel: 1.45773e-3
     frac: 0.4606414
@@ -497,6 +630,8 @@ difficulty:
     endChunk: 72.6 km
     endAhead: 76.7 km
     down: 1
+    downs:
+    - 72.57 km
     downward: 2
     rel: 2.91545e-3
     frac: 0.46355685
@@ -505,6 +640,8 @@ difficulty:
     endChunk: 73.0 km
     endAhead: 77.1 km
     down: 1
+    downs:
+    - 72.91 km
     downward: 1
     rel: 1.45773e-3
     frac: 0.46501458
@@ -513,6 +650,8 @@ difficulty:
     endChunk: 80.7 km
     endAhead: 84.8 km
     down: 1
+    downs:
+    - 80.62 km
     downward: 4
     rel: 5.8309e-3
     frac: 0.47084548
@@ -521,6 +660,8 @@ difficulty:
     endChunk: 80.8 km
     endAhead: 84.9 km
     down: 1
+    downs:
+    - 80.71 km
     downward: 3
     rel: 4.37318e-3
     frac: 0.47521866
@@ -529,6 +670,8 @@ difficulty:
     endChunk: 81.5 km
     endAhead: 85.6 km
     down: 1
+    downs:
+    - 81.43 km
     downward: 2
     rel: 2.91545e-3
     frac: 0.47813411
@@ -537,6 +680,8 @@ difficulty:
     endChunk: 82.6 km
     endAhead: 86.7 km
     down: 1
+    downs:
+    - 82.55 km
     downward: 1
     rel: 1.45773e-3
     frac: 0.47959184
@@ -545,6 +690,8 @@ difficulty:
     endChunk: 87.3 km
     endAhead: 91.4 km
     down: 1
+    downs:
+    - 87.3 km
     downward: 3
     rel: 4.37318e-3
     frac: 0.48396501
@@ -553,6 +700,8 @@ difficulty:
     endChunk: 88.1 km
     endAhead: 92.2 km
     down: 1
+    downs:
+    - 88.03 km
     downward: 2
     rel: 2.91545e-3
     frac: 0.48688047
@@ -561,6 +710,8 @@ difficulty:
     endChunk: 88.5 km
     endAhead: 92.6 km
     down: 1
+    downs:
+    - 88.5 km
     downward: 1
     rel: 1.45773e-3
     frac: 0.48833819
@@ -569,6 +720,8 @@ difficulty:
     endChunk: 103.3 km
     endAhead: 107.4 km
     down: 1
+    downs:
+    - 103.21 km
     downward: 1
     rel: 1.45773e-3
     frac: 0.48979592
@@ -577,6 +730,8 @@ difficulty:
     endChunk: 108.9 km
     endAhead: 113.0 km
     down: 1
+    downs:
+    - 108.89 km
     downward: 2
     rel: 2.91545e-3
     frac: 0.49271137
@@ -585,6 +740,8 @@ difficulty:
     endChunk: 112.8 km
     endAhead: 116.9 km
     down: 1
+    downs:
+    - 112.78 km
     downward: 1
     rel: 1.45773e-3
     frac: 0.4941691
@@ -593,6 +750,8 @@ difficulty:
     endChunk: 118.0 km
     endAhead: 122.1 km
     down: 1
+    downs:
+    - 117.92 km
     downward: 1
     rel: 1.45773e-3
     frac: 0.49562682
@@ -601,6 +760,8 @@ difficulty:
     endChunk: 124.3 km
     endAhead: 128.4 km
     down: 1
+    downs:
+    - 124.26 km
     downward: 2
     rel: 2.91545e-3
     frac: 0.49854227
@@ -609,6 +770,8 @@ difficulty:
     endChunk: 124.4 km
     endAhead: 128.5 km
     down: 1
+    downs:
+    - 124.36 km
     downward: 1
     rel: 1.45773e-3
     frac: 0.5
@@ -617,6 +780,8 @@ difficulty:
     endChunk: 5.0 km
     endAhead: 11.2 km
     down: 1
+    downs:
+    - -4.0e-2 km
     downward: 2
     rel: 3.58423e-3
     frac: 3.58423e-3
@@ -625,6 +790,8 @@ difficulty:
     endChunk: 8.8 km
     endAhead: 15.0 km
     down: 1
+    downs:
+    - 8.75 km
     downward: 2
     rel: 3.58423e-3
     frac: 7.16846e-3
@@ -633,6 +800,8 @@ difficulty:
     endChunk: 11.4 km
     endAhead: 17.6 km
     down: 1
+    downs:
+    - 11.3 km
     downward: 3
     rel: 5.37634e-3
     frac: 1.25448e-2
@@ -641,6 +810,8 @@ difficulty:
     endChunk: 15.7 km
     endAhead: 21.9 km
     down: 1
+    downs:
+    - 15.64 km
     downward: 4
     rel: 7.16846e-3
     frac: 1.971326e-2
@@ -649,6 +820,8 @@ difficulty:
     endChunk: 16.8 km
     endAhead: 23.0 km
     down: 1
+    downs:
+    - 16.79 km
     downward: 3
     rel: 5.37634e-3
     frac: 2.508961e-2
@@ -657,6 +830,8 @@ difficulty:
     endChunk: 20.1 km
     endAhead: 26.3 km
     down: 1
+    downs:
+    - 20.08 km
     downward: 3
     rel: 5.37634e-3
     frac: 3.046595e-2
@@ -665,6 +840,8 @@ difficulty:
     endChunk: 20.7 km
     endAhead: 26.9 km
     down: 1
+    downs:
+    - 20.61 km
     downward: 2
     rel: 3.58423e-3
     frac: 3.405018e-2
@@ -673,6 +850,8 @@ difficulty:
     endChunk: 24.0 km
     endAhead: 30.2 km
     down: 1
+    downs:
+    - 23.94 km
     downward: 1
     rel: 1.79211e-3
     frac: 3.584229e-2
@@ -681,6 +860,8 @@ difficulty:
     endChunk: 31.0 km
     endAhead: 37.2 km
     down: 1
+    downs:
+    - 30.9 km
     downward: 1
     rel: 1.79211e-3
     frac: 3.763441e-2
@@ -689,6 +870,8 @@ difficulty:
     endChunk: 38.0 km
     endAhead: 44.2 km
     down: 1
+    downs:
+    - 37.95 km
     downward: 1
     rel: 1.79211e-3
     frac: 3.942652e-2
@@ -697,6 +880,8 @@ difficulty:
     endChunk: 44.7 km
     endAhead: 50.9 km
     down: 1
+    downs:
+    - 44.61 km
     downward: 1
     rel: 1.79211e-3
     frac: 4.121864e-2
@@ -705,6 +890,8 @@ difficulty:
     endChunk: 53.0 km
     endAhead: 59.2 km
     down: 1
+    downs:
+    - 52.99 km
     downward: 1
     rel: 1.79211e-3
     frac: 4.301075e-2
@@ -713,6 +900,8 @@ difficulty:
     endChunk: 61.3 km
     endAhead: 67.5 km
     down: 1
+    downs:
+    - 61.22 km
     downward: 3
     rel: 5.37634e-3
     frac: 4.83871e-2
@@ -721,6 +910,8 @@ difficulty:
     endChunk: 61.9 km
     endAhead: 68.1 km
     down: 1
+    downs:
+    - 61.88 km
     downward: 2
     rel: 3.58423e-3
     frac: 5.197133e-2
@@ -729,6 +920,8 @@ difficulty:
     endChunk: 62.0 km
     endAhead: 68.2 km
     down: 1
+    downs:
+    - 61.99 km
     downward: 1
     rel: 1.79211e-3
     frac: 5.376344e-2
@@ -737,6 +930,8 @@ difficulty:
     endChunk: 73.6 km
     endAhead: 79.8 km
     down: 1
+    downs:
+    - 73.58 km
     downward: 5
     rel: 8.96057e-3
     frac: 6.272401e-2
@@ -745,6 +940,8 @@ difficulty:
     endChunk: 75.5 km
     endAhead: 81.7 km
     down: 1
+    downs:
+    - 75.41 km
     downward: 4
     rel: 7.16846e-3
     frac: 6.989247e-2
@@ -753,6 +950,8 @@ difficulty:
     endChunk: 77.4 km
     endAhead: 83.6 km
     down: 1
+    downs:
+    - 77.36 km
     downward: 3
     rel: 5.37634e-3
     frac: 7.526882e-2
@@ -761,6 +960,8 @@ difficulty:
     endChunk: 79.0 km
     endAhead: 85.2 km
     down: 1
+    downs:
+    - 78.96 km
     downward: 2
     rel: 3.58423e-3
     frac: 7.885305e-2
@@ -769,6 +970,8 @@ difficulty:
     endChunk: 79.8 km
     endAhead: 86.0 km
     down: 1
+    downs:
+    - 79.75 km
     downward: 1
     rel: 1.79211e-3
     frac: 8.064516e-2
@@ -777,6 +980,8 @@ difficulty:
     endChunk: 89.0 km
     endAhead: 95.2 km
     down: 1
+    downs:
+    - 88.94 km
     downward: 6
     rel: 1.075269e-2
     frac: 9.139785e-2
@@ -785,6 +990,8 @@ difficulty:
     endChunk: 91.1 km
     endAhead: 97.3 km
     down: 1
+    downs:
+    - 91.09 km
     downward: 6
     rel: 1.075269e-2
     frac: 0.10215054
@@ -793,6 +1000,8 @@ difficulty:
     endChunk: 92.0 km
     endAhead: 98.2 km
     down: 1
+    downs:
+    - 91.93 km
     downward: 6
     rel: 1.075269e-2
     frac: 0.11290323
@@ -801,6 +1010,9 @@ difficulty:
     endChunk: 92.6 km
     endAhead: 98.8 km
     down: 2
+    downs:
+    - 92.52 km
+    - 92.53 km
     downward: 5
     rel: 8.96057e-3
     frac: 0.1218638
@@ -809,6 +1021,8 @@ difficulty:
     endChunk: 93.8 km
     endAhead: 100.0 km
     down: 1
+    downs:
+    - 93.72 km
     downward: 5
     rel: 8.96057e-3
     frac: 0.13082437
@@ -817,6 +1031,8 @@ difficulty:
     endChunk: 94.1 km
     endAhead: 100.3 km
     down: 1
+    downs:
+    - 94.1 km
     downward: 4
     rel: 7.16846e-3
     frac: 0.13799283
@@ -825,6 +1041,8 @@ difficulty:
     endChunk: 95.5 km
     endAhead: 101.7 km
     down: 1
+    downs:
+    - 95.47 km
     downward: 4
     rel: 7.16846e-3
     frac: 0.14516129
@@ -833,6 +1051,8 @@ difficulty:
     endChunk: 98.2 km
     endAhead: 104.4 km
     down: 1
+    downs:
+    - 98.19 km
     downward: 3
     rel: 5.37634e-3
     frac: 0.15053763
@@ -841,6 +1061,8 @@ difficulty:
     endChunk: 99.7 km
     endAhead: 105.9 km
     down: 1
+    downs:
+    - 99.7 km
     downward: 2
     rel: 3.58423e-3
     frac: 0.15412186
@@ -849,6 +1071,8 @@ difficulty:
     endChunk: 100.9 km
     endAhead: 107.1 km
     down: 1
+    downs:
+    - 100.82 km
     downward: 5
     rel: 8.96057e-3
     frac: 0.16308244
@@ -857,6 +1081,8 @@ difficulty:
     endChunk: 106.2 km
     endAhead: 112.4 km
     down: 1
+    downs:
+    - 106.14 km
     downward: 7
     rel: 1.25448e-2
     frac: 0.17562724
@@ -865,6 +1091,8 @@ difficulty:
     endChunk: 106.3 km
     endAhead: 112.5 km
     down: 1
+    downs:
+    - 106.3 km
     downward: 6
     rel: 1.075269e-2
     frac: 0.18637993
@@ -873,6 +1101,8 @@ difficulty:
     endChunk: 106.7 km
     endAhead: 112.9 km
     down: 1
+    downs:
+    - 106.63 km
     downward: 5
     rel: 8.96057e-3
     frac: 0.1953405
@@ -881,6 +1111,8 @@ difficulty:
     endChunk: 107.0 km
     endAhead: 113.2 km
     down: 1
+    downs:
+    - 106.98 km
     downward: 4
     rel: 7.16846e-3
     frac: 0.20250896
@@ -889,6 +1121,8 @@ difficulty:
     endChunk: 107.4 km
     endAhead: 113.6 km
     down: 1
+    downs:
+    - 107.35 km
     downward: 5
     rel: 8.96057e-3
     frac: 0.21146953
@@ -897,6 +1131,8 @@ difficulty:
     endChunk: 107.7 km
     endAhead: 113.9 km
     down: 1
+    downs:
+    - 107.65 km
     downward: 5
     rel: 8.96057e-3
     frac: 0.22043011
@@ -905,6 +1141,8 @@ difficulty:
     endChunk: 110.2 km
     endAhead: 116.4 km
     down: 1
+    downs:
+    - 110.14 km
     downward: 8
     rel: 1.433692e-2
     frac: 0.23476703
@@ -913,6 +1151,8 @@ difficulty:
     endChunk: 113.3 km
     endAhead: 119.5 km
     down: 1
+    downs:
+    - 113.26 km
     downward: 13
     rel: 2.329749e-2
     frac: 0.25806452
@@ -921,6 +1161,8 @@ difficulty:
     endChunk: 113.4 km
     endAhead: 119.6 km
     down: 1
+    downs:
+    - 113.32 km
     downward: 12
     rel: 2.150538e-2
     frac: 0.27956989
@@ -929,6 +1171,8 @@ difficulty:
     endChunk: 113.7 km
     endAhead: 119.9 km
     down: 1
+    downs:
+    - 113.62 km
     downward: 12
     rel: 2.150538e-2
     frac: 0.30107527
@@ -937,6 +1181,8 @@ difficulty:
     endChunk: 114.3 km
     endAhead: 120.5 km
     down: 1
+    downs:
+    - 114.23 km
     downward: 11
     rel: 1.971326e-2
     frac: 0.32078853
@@ -945,6 +1191,8 @@ difficulty:
     endChunk: 114.5 km
     endAhead: 120.7 km
     down: 1
+    downs:
+    - 114.45 km
     downward: 11
     rel: 1.971326e-2
     frac: 0.34050179
@@ -953,6 +1201,9 @@ difficulty:
     endChunk: 114.6 km
     endAhead: 120.8 km
     down: 2
+    downs:
+    - 114.55 km
+    - 114.56 km
     downward: 11
     rel: 1.971326e-2
     frac: 0.36021505
@@ -961,6 +1212,8 @@ difficulty:
     endChunk: 115.3 km
     endAhead: 121.5 km
     down: 1
+    downs:
+    - 115.23 km
     downward: 10
     rel: 1.792115e-2
     frac: 0.3781362
@@ -969,6 +1222,9 @@ difficulty:
     endChunk: 116.7 km
     endAhead: 122.9 km
     down: 2
+    downs:
+    - 116.61 km
+    - 116.64 km
     downward: 9
     rel: 1.612903e-2
     frac: 0.39426523
@@ -977,6 +1233,8 @@ difficulty:
     endChunk: 116.8 km
     endAhead: 123.0 km
     down: 1
+    downs:
+    - 116.7 km
     downward: 8
     rel: 1.433692e-2
     frac: 0.40860215
@@ -985,6 +1243,8 @@ difficulty:
     endChunk: 116.9 km
     endAhead: 123.1 km
     down: 1
+    downs:
+    - 116.83 km
     downward: 7
     rel: 1.25448e-2
     frac: 0.42114695
@@ -993,6 +1253,8 @@ difficulty:
     endChunk: 117.0 km
     endAhead: 123.2 km
     down: 1
+    downs:
+    - 116.91 km
     downward: 6
     rel: 1.075269e-2
     frac: 0.43189964
@@ -1001,6 +1263,8 @@ difficulty:
     endChunk: 117.1 km
     endAhead: 123.3 km
     down: 1
+    downs:
+    - 117.01 km
     downward: 5
     rel: 8.96057e-3
     frac: 0.44086022
@@ -1009,6 +1273,8 @@ difficulty:
     endChunk: 117.4 km
     endAhead: 123.6 km
     down: 1
+    downs:
+    - 117.38 km
     downward: 4
     rel: 7.16846e-3
     frac: 0.44802867
@@ -1017,6 +1283,8 @@ difficulty:
     endChunk: 119.8 km
     endAhead: 126.0 km
     down: 1
+    downs:
+    - 119.79 km
     downward: 5
     rel: 8.96057e-3
     frac: 0.45698925
@@ -1025,6 +1293,8 @@ difficulty:
     endChunk: 120.7 km
     endAhead: 126.9 km
     down: 1
+    downs:
+    - 120.63 km
     downward: 5
     rel: 8.96057e-3
     frac: 0.46594982
@@ -1033,6 +1303,8 @@ difficulty:
     endChunk: 120.8 km
     endAhead: 127.0 km
     down: 1
+    downs:
+    - 120.78 km
     downward: 4
     rel: 7.16846e-3
     frac: 0.47311828
@@ -1041,6 +1313,8 @@ difficulty:
     endChunk: 125.8 km
     endAhead: 132.0 km
     down: 1
+    downs:
+    - 125.75 km
     downward: 5
     rel: 8.96057e-3
     frac: 0.48207885
@@ -1049,6 +1323,8 @@ difficulty:
     endChunk: 125.9 km
     endAhead: 132.1 km
     down: 1
+    downs:
+    - 125.85 km
     downward: 4
     rel: 7.16846e-3
     frac: 0.48924731
@@ -1057,6 +1333,8 @@ difficulty:
     endChunk: 126.8 km
     endAhead: 133.0 km
     down: 1
+    downs:
+    - 126.77 km
     downward: 3
     rel: 5.37634e-3
     frac: 0.49462366
@@ -1065,6 +1343,8 @@ difficulty:
     endChunk: 127.5 km
     endAhead: 133.7 km
     down: 1
+    downs:
+    - 127.48 km
     downward: 2
     rel: 3.58423e-3
     frac: 0.49820789
@@ -1073,6 +1353,9 @@ difficulty:
     endChunk: 128.1 km
     endAhead: 134.3 km
     down: 2
+    downs:
+    - 128.03 km
+    - 128.05 km
     downward: 1
     rel: 1.79211e-3
     frac: 0.5
@@ -1081,6 +1364,8 @@ difficulty:
     endChunk: 5.0 km
     endAhead: 17.1 km
     down: 1
+    downs:
+    - -18.06 km
     downward: 5
     rel: 1.552795e-2
     frac: 1.552795e-2
@@ -1089,6 +1374,8 @@ difficulty:
     endChunk: 9.3 km
     endAhead: 21.4 km
     down: 1
+    downs:
+    - 9.24 km
     downward: 5
     rel: 1.552795e-2
     frac: 3.10559e-2
@@ -1097,6 +1384,8 @@ difficulty:
     endChunk: 13.6 km
     endAhead: 25.7 km
     down: 1
+    downs:
+    - 13.55 km
     downward: 6
     rel: 1.863354e-2
     frac: 4.968944e-2
@@ -1105,6 +1394,8 @@ difficulty:
     endChunk: 13.7 km
     endAhead: 25.8 km
     down: 1
+    downs:
+    - 13.61 km
     downward: 5
     rel: 1.552795e-2
     frac: 6.521739e-2
@@ -1113,6 +1404,8 @@ difficulty:
     endChunk: 15.8 km
     endAhead: 27.9 km
     down: 1
+    downs:
+    - 15.73 km
     downward: 6
     rel: 1.863354e-2
     frac: 8.385093e-2
@@ -1121,6 +1414,9 @@ difficulty:
     endChunk: 18.6 km
     endAhead: 30.7 km
     down: 2
+    downs:
+    - 18.58 km
+    - 18.58 km
     downward: 6
     rel: 1.863354e-2
     frac: 0.10248447
@@ -1129,6 +1425,8 @@ difficulty:
     endChunk: 23.1 km
     endAhead: 35.2 km
     down: 1
+    downs:
+    - 23.09 km
     downward: 5
     rel: 1.552795e-2
     frac: 0.11801242
@@ -1137,6 +1435,8 @@ difficulty:
     endChunk: 24.3 km
     endAhead: 36.4 km
     down: 1
+    downs:
+    - 24.23 km
     downward: 4
     rel: 1.242236e-2
     frac: 0.13043478
@@ -1145,6 +1445,8 @@ difficulty:
     endChunk: 26.3 km
     endAhead: 38.4 km
     down: 1
+    downs:
+    - 26.29 km
     downward: 4
     rel: 1.242236e-2
     frac: 0.14285714
@@ -1153,6 +1455,8 @@ difficulty:
     endChunk: 26.7 km
     endAhead: 38.8 km
     down: 1
+    downs:
+    - 26.61 km
     downward: 3
     rel: 9.31677e-3
     frac: 0.15217391
@@ -1161,6 +1465,8 @@ difficulty:
     endChunk: 29.2 km
     endAhead: 41.3 km
     down: 1
+    downs:
+    - 29.19 km
     downward: 2
     rel: 6.21118e-3
     frac: 0.15838509
@@ -1169,6 +1475,8 @@ difficulty:
     endChunk: 38.1 km
     endAhead: 50.2 km
     down: 1
+    downs:
+    - 38.05 km
     downward: 2
     rel: 6.21118e-3
     frac: 0.16459627
@@ -1177,6 +1485,8 @@ difficulty:
     endChunk: 43.7 km
     endAhead: 55.8 km
     down: 1
+    downs:
+    - 43.6 km
     downward: 3
     rel: 9.31677e-3
     frac: 0.17391304
@@ -1185,6 +1495,8 @@ difficulty:
     endChunk: 50.3 km
     endAhead: 62.4 km
     down: 1
+    downs:
+    - 50.29 km
     downward: 3
     rel: 9.31677e-3
     frac: 0.18322981
@@ -1193,6 +1505,8 @@ difficulty:
     endChunk: 51.0 km
     endAhead: 63.1 km
     down: 1
+    downs:
+    - 50.98 km
     downward: 2
     rel: 6.21118e-3
     frac: 0.18944099
@@ -1201,6 +1515,8 @@ difficulty:
     endChunk: 56.2 km
     endAhead: 68.3 km
     down: 1
+    downs:
+    - 56.18 km
     downward: 1
     rel: 3.10559e-3
     frac: 0.19254658
@@ -1209,6 +1525,8 @@ difficulty:
     endChunk: 70.2 km
     endAhead: 82.3 km
     down: 1
+    downs:
+    - 70.2 km
     downward: 6
     rel: 1.863354e-2
     frac: 0.21118012
@@ -1217,6 +1535,8 @@ difficulty:
     endChunk: 73.4 km
     endAhead: 85.5 km
     down: 1
+    downs:
+    - 73.39 km
     downward: 5
     rel: 1.552795e-2
     frac: 0.22670807
@@ -1225,6 +1545,8 @@ difficulty:
     endChunk: 75.7 km
     endAhead: 87.8 km
     down: 1
+    downs:
+    - 75.62 km
     downward: 4
     rel: 1.242236e-2
     frac: 0.23913043
@@ -1233,6 +1555,8 @@ difficulty:
     endChunk: 79.7 km
     endAhead: 91.8 km
     down: 1
+    downs:
+    - 79.64 km
     downward: 3
     rel: 9.31677e-3
     frac: 0.2484472
@@ -1241,6 +1565,8 @@ difficulty:
     endChunk: 79.8 km
     endAhead: 91.9 km
     down: 1
+    downs:
+    - 79.79 km
     downward: 2
     rel: 6.21118e-3
     frac: 0.25465839
@@ -1249,6 +1575,8 @@ difficulty:
     endChunk: 81.7 km
     endAhead: 93.8 km
     down: 1
+    downs:
+    - 81.67 km
     downward: 2
     rel: 6.21118e-3
     frac: 0.26086957
@@ -1257,6 +1585,8 @@ difficulty:
     endChunk: 93.5 km
     endAhead: 105.6 km
     down: 1
+    downs:
+    - 93.47 km
     downward: 4
     rel: 1.242236e-2
     frac: 0.27329193
@@ -1265,6 +1595,9 @@ difficulty:
     endChunk: 97.1 km
     endAhead: 109.2 km
     down: 2
+    downs:
+    - 97.01 km
+    - 97.07 km
     downward: 5
     rel: 1.552795e-2
     frac: 0.28881988
@@ -1273,6 +1606,8 @@ difficulty:
     endChunk: 97.4 km
     endAhead: 109.5 km
     down: 1
+    downs:
+    - 97.32 km
     downward: 4
     rel: 1.242236e-2
     frac: 0.30124224
@@ -1281,6 +1616,8 @@ difficulty:
     endChunk: 97.5 km
     endAhead: 109.6 km
     down: 1
+    downs:
+    - 97.47 km
     downward: 3
     rel: 9.31677e-3
     frac: 0.31055901
@@ -1289,6 +1626,8 @@ difficulty:
     endChunk: 108.5 km
     endAhead: 120.6 km
     down: 1
+    downs:
+    - 108.41 km
     downward: 4
     rel: 1.242236e-2
     frac: 0.32298137
@@ -1297,6 +1636,8 @@ difficulty:
     endChunk: 109.1 km
     endAhead: 121.2 km
     down: 1
+    downs:
+    - 109.07 km
     downward: 4
     rel: 1.242236e-2
     frac: 0.33540373
@@ -1305,6 +1646,8 @@ difficulty:
     endChunk: 109.8 km
     endAhead: 121.9 km
     down: 1
+    downs:
+    - 109.74 km
     downward: 4
     rel: 1.242236e-2
     frac: 0.34782609
@@ -1313,6 +1656,8 @@ difficulty:
     endChunk: 119.5 km
     endAhead: 131.6 km
     down: 1
+    downs:
+    - 119.42 km
     downward: 6
     rel: 1.863354e-2
     frac: 0.36645963
@@ -1321,6 +1666,8 @@ difficulty:
     endChunk: 121.2 km
     endAhead: 133.3 km
     down: 1
+    downs:
+    - 121.19 km
     downward: 6
     rel: 1.863354e-2
     frac: 0.38509317
@@ -1329,6 +1676,8 @@ difficulty:
     endChunk: 121.7 km
     endAhead: 133.8 km
     down: 1
+    downs:
+    - 121.63 km
     downward: 5
     rel: 1.552795e-2
     frac: 0.40062112
@@ -1337,6 +1686,8 @@ difficulty:
     endChunk: 127.7 km
     endAhead: 139.8 km
     down: 1
+    downs:
+    - 127.66 km
     downward: 5
     rel: 1.552795e-2
     frac: 0.41614907
@@ -1345,6 +1696,8 @@ difficulty:
     endChunk: 130.2 km
     endAhead: 142.3 km
     down: 1
+    downs:
+    - 130.2 km
     downward: 4
     rel: 1.242236e-2
     frac: 0.42857143
@@ -1353,6 +1706,8 @@ difficulty:
     endChunk: 131.0 km
     endAhead: 143.1 km
     down: 1
+    downs:
+    - 130.95 km
     downward: 3
     rel: 9.31677e-3
     frac: 0.4378882
@@ -1361,6 +1716,8 @@ difficulty:
     endChunk: 133.3 km
     endAhead: 145.4 km
     down: 1
+    downs:
+    - 133.22 km
     downward: 2
     rel: 6.21118e-3
     frac: 0.44409938
@@ -1369,6 +1726,8 @@ difficulty:
     endChunk: 134.7 km
     endAhead: 146.8 km
     down: 1
+    downs:
+    - 134.67 km
     downward: 1
     rel: 3.10559e-3
     frac: 0.44720497
@@ -1377,6 +1736,8 @@ difficulty:
     endChunk: 147.3 km
     endAhead: 159.4 km
     down: 1
+    downs:
+    - 147.24 km
     downward: 1
     rel: 3.10559e-3
     frac: 0.45031056
@@ -1385,6 +1746,8 @@ difficulty:
     endChunk: 168.1 km
     endAhead: 180.2 km
     down: 1
+    downs:
+    - 168.03 km
     downward: 4
     rel: 1.242236e-2
     frac: 0.46273292
@@ -1393,6 +1756,8 @@ difficulty:
     endChunk: 168.2 km
     endAhead: 180.3 km
     down: 1
+    downs:
+    - 168.13 km
     downward: 3
     rel: 9.31677e-3
     frac: 0.47204969
@@ -1401,6 +1766,8 @@ difficulty:
     endChunk: 168.3 km
     endAhead: 180.4 km
     down: 1
+    downs:
+    - 168.21 km
     downward: 3
     rel: 9.31677e-3
     frac: 0.48136646
@@ -1409,6 +1776,8 @@ difficulty:
     endChunk: 170.4 km
     endAhead: 182.5 km
     down: 1
+    downs:
+    - 170.39 km
     downward: 3
     rel: 9.31677e-3
     frac: 0.49068323
@@ -1417,6 +1786,8 @@ difficulty:
     endChunk: 180.4 km
     endAhead: 192.5 km
     down: 1
+    downs:
+    - 180.33 km
     downward: 2
     rel: 6.21118e-3
     frac: 0.49689441
@@ -1425,6 +1796,8 @@ difficulty:
     endChunk: 180.8 km
     endAhead: 192.9 km
     down: 1
+    downs:
+    - 180.77 km
     downward: 1
     rel: 3.10559e-3
     frac: 0.5
@@ -1433,6 +1806,8 @@ difficulty:
     endChunk: 5.0 km
     endAhead: 13.4 km
     down: 1
+    downs:
+    - 3.61 km
     downward: 4
     rel: 1.129944e-2
     frac: 1.129944e-2
@@ -1441,6 +1816,8 @@ difficulty:
     endChunk: 5.7 km
     endAhead: 14.1 km
     down: 1
+    downs:
+    - 5.62 km
     downward: 4
     rel: 1.129944e-2
     frac: 2.259887e-2
@@ -1449,6 +1826,8 @@ difficulty:
     endChunk: 10.4 km
     endAhead: 18.8 km
     down: 1
+    downs:
+    - 10.34 km
     downward: 4
     rel: 1.129944e-2
     frac: 3.389831e-2
@@ -1457,6 +1836,8 @@ difficulty:
     endChunk: 12.6 km
     endAhead: 21.0 km
     down: 1
+    downs:
+    - 12.52 km
     downward: 3
     rel: 8.47458e-3
     frac: 4.237288e-2
@@ -1465,6 +1846,8 @@ difficulty:
     endChunk: 13.5 km
     endAhead: 21.9 km
     down: 1
+    downs:
+    - 13.42 km
     downward: 2
     rel: 5.64972e-3
     frac: 4.80226e-2
@@ -1473,6 +1856,8 @@ difficulty:
     endChunk: 15.8 km
     endAhead: 24.2 km
     down: 1
+    downs:
+    - 15.74 km
     downward: 3
     rel: 8.47458e-3
     frac: 5.649718e-2
@@ -1481,6 +1866,8 @@ difficulty:
     endChunk: 22.7 km
     endAhead: 31.1 km
     down: 1
+    downs:
+    - 22.65 km
     downward: 5
     rel: 1.412429e-2
     frac: 7.062147e-2
@@ -1489,6 +1876,8 @@ difficulty:
     endChunk: 23.4 km
     endAhead: 31.8 km
     down: 1
+    downs:
+    - 23.37 km
     downward: 4
     rel: 1.129944e-2
     frac: 8.19209e-2
@@ -1497,6 +1886,8 @@ difficulty:
     endChunk: 25.3 km
     endAhead: 33.7 km
     down: 1
+    downs:
+    - 25.27 km
     downward: 3
     rel: 8.47458e-3
     frac: 9.039548e-2
@@ -1505,6 +1896,8 @@ difficulty:
     endChunk: 26.6 km
     endAhead: 35.0 km
     down: 1
+    downs:
+    - 26.54 km
     downward: 4
     rel: 1.129944e-2
     frac: 0.10169492
@@ -1513,6 +1906,8 @@ difficulty:
     endChunk: 30.4 km
     endAhead: 38.8 km
     down: 1
+    downs:
+    - 30.35 km
     downward: 3
     rel: 8.47458e-3
     frac: 0.11016949
@@ -1521,6 +1916,8 @@ difficulty:
     endChunk: 33.8 km
     endAhead: 42.2 km
     down: 1
+    downs:
+    - 33.77 km
     downward: 3
     rel: 8.47458e-3
     frac: 0.11864407
@@ -1529,6 +1926,8 @@ difficulty:
     endChunk: 34.5 km
     endAhead: 42.9 km
     down: 1
+    downs:
+    - 34.4 km
     downward: 2
     rel: 5.64972e-3
     frac: 0.12429379
@@ -1537,6 +1936,8 @@ difficulty:
     endChunk: 41.9 km
     endAhead: 50.3 km
     down: 1
+    downs:
+    - 41.82 km
     downward: 5
     rel: 1.412429e-2
     frac: 0.13841808
@@ -1545,6 +1946,8 @@ difficulty:
     endChunk: 43.2 km
     endAhead: 51.6 km
     down: 1
+    downs:
+    - 43.11 km
     downward: 4
     rel: 1.129944e-2
     frac: 0.14971751
@@ -1553,6 +1956,8 @@ difficulty:
     endChunk: 46.3 km
     endAhead: 54.7 km
     down: 1
+    downs:
+    - 46.2 km
     downward: 4
     rel: 1.129944e-2
     frac: 0.16101695
@@ -1561,6 +1966,8 @@ difficulty:
     endChunk: 47.9 km
     endAhead: 56.3 km
     down: 1
+    downs:
+    - 47.89 km
     downward: 6
     rel: 1.694915e-2
     frac: 0.1779661
@@ -1569,6 +1976,8 @@ difficulty:
     endChunk: 48.9 km
     endAhead: 57.3 km
     down: 1
+    downs:
+    - 48.85 km
     downward: 6
     rel: 1.694915e-2
     frac: 0.19491525
@@ -1577,6 +1986,8 @@ difficulty:
     endChunk: 54.4 km
     endAhead: 62.8 km
     down: 1
+    downs:
+    - 54.37 km
     downward: 6
     rel: 1.694915e-2
     frac: 0.21186441
@@ -1585,6 +1996,8 @@ difficulty:
     endChunk: 54.8 km
     endAhead: 63.2 km
     down: 1
+    downs:
+    - 54.75 km
     downward: 5
     rel: 1.412429e-2
     frac: 0.2259887
@@ -1593,6 +2006,8 @@ difficulty:
     endChunk: 55.4 km
     endAhead: 63.8 km
     down: 1
+    downs:
+    - 55.33 km
     downward: 5
     rel: 1.412429e-2
     frac: 0.24011299
@@ -1601,6 +2016,8 @@ difficulty:
     endChunk: 56.0 km
     endAhead: 64.4 km
     down: 1
+    downs:
+    - 55.94 km
     downward: 4
     rel: 1.129944e-2
     frac: 0.25141243
@@ -1609,6 +2026,8 @@ difficulty:
     endChunk: 56.7 km
     endAhead: 65.1 km
     down: 1
+    downs:
+    - 56.7 km
     downward: 3
     rel: 8.47458e-3
     frac: 0.25988701
@@ -1617,6 +2036,8 @@ difficulty:
     endChunk: 58.3 km
     endAhead: 66.7 km
     down: 1
+    downs:
+    - 58.28 km
     downward: 3
     rel: 8.47458e-3
     frac: 0.26836158
@@ -1625,6 +2046,8 @@ difficulty:
     endChunk: 63.3 km
     endAhead: 71.7 km
     down: 1
+    downs:
+    - 63.23 km
     downward: 2
     rel: 5.64972e-3
     frac: 0.2740113
@@ -1633,6 +2056,9 @@ difficulty:
     endChunk: 66.0 km
     endAhead: 74.4 km
     down: 2
+    downs:
+    - 65.91 km
+    - 65.98 km
     downward: 1
     rel: 2.82486e-3
     frac: 0.27683616
@@ -1641,6 +2067,8 @@ difficulty:
     endChunk: 79.0 km
     endAhead: 87.4 km
     down: 1
+    downs:
+    - 78.92 km
     downward: 3
     rel: 8.47458e-3
     frac: 0.28531073
@@ -1649,6 +2077,8 @@ difficulty:
     endChunk: 83.8 km
     endAhead: 92.2 km
     down: 1
+    downs:
+    - 83.71 km
     downward: 4
     rel: 1.129944e-2
     frac: 0.29661017
@@ -1657,6 +2087,8 @@ difficulty:
     endChunk: 84.6 km
     endAhead: 93.0 km
     down: 1
+    downs:
+    - 84.5 km
     downward: 3
     rel: 8.47458e-3
     frac: 0.30508475
@@ -1665,6 +2097,8 @@ difficulty:
     endChunk: 88.1 km
     endAhead: 96.5 km
     down: 1
+    downs:
+    - 88.0 km
     downward: 3
     rel: 8.47458e-3
     frac: 0.31355932
@@ -1673,6 +2107,8 @@ difficulty:
     endChunk: 89.9 km
     endAhead: 98.3 km
     down: 1
+    downs:
+    - 89.81 km
     downward: 2
     rel: 5.64972e-3
     frac: 0.31920904
@@ -1681,6 +2117,8 @@ difficulty:
     endChunk: 96.4 km
     endAhead: 104.8 km
     down: 1
+    downs:
+    - 96.33 km
     downward: 5
     rel: 1.412429e-2
     frac: 0.33333333
@@ -1689,6 +2127,8 @@ difficulty:
     endChunk: 98.9 km
     endAhead: 107.3 km
     down: 1
+    downs:
+    - 98.9 km
     downward: 5
     rel: 1.412429e-2
     frac: 0.34745763
@@ -1697,6 +2137,8 @@ difficulty:
     endChunk: 100.4 km
     endAhead: 108.8 km
     down: 1
+    downs:
+    - 100.36 km
     downward: 4
     rel: 1.129944e-2
     frac: 0.35875706
@@ -1705,6 +2147,8 @@ difficulty:
     endChunk: 100.9 km
     endAhead: 109.3 km
     down: 1
+    downs:
+    - 100.88 km
     downward: 4
     rel: 1.129944e-2
     frac: 0.3700565
@@ -1713,6 +2157,8 @@ difficulty:
     endChunk: 101.6 km
     endAhead: 110.0 km
     down: 1
+    downs:
+    - 101.53 km
     downward: 3
     rel: 8.47458e-3
     frac: 0.37853107
@@ -1721,6 +2167,8 @@ difficulty:
     endChunk: 106.2 km
     endAhead: 114.6 km
     down: 1
+    downs:
+    - 106.17 km
     downward: 3
     rel: 8.47458e-3
     frac: 0.38700565
@@ -1729,6 +2177,8 @@ difficulty:
     endChunk: 108.9 km
     endAhead: 117.3 km
     down: 1
+    downs:
+    - 108.81 km
     downward: 3
     rel: 8.47458e-3
     frac: 0.39548023
@@ -1737,6 +2187,9 @@ difficulty:
     endChunk: 113.3 km
     endAhead: 121.7 km
     down: 2
+    downs:
+    - 113.24 km
+    - 113.24 km
     downward: 3
     rel: 8.47458e-3
     frac: 0.4039548
@@ -1745,6 +2198,8 @@ difficulty:
     endChunk: 116.9 km
     endAhead: 125.3 km
     down: 1
+    downs:
+    - 116.86 km
     downward: 2
     rel: 5.64972e-3
     frac: 0.40960452
@@ -1753,6 +2208,8 @@ difficulty:
     endChunk: 120.5 km
     endAhead: 128.9 km
     down: 1
+    downs:
+    - 120.46 km
     downward: 6
     rel: 1.694915e-2
     frac: 0.42655367
@@ -1761,6 +2218,8 @@ difficulty:
     endChunk: 126.8 km
     endAhead: 135.2 km
     down: 1
+    downs:
+    - 126.74 km
     downward: 6
     rel: 1.694915e-2
     frac: 0.44350282
@@ -1769,6 +2228,8 @@ difficulty:
     endChunk: 126.9 km
     endAhead: 135.3 km
     down: 1
+    downs:
+    - 126.81 km
     downward: 5
     rel: 1.412429e-2
     frac: 0.45762712
@@ -1777,6 +2238,8 @@ difficulty:
     endChunk: 127.3 km
     endAhead: 135.7 km
     down: 1
+    downs:
+    - 127.26 km
     downward: 4
     rel: 1.129944e-2
     frac: 0.46892655
@@ -1785,6 +2248,8 @@ difficulty:
     endChunk: 128.6 km
     endAhead: 137.0 km
     down: 1
+    downs:
+    - 128.57 km
     downward: 3
     rel: 8.47458e-3
     frac: 0.47740113
@@ -1793,6 +2258,8 @@ difficulty:
     endChunk: 128.8 km
     endAhead: 137.2 km
     down: 1
+    downs:
+    - 128.78 km
     downward: 2
     rel: 5.64972e-3
     frac: 0.48305085
@@ -1801,6 +2268,8 @@ difficulty:
     endChunk: 133.6 km
     endAhead: 142.0 km
     down: 1
+    downs:
+    - 133.53 km
     downward: 3
     rel: 8.47458e-3
     frac: 0.49152542
@@ -1809,6 +2278,8 @@ difficulty:
     endChunk: 139.5 km
     endAhead: 147.9 km
     down: 1
+    downs:
+    - 139.47 km
     downward: 2
     rel: 5.64972e-3
     frac: 0.49717514
@@ -1817,6 +2288,8 @@ difficulty:
     endChunk: 140.6 km
     endAhead: 149.0 km
     down: 1
+    downs:
+    - 140.52 km
     downward: 1
     rel: 2.82486e-3
     frac: 0.5
@@ -1825,6 +2298,9 @@ difficulty:
     endChunk: 5.0 km
     endAhead: 15.4 km
     down: 2
+    downs:
+    - 0.94 km
+    - 1.03 km
     downward: 4
     rel: 7.06714e-3
     frac: 7.06714e-3
@@ -1833,6 +2309,8 @@ difficulty:
     endChunk: 7.3 km
     endAhead: 17.7 km
     down: 1
+    downs:
+    - 7.28 km
     downward: 5
     rel: 8.83392e-3
     frac: 1.590106e-2
@@ -1841,6 +2319,8 @@ difficulty:
     endChunk: 10.8 km
     endAhead: 21.2 km
     down: 1
+    downs:
+    - 10.72 km
     downward: 5
     rel: 8.83392e-3
     frac: 2.473498e-2
@@ -1849,6 +2329,8 @@ difficulty:
     endChunk: 13.7 km
     endAhead: 24.1 km
     down: 1
+    downs:
+    - 13.68 km
     downward: 6
     rel: 1.060071e-2
     frac: 3.533569e-2
@@ -1857,6 +2339,8 @@ difficulty:
     endChunk: 16.6 km
     endAhead: 27.0 km
     down: 1
+    downs:
+    - 16.55 km
     downward: 6
     rel: 1.060071e-2
     frac: 4.59364e-2
@@ -1865,6 +2349,8 @@ difficulty:
     endChunk: 17.4 km
     endAhead: 27.8 km
     down: 1
+    downs:
+    - 17.39 km
     downward: 5
     rel: 8.83392e-3
     frac: 5.477032e-2
@@ -1873,6 +2359,8 @@ difficulty:
     endChunk: 19.9 km
     endAhead: 30.3 km
     down: 1
+    downs:
+    - 19.83 km
     downward: 5
     rel: 8.83392e-3
     frac: 6.360424e-2
@@ -1881,6 +2369,8 @@ difficulty:
     endChunk: 22.3 km
     endAhead: 32.7 km
     down: 1
+    downs:
+    - 22.27 km
     downward: 4
     rel: 7.06714e-3
     frac: 7.067138e-2
@@ -1889,6 +2379,8 @@ difficulty:
     endChunk: 23.5 km
     endAhead: 33.9 km
     down: 1
+    downs:
+    - 23.44 km
     downward: 3
     rel: 5.30035e-3
     frac: 7.597173e-2
@@ -1897,6 +2389,8 @@ difficulty:
     endChunk: 26.8 km
     endAhead: 37.2 km
     down: 1
+    downs:
+    - 26.78 km
     downward: 2
     rel: 3.53357e-3
     frac: 7.95053e-2
@@ -1905,6 +2399,8 @@ difficulty:
     endChunk: 30.3 km
     endAhead: 40.7 km
     down: 1
+    downs:
+    - 30.2 km
     downward: 2
     rel: 3.53357e-3
     frac: 8.303887e-2
@@ -1913,6 +2409,8 @@ difficulty:
     endChunk: 39.2 km
     endAhead: 49.6 km
     down: 1
+    downs:
+    - 39.15 km
     downward: 4
     rel: 7.06714e-3
     frac: 9.010601e-2
@@ -1921,6 +2419,8 @@ difficulty:
     endChunk: 44.3 km
     endAhead: 54.7 km
     down: 1
+    downs:
+    - 44.22 km
     downward: 5
     rel: 8.83392e-3
     frac: 9.893993e-2
@@ -1929,6 +2429,8 @@ difficulty:
     endChunk: 44.7 km
     endAhead: 55.1 km
     down: 1
+    downs:
+    - 44.61 km
     downward: 4
     rel: 7.06714e-3
     frac: 0.10600707
@@ -1937,6 +2439,8 @@ difficulty:
     endChunk: 49.3 km
     endAhead: 59.7 km
     down: 1
+    downs:
+    - 49.24 km
     downward: 4
     rel: 7.06714e-3
     frac: 0.1130742
@@ -1945,6 +2449,8 @@ difficulty:
     endChunk: 51.7 km
     endAhead: 62.1 km
     down: 1
+    downs:
+    - 51.63 km
     downward: 7
     rel: 1.236749e-2
     frac: 0.1254417
@@ -1953,6 +2459,8 @@ difficulty:
     endChunk: 53.7 km
     endAhead: 64.1 km
     down: 1
+    downs:
+    - 53.62 km
     downward: 7
     rel: 1.236749e-2
     frac: 0.13780919
@@ -1961,6 +2469,8 @@ difficulty:
     endChunk: 57.2 km
     endAhead: 67.6 km
     down: 1
+    downs:
+    - 57.13 km
     downward: 6
     rel: 1.060071e-2
     frac: 0.14840989
@@ -1969,6 +2479,8 @@ difficulty:
     endChunk: 60.4 km
     endAhead: 70.8 km
     down: 1
+    downs:
+    - 60.38 km
     downward: 8
     rel: 1.413428e-2
     frac: 0.16254417
@@ -1977,6 +2489,8 @@ difficulty:
     endChunk: 60.5 km
     endAhead: 70.9 km
     down: 1
+    downs:
+    - 60.48 km
     downward: 7
     rel: 1.236749e-2
     frac: 0.17491166
@@ -1985,6 +2499,8 @@ difficulty:
     endChunk: 61.3 km
     endAhead: 71.7 km
     down: 1
+    downs:
+    - 61.27 km
     downward: 6
     rel: 1.060071e-2
     frac: 0.18551237
@@ -1993,6 +2509,8 @@ difficulty:
     endChunk: 62.1 km
     endAhead: 72.5 km
     down: 1
+    downs:
+    - 62.1 km
     downward: 6
     rel: 1.060071e-2
     frac: 0.19611307
@@ -2001,6 +2519,8 @@ difficulty:
     endChunk: 62.7 km
     endAhead: 73.1 km
     down: 1
+    downs:
+    - 62.61 km
     downward: 6
     rel: 1.060071e-2
     frac: 0.20671378
@@ -2009,6 +2529,8 @@ difficulty:
     endChunk: 67.8 km
     endAhead: 78.2 km
     down: 1
+    downs:
+    - 67.73 km
     downward: 8
     rel: 1.413428e-2
     frac: 0.22084806
@@ -2017,6 +2539,8 @@ difficulty:
     endChunk: 68.1 km
     endAhead: 78.5 km
     down: 1
+    downs:
+    - 68.02 km
     downward: 7
     rel: 1.236749e-2
     frac: 0.23321555
@@ -2025,6 +2549,8 @@ difficulty:
     endChunk: 68.3 km
     endAhead: 78.7 km
     down: 1
+    downs:
+    - 68.24 km
     downward: 6
     rel: 1.060071e-2
     frac: 0.24381625
@@ -2033,6 +2559,8 @@ difficulty:
     endChunk: 72.0 km
     endAhead: 82.4 km
     down: 1
+    downs:
+    - 71.91 km
     downward: 6
     rel: 1.060071e-2
     frac: 0.25441696
@@ -2041,6 +2569,8 @@ difficulty:
     endChunk: 73.1 km
     endAhead: 83.5 km
     down: 1
+    downs:
+    - 73.07 km
     downward: 5
     rel: 8.83392e-3
     frac: 0.26325088
@@ -2049,6 +2579,8 @@ difficulty:
     endChunk: 73.9 km
     endAhead: 84.3 km
     down: 1
+    downs:
+    - 73.8 km
     downward: 4
     rel: 7.06714e-3
     frac: 0.27031802
@@ -2057,6 +2589,8 @@ difficulty:
     endChunk: 76.4 km
     endAhead: 86.8 km
     down: 1
+    downs:
+    - 76.4 km
     downward: 3
     rel: 5.30035e-3
     frac: 0.27561837
@@ -2065,6 +2599,8 @@ difficulty:
     endChunk: 77.7 km
     endAhead: 88.1 km
     down: 1
+    downs:
+    - 77.62 km
     downward: 2
     rel: 3.53357e-3
     frac: 0.27915194
@@ -2073,6 +2609,8 @@ difficulty:
     endChunk: 79.9 km
     endAhead: 90.3 km
     down: 1
+    downs:
+    - 79.86 km
     downward: 2
     rel: 3.53357e-3
     frac: 0.28268551
@@ -2081,6 +2619,8 @@ difficulty:
     endChunk: 89.8 km
     endAhead: 100.2 km
     down: 1
+    downs:
+    - 89.72 km
     downward: 2
     rel: 3.53357e-3
     frac: 0.28621908
@@ -2089,6 +2629,8 @@ difficulty:
     endChunk: 94.9 km
     endAhead: 105.3 km
     down: 1
+    downs:
+    - 94.9 km
     downward: 1
     rel: 1.76678e-3
     frac: 0.28798587
@@ -2097,6 +2639,8 @@ difficulty:
     endChunk: 107.3 km
     endAhead: 117.7 km
     down: 1
+    downs:
+    - 107.24 km
     downward: 2
     rel: 3.53357e-3
     frac: 0.29151943
@@ -2105,6 +2649,8 @@ difficulty:
     endChunk: 113.4 km
     endAhead: 123.8 km
     down: 1
+    downs:
+    - 113.32 km
     downward: 2
     rel: 3.53357e-3
     frac: 0.295053
@@ -2113,6 +2659,8 @@ difficulty:
     endChunk: 123.0 km
     endAhead: 133.4 km
     down: 1
+    downs:
+    - 122.92 km
     downward: 2
     rel: 3.53357e-3
     frac: 0.29858657
@@ -2121,6 +2669,8 @@ difficulty:
     endChunk: 131.0 km
     endAhead: 141.4 km
     down: 1
+    downs:
+    - 130.98 km
     downward: 3
     rel: 5.30035e-3
     frac: 0.30388693
@@ -2129,6 +2679,8 @@ difficulty:
     endChunk: 139.0 km
     endAhead: 149.4 km
     down: 1
+    downs:
+    - 138.92 km
     downward: 2
     rel: 3.53357e-3
     frac: 0.30742049
@@ -2137,6 +2689,8 @@ difficulty:
     endChunk: 140.4 km
     endAhead: 150.8 km
     down: 1
+    downs:
+    - 140.38 km
     downward: 1
     rel: 1.76678e-3
     frac: 0.30918728
@@ -2145,6 +2699,8 @@ difficulty:
     endChunk: 157.7 km
     endAhead: 168.1 km
     down: 1
+    downs:
+    - 157.66 km
     downward: 3
     rel: 5.30035e-3
     frac: 0.31448763
@@ -2153,6 +2709,8 @@ difficulty:
     endChunk: 159.4 km
     endAhead: 169.8 km
     down: 1
+    downs:
+    - 159.36 km
     downward: 3
     rel: 5.30035e-3
     frac: 0.31978799
@@ -2161,6 +2719,8 @@ difficulty:
     endChunk: 165.9 km
     endAhead: 176.3 km
     down: 1
+    downs:
+    - 165.84 km
     downward: 3
     rel: 5.30035e-3
     frac: 0.32508834
@@ -2169,6 +2729,8 @@ difficulty:
     endChunk: 169.6 km
     endAhead: 180.0 km
     down: 1
+    downs:
+    - 169.54 km
     downward: 10
     rel: 1.766784e-2
     frac: 0.34275618
@@ -2177,6 +2739,8 @@ difficulty:
     endChunk: 174.9 km
     endAhead: 185.3 km
     down: 1
+    downs:
+    - 174.82 km
     downward: 9
     rel: 1.590106e-2
     frac: 0.35865724
@@ -2185,6 +2749,8 @@ difficulty:
     endChunk: 176.8 km
     endAhead: 187.2 km
     down: 1
+    downs:
+    - 176.74 km
     downward: 10
     rel: 1.766784e-2
     frac: 0.37632509
@@ -2193,6 +2759,8 @@ difficulty:
     endChunk: 177.4 km
     endAhead: 187.8 km
     down: 1
+    downs:
+    - 177.4 km
     downward: 9
     rel: 1.590106e-2
     frac: 0.39222615
@@ -2201,6 +2769,8 @@ difficulty:
     endChunk: 178.3 km
     endAhead: 188.7 km
     down: 1
+    downs:
+    - 178.29 km
     downward: 8
     rel: 1.413428e-2
     frac: 0.40636042
@@ -2209,6 +2779,8 @@ difficulty:
     endChunk: 178.7 km
     endAhead: 189.1 km
     down: 1
+    downs:
+    - 178.65 km
     downward: 7
     rel: 1.236749e-2
     frac: 0.41872792
@@ -2217,6 +2789,8 @@ difficulty:
     endChunk: 178.9 km
     endAhead: 189.3 km
     down: 1
+    downs:
+    - 178.89 km
     downward: 6
     rel: 1.060071e-2
     frac: 0.42932862
@@ -2225,6 +2799,8 @@ difficulty:
     endChunk: 179.3 km
     endAhead: 189.7 km
     down: 1
+    downs:
+    - 179.29 km
     downward: 6
     rel: 1.060071e-2
     frac: 0.43992933
@@ -2233,6 +2809,8 @@ difficulty:
     endChunk: 179.5 km
     endAhead: 189.9 km
     down: 1
+    downs:
+    - 179.47 km
     downward: 5
     rel: 8.83392e-3
     frac: 0.44876325
@@ -2241,6 +2819,8 @@ difficulty:
     endChunk: 179.8 km
     endAhead: 190.2 km
     down: 1
+    downs:
+    - 179.71 km
     downward: 4
     rel: 7.06714e-3
     frac: 0.45583039
@@ -2249,6 +2829,8 @@ difficulty:
     endChunk: 186.0 km
     endAhead: 196.4 km
     down: 1
+    downs:
+    - 185.94 km
     downward: 6
     rel: 1.060071e-2
     frac: 0.4664311
@@ -2257,6 +2839,8 @@ difficulty:
     endChunk: 186.8 km
     endAhead: 197.2 km
     down: 1
+    downs:
+    - 186.71 km
     downward: 5
     rel: 8.83392e-3
     frac: 0.47526502
@@ -2265,6 +2849,9 @@ difficulty:
     endChunk: 189.4 km
     endAhead: 199.8 km
     down: 2
+    downs:
+    - 189.36 km
+    - 189.36 km
     downward: 4
     rel: 7.06714e-3
     frac: 0.48233216
@@ -2273,6 +2860,8 @@ difficulty:
     endChunk: 192.1 km
     endAhead: 202.5 km
     down: 1
+    downs:
+    - 192.0 km
     downward: 4
     rel: 7.06714e-3
     frac: 0.48939929
@@ -2281,6 +2870,9 @@ difficulty:
     endChunk: 193.2 km
     endAhead: 203.6 km
     down: 2
+    downs:
+    - 193.18 km
+    - 193.19 km
     downward: 3
     rel: 5.30035e-3
     frac: 0.49469965
@@ -2289,6 +2881,8 @@ difficulty:
     endChunk: 196.0 km
     endAhead: 206.4 km
     down: 1
+    downs:
+    - 195.95 km
     downward: 2
     rel: 3.53357e-3
     frac: 0.49823322
@@ -2297,6 +2891,8 @@ difficulty:
     endChunk: 201.2 km
     endAhead: 211.6 km
     down: 1
+    downs:
+    - 201.11 km
     downward: 1
     rel: 1.76678e-3
     frac: 0.5
@@ -2305,6 +2901,8 @@ difficulty:
     endChunk: 13.4 km
     endAhead: 26.6 km
     down: 1
+    downs:
+    - 13.36 km
     downward: 4
     rel: 1.156069e-2
     frac: 1.156069e-2
@@ -2313,6 +2911,8 @@ difficulty:
     endChunk: 16.6 km
     endAhead: 29.8 km
     down: 1
+    downs:
+    - 16.58 km
     downward: 3
     rel: 8.67052e-3
     frac: 2.023121e-2
@@ -2321,6 +2921,8 @@ difficulty:
     endChunk: 18.5 km
     endAhead: 31.7 km
     down: 1
+    downs:
+    - 18.5 km
     downward: 3
     rel: 8.67052e-3
     frac: 2.890173e-2
@@ -2329,6 +2931,8 @@ difficulty:
     endChunk: 22.5 km
     endAhead: 35.7 km
     down: 1
+    downs:
+    - 22.45 km
     downward: 2
     rel: 5.78035e-3
     frac: 3.468208e-2
@@ -2337,6 +2941,8 @@ difficulty:
     endChunk: 30.7 km
     endAhead: 43.9 km
     down: 1
+    downs:
+    - 30.67 km
     downward: 3
     rel: 8.67052e-3
     frac: 4.33526e-2
@@ -2345,6 +2951,8 @@ difficulty:
     endChunk: 38.8 km
     endAhead: 52.0 km
     down: 1
+    downs:
+    - 38.76 km
     downward: 4
     rel: 1.156069e-2
     frac: 5.491329e-2
@@ -2353,6 +2961,8 @@ difficulty:
     endChunk: 43.9 km
     endAhead: 57.1 km
     down: 1
+    downs:
+    - 43.81 km
     downward: 5
     rel: 1.445087e-2
     frac: 6.936416e-2
@@ -2361,6 +2971,8 @@ difficulty:
     endChunk: 47.7 km
     endAhead: 60.9 km
     down: 1
+    downs:
+    - 47.65 km
     downward: 7
     rel: 2.023121e-2
     frac: 8.959538e-2
@@ -2369,6 +2981,8 @@ difficulty:
     endChunk: 51.5 km
     endAhead: 64.7 km
     down: 1
+    downs:
+    - 51.41 km
     downward: 7
     rel: 2.023121e-2
     frac: 0.10982659
@@ -2377,6 +2991,8 @@ difficulty:
     endChunk: 56.1 km
     endAhead: 69.3 km
     down: 1
+    downs:
+    - 56.05 km
     downward: 7
     rel: 2.023121e-2
     frac: 0.1300578
@@ -2385,6 +3001,8 @@ difficulty:
     endChunk: 56.2 km
     endAhead: 69.4 km
     down: 1
+    downs:
+    - 56.11 km
     downward: 6
     rel: 1.734104e-2
     frac: 0.14739884
@@ -2393,6 +3011,8 @@ difficulty:
     endChunk: 57.4 km
     endAhead: 70.6 km
     down: 1
+    downs:
+    - 57.39 km
     downward: 6
     rel: 1.734104e-2
     frac: 0.16473988
@@ -2401,6 +3021,8 @@ difficulty:
     endChunk: 58.9 km
     endAhead: 72.1 km
     down: 1
+    downs:
+    - 58.83 km
     downward: 5
     rel: 1.445087e-2
     frac: 0.17919075
@@ -2409,6 +3031,8 @@ difficulty:
     endChunk: 60.6 km
     endAhead: 73.8 km
     down: 1
+    downs:
+    - 60.53 km
     downward: 4
     rel: 1.156069e-2
     frac: 0.19075145
@@ -2417,6 +3041,8 @@ difficulty:
     endChunk: 61.6 km
     endAhead: 74.8 km
     down: 1
+    downs:
+    - 61.51 km
     downward: 3
     rel: 8.67052e-3
     frac: 0.19942197
@@ -2425,6 +3051,8 @@ difficulty:
     endChunk: 68.4 km
     endAhead: 81.6 km
     down: 1
+    downs:
+    - 68.31 km
     downward: 2
     rel: 5.78035e-3
     frac: 0.20520231
@@ -2433,6 +3061,8 @@ difficulty:
     endChunk: 70.3 km
     endAhead: 83.5 km
     down: 1
+    downs:
+    - 70.25 km
     downward: 1
     rel: 2.89017e-3
     frac: 0.20809249
@@ -2441,6 +3071,8 @@ difficulty:
     endChunk: 86.4 km
     endAhead: 99.6 km
     down: 1
+    downs:
+    - 86.32 km
     downward: 7
     rel: 2.023121e-2
     frac: 0.2283237
@@ -2449,6 +3081,8 @@ difficulty:
     endChunk: 89.5 km
     endAhead: 102.7 km
     down: 1
+    downs:
+    - 89.41 km
     downward: 6
     rel: 1.734104e-2
     frac: 0.24566474
@@ -2457,6 +3091,8 @@ difficulty:
     endChunk: 90.2 km
     endAhead: 103.4 km
     down: 1
+    downs:
+    - 90.11 km
     downward: 5
     rel: 1.445087e-2
     frac: 0.26011561
@@ -2465,6 +3101,8 @@ difficulty:
     endChunk: 91.8 km
     endAhead: 105.0 km
     down: 1
+    downs:
+    - 91.71 km
     downward: 4
     rel: 1.156069e-2
     frac: 0.2716763
@@ -2473,6 +3111,8 @@ difficulty:
     endChunk: 93.3 km
     endAhead: 106.5 km
     down: 1
+    downs:
+    - 93.27 km
     downward: 3
     rel: 8.67052e-3
     frac: 0.28034682
@@ -2481,6 +3121,8 @@ difficulty:
     endChunk: 93.4 km
     endAhead: 106.6 km
     down: 1
+    downs:
+    - 93.35 km
     downward: 2
     rel: 5.78035e-3
     frac: 0.28612717
@@ -2489,6 +3131,8 @@ difficulty:
     endChunk: 94.4 km
     endAhead: 107.6 km
     down: 1
+    downs:
+    - 94.37 km
     downward: 1
     rel: 2.89017e-3
     frac: 0.28901734
@@ -2497,6 +3141,8 @@ difficulty:
     endChunk: 107.7 km
     endAhead: 120.9 km
     down: 1
+    downs:
+    - 107.62 km
     downward: 3
     rel: 8.67052e-3
     frac: 0.29768786
@@ -2505,6 +3151,8 @@ difficulty:
     endChunk: 108.4 km
     endAhead: 121.6 km
     down: 1
+    downs:
+    - 108.31 km
     downward: 2
     rel: 5.78035e-3
     frac: 0.30346821
@@ -2513,6 +3161,8 @@ difficulty:
     endChunk: 117.4 km
     endAhead: 130.6 km
     down: 1
+    downs:
+    - 117.3 km
     downward: 4
     rel: 1.156069e-2
     frac: 0.3150289
@@ -2521,6 +3171,8 @@ difficulty:
     endChunk: 122.8 km
     endAhead: 136.0 km
     down: 1
+    downs:
+    - 122.78 km
     downward: 4
     rel: 1.156069e-2
     frac: 0.3265896
@@ -2529,6 +3181,8 @@ difficulty:
     endChunk: 125.3 km
     endAhead: 138.5 km
     down: 1
+    downs:
+    - 125.26 km
     downward: 5
     rel: 1.445087e-2
     frac: 0.34104046
@@ -2537,6 +3191,8 @@ difficulty:
     endChunk: 126.1 km
     endAhead: 139.3 km
     down: 1
+    downs:
+    - 126.03 km
     downward: 4
     rel: 1.156069e-2
     frac: 0.35260116
@@ -2545,6 +3201,8 @@ difficulty:
     endChunk: 133.8 km
     endAhead: 147.0 km
     down: 1
+    downs:
+    - 133.72 km
     downward: 4
     rel: 1.156069e-2
     frac: 0.36416185
@@ -2553,6 +3211,8 @@ difficulty:
     endChunk: 136.7 km
     endAhead: 149.9 km
     down: 1
+    downs:
+    - 136.6 km
     downward: 3
     rel: 8.67052e-3
     frac: 0.37283237
@@ -2561,6 +3221,8 @@ difficulty:
     endChunk: 137.4 km
     endAhead: 150.6 km
     down: 1
+    downs:
+    - 137.39 km
     downward: 2
     rel: 5.78035e-3
     frac: 0.37861272
@@ -2569,6 +3231,8 @@ difficulty:
     endChunk: 144.8 km
     endAhead: 158.0 km
     down: 1
+    downs:
+    - 144.78 km
     downward: 1
     rel: 2.89017e-3
     frac: 0.38150289
@@ -2577,6 +3241,8 @@ difficulty:
     endChunk: 158.4 km
     endAhead: 171.6 km
     down: 1
+    downs:
+    - 158.32 km
     downward: 3
     rel: 8.67052e-3
     frac: 0.39017341
@@ -2585,6 +3251,8 @@ difficulty:
     endChunk: 158.7 km
     endAhead: 171.9 km
     down: 1
+    downs:
+    - 158.69 km
     downward: 2
     rel: 5.78035e-3
     frac: 0.39595376
@@ -2593,6 +3261,8 @@ difficulty:
     endChunk: 158.8 km
     endAhead: 172.0 km
     down: 1
+    downs:
+    - 158.71 km
     downward: 2
     rel: 5.78035e-3
     frac: 0.4017341
@@ -2601,6 +3271,8 @@ difficulty:
     endChunk: 172.0 km
     endAhead: 185.2 km
     down: 1
+    downs:
+    - 171.93 km
     downward: 5
     rel: 1.445087e-2
     frac: 0.41618497
@@ -2609,6 +3281,8 @@ difficulty:
     endChunk: 177.2 km
     endAhead: 190.4 km
     down: 1
+    downs:
+    - 177.19 km
     downward: 4
     rel: 1.156069e-2
     frac: 0.42774566
@@ -2617,6 +3291,8 @@ difficulty:
     endChunk: 182.6 km
     endAhead: 195.8 km
     down: 1
+    downs:
+    - 182.5 km
     downward: 6
     rel: 1.734104e-2
     frac: 0.44508671
@@ -2625,6 +3301,8 @@ difficulty:
     endChunk: 183.9 km
     endAhead: 197.1 km
     down: 1
+    downs:
+    - 183.84 km
     downward: 5
     rel: 1.445087e-2
     frac: 0.45953757
@@ -2633,6 +3311,8 @@ difficulty:
     endChunk: 184.2 km
     endAhead: 197.4 km
     down: 1
+    downs:
+    - 184.17 km
     downward: 4
     rel: 1.156069e-2
     frac: 0.47109827
@@ -2641,6 +3321,8 @@ difficulty:
     endChunk: 190.8 km
     endAhead: 204.0 km
     down: 1
+    downs:
+    - 190.74 km
     downward: 4
     rel: 1.156069e-2
     frac: 0.48265896
@@ -2649,6 +3331,8 @@ difficulty:
     endChunk: 192.0 km
     endAhead: 205.2 km
     down: 1
+    downs:
+    - 191.93 km
     downward: 3
     rel: 8.67052e-3
     frac: 0.49132948
@@ -2657,6 +3341,8 @@ difficulty:
     endChunk: 193.5 km
     endAhead: 206.7 km
     down: 1
+    downs:
+    - 193.43 km
     downward: 2
     rel: 5.78035e-3
     frac: 0.49710983
@@ -2665,6 +3351,8 @@ difficulty:
     endChunk: 198.8 km
     endAhead: 212.0 km
     down: 1
+    downs:
+    - 198.75 km
     downward: 1
     rel: 2.89017e-3
     frac: 0.5
@@ -2673,6 +3361,9 @@ difficulty:
     endChunk: 5.0 km
     endAhead: 11.5 km
     down: 2
+    downs:
+    - 0.65 km
+    - 0.7 km
     downward: 1
     rel: 1.59236e-3
     frac: 1.59236e-3
@@ -2681,6 +3372,8 @@ difficulty:
     endChunk: 13.2 km
     endAhead: 19.7 km
     down: 1
+    downs:
+    - 13.13 km
     downward: 5
     rel: 7.96178e-3
     frac: 9.55414e-3
@@ -2689,6 +3382,8 @@ difficulty:
     endChunk: 15.3 km
     endAhead: 21.8 km
     down: 1
+    downs:
+    - 15.23 km
     downward: 7
     rel: 1.11465e-2
     frac: 2.070064e-2
@@ -2697,6 +3392,8 @@ difficulty:
     endChunk: 15.4 km
     endAhead: 21.9 km
     down: 1
+    downs:
+    - 15.33 km
     downward: 6
     rel: 9.55414e-3
     frac: 3.025478e-2
@@ -2705,6 +3402,8 @@ difficulty:
     endChunk: 18.5 km
     endAhead: 25.0 km
     down: 1
+    downs:
+    - 18.42 km
     downward: 5
     rel: 7.96178e-3
     frac: 3.821656e-2
@@ -2713,6 +3412,9 @@ difficulty:
     endChunk: 18.9 km
     endAhead: 25.4 km
     down: 2
+    downs:
+    - 18.86 km
+    - 18.9 km
     downward: 4
     rel: 6.36943e-3
     frac: 4.458599e-2
@@ -2721,6 +3423,8 @@ difficulty:
     endChunk: 20.0 km
     endAhead: 26.5 km
     down: 1
+    downs:
+    - 19.95 km
     downward: 4
     rel: 6.36943e-3
     frac: 5.095541e-2
@@ -2729,6 +3433,8 @@ difficulty:
     endChunk: 20.9 km
     endAhead: 27.4 km
     down: 1
+    downs:
+    - 20.82 km
     downward: 3
     rel: 4.77707e-3
     frac: 5.573248e-2
@@ -2737,6 +3443,8 @@ difficulty:
     endChunk: 21.7 km
     endAhead: 28.2 km
     down: 1
+    downs:
+    - 21.61 km
     downward: 2
     rel: 3.18471e-3
     frac: 5.89172e-2
@@ -2745,6 +3453,8 @@ difficulty:
     endChunk: 26.3 km
     endAhead: 32.8 km
     down: 1
+    downs:
+    - 26.23 km
     downward: 3
     rel: 4.77707e-3
     frac: 6.369427e-2
@@ -2753,6 +3463,8 @@ difficulty:
     endChunk: 30.8 km
     endAhead: 37.3 km
     down: 1
+    downs:
+    - 30.76 km
     downward: 4
     rel: 6.36943e-3
     frac: 7.006369e-2
@@ -2761,6 +3473,8 @@ difficulty:
     endChunk: 32.6 km
     endAhead: 39.1 km
     down: 1
+    downs:
+    - 32.51 km
     downward: 3
     rel: 4.77707e-3
     frac: 7.484076e-2
@@ -2769,6 +3483,8 @@ difficulty:
     endChunk: 34.4 km
     endAhead: 40.9 km
     down: 1
+    downs:
+    - 34.32 km
     downward: 3
     rel: 4.77707e-3
     frac: 7.961783e-2
@@ -2777,6 +3493,8 @@ difficulty:
     endChunk: 34.7 km
     endAhead: 41.2 km
     down: 1
+    downs:
+    - 34.63 km
     downward: 2
     rel: 3.18471e-3
     frac: 8.280255e-2
@@ -2785,6 +3503,8 @@ difficulty:
     endChunk: 39.6 km
     endAhead: 46.1 km
     down: 1
+    downs:
+    - 39.51 km
     downward: 3
     rel: 4.77707e-3
     frac: 8.757962e-2
@@ -2793,6 +3513,8 @@ difficulty:
     endChunk: 42.0 km
     endAhead: 48.5 km
     down: 1
+    downs:
+    - 41.98 km
     downward: 4
     rel: 6.36943e-3
     frac: 9.394904e-2
@@ -2801,6 +3523,8 @@ difficulty:
     endChunk: 44.5 km
     endAhead: 51.0 km
     down: 1
+    downs:
+    - 44.4 km
     downward: 3
     rel: 4.77707e-3
     frac: 9.872611e-2
@@ -2809,6 +3533,8 @@ difficulty:
     endChunk: 48.1 km
     endAhead: 54.6 km
     down: 1
+    downs:
+    - 48.07 km
     downward: 4
     rel: 6.36943e-3
     frac: 0.10509554
@@ -2817,6 +3543,8 @@ difficulty:
     endChunk: 48.4 km
     endAhead: 54.9 km
     down: 1
+    downs:
+    - 48.32 km
     downward: 3
     rel: 4.77707e-3
     frac: 0.10987261
@@ -2825,6 +3553,8 @@ difficulty:
     endChunk: 52.0 km
     endAhead: 58.5 km
     down: 1
+    downs:
+    - 51.99 km
     downward: 2
     rel: 3.18471e-3
     frac: 0.11305732
@@ -2833,6 +3563,8 @@ difficulty:
     endChunk: 52.5 km
     endAhead: 59.0 km
     down: 1
+    downs:
+    - 52.5 km
     downward: 1
     rel: 1.59236e-3
     frac: 0.11464968
@@ -2841,6 +3573,8 @@ difficulty:
     endChunk: 63.1 km
     endAhead: 69.6 km
     down: 1
+    downs:
+    - 63.05 km
     downward: 3
     rel: 4.77707e-3
     frac: 0.11942675
@@ -2849,6 +3583,8 @@ difficulty:
     endChunk: 66.1 km
     endAhead: 72.6 km
     down: 1
+    downs:
+    - 66.03 km
     downward: 3
     rel: 4.77707e-3
     frac: 0.12420382
@@ -2857,6 +3593,8 @@ difficulty:
     endChunk: 68.6 km
     endAhead: 75.1 km
     down: 1
+    downs:
+    - 68.55 km
     downward: 4
     rel: 6.36943e-3
     frac: 0.13057325
@@ -2865,6 +3603,8 @@ difficulty:
     endChunk: 72.5 km
     endAhead: 79.0 km
     down: 1
+    downs:
+    - 72.47 km
     downward: 3
     rel: 4.77707e-3
     frac: 0.13535032
@@ -2873,6 +3613,8 @@ difficulty:
     endChunk: 73.6 km
     endAhead: 80.1 km
     down: 1
+    downs:
+    - 73.53 km
     downward: 3
     rel: 4.77707e-3
     frac: 0.14012739
@@ -2881,6 +3623,8 @@ difficulty:
     endChunk: 74.7 km
     endAhead: 81.2 km
     down: 1
+    downs:
+    - 74.65 km
     downward: 2
     rel: 3.18471e-3
     frac: 0.1433121
@@ -2889,6 +3633,8 @@ difficulty:
     endChunk: 79.5 km
     endAhead: 86.0 km
     down: 1
+    downs:
+    - 79.45 km
     downward: 1
     rel: 1.59236e-3
     frac: 0.14490446
@@ -2897,6 +3643,8 @@ difficulty:
     endChunk: 93.8 km
     endAhead: 100.3 km
     down: 1
+    downs:
+    - 93.79 km
     downward: 1
     rel: 1.59236e-3
     frac: 0.14649682
@@ -2905,6 +3653,8 @@ difficulty:
     endChunk: 108.9 km
     endAhead: 115.4 km
     down: 1
+    downs:
+    - 108.82 km
     downward: 5
     rel: 7.96178e-3
     frac: 0.1544586
@@ -2913,6 +3663,8 @@ difficulty:
     endChunk: 109.3 km
     endAhead: 115.8 km
     down: 1
+    downs:
+    - 109.25 km
     downward: 4
     rel: 6.36943e-3
     frac: 0.16082803
@@ -2921,6 +3673,8 @@ difficulty:
     endChunk: 113.7 km
     endAhead: 120.2 km
     down: 1
+    downs:
+    - 113.65 km
     downward: 4
     rel: 6.36943e-3
     frac: 0.16719745
@@ -2929,6 +3683,8 @@ difficulty:
     endChunk: 114.1 km
     endAhead: 120.6 km
     down: 1
+    downs:
+    - 114.05 km
     downward: 3
     rel: 4.77707e-3
     frac: 0.17197452
@@ -2937,6 +3693,8 @@ difficulty:
     endChunk: 115.0 km
     endAhead: 121.5 km
     down: 1
+    downs:
+    - 114.92 km
     downward: 5
     rel: 7.96178e-3
     frac: 0.17993631
@@ -2945,6 +3703,8 @@ difficulty:
     endChunk: 118.9 km
     endAhead: 125.4 km
     down: 1
+    downs:
+    - 118.87 km
     downward: 5
     rel: 7.96178e-3
     frac: 0.18789809
@@ -2953,6 +3713,8 @@ difficulty:
     endChunk: 121.0 km
     endAhead: 127.5 km
     down: 1
+    downs:
+    - 120.93 km
     downward: 4
     rel: 6.36943e-3
     frac: 0.19426752
@@ -2961,6 +3723,8 @@ difficulty:
     endChunk: 121.1 km
     endAhead: 127.6 km
     down: 1
+    downs:
+    - 121.02 km
     downward: 3
     rel: 4.77707e-3
     frac: 0.19904459
@@ -2969,6 +3733,8 @@ difficulty:
     endChunk: 121.2 km
     endAhead: 127.7 km
     down: 1
+    downs:
+    - 121.13 km
     downward: 2
     rel: 3.18471e-3
     frac: 0.2022293
@@ -2977,6 +3743,8 @@ difficulty:
     endChunk: 123.6 km
     endAhead: 130.1 km
     down: 1
+    downs:
+    - 123.55 km
     downward: 1
     rel: 1.59236e-3
     frac: 0.20382166
@@ -2985,6 +3753,8 @@ difficulty:
     endChunk: 130.9 km
     endAhead: 137.4 km
     down: 1
+    downs:
+    - 130.86 km
     downward: 2
     rel: 3.18471e-3
     frac: 0.20700637
@@ -2993,6 +3763,8 @@ difficulty:
     endChunk: 132.6 km
     endAhead: 139.1 km
     down: 1
+    downs:
+    - 132.51 km
     downward: 1
     rel: 1.59236e-3
     frac: 0.20859873
@@ -3001,6 +3773,8 @@ difficulty:
     endChunk: 140.3 km
     endAhead: 146.8 km
     down: 1
+    downs:
+    - 140.24 km
     downward: 2
     rel: 3.18471e-3
     frac: 0.21178344
@@ -3009,6 +3783,8 @@ difficulty:
     endChunk: 142.0 km
     endAhead: 148.5 km
     down: 1
+    downs:
+    - 141.95 km
     downward: 1
     rel: 1.59236e-3
     frac: 0.2133758
@@ -3017,6 +3793,8 @@ difficulty:
     endChunk: 153.0 km
     endAhead: 159.5 km
     down: 1
+    downs:
+    - 152.99 km
     downward: 5
     rel: 7.96178e-3
     frac: 0.22133758
@@ -3025,6 +3803,8 @@ difficulty:
     endChunk: 153.2 km
     endAhead: 159.7 km
     down: 1
+    downs:
+    - 153.15 km
     downward: 5
     rel: 7.96178e-3
     frac: 0.22929936
@@ -3033,6 +3813,8 @@ difficulty:
     endChunk: 154.6 km
     endAhead: 161.1 km
     down: 1
+    downs:
+    - 154.6 km
     downward: 6
     rel: 9.55414e-3
     frac: 0.2388535
@@ -3041,6 +3823,9 @@ difficulty:
     endChunk: 157.9 km
     endAhead: 164.4 km
     down: 2
+    downs:
+    - 157.87 km
+    - 157.87 km
     downward: 11
     rel: 1.751592e-2
     frac: 0.25636943
@@ -3049,6 +3834,8 @@ difficulty:
     endChunk: 159.3 km
     endAhead: 165.8 km
     down: 1
+    downs:
+    - 159.27 km
     downward: 13
     rel: 2.070064e-2
     frac: 0.27707006
@@ -3057,6 +3844,8 @@ difficulty:
     endChunk: 159.6 km
     endAhead: 166.1 km
     down: 1
+    downs:
+    - 159.57 km
     downward: 12
     rel: 1.910828e-2
     frac: 0.29617834
@@ -3065,6 +3854,9 @@ difficulty:
     endChunk: 160.7 km
     endAhead: 167.2 km
     down: 2
+    downs:
+    - 160.65 km
+    - 160.66 km
     downward: 11
     rel: 1.751592e-2
     frac: 0.31369427
@@ -3073,6 +3865,14 @@ difficulty:
     endChunk: 160.8 km
     endAhead: 167.3 km
     down: 7
+    downs:
+    - 160.72 km
+    - 160.72 km
+    - 160.72 km
+    - 160.73 km
+    - 160.73 km
+    - 160.74 km
+    - 160.75 km
     downward: 10
     rel: 1.592357e-2
     frac: 0.32961783
@@ -3081,6 +3881,8 @@ difficulty:
     endChunk: 161.5 km
     endAhead: 168.0 km
     down: 1
+    downs:
+    - 161.43 km
     downward: 11
     rel: 1.751592e-2
     frac: 0.34713376
@@ -3089,6 +3891,8 @@ difficulty:
     endChunk: 161.7 km
     endAhead: 168.2 km
     down: 1
+    downs:
+    - 161.66 km
     downward: 10
     rel: 1.592357e-2
     frac: 0.36305732
@@ -3097,6 +3901,8 @@ difficulty:
     endChunk: 161.8 km
     endAhead: 168.3 km
     down: 1
+    downs:
+    - 161.71 km
     downward: 9
     rel: 1.433121e-2
     frac: 0.37738854
@@ -3105,6 +3911,8 @@ difficulty:
     endChunk: 163.2 km
     endAhead: 169.7 km
     down: 1
+    downs:
+    - 163.12 km
     downward: 8
     rel: 1.273885e-2
     frac: 0.39012739
@@ -3113,6 +3921,9 @@ difficulty:
     endChunk: 163.9 km
     endAhead: 170.4 km
     down: 2
+    downs:
+    - 163.83 km
+    - 163.84 km
     downward: 8
     rel: 1.273885e-2
     frac: 0.40286624
@@ -3121,6 +3932,8 @@ difficulty:
     endChunk: 164.1 km
     endAhead: 170.6 km
     down: 1
+    downs:
+    - 164.07 km
     downward: 7
     rel: 1.11465e-2
     frac: 0.41401274
@@ -3129,6 +3942,8 @@ difficulty:
     endChunk: 164.6 km
     endAhead: 171.1 km
     down: 1
+    downs:
+    - 164.6 km
     downward: 7
     rel: 1.11465e-2
     frac: 0.42515924
@@ -3137,6 +3952,8 @@ difficulty:
     endChunk: 164.7 km
     endAhead: 171.2 km
     down: 1
+    downs:
+    - 164.62 km
     downward: 6
     rel: 9.55414e-3
     frac: 0.43471338
@@ -3145,6 +3962,8 @@ difficulty:
     endChunk: 165.4 km
     endAhead: 171.9 km
     down: 1
+    downs:
+    - 165.35 km
     downward: 5
     rel: 7.96178e-3
     frac: 0.44267516
@@ -3153,6 +3972,8 @@ difficulty:
     endChunk: 167.6 km
     endAhead: 174.1 km
     down: 1
+    downs:
+    - 167.56 km
     downward: 8
     rel: 1.273885e-2
     frac: 0.45541401
@@ -3161,6 +3982,8 @@ difficulty:
     endChunk: 167.8 km
     endAhead: 174.3 km
     down: 1
+    downs:
+    - 167.8 km
     downward: 7
     rel: 1.11465e-2
     frac: 0.46656051
@@ -3169,6 +3992,9 @@ difficulty:
     endChunk: 169.9 km
     endAhead: 176.4 km
     down: 2
+    downs:
+    - 169.85 km
+    - 169.88 km
     downward: 6
     rel: 9.55414e-3
     frac: 0.47611465
@@ -3177,6 +4003,8 @@ difficulty:
     endChunk: 171.1 km
     endAhead: 177.6 km
     down: 1
+    downs:
+    - 171.05 km
     downward: 5
     rel: 7.96178e-3
     frac: 0.48407643
@@ -3185,6 +4013,8 @@ difficulty:
     endChunk: 172.0 km
     endAhead: 178.5 km
     down: 1
+    downs:
+    - 171.91 km
     downward: 4
     rel: 6.36943e-3
     frac: 0.49044586
@@ -3193,6 +4023,8 @@ difficulty:
     endChunk: 172.3 km
     endAhead: 178.8 km
     down: 1
+    downs:
+    - 172.2 km
     downward: 3
     rel: 4.77707e-3
     frac: 0.49522293
@@ -3201,6 +4033,9 @@ difficulty:
     endChunk: 172.5 km
     endAhead: 179.0 km
     down: 2
+    downs:
+    - 172.41 km
+    - 172.42 km
     downward: 2
     rel: 3.18471e-3
     frac: 0.49840764
@@ -3209,6 +4044,8 @@ difficulty:
     endChunk: 173.0 km
     endAhead: 179.5 km
     down: 1
+    downs:
+    - 172.91 km
     downward: 1
     rel: 1.59236e-3
     frac: 0.5
@@ -3217,6 +4054,8 @@ difficulty:
     endChunk: 7.0 km
     endAhead: 15.7 km
     down: 1
+    downs:
+    - 6.98 km
     downward: 2
     rel: 3.73134e-3
     frac: 3.73134e-3
@@ -3225,6 +4064,8 @@ difficulty:
     endChunk: 13.5 km
     endAhead: 22.2 km
     down: 1
+    downs:
+    - 13.49 km
     downward: 3
     rel: 5.59701e-3
     frac: 9.32836e-3
@@ -3233,6 +4074,8 @@ difficulty:
     endChunk: 17.1 km
     endAhead: 25.8 km
     down: 1
+    downs:
+    - 17.09 km
     downward: 5
     rel: 9.32836e-3
     frac: 1.865672e-2
@@ -3241,6 +4084,8 @@ difficulty:
     endChunk: 21.4 km
     endAhead: 30.1 km
     down: 1
+    downs:
+    - 21.4 km
     downward: 4
     rel: 7.46269e-3
     frac: 2.61194e-2
@@ -3249,6 +4094,8 @@ difficulty:
     endChunk: 22.6 km
     endAhead: 31.3 km
     down: 1
+    downs:
+    - 22.59 km
     downward: 3
     rel: 5.59701e-3
     frac: 3.171642e-2
@@ -3257,6 +4104,8 @@ difficulty:
     endChunk: 24.1 km
     endAhead: 32.8 km
     down: 1
+    downs:
+    - 24.02 km
     downward: 2
     rel: 3.73134e-3
     frac: 3.544776e-2
@@ -3265,6 +4114,8 @@ difficulty:
     endChunk: 25.7 km
     endAhead: 34.4 km
     down: 1
+    downs:
+    - 25.61 km
     downward: 1
     rel: 1.86567e-3
     frac: 3.731343e-2
@@ -3273,6 +4124,8 @@ difficulty:
     endChunk: 35.4 km
     endAhead: 44.1 km
     down: 1
+    downs:
+    - 35.36 km
     downward: 1
     rel: 1.86567e-3
     frac: 3.91791e-2
@@ -3281,6 +4134,8 @@ difficulty:
     endChunk: 46.3 km
     endAhead: 55.0 km
     down: 1
+    downs:
+    - 46.24 km
     downward: 5
     rel: 9.32836e-3
     frac: 4.850746e-2
@@ -3289,6 +4144,8 @@ difficulty:
     endChunk: 50.4 km
     endAhead: 59.1 km
     down: 1
+    downs:
+    - 50.37 km
     downward: 9
     rel: 1.679104e-2
     frac: 6.529851e-2
@@ -3297,6 +4154,8 @@ difficulty:
     endChunk: 50.5 km
     endAhead: 59.2 km
     down: 1
+    downs:
+    - 50.43 km
     downward: 8
     rel: 1.492537e-2
     frac: 8.022388e-2
@@ -3305,6 +4164,8 @@ difficulty:
     endChunk: 52.4 km
     endAhead: 61.1 km
     down: 1
+    downs:
+    - 52.37 km
     downward: 7
     rel: 1.30597e-2
     frac: 9.328358e-2
@@ -3313,6 +4174,9 @@ difficulty:
     endChunk: 52.6 km
     endAhead: 61.3 km
     down: 2
+    downs:
+    - 52.52 km
+    - 52.56 km
     downward: 6
     rel: 1.119403e-2
     frac: 0.10447761
@@ -3321,6 +4185,8 @@ difficulty:
     endChunk: 57.4 km
     endAhead: 66.1 km
     down: 1
+    downs:
+    - 57.34 km
     downward: 9
     rel: 1.679104e-2
     frac: 0.12126866
@@ -3329,6 +4195,8 @@ difficulty:
     endChunk: 57.5 km
     endAhead: 66.2 km
     down: 1
+    downs:
+    - 57.42 km
     downward: 8
     rel: 1.492537e-2
     frac: 0.13619403
@@ -3337,6 +4205,8 @@ difficulty:
     endChunk: 57.6 km
     endAhead: 66.3 km
     down: 1
+    downs:
+    - 57.52 km
     downward: 7
     rel: 1.30597e-2
     frac: 0.14925373
@@ -3345,6 +4215,8 @@ difficulty:
     endChunk: 58.1 km
     endAhead: 66.8 km
     down: 1
+    downs:
+    - 58.04 km
     downward: 6
     rel: 1.119403e-2
     frac: 0.16044776
@@ -3353,6 +4225,8 @@ difficulty:
     endChunk: 58.2 km
     endAhead: 66.9 km
     down: 1
+    downs:
+    - 58.19 km
     downward: 5
     rel: 9.32836e-3
     frac: 0.16977612
@@ -3361,6 +4235,8 @@ difficulty:
     endChunk: 64.5 km
     endAhead: 73.2 km
     down: 1
+    downs:
+    - 64.43 km
     downward: 5
     rel: 9.32836e-3
     frac: 0.17910448
@@ -3369,6 +4245,8 @@ difficulty:
     endChunk: 64.6 km
     endAhead: 73.3 km
     down: 1
+    downs:
+    - 64.54 km
     downward: 4
     rel: 7.46269e-3
     frac: 0.18656716
@@ -3377,6 +4255,8 @@ difficulty:
     endChunk: 64.7 km
     endAhead: 73.4 km
     down: 1
+    downs:
+    - 64.62 km
     downward: 3
     rel: 5.59701e-3
     frac: 0.19216418
@@ -3385,6 +4265,8 @@ difficulty:
     endChunk: 65.2 km
     endAhead: 73.9 km
     down: 1
+    downs:
+    - 65.18 km
     downward: 2
     rel: 3.73134e-3
     frac: 0.19589552
@@ -3393,6 +4275,8 @@ difficulty:
     endChunk: 69.8 km
     endAhead: 78.5 km
     down: 1
+    downs:
+    - 69.71 km
     downward: 2
     rel: 3.73134e-3
     frac: 0.19962687
@@ -3401,6 +4285,8 @@ difficulty:
     endChunk: 75.6 km
     endAhead: 84.3 km
     down: 1
+    downs:
+    - 75.54 km
     downward: 2
     rel: 3.73134e-3
     frac: 0.20335821
@@ -3409,6 +4295,8 @@ difficulty:
     endChunk: 82.3 km
     endAhead: 91.0 km
     down: 1
+    downs:
+    - 82.25 km
     downward: 1
     rel: 1.86567e-3
     frac: 0.20522388
@@ -3417,6 +4305,8 @@ difficulty:
     endChunk: 96.9 km
     endAhead: 105.6 km
     down: 1
+    downs:
+    - 96.86 km
     downward: 1
     rel: 1.86567e-3
     frac: 0.20708955
@@ -3425,6 +4315,8 @@ difficulty:
     endChunk: 106.2 km
     endAhead: 114.9 km
     down: 1
+    downs:
+    - 106.16 km
     downward: 1
     rel: 1.86567e-3
     frac: 0.20895522
@@ -3433,6 +4325,8 @@ difficulty:
     endChunk: 119.1 km
     endAhead: 127.8 km
     down: 1
+    downs:
+    - 119.08 km
     downward: 3
     rel: 5.59701e-3
     frac: 0.21455224
@@ -3441,6 +4335,8 @@ difficulty:
     endChunk: 126.3 km
     endAhead: 135.0 km
     down: 1
+    downs:
+    - 126.26 km
     downward: 5
     rel: 9.32836e-3
     frac: 0.2238806
@@ -3449,6 +4345,8 @@ difficulty:
     endChunk: 127.0 km
     endAhead: 135.7 km
     down: 1
+    downs:
+    - 126.9 km
     downward: 7
     rel: 1.30597e-2
     frac: 0.2369403
@@ -3457,6 +4355,8 @@ difficulty:
     endChunk: 129.7 km
     endAhead: 138.4 km
     down: 1
+    downs:
+    - 129.67 km
     downward: 7
     rel: 1.30597e-2
     frac: 0.25
@@ -3465,6 +4365,8 @@ difficulty:
     endChunk: 130.6 km
     endAhead: 139.3 km
     down: 1
+    downs:
+    - 130.57 km
     downward: 6
     rel: 1.119403e-2
     frac: 0.26119403
@@ -3473,6 +4375,8 @@ difficulty:
     endChunk: 133.3 km
     endAhead: 142.0 km
     down: 1
+    downs:
+    - 133.27 km
     downward: 6
     rel: 1.119403e-2
     frac: 0.27238806
@@ -3481,6 +4385,8 @@ difficulty:
     endChunk: 135.2 km
     endAhead: 143.9 km
     down: 1
+    downs:
+    - 135.11 km
     downward: 6
     rel: 1.119403e-2
     frac: 0.28358209
@@ -3489,6 +4395,8 @@ difficulty:
     endChunk: 135.3 km
     endAhead: 144.0 km
     down: 1
+    downs:
+    - 135.22 km
     downward: 5
     rel: 9.32836e-3
     frac: 0.29291045
@@ -3497,6 +4405,8 @@ difficulty:
     endChunk: 135.5 km
     endAhead: 144.2 km
     down: 1
+    downs:
+    - 135.49 km
     downward: 4
     rel: 7.46269e-3
     frac: 0.30037313
@@ -3505,6 +4415,8 @@ difficulty:
     endChunk: 136.2 km
     endAhead: 144.9 km
     down: 1
+    downs:
+    - 136.17 km
     downward: 3
     rel: 5.59701e-3
     frac: 0.30597015
@@ -3513,6 +4425,8 @@ difficulty:
     endChunk: 141.6 km
     endAhead: 150.3 km
     down: 1
+    downs:
+    - 141.53 km
     downward: 7
     rel: 1.30597e-2
     frac: 0.31902985
@@ -3521,6 +4435,8 @@ difficulty:
     endChunk: 142.1 km
     endAhead: 150.8 km
     down: 1
+    downs:
+    - 142.05 km
     downward: 7
     rel: 1.30597e-2
     frac: 0.33208955
@@ -3529,6 +4445,8 @@ difficulty:
     endChunk: 146.1 km
     endAhead: 154.8 km
     down: 1
+    downs:
+    - 146.04 km
     downward: 12
     rel: 2.238806e-2
     frac: 0.35447761
@@ -3537,6 +4455,9 @@ difficulty:
     endChunk: 146.6 km
     endAhead: 155.3 km
     down: 2
+    downs:
+    - 146.5 km
+    - 146.6 km
     downward: 12
     rel: 2.238806e-2
     frac: 0.37686567
@@ -3545,6 +4466,8 @@ difficulty:
     endChunk: 148.5 km
     endAhead: 157.2 km
     down: 1
+    downs:
+    - 148.4 km
     downward: 11
     rel: 2.052239e-2
     frac: 0.39738806
@@ -3553,6 +4476,8 @@ difficulty:
     endChunk: 149.3 km
     endAhead: 158.0 km
     down: 1
+    downs:
+    - 149.2 km
     downward: 10
     rel: 1.865672e-2
     frac: 0.41604478
@@ -3561,6 +4486,8 @@ difficulty:
     endChunk: 149.6 km
     endAhead: 158.3 km
     down: 1
+    downs:
+    - 149.53 km
     downward: 9
     rel: 1.679104e-2
     frac: 0.43283582
@@ -3569,6 +4496,9 @@ difficulty:
     endChunk: 150.6 km
     endAhead: 159.3 km
     down: 2
+    downs:
+    - 150.54 km
+    - 150.56 km
     downward: 8
     rel: 1.492537e-2
     frac: 0.44776119
@@ -3577,6 +4507,8 @@ difficulty:
     endChunk: 151.0 km
     endAhead: 159.7 km
     down: 1
+    downs:
+    - 150.94 km
     downward: 7
     rel: 1.30597e-2
     frac: 0.4608209
@@ -3585,6 +4517,8 @@ difficulty:
     endChunk: 151.1 km
     endAhead: 159.8 km
     down: 1
+    downs:
+    - 151.03 km
     downward: 6
     rel: 1.119403e-2
     frac: 0.47201493
@@ -3593,6 +4527,8 @@ difficulty:
     endChunk: 152.9 km
     endAhead: 161.6 km
     down: 1
+    downs:
+    - 152.85 km
     downward: 5
     rel: 9.32836e-3
     frac: 0.48134328
@@ -3601,6 +4537,8 @@ difficulty:
     endChunk: 153.1 km
     endAhead: 161.8 km
     down: 1
+    downs:
+    - 153.0 km
     downward: 4
     rel: 7.46269e-3
     frac: 0.48880597
@@ -3609,6 +4547,8 @@ difficulty:
     endChunk: 153.3 km
     endAhead: 162.0 km
     down: 1
+    downs:
+    - 153.23 km
     downward: 3
     rel: 5.59701e-3
     frac: 0.49440299
@@ -3617,6 +4557,8 @@ difficulty:
     endChunk: 153.6 km
     endAhead: 162.3 km
     down: 1
+    downs:
+    - 153.56 km
     downward: 2
     rel: 3.73134e-3
     frac: 0.49813433
@@ -3625,6 +4567,8 @@ difficulty:
     endChunk: 154.9 km
     endAhead: 163.6 km
     down: 1
+    downs:
+    - 154.85 km
     downward: 1
     rel: 1.86567e-3
     frac: 0.5

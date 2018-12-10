@@ -50,6 +50,23 @@ difficulty:
     - 2.23 km
     - 4.74 km
     - 4.92 km
+    downers:
+    - - '46'
+      - Jonathon Foote
+    - - '17'
+      - John Urlich
+    - - '88'
+      - Martin Sielaff
+    - - '50'
+      - Monique Pavy
+    - - '28'
+      - Evgeniya Laritskaya
+    - - '37'
+      - Peter Ebeling
+    - - '19'
+      - Mikhail Karmazin
+    - - '16'
+      - Grant Edward
     downward: 7
     rel: 1.020408e-2
     frac: 1.020408e-2
@@ -62,6 +79,13 @@ difficulty:
     - 5.33 km
     - 5.33 km
     - 5.38 km
+    downers:
+    - - '53'
+      - Hadewych van Kempen
+    - - '21'
+      - Gavin Myers
+    - - '40'
+      - Phil de Joux
     downward: 6
     rel: 8.74636e-3
     frac: 1.895044e-2
@@ -72,6 +96,9 @@ difficulty:
     down: 1
     downs:
     - 5.4 km
+    downers:
+    - - '32'
+      - Kathryn O'Riordan
     downward: 5
     rel: 7.28863e-3
     frac: 2.623907e-2
@@ -82,6 +109,9 @@ difficulty:
     down: 1
     downs:
     - 6.11 km
+    downers:
+    - - '78'
+      - Christine Aichner
     downward: 4
     rel: 5.8309e-3
     frac: 3.206997e-2
@@ -92,6 +122,9 @@ difficulty:
     down: 1
     downs:
     - 6.75 km
+    downers:
+    - - '44'
+      - Francoise Dieuzeide-banet
     downward: 6
     rel: 8.74636e-3
     frac: 4.081633e-2
@@ -102,6 +135,9 @@ difficulty:
     down: 1
     downs:
     - 8.28 km
+    downers:
+    - - '57'
+      - Julia Kucherenko
     downward: 7
     rel: 1.020408e-2
     frac: 5.102041e-2
@@ -112,6 +148,9 @@ difficulty:
     down: 1
     downs:
     - 9.05 km
+    downers:
+    - - '72'
+      - Tove Heaney
     downward: 6
     rel: 8.74636e-3
     frac: 5.976676e-2
@@ -122,6 +161,9 @@ difficulty:
     down: 1
     downs:
     - 10.46 km
+    downers:
+    - - '67'
+      - ! 'Andy Phillips '
     downward: 7
     rel: 1.020408e-2
     frac: 6.997085e-2
@@ -132,6 +174,9 @@ difficulty:
     down: 1
     downs:
     - 10.52 km
+    downers:
+    - - '29'
+      - Konstantin Lukyanov
     downward: 6
     rel: 8.74636e-3
     frac: 7.87172e-2
@@ -142,6 +187,9 @@ difficulty:
     down: 1
     downs:
     - 10.8 km
+    downers:
+    - - '83'
+      - Peter Dall
     downward: 5
     rel: 7.28863e-3
     frac: 8.600583e-2
@@ -153,6 +201,11 @@ difficulty:
     downs:
     - 11.74 km
     - 11.75 km
+    downers:
+    - - '22'
+      - Mark Russell
+    - - '98'
+      - Patrick Collin
     downward: 4
     rel: 5.8309e-3
     frac: 9.183673e-2
@@ -163,6 +216,9 @@ difficulty:
     down: 1
     downs:
     - 12.13 km
+    downers:
+    - - '55'
+      - Kari Suhonen
     downward: 3
     rel: 4.37318e-3
     frac: 9.620991e-2
@@ -173,6 +229,9 @@ difficulty:
     down: 1
     downs:
     - 13.67 km
+    downers:
+    - - '20'
+      - ! 'Luke Browne '
     downward: 3
     rel: 4.37318e-3
     frac: 0.10058309
@@ -183,6 +242,9 @@ difficulty:
     down: 1
     downs:
     - 14.05 km
+    downers:
+    - - '62'
+      - Enda Murphy
     downward: 2
     rel: 2.91545e-3
     frac: 0.10349854
@@ -194,6 +256,11 @@ difficulty:
     downs:
     - 16.7 km
     - 16.76 km
+    downers:
+    - - '27'
+      - ! 'Boris Marold '
+    - - '5'
+      - Wolfgang Siess
     downward: 2
     rel: 2.91545e-3
     frac: 0.10641399
@@ -204,6 +271,9 @@ difficulty:
     down: 1
     downs:
     - 18.58 km
+    downers:
+    - - '105'
+      - Chris Lawry
     downward: 2
     rel: 2.91545e-3
     frac: 0.10932945
@@ -214,6 +284,9 @@ difficulty:
     down: 1
     downs:
     - 21.05 km
+    downers:
+    - - '82'
+      - Alain Le-gac
     downward: 3
     rel: 4.37318e-3
     frac: 0.11370262
@@ -224,6 +297,9 @@ difficulty:
     down: 1
     downs:
     - 24.43 km
+    downers:
+    - - '2'
+      - Pablo Gomes
     downward: 8
     rel: 1.166181e-2
     frac: 0.12536443
@@ -234,6 +310,9 @@ difficulty:
     down: 1
     downs:
     - 24.76 km
+    downers:
+    - - '34'
+      - Jon snr Durand
     downward: 7
     rel: 1.020408e-2
     frac: 0.13556851
@@ -244,6 +323,9 @@ difficulty:
     down: 1
     downs:
     - 26.4 km
+    downers:
+    - - '97'
+      - Konrad Schwab
     downward: 8
     rel: 1.166181e-2
     frac: 0.14723032
@@ -254,6 +336,9 @@ difficulty:
     down: 1
     downs:
     - 26.74 km
+    downers:
+    - - '96'
+      - Brodrick Osborne
     downward: 8
     rel: 1.166181e-2
     frac: 0.15889213
@@ -264,6 +349,9 @@ difficulty:
     down: 1
     downs:
     - 26.89 km
+    downers:
+    - - '94'
+      - Mitch Shipley
     downward: 7
     rel: 1.020408e-2
     frac: 0.16909621
@@ -274,6 +362,9 @@ difficulty:
     down: 1
     downs:
     - 26.97 km
+    downers:
+    - - '64'
+      - Gustavo Carvalho
     downward: 6
     rel: 8.74636e-3
     frac: 0.17784257
@@ -284,6 +375,9 @@ difficulty:
     down: 1
     downs:
     - 27.69 km
+    downers:
+    - - '6'
+      - Phil Schroder
     downward: 5
     rel: 7.28863e-3
     frac: 0.1851312
@@ -294,6 +388,9 @@ difficulty:
     down: 1
     downs:
     - 28.25 km
+    downers:
+    - - '76'
+      - Dmitriy Korchenkov
     downward: 6
     rel: 8.74636e-3
     frac: 0.19387755
@@ -304,6 +401,9 @@ difficulty:
     down: 1
     downs:
     - 28.98 km
+    downers:
+    - - '33'
+      - Conrad Loten
     downward: 6
     rel: 8.74636e-3
     frac: 0.20262391
@@ -314,6 +414,9 @@ difficulty:
     down: 1
     downs:
     - 29.73 km
+    downers:
+    - - '24'
+      - Christian Baertschi
     downward: 5
     rel: 7.28863e-3
     frac: 0.20991254
@@ -324,6 +427,9 @@ difficulty:
     down: 1
     downs:
     - 30.51 km
+    downers:
+    - - '73'
+      - Gijs Wanders
     downward: 5
     rel: 7.28863e-3
     frac: 0.21720117
@@ -335,6 +441,11 @@ difficulty:
     downs:
     - 32.22 km
     - 32.26 km
+    downers:
+    - - '69'
+      - Jonathan Kinred
+    - - '87'
+      - Corinna Schwiegershausen
     downward: 6
     rel: 8.74636e-3
     frac: 0.22594752
@@ -345,6 +456,9 @@ difficulty:
     down: 1
     downs:
     - 32.34 km
+    downers:
+    - - '18'
+      - Jürgen Pasker
     downward: 5
     rel: 7.28863e-3
     frac: 0.23323615
@@ -355,6 +469,9 @@ difficulty:
     down: 1
     downs:
     - 32.63 km
+    downers:
+    - - '51'
+      - Rob In 't Groen
     downward: 4
     rel: 5.8309e-3
     frac: 0.23906706
@@ -365,6 +482,9 @@ difficulty:
     down: 1
     downs:
     - 33.96 km
+    downers:
+    - - '10'
+      - Marat Matnurov
     downward: 5
     rel: 7.28863e-3
     frac: 0.24635569
@@ -375,6 +495,9 @@ difficulty:
     down: 1
     downs:
     - 35.28 km
+    downers:
+    - - '100'
+      - Attila Bertok
     downward: 11
     rel: 1.603499e-2
     frac: 0.26239067
@@ -386,6 +509,11 @@ difficulty:
     downs:
     - 36.01 km
     - 36.03 km
+    downers:
+    - - '103'
+      - Roberto Nichele
+    - - '35'
+      - Carole Tobler
     downward: 12
     rel: 1.749271e-2
     frac: 0.27988338
@@ -396,6 +524,9 @@ difficulty:
     down: 1
     downs:
     - 36.97 km
+    downers:
+    - - '3'
+      - Rod Flockhart
     downward: 13
     rel: 1.895044e-2
     frac: 0.29883382
@@ -406,6 +537,9 @@ difficulty:
     down: 1
     downs:
     - 37.77 km
+    downers:
+    - - '31'
+      - Andrew Barnes
     downward: 12
     rel: 1.749271e-2
     frac: 0.31632653
@@ -417,6 +551,11 @@ difficulty:
     downs:
     - 38.39 km
     - 38.4 km
+    downers:
+    - - '45'
+      - Roland Wöhrle
+    - - '68'
+      - Grant Heaney
     downward: 11
     rel: 1.603499e-2
     frac: 0.33236152
@@ -427,6 +566,9 @@ difficulty:
     down: 1
     downs:
     - 38.46 km
+    downers:
+    - - '13'
+      - John Smith
     downward: 10
     rel: 1.457726e-2
     frac: 0.34693878
@@ -437,6 +579,9 @@ difficulty:
     down: 1
     downs:
     - 38.63 km
+    downers:
+    - - '106'
+      - Adam Parer
     downward: 9
     rel: 1.311953e-2
     frac: 0.36005831
@@ -447,6 +592,9 @@ difficulty:
     down: 1
     downs:
     - 38.73 km
+    downers:
+    - - '14'
+      - Olav Lien Olsen
     downward: 8
     rel: 1.166181e-2
     frac: 0.37172012
@@ -459,6 +607,13 @@ difficulty:
     - 38.81 km
     - 38.89 km
     - 38.9 km
+    downers:
+    - - '7'
+      - Shaun O'neill
+    - - '47'
+      - ! 'Miguel De Jong '
+    - - '65'
+      - Davis Straub
     downward: 7
     rel: 1.020408e-2
     frac: 0.3819242
@@ -470,6 +625,11 @@ difficulty:
     downs:
     - 38.9 km
     - 38.92 km
+    downers:
+    - - '43'
+      - Les Bestt
+    - - '48'
+      - Paolo Rosichetti
     downward: 6
     rel: 8.74636e-3
     frac: 0.39067055
@@ -480,6 +640,9 @@ difficulty:
     down: 1
     downs:
     - 39.39 km
+    downers:
+    - - '59'
+      - Artur Dzamikhov
     downward: 6
     rel: 8.74636e-3
     frac: 0.39941691
@@ -490,6 +653,9 @@ difficulty:
     down: 1
     downs:
     - 39.57 km
+    downers:
+    - - '99'
+      - Tullio Gervasoni
     downward: 5
     rel: 7.28863e-3
     frac: 0.40670554
@@ -501,6 +667,11 @@ difficulty:
     downs:
     - 40.15 km
     - 40.18 km
+    downers:
+    - - '25'
+      - Nick Purcell
+    - - '81'
+      - Valentino Bau
     downward: 5
     rel: 7.28863e-3
     frac: 0.41399417
@@ -512,6 +683,11 @@ difficulty:
     downs:
     - 40.7 km
     - 40.71 km
+    downers:
+    - - '75'
+      - Joerg Bajewski
+    - - '102'
+      - Davide Guiducci
     downward: 4
     rel: 5.8309e-3
     frac: 0.41982507
@@ -522,6 +698,9 @@ difficulty:
     down: 1
     downs:
     - 40.97 km
+    downers:
+    - - '70'
+      - Matthew Barlow
     downward: 3
     rel: 4.37318e-3
     frac: 0.42419825
@@ -532,6 +711,9 @@ difficulty:
     down: 1
     downs:
     - 43.29 km
+    downers:
+    - - '92'
+      - Hans Kiefinger
     downward: 4
     rel: 5.8309e-3
     frac: 0.43002915
@@ -542,6 +724,9 @@ difficulty:
     down: 1
     downs:
     - 44.09 km
+    downers:
+    - - '66'
+      - Jonas Lobitz
     downward: 3
     rel: 4.37318e-3
     frac: 0.43440233
@@ -552,6 +737,9 @@ difficulty:
     down: 1
     downs:
     - 46.18 km
+    downers:
+    - - '49'
+      - Tony Giammichele
     downward: 3
     rel: 4.37318e-3
     frac: 0.43877551
@@ -562,6 +750,9 @@ difficulty:
     down: 1
     downs:
     - 46.77 km
+    downers:
+    - - '90'
+      - Adam Stevens
     downward: 3
     rel: 4.37318e-3
     frac: 0.44314869
@@ -572,6 +763,9 @@ difficulty:
     down: 1
     downs:
     - 48.53 km
+    downers:
+    - - '77'
+      - Len Paton
     downward: 2
     rel: 2.91545e-3
     frac: 0.44606414
@@ -582,6 +776,9 @@ difficulty:
     down: 1
     downs:
     - 50.31 km
+    downers:
+    - - '42'
+      - Suan Selenati
     downward: 3
     rel: 4.37318e-3
     frac: 0.45043732
@@ -592,6 +789,9 @@ difficulty:
     down: 1
     downs:
     - 53.53 km
+    downers:
+    - - '84'
+      - Yasuhiro Noma
     downward: 3
     rel: 4.37318e-3
     frac: 0.4548105
@@ -602,6 +802,9 @@ difficulty:
     down: 1
     downs:
     - 54.45 km
+    downers:
+    - - '30'
+      - Fredy Bircher
     downward: 2
     rel: 2.91545e-3
     frac: 0.45772595
@@ -612,6 +815,9 @@ difficulty:
     down: 1
     downs:
     - 54.91 km
+    downers:
+    - - '23'
+      - Gerolf Heinrichs
     downward: 1
     rel: 1.45773e-3
     frac: 0.45918367
@@ -622,6 +828,9 @@ difficulty:
     down: 1
     downs:
     - 61.23 km
+    downers:
+    - - '95'
+      - Anton Struganov
     downward: 1
     rel: 1.45773e-3
     frac: 0.4606414
@@ -632,6 +841,9 @@ difficulty:
     down: 1
     downs:
     - 72.57 km
+    downers:
+    - - '12'
+      - Glen Mcfarlane
     downward: 2
     rel: 2.91545e-3
     frac: 0.46355685
@@ -642,6 +854,9 @@ difficulty:
     down: 1
     downs:
     - 72.91 km
+    downers:
+    - - '11'
+      - Steve Blenkinsop
     downward: 1
     rel: 1.45773e-3
     frac: 0.46501458
@@ -652,6 +867,9 @@ difficulty:
     down: 1
     downs:
     - 80.62 km
+    downers:
+    - - '26'
+      - Guy Hubbard
     downward: 4
     rel: 5.8309e-3
     frac: 0.47084548
@@ -662,6 +880,9 @@ difficulty:
     down: 1
     downs:
     - 80.71 km
+    downers:
+    - - '85'
+      - Neil Petersen
     downward: 3
     rel: 4.37318e-3
     frac: 0.47521866
@@ -672,6 +893,9 @@ difficulty:
     down: 1
     downs:
     - 81.43 km
+    downers:
+    - - '89'
+      - Scott Barrett
     downward: 2
     rel: 2.91545e-3
     frac: 0.47813411
@@ -682,6 +906,9 @@ difficulty:
     down: 1
     downs:
     - 82.55 km
+    downers:
+    - - '56'
+      - Cameron Tunbridge
     downward: 1
     rel: 1.45773e-3
     frac: 0.47959184
@@ -692,6 +919,9 @@ difficulty:
     down: 1
     downs:
     - 87.3 km
+    downers:
+    - - '15'
+      - ! 'Jean Souviron '
     downward: 3
     rel: 4.37318e-3
     frac: 0.48396501
@@ -702,6 +932,9 @@ difficulty:
     down: 1
     downs:
     - 88.03 km
+    downers:
+    - - '93'
+      - Trent Brown
     downward: 2
     rel: 2.91545e-3
     frac: 0.48688047
@@ -712,6 +945,9 @@ difficulty:
     down: 1
     downs:
     - 88.5 km
+    downers:
+    - - '1'
+      - Lukas Bader
     downward: 1
     rel: 1.45773e-3
     frac: 0.48833819
@@ -722,6 +958,9 @@ difficulty:
     down: 1
     downs:
     - 103.21 km
+    downers:
+    - - '36'
+      - Franz Herrmann
     downward: 1
     rel: 1.45773e-3
     frac: 0.48979592
@@ -732,6 +971,9 @@ difficulty:
     down: 1
     downs:
     - 108.89 km
+    downers:
+    - - '60'
+      - Rohan Holtkamp
     downward: 2
     rel: 2.91545e-3
     frac: 0.49271137
@@ -742,6 +984,9 @@ difficulty:
     down: 1
     downs:
     - 112.78 km
+    downers:
+    - - '8'
+      - Primoz Gricar
     downward: 1
     rel: 1.45773e-3
     frac: 0.4941691
@@ -752,6 +997,9 @@ difficulty:
     down: 1
     downs:
     - 117.92 km
+    downers:
+    - - '61'
+      - Jonny Durand
     downward: 1
     rel: 1.45773e-3
     frac: 0.49562682
@@ -762,6 +1010,9 @@ difficulty:
     down: 1
     downs:
     - 124.26 km
+    downers:
+    - - '41'
+      - Curt Warren
     downward: 2
     rel: 2.91545e-3
     frac: 0.49854227
@@ -772,6 +1023,9 @@ difficulty:
     down: 1
     downs:
     - 124.36 km
+    downers:
+    - - '71'
+      - Edoardo Giudiceandrea
     downward: 1
     rel: 1.45773e-3
     frac: 0.5
@@ -782,6 +1036,9 @@ difficulty:
     down: 1
     downs:
     - -4.0e-2 km
+    downers:
+    - - '34'
+      - Jon snr Durand
     downward: 2
     rel: 3.58423e-3
     frac: 3.58423e-3
@@ -792,6 +1049,9 @@ difficulty:
     down: 1
     downs:
     - 8.75 km
+    downers:
+    - - '97'
+      - Konrad Schwab
     downward: 2
     rel: 3.58423e-3
     frac: 7.16846e-3
@@ -802,6 +1062,9 @@ difficulty:
     down: 1
     downs:
     - 11.3 km
+    downers:
+    - - '96'
+      - Brodrick Osborne
     downward: 3
     rel: 5.37634e-3
     frac: 1.25448e-2
@@ -812,6 +1075,9 @@ difficulty:
     down: 1
     downs:
     - 15.64 km
+    downers:
+    - - '94'
+      - Mitch Shipley
     downward: 4
     rel: 7.16846e-3
     frac: 1.971326e-2
@@ -822,6 +1088,9 @@ difficulty:
     down: 1
     downs:
     - 16.79 km
+    downers:
+    - - '64'
+      - Gustavo Carvalho
     downward: 3
     rel: 5.37634e-3
     frac: 2.508961e-2
@@ -832,6 +1101,9 @@ difficulty:
     down: 1
     downs:
     - 20.08 km
+    downers:
+    - - '6'
+      - Phil Schroder
     downward: 3
     rel: 5.37634e-3
     frac: 3.046595e-2
@@ -842,6 +1114,9 @@ difficulty:
     down: 1
     downs:
     - 20.61 km
+    downers:
+    - - '76'
+      - Dmitriy Korchenkov
     downward: 2
     rel: 3.58423e-3
     frac: 3.405018e-2
@@ -852,6 +1127,9 @@ difficulty:
     down: 1
     downs:
     - 23.94 km
+    downers:
+    - - '33'
+      - Conrad Loten
     downward: 1
     rel: 1.79211e-3
     frac: 3.584229e-2
@@ -862,6 +1140,9 @@ difficulty:
     down: 1
     downs:
     - 30.9 km
+    downers:
+    - - '24'
+      - Christian Baertschi
     downward: 1
     rel: 1.79211e-3
     frac: 3.763441e-2
@@ -872,6 +1153,9 @@ difficulty:
     down: 1
     downs:
     - 37.95 km
+    downers:
+    - - '73'
+      - Gijs Wanders
     downward: 1
     rel: 1.79211e-3
     frac: 3.942652e-2
@@ -882,6 +1166,9 @@ difficulty:
     down: 1
     downs:
     - 44.61 km
+    downers:
+    - - '69'
+      - Jonathan Kinred
     downward: 1
     rel: 1.79211e-3
     frac: 4.121864e-2
@@ -892,6 +1179,9 @@ difficulty:
     down: 1
     downs:
     - 52.99 km
+    downers:
+    - - '87'
+      - Corinna Schwiegershausen
     downward: 1
     rel: 1.79211e-3
     frac: 4.301075e-2
@@ -902,6 +1192,9 @@ difficulty:
     down: 1
     downs:
     - 61.22 km
+    downers:
+    - - '18'
+      - Jürgen Pasker
     downward: 3
     rel: 5.37634e-3
     frac: 4.83871e-2
@@ -912,6 +1205,9 @@ difficulty:
     down: 1
     downs:
     - 61.88 km
+    downers:
+    - - '51'
+      - Rob In 't Groen
     downward: 2
     rel: 3.58423e-3
     frac: 5.197133e-2
@@ -922,6 +1218,9 @@ difficulty:
     down: 1
     downs:
     - 61.99 km
+    downers:
+    - - '10'
+      - Marat Matnurov
     downward: 1
     rel: 1.79211e-3
     frac: 5.376344e-2
@@ -932,6 +1231,9 @@ difficulty:
     down: 1
     downs:
     - 73.58 km
+    downers:
+    - - '100'
+      - Attila Bertok
     downward: 5
     rel: 8.96057e-3
     frac: 6.272401e-2
@@ -942,6 +1244,9 @@ difficulty:
     down: 1
     downs:
     - 75.41 km
+    downers:
+    - - '103'
+      - Roberto Nichele
     downward: 4
     rel: 7.16846e-3
     frac: 6.989247e-2
@@ -952,6 +1257,9 @@ difficulty:
     down: 1
     downs:
     - 77.36 km
+    downers:
+    - - '35'
+      - Carole Tobler
     downward: 3
     rel: 5.37634e-3
     frac: 7.526882e-2
@@ -962,6 +1270,9 @@ difficulty:
     down: 1
     downs:
     - 78.96 km
+    downers:
+    - - '3'
+      - Rod Flockhart
     downward: 2
     rel: 3.58423e-3
     frac: 7.885305e-2
@@ -972,6 +1283,9 @@ difficulty:
     down: 1
     downs:
     - 79.75 km
+    downers:
+    - - '31'
+      - Andrew Barnes
     downward: 1
     rel: 1.79211e-3
     frac: 8.064516e-2
@@ -982,6 +1296,9 @@ difficulty:
     down: 1
     downs:
     - 88.94 km
+    downers:
+    - - '45'
+      - Roland Wöhrle
     downward: 6
     rel: 1.075269e-2
     frac: 9.139785e-2
@@ -992,6 +1309,9 @@ difficulty:
     down: 1
     downs:
     - 91.09 km
+    downers:
+    - - '68'
+      - Grant Heaney
     downward: 6
     rel: 1.075269e-2
     frac: 0.10215054
@@ -1002,6 +1322,9 @@ difficulty:
     down: 1
     downs:
     - 91.93 km
+    downers:
+    - - '13'
+      - John Smith
     downward: 6
     rel: 1.075269e-2
     frac: 0.11290323
@@ -1013,6 +1336,11 @@ difficulty:
     downs:
     - 92.52 km
     - 92.53 km
+    downers:
+    - - '106'
+      - Adam Parer
+    - - '14'
+      - Olav Lien Olsen
     downward: 5
     rel: 8.96057e-3
     frac: 0.1218638
@@ -1023,6 +1351,9 @@ difficulty:
     down: 1
     downs:
     - 93.72 km
+    downers:
+    - - '7'
+      - Shaun O'neill
     downward: 5
     rel: 8.96057e-3
     frac: 0.13082437
@@ -1033,6 +1364,9 @@ difficulty:
     down: 1
     downs:
     - 94.1 km
+    downers:
+    - - '47'
+      - ! 'Miguel De Jong '
     downward: 4
     rel: 7.16846e-3
     frac: 0.13799283
@@ -1043,6 +1377,9 @@ difficulty:
     down: 1
     downs:
     - 95.47 km
+    downers:
+    - - '65'
+      - Davis Straub
     downward: 4
     rel: 7.16846e-3
     frac: 0.14516129
@@ -1053,6 +1390,9 @@ difficulty:
     down: 1
     downs:
     - 98.19 km
+    downers:
+    - - '43'
+      - Les Bestt
     downward: 3
     rel: 5.37634e-3
     frac: 0.15053763
@@ -1063,6 +1403,9 @@ difficulty:
     down: 1
     downs:
     - 99.7 km
+    downers:
+    - - '48'
+      - Paolo Rosichetti
     downward: 2
     rel: 3.58423e-3
     frac: 0.15412186
@@ -1073,6 +1416,9 @@ difficulty:
     down: 1
     downs:
     - 100.82 km
+    downers:
+    - - '59'
+      - Artur Dzamikhov
     downward: 5
     rel: 8.96057e-3
     frac: 0.16308244
@@ -1083,6 +1429,9 @@ difficulty:
     down: 1
     downs:
     - 106.14 km
+    downers:
+    - - '99'
+      - Tullio Gervasoni
     downward: 7
     rel: 1.25448e-2
     frac: 0.17562724
@@ -1093,6 +1442,9 @@ difficulty:
     down: 1
     downs:
     - 106.3 km
+    downers:
+    - - '25'
+      - Nick Purcell
     downward: 6
     rel: 1.075269e-2
     frac: 0.18637993
@@ -1103,6 +1455,9 @@ difficulty:
     down: 1
     downs:
     - 106.63 km
+    downers:
+    - - '81'
+      - Valentino Bau
     downward: 5
     rel: 8.96057e-3
     frac: 0.1953405
@@ -1113,6 +1468,9 @@ difficulty:
     down: 1
     downs:
     - 106.98 km
+    downers:
+    - - '75'
+      - Joerg Bajewski
     downward: 4
     rel: 7.16846e-3
     frac: 0.20250896
@@ -1123,6 +1481,9 @@ difficulty:
     down: 1
     downs:
     - 107.35 km
+    downers:
+    - - '102'
+      - Davide Guiducci
     downward: 5
     rel: 8.96057e-3
     frac: 0.21146953
@@ -1133,6 +1494,9 @@ difficulty:
     down: 1
     downs:
     - 107.65 km
+    downers:
+    - - '70'
+      - Matthew Barlow
     downward: 5
     rel: 8.96057e-3
     frac: 0.22043011
@@ -1143,6 +1507,9 @@ difficulty:
     down: 1
     downs:
     - 110.14 km
+    downers:
+    - - '92'
+      - Hans Kiefinger
     downward: 8
     rel: 1.433692e-2
     frac: 0.23476703
@@ -1153,6 +1520,9 @@ difficulty:
     down: 1
     downs:
     - 113.26 km
+    downers:
+    - - '66'
+      - Jonas Lobitz
     downward: 13
     rel: 2.329749e-2
     frac: 0.25806452
@@ -1163,6 +1533,9 @@ difficulty:
     down: 1
     downs:
     - 113.32 km
+    downers:
+    - - '49'
+      - Tony Giammichele
     downward: 12
     rel: 2.150538e-2
     frac: 0.27956989
@@ -1173,6 +1546,9 @@ difficulty:
     down: 1
     downs:
     - 113.62 km
+    downers:
+    - - '90'
+      - Adam Stevens
     downward: 12
     rel: 2.150538e-2
     frac: 0.30107527
@@ -1183,6 +1559,9 @@ difficulty:
     down: 1
     downs:
     - 114.23 km
+    downers:
+    - - '77'
+      - Len Paton
     downward: 11
     rel: 1.971326e-2
     frac: 0.32078853
@@ -1193,6 +1572,9 @@ difficulty:
     down: 1
     downs:
     - 114.45 km
+    downers:
+    - - '42'
+      - Suan Selenati
     downward: 11
     rel: 1.971326e-2
     frac: 0.34050179
@@ -1204,6 +1586,11 @@ difficulty:
     downs:
     - 114.55 km
     - 114.56 km
+    downers:
+    - - '84'
+      - Yasuhiro Noma
+    - - '30'
+      - Fredy Bircher
     downward: 11
     rel: 1.971326e-2
     frac: 0.36021505
@@ -1214,6 +1601,9 @@ difficulty:
     down: 1
     downs:
     - 115.23 km
+    downers:
+    - - '23'
+      - Gerolf Heinrichs
     downward: 10
     rel: 1.792115e-2
     frac: 0.3781362
@@ -1225,6 +1615,11 @@ difficulty:
     downs:
     - 116.61 km
     - 116.64 km
+    downers:
+    - - '95'
+      - Anton Struganov
+    - - '12'
+      - Glen Mcfarlane
     downward: 9
     rel: 1.612903e-2
     frac: 0.39426523
@@ -1235,6 +1630,9 @@ difficulty:
     down: 1
     downs:
     - 116.7 km
+    downers:
+    - - '11'
+      - Steve Blenkinsop
     downward: 8
     rel: 1.433692e-2
     frac: 0.40860215
@@ -1245,6 +1643,9 @@ difficulty:
     down: 1
     downs:
     - 116.83 km
+    downers:
+    - - '26'
+      - Guy Hubbard
     downward: 7
     rel: 1.25448e-2
     frac: 0.42114695
@@ -1255,6 +1656,9 @@ difficulty:
     down: 1
     downs:
     - 116.91 km
+    downers:
+    - - '85'
+      - Neil Petersen
     downward: 6
     rel: 1.075269e-2
     frac: 0.43189964
@@ -1265,6 +1669,9 @@ difficulty:
     down: 1
     downs:
     - 117.01 km
+    downers:
+    - - '89'
+      - Scott Barrett
     downward: 5
     rel: 8.96057e-3
     frac: 0.44086022
@@ -1275,6 +1682,9 @@ difficulty:
     down: 1
     downs:
     - 117.38 km
+    downers:
+    - - '56'
+      - Cameron Tunbridge
     downward: 4
     rel: 7.16846e-3
     frac: 0.44802867
@@ -1285,6 +1695,9 @@ difficulty:
     down: 1
     downs:
     - 119.79 km
+    downers:
+    - - '15'
+      - ! 'Jean Souviron '
     downward: 5
     rel: 8.96057e-3
     frac: 0.45698925
@@ -1295,6 +1708,9 @@ difficulty:
     down: 1
     downs:
     - 120.63 km
+    downers:
+    - - '93'
+      - Trent Brown
     downward: 5
     rel: 8.96057e-3
     frac: 0.46594982
@@ -1305,6 +1721,9 @@ difficulty:
     down: 1
     downs:
     - 120.78 km
+    downers:
+    - - '1'
+      - Lukas Bader
     downward: 4
     rel: 7.16846e-3
     frac: 0.47311828
@@ -1315,6 +1734,9 @@ difficulty:
     down: 1
     downs:
     - 125.75 km
+    downers:
+    - - '36'
+      - Franz Herrmann
     downward: 5
     rel: 8.96057e-3
     frac: 0.48207885
@@ -1325,6 +1747,9 @@ difficulty:
     down: 1
     downs:
     - 125.85 km
+    downers:
+    - - '60'
+      - Rohan Holtkamp
     downward: 4
     rel: 7.16846e-3
     frac: 0.48924731
@@ -1335,6 +1760,9 @@ difficulty:
     down: 1
     downs:
     - 126.77 km
+    downers:
+    - - '8'
+      - Primoz Gricar
     downward: 3
     rel: 5.37634e-3
     frac: 0.49462366
@@ -1345,6 +1773,9 @@ difficulty:
     down: 1
     downs:
     - 127.48 km
+    downers:
+    - - '61'
+      - Jonny Durand
     downward: 2
     rel: 3.58423e-3
     frac: 0.49820789
@@ -1356,6 +1787,11 @@ difficulty:
     downs:
     - 128.03 km
     - 128.05 km
+    downers:
+    - - '41'
+      - Curt Warren
+    - - '71'
+      - Edoardo Giudiceandrea
     downward: 1
     rel: 1.79211e-3
     frac: 0.5
@@ -1366,6 +1802,9 @@ difficulty:
     down: 1
     downs:
     - -18.06 km
+    downers:
+    - - '103'
+      - Roberto Nichele
     downward: 5
     rel: 1.552795e-2
     frac: 1.552795e-2
@@ -1376,6 +1815,9 @@ difficulty:
     down: 1
     downs:
     - 9.24 km
+    downers:
+    - - '35'
+      - Carole Tobler
     downward: 5
     rel: 1.552795e-2
     frac: 3.10559e-2
@@ -1386,6 +1828,9 @@ difficulty:
     down: 1
     downs:
     - 13.55 km
+    downers:
+    - - '3'
+      - Rod Flockhart
     downward: 6
     rel: 1.863354e-2
     frac: 4.968944e-2
@@ -1396,6 +1841,9 @@ difficulty:
     down: 1
     downs:
     - 13.61 km
+    downers:
+    - - '31'
+      - Andrew Barnes
     downward: 5
     rel: 1.552795e-2
     frac: 6.521739e-2
@@ -1406,6 +1854,9 @@ difficulty:
     down: 1
     downs:
     - 15.73 km
+    downers:
+    - - '45'
+      - Roland Wöhrle
     downward: 6
     rel: 1.863354e-2
     frac: 8.385093e-2
@@ -1417,6 +1868,11 @@ difficulty:
     downs:
     - 18.58 km
     - 18.58 km
+    downers:
+    - - '68'
+      - Grant Heaney
+    - - '13'
+      - John Smith
     downward: 6
     rel: 1.863354e-2
     frac: 0.10248447
@@ -1427,6 +1883,9 @@ difficulty:
     down: 1
     downs:
     - 23.09 km
+    downers:
+    - - '106'
+      - Adam Parer
     downward: 5
     rel: 1.552795e-2
     frac: 0.11801242
@@ -1437,6 +1896,9 @@ difficulty:
     down: 1
     downs:
     - 24.23 km
+    downers:
+    - - '14'
+      - Olav Lien Olsen
     downward: 4
     rel: 1.242236e-2
     frac: 0.13043478
@@ -1447,6 +1909,9 @@ difficulty:
     down: 1
     downs:
     - 26.29 km
+    downers:
+    - - '7'
+      - Shaun O'neill
     downward: 4
     rel: 1.242236e-2
     frac: 0.14285714
@@ -1457,6 +1922,9 @@ difficulty:
     down: 1
     downs:
     - 26.61 km
+    downers:
+    - - '47'
+      - ! 'Miguel De Jong '
     downward: 3
     rel: 9.31677e-3
     frac: 0.15217391
@@ -1467,6 +1935,9 @@ difficulty:
     down: 1
     downs:
     - 29.19 km
+    downers:
+    - - '65'
+      - Davis Straub
     downward: 2
     rel: 6.21118e-3
     frac: 0.15838509
@@ -1477,6 +1948,9 @@ difficulty:
     down: 1
     downs:
     - 38.05 km
+    downers:
+    - - '43'
+      - Les Bestt
     downward: 2
     rel: 6.21118e-3
     frac: 0.16459627
@@ -1487,6 +1961,9 @@ difficulty:
     down: 1
     downs:
     - 43.6 km
+    downers:
+    - - '48'
+      - Paolo Rosichetti
     downward: 3
     rel: 9.31677e-3
     frac: 0.17391304
@@ -1497,6 +1974,9 @@ difficulty:
     down: 1
     downs:
     - 50.29 km
+    downers:
+    - - '59'
+      - Artur Dzamikhov
     downward: 3
     rel: 9.31677e-3
     frac: 0.18322981
@@ -1507,6 +1987,9 @@ difficulty:
     down: 1
     downs:
     - 50.98 km
+    downers:
+    - - '99'
+      - Tullio Gervasoni
     downward: 2
     rel: 6.21118e-3
     frac: 0.18944099
@@ -1517,6 +2000,9 @@ difficulty:
     down: 1
     downs:
     - 56.18 km
+    downers:
+    - - '25'
+      - Nick Purcell
     downward: 1
     rel: 3.10559e-3
     frac: 0.19254658
@@ -1527,6 +2013,9 @@ difficulty:
     down: 1
     downs:
     - 70.2 km
+    downers:
+    - - '81'
+      - Valentino Bau
     downward: 6
     rel: 1.863354e-2
     frac: 0.21118012
@@ -1537,6 +2026,9 @@ difficulty:
     down: 1
     downs:
     - 73.39 km
+    downers:
+    - - '75'
+      - Joerg Bajewski
     downward: 5
     rel: 1.552795e-2
     frac: 0.22670807
@@ -1547,6 +2039,9 @@ difficulty:
     down: 1
     downs:
     - 75.62 km
+    downers:
+    - - '102'
+      - Davide Guiducci
     downward: 4
     rel: 1.242236e-2
     frac: 0.23913043
@@ -1557,6 +2052,9 @@ difficulty:
     down: 1
     downs:
     - 79.64 km
+    downers:
+    - - '70'
+      - Matthew Barlow
     downward: 3
     rel: 9.31677e-3
     frac: 0.2484472
@@ -1567,6 +2065,9 @@ difficulty:
     down: 1
     downs:
     - 79.79 km
+    downers:
+    - - '92'
+      - Hans Kiefinger
     downward: 2
     rel: 6.21118e-3
     frac: 0.25465839
@@ -1577,6 +2078,9 @@ difficulty:
     down: 1
     downs:
     - 81.67 km
+    downers:
+    - - '66'
+      - Jonas Lobitz
     downward: 2
     rel: 6.21118e-3
     frac: 0.26086957
@@ -1587,6 +2091,9 @@ difficulty:
     down: 1
     downs:
     - 93.47 km
+    downers:
+    - - '49'
+      - Tony Giammichele
     downward: 4
     rel: 1.242236e-2
     frac: 0.27329193
@@ -1598,6 +2105,11 @@ difficulty:
     downs:
     - 97.01 km
     - 97.07 km
+    downers:
+    - - '90'
+      - Adam Stevens
+    - - '77'
+      - Len Paton
     downward: 5
     rel: 1.552795e-2
     frac: 0.28881988
@@ -1608,6 +2120,9 @@ difficulty:
     down: 1
     downs:
     - 97.32 km
+    downers:
+    - - '42'
+      - Suan Selenati
     downward: 4
     rel: 1.242236e-2
     frac: 0.30124224
@@ -1618,6 +2133,9 @@ difficulty:
     down: 1
     downs:
     - 97.47 km
+    downers:
+    - - '84'
+      - Yasuhiro Noma
     downward: 3
     rel: 9.31677e-3
     frac: 0.31055901
@@ -1628,6 +2146,9 @@ difficulty:
     down: 1
     downs:
     - 108.41 km
+    downers:
+    - - '30'
+      - Fredy Bircher
     downward: 4
     rel: 1.242236e-2
     frac: 0.32298137
@@ -1638,6 +2159,9 @@ difficulty:
     down: 1
     downs:
     - 109.07 km
+    downers:
+    - - '23'
+      - Gerolf Heinrichs
     downward: 4
     rel: 1.242236e-2
     frac: 0.33540373
@@ -1648,6 +2172,9 @@ difficulty:
     down: 1
     downs:
     - 109.74 km
+    downers:
+    - - '95'
+      - Anton Struganov
     downward: 4
     rel: 1.242236e-2
     frac: 0.34782609
@@ -1658,6 +2185,9 @@ difficulty:
     down: 1
     downs:
     - 119.42 km
+    downers:
+    - - '12'
+      - Glen Mcfarlane
     downward: 6
     rel: 1.863354e-2
     frac: 0.36645963
@@ -1668,6 +2198,9 @@ difficulty:
     down: 1
     downs:
     - 121.19 km
+    downers:
+    - - '11'
+      - Steve Blenkinsop
     downward: 6
     rel: 1.863354e-2
     frac: 0.38509317
@@ -1678,6 +2211,9 @@ difficulty:
     down: 1
     downs:
     - 121.63 km
+    downers:
+    - - '26'
+      - Guy Hubbard
     downward: 5
     rel: 1.552795e-2
     frac: 0.40062112
@@ -1688,6 +2224,9 @@ difficulty:
     down: 1
     downs:
     - 127.66 km
+    downers:
+    - - '85'
+      - Neil Petersen
     downward: 5
     rel: 1.552795e-2
     frac: 0.41614907
@@ -1698,6 +2237,9 @@ difficulty:
     down: 1
     downs:
     - 130.2 km
+    downers:
+    - - '89'
+      - Scott Barrett
     downward: 4
     rel: 1.242236e-2
     frac: 0.42857143
@@ -1708,6 +2250,9 @@ difficulty:
     down: 1
     downs:
     - 130.95 km
+    downers:
+    - - '56'
+      - Cameron Tunbridge
     downward: 3
     rel: 9.31677e-3
     frac: 0.4378882
@@ -1718,6 +2263,9 @@ difficulty:
     down: 1
     downs:
     - 133.22 km
+    downers:
+    - - '15'
+      - ! 'Jean Souviron '
     downward: 2
     rel: 6.21118e-3
     frac: 0.44409938
@@ -1728,6 +2276,9 @@ difficulty:
     down: 1
     downs:
     - 134.67 km
+    downers:
+    - - '93'
+      - Trent Brown
     downward: 1
     rel: 3.10559e-3
     frac: 0.44720497
@@ -1738,6 +2289,9 @@ difficulty:
     down: 1
     downs:
     - 147.24 km
+    downers:
+    - - '1'
+      - Lukas Bader
     downward: 1
     rel: 3.10559e-3
     frac: 0.45031056
@@ -1748,6 +2302,9 @@ difficulty:
     down: 1
     downs:
     - 168.03 km
+    downers:
+    - - '36'
+      - Franz Herrmann
     downward: 4
     rel: 1.242236e-2
     frac: 0.46273292
@@ -1758,6 +2315,9 @@ difficulty:
     down: 1
     downs:
     - 168.13 km
+    downers:
+    - - '60'
+      - Rohan Holtkamp
     downward: 3
     rel: 9.31677e-3
     frac: 0.47204969
@@ -1768,6 +2328,9 @@ difficulty:
     down: 1
     downs:
     - 168.21 km
+    downers:
+    - - '8'
+      - Primoz Gricar
     downward: 3
     rel: 9.31677e-3
     frac: 0.48136646
@@ -1778,6 +2341,9 @@ difficulty:
     down: 1
     downs:
     - 170.39 km
+    downers:
+    - - '61'
+      - Jonny Durand
     downward: 3
     rel: 9.31677e-3
     frac: 0.49068323
@@ -1788,6 +2354,9 @@ difficulty:
     down: 1
     downs:
     - 180.33 km
+    downers:
+    - - '41'
+      - Curt Warren
     downward: 2
     rel: 6.21118e-3
     frac: 0.49689441
@@ -1798,6 +2367,9 @@ difficulty:
     down: 1
     downs:
     - 180.77 km
+    downers:
+    - - '71'
+      - Edoardo Giudiceandrea
     downward: 1
     rel: 3.10559e-3
     frac: 0.5
@@ -1808,6 +2380,9 @@ difficulty:
     down: 1
     downs:
     - 3.61 km
+    downers:
+    - - '87'
+      - Corinna Schwiegershausen
     downward: 4
     rel: 1.129944e-2
     frac: 1.129944e-2
@@ -1818,6 +2393,9 @@ difficulty:
     down: 1
     downs:
     - 5.62 km
+    downers:
+    - - '18'
+      - Jürgen Pasker
     downward: 4
     rel: 1.129944e-2
     frac: 2.259887e-2
@@ -1828,6 +2406,9 @@ difficulty:
     down: 1
     downs:
     - 10.34 km
+    downers:
+    - - '51'
+      - Rob In 't Groen
     downward: 4
     rel: 1.129944e-2
     frac: 3.389831e-2
@@ -1838,6 +2419,9 @@ difficulty:
     down: 1
     downs:
     - 12.52 km
+    downers:
+    - - '10'
+      - Marat Matnurov
     downward: 3
     rel: 8.47458e-3
     frac: 4.237288e-2
@@ -1848,6 +2432,9 @@ difficulty:
     down: 1
     downs:
     - 13.42 km
+    downers:
+    - - '100'
+      - Attila Bertok
     downward: 2
     rel: 5.64972e-3
     frac: 4.80226e-2
@@ -1858,6 +2445,9 @@ difficulty:
     down: 1
     downs:
     - 15.74 km
+    downers:
+    - - '103'
+      - Roberto Nichele
     downward: 3
     rel: 8.47458e-3
     frac: 5.649718e-2
@@ -1868,6 +2458,9 @@ difficulty:
     down: 1
     downs:
     - 22.65 km
+    downers:
+    - - '35'
+      - Carole Tobler
     downward: 5
     rel: 1.412429e-2
     frac: 7.062147e-2
@@ -1878,6 +2471,9 @@ difficulty:
     down: 1
     downs:
     - 23.37 km
+    downers:
+    - - '3'
+      - Rod Flockhart
     downward: 4
     rel: 1.129944e-2
     frac: 8.19209e-2
@@ -1888,6 +2484,9 @@ difficulty:
     down: 1
     downs:
     - 25.27 km
+    downers:
+    - - '31'
+      - Andrew Barnes
     downward: 3
     rel: 8.47458e-3
     frac: 9.039548e-2
@@ -1898,6 +2497,9 @@ difficulty:
     down: 1
     downs:
     - 26.54 km
+    downers:
+    - - '45'
+      - Roland Wöhrle
     downward: 4
     rel: 1.129944e-2
     frac: 0.10169492
@@ -1908,6 +2510,9 @@ difficulty:
     down: 1
     downs:
     - 30.35 km
+    downers:
+    - - '68'
+      - Grant Heaney
     downward: 3
     rel: 8.47458e-3
     frac: 0.11016949
@@ -1918,6 +2523,9 @@ difficulty:
     down: 1
     downs:
     - 33.77 km
+    downers:
+    - - '13'
+      - John Smith
     downward: 3
     rel: 8.47458e-3
     frac: 0.11864407
@@ -1928,6 +2536,9 @@ difficulty:
     down: 1
     downs:
     - 34.4 km
+    downers:
+    - - '106'
+      - Adam Parer
     downward: 2
     rel: 5.64972e-3
     frac: 0.12429379
@@ -1938,6 +2549,9 @@ difficulty:
     down: 1
     downs:
     - 41.82 km
+    downers:
+    - - '14'
+      - Olav Lien Olsen
     downward: 5
     rel: 1.412429e-2
     frac: 0.13841808
@@ -1948,6 +2562,9 @@ difficulty:
     down: 1
     downs:
     - 43.11 km
+    downers:
+    - - '7'
+      - Shaun O'neill
     downward: 4
     rel: 1.129944e-2
     frac: 0.14971751
@@ -1958,6 +2575,9 @@ difficulty:
     down: 1
     downs:
     - 46.2 km
+    downers:
+    - - '47'
+      - ! 'Miguel De Jong '
     downward: 4
     rel: 1.129944e-2
     frac: 0.16101695
@@ -1968,6 +2588,9 @@ difficulty:
     down: 1
     downs:
     - 47.89 km
+    downers:
+    - - '65'
+      - Davis Straub
     downward: 6
     rel: 1.694915e-2
     frac: 0.1779661
@@ -1978,6 +2601,9 @@ difficulty:
     down: 1
     downs:
     - 48.85 km
+    downers:
+    - - '43'
+      - Les Bestt
     downward: 6
     rel: 1.694915e-2
     frac: 0.19491525
@@ -1988,6 +2614,9 @@ difficulty:
     down: 1
     downs:
     - 54.37 km
+    downers:
+    - - '48'
+      - Paolo Rosichetti
     downward: 6
     rel: 1.694915e-2
     frac: 0.21186441
@@ -1998,6 +2627,9 @@ difficulty:
     down: 1
     downs:
     - 54.75 km
+    downers:
+    - - '59'
+      - Artur Dzamikhov
     downward: 5
     rel: 1.412429e-2
     frac: 0.2259887
@@ -2008,6 +2640,9 @@ difficulty:
     down: 1
     downs:
     - 55.33 km
+    downers:
+    - - '99'
+      - Tullio Gervasoni
     downward: 5
     rel: 1.412429e-2
     frac: 0.24011299
@@ -2018,6 +2653,9 @@ difficulty:
     down: 1
     downs:
     - 55.94 km
+    downers:
+    - - '25'
+      - Nick Purcell
     downward: 4
     rel: 1.129944e-2
     frac: 0.25141243
@@ -2028,6 +2666,9 @@ difficulty:
     down: 1
     downs:
     - 56.7 km
+    downers:
+    - - '81'
+      - Valentino Bau
     downward: 3
     rel: 8.47458e-3
     frac: 0.25988701
@@ -2038,6 +2679,9 @@ difficulty:
     down: 1
     downs:
     - 58.28 km
+    downers:
+    - - '75'
+      - Joerg Bajewski
     downward: 3
     rel: 8.47458e-3
     frac: 0.26836158
@@ -2048,6 +2692,9 @@ difficulty:
     down: 1
     downs:
     - 63.23 km
+    downers:
+    - - '102'
+      - Davide Guiducci
     downward: 2
     rel: 5.64972e-3
     frac: 0.2740113
@@ -2059,6 +2706,11 @@ difficulty:
     downs:
     - 65.91 km
     - 65.98 km
+    downers:
+    - - '70'
+      - Matthew Barlow
+    - - '92'
+      - Hans Kiefinger
     downward: 1
     rel: 2.82486e-3
     frac: 0.27683616
@@ -2069,6 +2721,9 @@ difficulty:
     down: 1
     downs:
     - 78.92 km
+    downers:
+    - - '66'
+      - Jonas Lobitz
     downward: 3
     rel: 8.47458e-3
     frac: 0.28531073
@@ -2079,6 +2734,9 @@ difficulty:
     down: 1
     downs:
     - 83.71 km
+    downers:
+    - - '49'
+      - Tony Giammichele
     downward: 4
     rel: 1.129944e-2
     frac: 0.29661017
@@ -2089,6 +2747,9 @@ difficulty:
     down: 1
     downs:
     - 84.5 km
+    downers:
+    - - '90'
+      - Adam Stevens
     downward: 3
     rel: 8.47458e-3
     frac: 0.30508475
@@ -2099,6 +2760,9 @@ difficulty:
     down: 1
     downs:
     - 88.0 km
+    downers:
+    - - '77'
+      - Len Paton
     downward: 3
     rel: 8.47458e-3
     frac: 0.31355932
@@ -2109,6 +2773,9 @@ difficulty:
     down: 1
     downs:
     - 89.81 km
+    downers:
+    - - '42'
+      - Suan Selenati
     downward: 2
     rel: 5.64972e-3
     frac: 0.31920904
@@ -2119,6 +2786,9 @@ difficulty:
     down: 1
     downs:
     - 96.33 km
+    downers:
+    - - '84'
+      - Yasuhiro Noma
     downward: 5
     rel: 1.412429e-2
     frac: 0.33333333
@@ -2129,6 +2799,9 @@ difficulty:
     down: 1
     downs:
     - 98.9 km
+    downers:
+    - - '30'
+      - Fredy Bircher
     downward: 5
     rel: 1.412429e-2
     frac: 0.34745763
@@ -2139,6 +2812,9 @@ difficulty:
     down: 1
     downs:
     - 100.36 km
+    downers:
+    - - '23'
+      - Gerolf Heinrichs
     downward: 4
     rel: 1.129944e-2
     frac: 0.35875706
@@ -2149,6 +2825,9 @@ difficulty:
     down: 1
     downs:
     - 100.88 km
+    downers:
+    - - '95'
+      - Anton Struganov
     downward: 4
     rel: 1.129944e-2
     frac: 0.3700565
@@ -2159,6 +2838,9 @@ difficulty:
     down: 1
     downs:
     - 101.53 km
+    downers:
+    - - '12'
+      - Glen Mcfarlane
     downward: 3
     rel: 8.47458e-3
     frac: 0.37853107
@@ -2169,6 +2851,9 @@ difficulty:
     down: 1
     downs:
     - 106.17 km
+    downers:
+    - - '11'
+      - Steve Blenkinsop
     downward: 3
     rel: 8.47458e-3
     frac: 0.38700565
@@ -2179,6 +2864,9 @@ difficulty:
     down: 1
     downs:
     - 108.81 km
+    downers:
+    - - '26'
+      - Guy Hubbard
     downward: 3
     rel: 8.47458e-3
     frac: 0.39548023
@@ -2190,6 +2878,11 @@ difficulty:
     downs:
     - 113.24 km
     - 113.24 km
+    downers:
+    - - '85'
+      - Neil Petersen
+    - - '89'
+      - Scott Barrett
     downward: 3
     rel: 8.47458e-3
     frac: 0.4039548
@@ -2200,6 +2893,9 @@ difficulty:
     down: 1
     downs:
     - 116.86 km
+    downers:
+    - - '56'
+      - Cameron Tunbridge
     downward: 2
     rel: 5.64972e-3
     frac: 0.40960452
@@ -2210,6 +2906,9 @@ difficulty:
     down: 1
     downs:
     - 120.46 km
+    downers:
+    - - '15'
+      - ! 'Jean Souviron '
     downward: 6
     rel: 1.694915e-2
     frac: 0.42655367
@@ -2220,6 +2919,9 @@ difficulty:
     down: 1
     downs:
     - 126.74 km
+    downers:
+    - - '93'
+      - Trent Brown
     downward: 6
     rel: 1.694915e-2
     frac: 0.44350282
@@ -2230,6 +2932,9 @@ difficulty:
     down: 1
     downs:
     - 126.81 km
+    downers:
+    - - '1'
+      - Lukas Bader
     downward: 5
     rel: 1.412429e-2
     frac: 0.45762712
@@ -2240,6 +2945,9 @@ difficulty:
     down: 1
     downs:
     - 127.26 km
+    downers:
+    - - '36'
+      - Franz Herrmann
     downward: 4
     rel: 1.129944e-2
     frac: 0.46892655
@@ -2250,6 +2958,9 @@ difficulty:
     down: 1
     downs:
     - 128.57 km
+    downers:
+    - - '60'
+      - Rohan Holtkamp
     downward: 3
     rel: 8.47458e-3
     frac: 0.47740113
@@ -2260,6 +2971,9 @@ difficulty:
     down: 1
     downs:
     - 128.78 km
+    downers:
+    - - '8'
+      - Primoz Gricar
     downward: 2
     rel: 5.64972e-3
     frac: 0.48305085
@@ -2270,6 +2984,9 @@ difficulty:
     down: 1
     downs:
     - 133.53 km
+    downers:
+    - - '61'
+      - Jonny Durand
     downward: 3
     rel: 8.47458e-3
     frac: 0.49152542
@@ -2280,6 +2997,9 @@ difficulty:
     down: 1
     downs:
     - 139.47 km
+    downers:
+    - - '41'
+      - Curt Warren
     downward: 2
     rel: 5.64972e-3
     frac: 0.49717514
@@ -2290,6 +3010,9 @@ difficulty:
     down: 1
     downs:
     - 140.52 km
+    downers:
+    - - '71'
+      - Edoardo Giudiceandrea
     downward: 1
     rel: 2.82486e-3
     frac: 0.5
@@ -2301,6 +3024,11 @@ difficulty:
     downs:
     - 0.94 km
     - 1.03 km
+    downers:
+    - - '2'
+      - Pablo Gomes
+    - - '34'
+      - Jon snr Durand
     downward: 4
     rel: 7.06714e-3
     frac: 7.06714e-3
@@ -2311,6 +3039,9 @@ difficulty:
     down: 1
     downs:
     - 7.28 km
+    downers:
+    - - '97'
+      - Konrad Schwab
     downward: 5
     rel: 8.83392e-3
     frac: 1.590106e-2
@@ -2321,6 +3052,9 @@ difficulty:
     down: 1
     downs:
     - 10.72 km
+    downers:
+    - - '96'
+      - Brodrick Osborne
     downward: 5
     rel: 8.83392e-3
     frac: 2.473498e-2
@@ -2331,6 +3065,9 @@ difficulty:
     down: 1
     downs:
     - 13.68 km
+    downers:
+    - - '94'
+      - Mitch Shipley
     downward: 6
     rel: 1.060071e-2
     frac: 3.533569e-2
@@ -2341,6 +3078,9 @@ difficulty:
     down: 1
     downs:
     - 16.55 km
+    downers:
+    - - '64'
+      - Gustavo Carvalho
     downward: 6
     rel: 1.060071e-2
     frac: 4.59364e-2
@@ -2351,6 +3091,9 @@ difficulty:
     down: 1
     downs:
     - 17.39 km
+    downers:
+    - - '6'
+      - Phil Schroder
     downward: 5
     rel: 8.83392e-3
     frac: 5.477032e-2
@@ -2361,6 +3104,9 @@ difficulty:
     down: 1
     downs:
     - 19.83 km
+    downers:
+    - - '76'
+      - Dmitriy Korchenkov
     downward: 5
     rel: 8.83392e-3
     frac: 6.360424e-2
@@ -2371,6 +3117,9 @@ difficulty:
     down: 1
     downs:
     - 22.27 km
+    downers:
+    - - '33'
+      - Conrad Loten
     downward: 4
     rel: 7.06714e-3
     frac: 7.067138e-2
@@ -2381,6 +3130,9 @@ difficulty:
     down: 1
     downs:
     - 23.44 km
+    downers:
+    - - '24'
+      - Christian Baertschi
     downward: 3
     rel: 5.30035e-3
     frac: 7.597173e-2
@@ -2391,6 +3143,9 @@ difficulty:
     down: 1
     downs:
     - 26.78 km
+    downers:
+    - - '73'
+      - Gijs Wanders
     downward: 2
     rel: 3.53357e-3
     frac: 7.95053e-2
@@ -2401,6 +3156,9 @@ difficulty:
     down: 1
     downs:
     - 30.2 km
+    downers:
+    - - '69'
+      - Jonathan Kinred
     downward: 2
     rel: 3.53357e-3
     frac: 8.303887e-2
@@ -2411,6 +3169,9 @@ difficulty:
     down: 1
     downs:
     - 39.15 km
+    downers:
+    - - '87'
+      - Corinna Schwiegershausen
     downward: 4
     rel: 7.06714e-3
     frac: 9.010601e-2
@@ -2421,6 +3182,9 @@ difficulty:
     down: 1
     downs:
     - 44.22 km
+    downers:
+    - - '18'
+      - Jürgen Pasker
     downward: 5
     rel: 8.83392e-3
     frac: 9.893993e-2
@@ -2431,6 +3195,9 @@ difficulty:
     down: 1
     downs:
     - 44.61 km
+    downers:
+    - - '51'
+      - Rob In 't Groen
     downward: 4
     rel: 7.06714e-3
     frac: 0.10600707
@@ -2441,6 +3208,9 @@ difficulty:
     down: 1
     downs:
     - 49.24 km
+    downers:
+    - - '10'
+      - Marat Matnurov
     downward: 4
     rel: 7.06714e-3
     frac: 0.1130742
@@ -2451,6 +3221,9 @@ difficulty:
     down: 1
     downs:
     - 51.63 km
+    downers:
+    - - '100'
+      - Attila Bertok
     downward: 7
     rel: 1.236749e-2
     frac: 0.1254417
@@ -2461,6 +3234,9 @@ difficulty:
     down: 1
     downs:
     - 53.62 km
+    downers:
+    - - '103'
+      - Roberto Nichele
     downward: 7
     rel: 1.236749e-2
     frac: 0.13780919
@@ -2471,6 +3247,9 @@ difficulty:
     down: 1
     downs:
     - 57.13 km
+    downers:
+    - - '35'
+      - Carole Tobler
     downward: 6
     rel: 1.060071e-2
     frac: 0.14840989
@@ -2481,6 +3260,9 @@ difficulty:
     down: 1
     downs:
     - 60.38 km
+    downers:
+    - - '3'
+      - Rod Flockhart
     downward: 8
     rel: 1.413428e-2
     frac: 0.16254417
@@ -2491,6 +3273,9 @@ difficulty:
     down: 1
     downs:
     - 60.48 km
+    downers:
+    - - '31'
+      - Andrew Barnes
     downward: 7
     rel: 1.236749e-2
     frac: 0.17491166
@@ -2501,6 +3286,9 @@ difficulty:
     down: 1
     downs:
     - 61.27 km
+    downers:
+    - - '45'
+      - Roland Wöhrle
     downward: 6
     rel: 1.060071e-2
     frac: 0.18551237
@@ -2511,6 +3299,9 @@ difficulty:
     down: 1
     downs:
     - 62.1 km
+    downers:
+    - - '68'
+      - Grant Heaney
     downward: 6
     rel: 1.060071e-2
     frac: 0.19611307
@@ -2521,6 +3312,9 @@ difficulty:
     down: 1
     downs:
     - 62.61 km
+    downers:
+    - - '13'
+      - John Smith
     downward: 6
     rel: 1.060071e-2
     frac: 0.20671378
@@ -2531,6 +3325,9 @@ difficulty:
     down: 1
     downs:
     - 67.73 km
+    downers:
+    - - '106'
+      - Adam Parer
     downward: 8
     rel: 1.413428e-2
     frac: 0.22084806
@@ -2541,6 +3338,9 @@ difficulty:
     down: 1
     downs:
     - 68.02 km
+    downers:
+    - - '14'
+      - Olav Lien Olsen
     downward: 7
     rel: 1.236749e-2
     frac: 0.23321555
@@ -2551,6 +3351,9 @@ difficulty:
     down: 1
     downs:
     - 68.24 km
+    downers:
+    - - '7'
+      - Shaun O'neill
     downward: 6
     rel: 1.060071e-2
     frac: 0.24381625
@@ -2561,6 +3364,9 @@ difficulty:
     down: 1
     downs:
     - 71.91 km
+    downers:
+    - - '47'
+      - ! 'Miguel De Jong '
     downward: 6
     rel: 1.060071e-2
     frac: 0.25441696
@@ -2571,6 +3377,9 @@ difficulty:
     down: 1
     downs:
     - 73.07 km
+    downers:
+    - - '65'
+      - Davis Straub
     downward: 5
     rel: 8.83392e-3
     frac: 0.26325088
@@ -2581,6 +3390,9 @@ difficulty:
     down: 1
     downs:
     - 73.8 km
+    downers:
+    - - '43'
+      - Les Bestt
     downward: 4
     rel: 7.06714e-3
     frac: 0.27031802
@@ -2591,6 +3403,9 @@ difficulty:
     down: 1
     downs:
     - 76.4 km
+    downers:
+    - - '48'
+      - Paolo Rosichetti
     downward: 3
     rel: 5.30035e-3
     frac: 0.27561837
@@ -2601,6 +3416,9 @@ difficulty:
     down: 1
     downs:
     - 77.62 km
+    downers:
+    - - '59'
+      - Artur Dzamikhov
     downward: 2
     rel: 3.53357e-3
     frac: 0.27915194
@@ -2611,6 +3429,9 @@ difficulty:
     down: 1
     downs:
     - 79.86 km
+    downers:
+    - - '99'
+      - Tullio Gervasoni
     downward: 2
     rel: 3.53357e-3
     frac: 0.28268551
@@ -2621,6 +3442,9 @@ difficulty:
     down: 1
     downs:
     - 89.72 km
+    downers:
+    - - '25'
+      - Nick Purcell
     downward: 2
     rel: 3.53357e-3
     frac: 0.28621908
@@ -2631,6 +3455,9 @@ difficulty:
     down: 1
     downs:
     - 94.9 km
+    downers:
+    - - '81'
+      - Valentino Bau
     downward: 1
     rel: 1.76678e-3
     frac: 0.28798587
@@ -2641,6 +3468,9 @@ difficulty:
     down: 1
     downs:
     - 107.24 km
+    downers:
+    - - '75'
+      - Joerg Bajewski
     downward: 2
     rel: 3.53357e-3
     frac: 0.29151943
@@ -2651,6 +3481,9 @@ difficulty:
     down: 1
     downs:
     - 113.32 km
+    downers:
+    - - '102'
+      - Davide Guiducci
     downward: 2
     rel: 3.53357e-3
     frac: 0.295053
@@ -2661,6 +3494,9 @@ difficulty:
     down: 1
     downs:
     - 122.92 km
+    downers:
+    - - '70'
+      - Matthew Barlow
     downward: 2
     rel: 3.53357e-3
     frac: 0.29858657
@@ -2671,6 +3507,9 @@ difficulty:
     down: 1
     downs:
     - 130.98 km
+    downers:
+    - - '92'
+      - Hans Kiefinger
     downward: 3
     rel: 5.30035e-3
     frac: 0.30388693
@@ -2681,6 +3520,9 @@ difficulty:
     down: 1
     downs:
     - 138.92 km
+    downers:
+    - - '66'
+      - Jonas Lobitz
     downward: 2
     rel: 3.53357e-3
     frac: 0.30742049
@@ -2691,6 +3533,9 @@ difficulty:
     down: 1
     downs:
     - 140.38 km
+    downers:
+    - - '49'
+      - Tony Giammichele
     downward: 1
     rel: 1.76678e-3
     frac: 0.30918728
@@ -2701,6 +3546,9 @@ difficulty:
     down: 1
     downs:
     - 157.66 km
+    downers:
+    - - '90'
+      - Adam Stevens
     downward: 3
     rel: 5.30035e-3
     frac: 0.31448763
@@ -2711,6 +3559,9 @@ difficulty:
     down: 1
     downs:
     - 159.36 km
+    downers:
+    - - '77'
+      - Len Paton
     downward: 3
     rel: 5.30035e-3
     frac: 0.31978799
@@ -2721,6 +3572,9 @@ difficulty:
     down: 1
     downs:
     - 165.84 km
+    downers:
+    - - '42'
+      - Suan Selenati
     downward: 3
     rel: 5.30035e-3
     frac: 0.32508834
@@ -2731,6 +3585,9 @@ difficulty:
     down: 1
     downs:
     - 169.54 km
+    downers:
+    - - '84'
+      - Yasuhiro Noma
     downward: 10
     rel: 1.766784e-2
     frac: 0.34275618
@@ -2741,6 +3598,9 @@ difficulty:
     down: 1
     downs:
     - 174.82 km
+    downers:
+    - - '30'
+      - Fredy Bircher
     downward: 9
     rel: 1.590106e-2
     frac: 0.35865724
@@ -2751,6 +3611,9 @@ difficulty:
     down: 1
     downs:
     - 176.74 km
+    downers:
+    - - '23'
+      - Gerolf Heinrichs
     downward: 10
     rel: 1.766784e-2
     frac: 0.37632509
@@ -2761,6 +3624,9 @@ difficulty:
     down: 1
     downs:
     - 177.4 km
+    downers:
+    - - '95'
+      - Anton Struganov
     downward: 9
     rel: 1.590106e-2
     frac: 0.39222615
@@ -2771,6 +3637,9 @@ difficulty:
     down: 1
     downs:
     - 178.29 km
+    downers:
+    - - '12'
+      - Glen Mcfarlane
     downward: 8
     rel: 1.413428e-2
     frac: 0.40636042
@@ -2781,6 +3650,9 @@ difficulty:
     down: 1
     downs:
     - 178.65 km
+    downers:
+    - - '11'
+      - Steve Blenkinsop
     downward: 7
     rel: 1.236749e-2
     frac: 0.41872792
@@ -2791,6 +3663,9 @@ difficulty:
     down: 1
     downs:
     - 178.89 km
+    downers:
+    - - '26'
+      - Guy Hubbard
     downward: 6
     rel: 1.060071e-2
     frac: 0.42932862
@@ -2801,6 +3676,9 @@ difficulty:
     down: 1
     downs:
     - 179.29 km
+    downers:
+    - - '85'
+      - Neil Petersen
     downward: 6
     rel: 1.060071e-2
     frac: 0.43992933
@@ -2811,6 +3689,9 @@ difficulty:
     down: 1
     downs:
     - 179.47 km
+    downers:
+    - - '89'
+      - Scott Barrett
     downward: 5
     rel: 8.83392e-3
     frac: 0.44876325
@@ -2821,6 +3702,9 @@ difficulty:
     down: 1
     downs:
     - 179.71 km
+    downers:
+    - - '56'
+      - Cameron Tunbridge
     downward: 4
     rel: 7.06714e-3
     frac: 0.45583039
@@ -2831,6 +3715,9 @@ difficulty:
     down: 1
     downs:
     - 185.94 km
+    downers:
+    - - '15'
+      - ! 'Jean Souviron '
     downward: 6
     rel: 1.060071e-2
     frac: 0.4664311
@@ -2841,6 +3728,9 @@ difficulty:
     down: 1
     downs:
     - 186.71 km
+    downers:
+    - - '93'
+      - Trent Brown
     downward: 5
     rel: 8.83392e-3
     frac: 0.47526502
@@ -2852,6 +3742,11 @@ difficulty:
     downs:
     - 189.36 km
     - 189.36 km
+    downers:
+    - - '1'
+      - Lukas Bader
+    - - '36'
+      - Franz Herrmann
     downward: 4
     rel: 7.06714e-3
     frac: 0.48233216
@@ -2862,6 +3757,9 @@ difficulty:
     down: 1
     downs:
     - 192.0 km
+    downers:
+    - - '60'
+      - Rohan Holtkamp
     downward: 4
     rel: 7.06714e-3
     frac: 0.48939929
@@ -2873,6 +3771,11 @@ difficulty:
     downs:
     - 193.18 km
     - 193.19 km
+    downers:
+    - - '8'
+      - Primoz Gricar
+    - - '61'
+      - Jonny Durand
     downward: 3
     rel: 5.30035e-3
     frac: 0.49469965
@@ -2883,6 +3786,9 @@ difficulty:
     down: 1
     downs:
     - 195.95 km
+    downers:
+    - - '41'
+      - Curt Warren
     downward: 2
     rel: 3.53357e-3
     frac: 0.49823322
@@ -2893,6 +3799,9 @@ difficulty:
     down: 1
     downs:
     - 201.11 km
+    downers:
+    - - '71'
+      - Edoardo Giudiceandrea
     downward: 1
     rel: 1.76678e-3
     frac: 0.5
@@ -2903,6 +3812,9 @@ difficulty:
     down: 1
     downs:
     - 13.36 km
+    downers:
+    - - '103'
+      - Roberto Nichele
     downward: 4
     rel: 1.156069e-2
     frac: 1.156069e-2
@@ -2913,6 +3825,9 @@ difficulty:
     down: 1
     downs:
     - 16.58 km
+    downers:
+    - - '35'
+      - Carole Tobler
     downward: 3
     rel: 8.67052e-3
     frac: 2.023121e-2
@@ -2923,6 +3838,9 @@ difficulty:
     down: 1
     downs:
     - 18.5 km
+    downers:
+    - - '3'
+      - Rod Flockhart
     downward: 3
     rel: 8.67052e-3
     frac: 2.890173e-2
@@ -2933,6 +3851,9 @@ difficulty:
     down: 1
     downs:
     - 22.45 km
+    downers:
+    - - '31'
+      - Andrew Barnes
     downward: 2
     rel: 5.78035e-3
     frac: 3.468208e-2
@@ -2943,6 +3864,9 @@ difficulty:
     down: 1
     downs:
     - 30.67 km
+    downers:
+    - - '45'
+      - Roland Wöhrle
     downward: 3
     rel: 8.67052e-3
     frac: 4.33526e-2
@@ -2953,6 +3877,9 @@ difficulty:
     down: 1
     downs:
     - 38.76 km
+    downers:
+    - - '68'
+      - Grant Heaney
     downward: 4
     rel: 1.156069e-2
     frac: 5.491329e-2
@@ -2963,6 +3890,9 @@ difficulty:
     down: 1
     downs:
     - 43.81 km
+    downers:
+    - - '13'
+      - John Smith
     downward: 5
     rel: 1.445087e-2
     frac: 6.936416e-2
@@ -2973,6 +3903,9 @@ difficulty:
     down: 1
     downs:
     - 47.65 km
+    downers:
+    - - '106'
+      - Adam Parer
     downward: 7
     rel: 2.023121e-2
     frac: 8.959538e-2
@@ -2983,6 +3916,9 @@ difficulty:
     down: 1
     downs:
     - 51.41 km
+    downers:
+    - - '14'
+      - Olav Lien Olsen
     downward: 7
     rel: 2.023121e-2
     frac: 0.10982659
@@ -2993,6 +3929,9 @@ difficulty:
     down: 1
     downs:
     - 56.05 km
+    downers:
+    - - '7'
+      - Shaun O'neill
     downward: 7
     rel: 2.023121e-2
     frac: 0.1300578
@@ -3003,6 +3942,9 @@ difficulty:
     down: 1
     downs:
     - 56.11 km
+    downers:
+    - - '47'
+      - ! 'Miguel De Jong '
     downward: 6
     rel: 1.734104e-2
     frac: 0.14739884
@@ -3013,6 +3955,9 @@ difficulty:
     down: 1
     downs:
     - 57.39 km
+    downers:
+    - - '65'
+      - Davis Straub
     downward: 6
     rel: 1.734104e-2
     frac: 0.16473988
@@ -3023,6 +3968,9 @@ difficulty:
     down: 1
     downs:
     - 58.83 km
+    downers:
+    - - '43'
+      - Les Bestt
     downward: 5
     rel: 1.445087e-2
     frac: 0.17919075
@@ -3033,6 +3981,9 @@ difficulty:
     down: 1
     downs:
     - 60.53 km
+    downers:
+    - - '48'
+      - Paolo Rosichetti
     downward: 4
     rel: 1.156069e-2
     frac: 0.19075145
@@ -3043,6 +3994,9 @@ difficulty:
     down: 1
     downs:
     - 61.51 km
+    downers:
+    - - '59'
+      - Artur Dzamikhov
     downward: 3
     rel: 8.67052e-3
     frac: 0.19942197
@@ -3053,6 +4007,9 @@ difficulty:
     down: 1
     downs:
     - 68.31 km
+    downers:
+    - - '99'
+      - Tullio Gervasoni
     downward: 2
     rel: 5.78035e-3
     frac: 0.20520231
@@ -3063,6 +4020,9 @@ difficulty:
     down: 1
     downs:
     - 70.25 km
+    downers:
+    - - '25'
+      - Nick Purcell
     downward: 1
     rel: 2.89017e-3
     frac: 0.20809249
@@ -3073,6 +4033,9 @@ difficulty:
     down: 1
     downs:
     - 86.32 km
+    downers:
+    - - '81'
+      - Valentino Bau
     downward: 7
     rel: 2.023121e-2
     frac: 0.2283237
@@ -3083,6 +4046,9 @@ difficulty:
     down: 1
     downs:
     - 89.41 km
+    downers:
+    - - '75'
+      - Joerg Bajewski
     downward: 6
     rel: 1.734104e-2
     frac: 0.24566474
@@ -3093,6 +4059,9 @@ difficulty:
     down: 1
     downs:
     - 90.11 km
+    downers:
+    - - '102'
+      - Davide Guiducci
     downward: 5
     rel: 1.445087e-2
     frac: 0.26011561
@@ -3103,6 +4072,9 @@ difficulty:
     down: 1
     downs:
     - 91.71 km
+    downers:
+    - - '70'
+      - Matthew Barlow
     downward: 4
     rel: 1.156069e-2
     frac: 0.2716763
@@ -3113,6 +4085,9 @@ difficulty:
     down: 1
     downs:
     - 93.27 km
+    downers:
+    - - '92'
+      - Hans Kiefinger
     downward: 3
     rel: 8.67052e-3
     frac: 0.28034682
@@ -3123,6 +4098,9 @@ difficulty:
     down: 1
     downs:
     - 93.35 km
+    downers:
+    - - '66'
+      - Jonas Lobitz
     downward: 2
     rel: 5.78035e-3
     frac: 0.28612717
@@ -3133,6 +4111,9 @@ difficulty:
     down: 1
     downs:
     - 94.37 km
+    downers:
+    - - '49'
+      - Tony Giammichele
     downward: 1
     rel: 2.89017e-3
     frac: 0.28901734
@@ -3143,6 +4124,9 @@ difficulty:
     down: 1
     downs:
     - 107.62 km
+    downers:
+    - - '90'
+      - Adam Stevens
     downward: 3
     rel: 8.67052e-3
     frac: 0.29768786
@@ -3153,6 +4137,9 @@ difficulty:
     down: 1
     downs:
     - 108.31 km
+    downers:
+    - - '77'
+      - Len Paton
     downward: 2
     rel: 5.78035e-3
     frac: 0.30346821
@@ -3163,6 +4150,9 @@ difficulty:
     down: 1
     downs:
     - 117.3 km
+    downers:
+    - - '42'
+      - Suan Selenati
     downward: 4
     rel: 1.156069e-2
     frac: 0.3150289
@@ -3173,6 +4163,9 @@ difficulty:
     down: 1
     downs:
     - 122.78 km
+    downers:
+    - - '84'
+      - Yasuhiro Noma
     downward: 4
     rel: 1.156069e-2
     frac: 0.3265896
@@ -3183,6 +4176,9 @@ difficulty:
     down: 1
     downs:
     - 125.26 km
+    downers:
+    - - '30'
+      - Fredy Bircher
     downward: 5
     rel: 1.445087e-2
     frac: 0.34104046
@@ -3193,6 +4189,9 @@ difficulty:
     down: 1
     downs:
     - 126.03 km
+    downers:
+    - - '23'
+      - Gerolf Heinrichs
     downward: 4
     rel: 1.156069e-2
     frac: 0.35260116
@@ -3203,6 +4202,9 @@ difficulty:
     down: 1
     downs:
     - 133.72 km
+    downers:
+    - - '95'
+      - Anton Struganov
     downward: 4
     rel: 1.156069e-2
     frac: 0.36416185
@@ -3213,6 +4215,9 @@ difficulty:
     down: 1
     downs:
     - 136.6 km
+    downers:
+    - - '12'
+      - Glen Mcfarlane
     downward: 3
     rel: 8.67052e-3
     frac: 0.37283237
@@ -3223,6 +4228,9 @@ difficulty:
     down: 1
     downs:
     - 137.39 km
+    downers:
+    - - '11'
+      - Steve Blenkinsop
     downward: 2
     rel: 5.78035e-3
     frac: 0.37861272
@@ -3233,6 +4241,9 @@ difficulty:
     down: 1
     downs:
     - 144.78 km
+    downers:
+    - - '26'
+      - Guy Hubbard
     downward: 1
     rel: 2.89017e-3
     frac: 0.38150289
@@ -3243,6 +4254,9 @@ difficulty:
     down: 1
     downs:
     - 158.32 km
+    downers:
+    - - '85'
+      - Neil Petersen
     downward: 3
     rel: 8.67052e-3
     frac: 0.39017341
@@ -3253,6 +4267,9 @@ difficulty:
     down: 1
     downs:
     - 158.69 km
+    downers:
+    - - '89'
+      - Scott Barrett
     downward: 2
     rel: 5.78035e-3
     frac: 0.39595376
@@ -3263,6 +4280,9 @@ difficulty:
     down: 1
     downs:
     - 158.71 km
+    downers:
+    - - '56'
+      - Cameron Tunbridge
     downward: 2
     rel: 5.78035e-3
     frac: 0.4017341
@@ -3273,6 +4293,9 @@ difficulty:
     down: 1
     downs:
     - 171.93 km
+    downers:
+    - - '15'
+      - ! 'Jean Souviron '
     downward: 5
     rel: 1.445087e-2
     frac: 0.41618497
@@ -3283,6 +4306,9 @@ difficulty:
     down: 1
     downs:
     - 177.19 km
+    downers:
+    - - '93'
+      - Trent Brown
     downward: 4
     rel: 1.156069e-2
     frac: 0.42774566
@@ -3293,6 +4319,9 @@ difficulty:
     down: 1
     downs:
     - 182.5 km
+    downers:
+    - - '1'
+      - Lukas Bader
     downward: 6
     rel: 1.734104e-2
     frac: 0.44508671
@@ -3303,6 +4332,9 @@ difficulty:
     down: 1
     downs:
     - 183.84 km
+    downers:
+    - - '36'
+      - Franz Herrmann
     downward: 5
     rel: 1.445087e-2
     frac: 0.45953757
@@ -3313,6 +4345,9 @@ difficulty:
     down: 1
     downs:
     - 184.17 km
+    downers:
+    - - '60'
+      - Rohan Holtkamp
     downward: 4
     rel: 1.156069e-2
     frac: 0.47109827
@@ -3323,6 +4358,9 @@ difficulty:
     down: 1
     downs:
     - 190.74 km
+    downers:
+    - - '8'
+      - Primoz Gricar
     downward: 4
     rel: 1.156069e-2
     frac: 0.48265896
@@ -3333,6 +4371,9 @@ difficulty:
     down: 1
     downs:
     - 191.93 km
+    downers:
+    - - '61'
+      - Jonny Durand
     downward: 3
     rel: 8.67052e-3
     frac: 0.49132948
@@ -3343,6 +4384,9 @@ difficulty:
     down: 1
     downs:
     - 193.43 km
+    downers:
+    - - '41'
+      - Curt Warren
     downward: 2
     rel: 5.78035e-3
     frac: 0.49710983
@@ -3353,6 +4397,9 @@ difficulty:
     down: 1
     downs:
     - 198.75 km
+    downers:
+    - - '71'
+      - Edoardo Giudiceandrea
     downward: 1
     rel: 2.89017e-3
     frac: 0.5
@@ -3364,6 +4411,11 @@ difficulty:
     downs:
     - 0.65 km
     - 0.7 km
+    downers:
+    - - '40'
+      - Phil de Joux
+    - - '32'
+      - Kathryn O'Riordan
     downward: 1
     rel: 1.59236e-3
     frac: 1.59236e-3
@@ -3374,6 +4426,9 @@ difficulty:
     down: 1
     downs:
     - 13.13 km
+    downers:
+    - - '78'
+      - Christine Aichner
     downward: 5
     rel: 7.96178e-3
     frac: 9.55414e-3
@@ -3384,6 +4439,9 @@ difficulty:
     down: 1
     downs:
     - 15.23 km
+    downers:
+    - - '44'
+      - Francoise Dieuzeide-banet
     downward: 7
     rel: 1.11465e-2
     frac: 2.070064e-2
@@ -3394,6 +4452,9 @@ difficulty:
     down: 1
     downs:
     - 15.33 km
+    downers:
+    - - '57'
+      - Julia Kucherenko
     downward: 6
     rel: 9.55414e-3
     frac: 3.025478e-2
@@ -3404,6 +4465,9 @@ difficulty:
     down: 1
     downs:
     - 18.42 km
+    downers:
+    - - '72'
+      - Tove Heaney
     downward: 5
     rel: 7.96178e-3
     frac: 3.821656e-2
@@ -3415,6 +4479,11 @@ difficulty:
     downs:
     - 18.86 km
     - 18.9 km
+    downers:
+    - - '67'
+      - ! 'Andy Phillips '
+    - - '29'
+      - Konstantin Lukyanov
     downward: 4
     rel: 6.36943e-3
     frac: 4.458599e-2
@@ -3425,6 +4494,9 @@ difficulty:
     down: 1
     downs:
     - 19.95 km
+    downers:
+    - - '83'
+      - Peter Dall
     downward: 4
     rel: 6.36943e-3
     frac: 5.095541e-2
@@ -3435,6 +4507,9 @@ difficulty:
     down: 1
     downs:
     - 20.82 km
+    downers:
+    - - '22'
+      - Mark Russell
     downward: 3
     rel: 4.77707e-3
     frac: 5.573248e-2
@@ -3445,6 +4520,9 @@ difficulty:
     down: 1
     downs:
     - 21.61 km
+    downers:
+    - - '98'
+      - Patrick Collin
     downward: 2
     rel: 3.18471e-3
     frac: 5.89172e-2
@@ -3455,6 +4533,9 @@ difficulty:
     down: 1
     downs:
     - 26.23 km
+    downers:
+    - - '55'
+      - Kari Suhonen
     downward: 3
     rel: 4.77707e-3
     frac: 6.369427e-2
@@ -3465,6 +4546,9 @@ difficulty:
     down: 1
     downs:
     - 30.76 km
+    downers:
+    - - '20'
+      - ! 'Luke Browne '
     downward: 4
     rel: 6.36943e-3
     frac: 7.006369e-2
@@ -3475,6 +4559,9 @@ difficulty:
     down: 1
     downs:
     - 32.51 km
+    downers:
+    - - '62'
+      - Enda Murphy
     downward: 3
     rel: 4.77707e-3
     frac: 7.484076e-2
@@ -3485,6 +4572,9 @@ difficulty:
     down: 1
     downs:
     - 34.32 km
+    downers:
+    - - '27'
+      - ! 'Boris Marold '
     downward: 3
     rel: 4.77707e-3
     frac: 7.961783e-2
@@ -3495,6 +4585,9 @@ difficulty:
     down: 1
     downs:
     - 34.63 km
+    downers:
+    - - '5'
+      - Wolfgang Siess
     downward: 2
     rel: 3.18471e-3
     frac: 8.280255e-2
@@ -3505,6 +4598,9 @@ difficulty:
     down: 1
     downs:
     - 39.51 km
+    downers:
+    - - '105'
+      - Chris Lawry
     downward: 3
     rel: 4.77707e-3
     frac: 8.757962e-2
@@ -3515,6 +4611,9 @@ difficulty:
     down: 1
     downs:
     - 41.98 km
+    downers:
+    - - '82'
+      - Alain Le-gac
     downward: 4
     rel: 6.36943e-3
     frac: 9.394904e-2
@@ -3525,6 +4624,9 @@ difficulty:
     down: 1
     downs:
     - 44.4 km
+    downers:
+    - - '2'
+      - Pablo Gomes
     downward: 3
     rel: 4.77707e-3
     frac: 9.872611e-2
@@ -3535,6 +4637,9 @@ difficulty:
     down: 1
     downs:
     - 48.07 km
+    downers:
+    - - '34'
+      - Jon snr Durand
     downward: 4
     rel: 6.36943e-3
     frac: 0.10509554
@@ -3545,6 +4650,9 @@ difficulty:
     down: 1
     downs:
     - 48.32 km
+    downers:
+    - - '97'
+      - Konrad Schwab
     downward: 3
     rel: 4.77707e-3
     frac: 0.10987261
@@ -3555,6 +4663,9 @@ difficulty:
     down: 1
     downs:
     - 51.99 km
+    downers:
+    - - '96'
+      - Brodrick Osborne
     downward: 2
     rel: 3.18471e-3
     frac: 0.11305732
@@ -3565,6 +4676,9 @@ difficulty:
     down: 1
     downs:
     - 52.5 km
+    downers:
+    - - '94'
+      - Mitch Shipley
     downward: 1
     rel: 1.59236e-3
     frac: 0.11464968
@@ -3575,6 +4689,9 @@ difficulty:
     down: 1
     downs:
     - 63.05 km
+    downers:
+    - - '64'
+      - Gustavo Carvalho
     downward: 3
     rel: 4.77707e-3
     frac: 0.11942675
@@ -3585,6 +4702,9 @@ difficulty:
     down: 1
     downs:
     - 66.03 km
+    downers:
+    - - '6'
+      - Phil Schroder
     downward: 3
     rel: 4.77707e-3
     frac: 0.12420382
@@ -3595,6 +4715,9 @@ difficulty:
     down: 1
     downs:
     - 68.55 km
+    downers:
+    - - '76'
+      - Dmitriy Korchenkov
     downward: 4
     rel: 6.36943e-3
     frac: 0.13057325
@@ -3605,6 +4728,9 @@ difficulty:
     down: 1
     downs:
     - 72.47 km
+    downers:
+    - - '33'
+      - Conrad Loten
     downward: 3
     rel: 4.77707e-3
     frac: 0.13535032
@@ -3615,6 +4741,9 @@ difficulty:
     down: 1
     downs:
     - 73.53 km
+    downers:
+    - - '24'
+      - Christian Baertschi
     downward: 3
     rel: 4.77707e-3
     frac: 0.14012739
@@ -3625,6 +4754,9 @@ difficulty:
     down: 1
     downs:
     - 74.65 km
+    downers:
+    - - '73'
+      - Gijs Wanders
     downward: 2
     rel: 3.18471e-3
     frac: 0.1433121
@@ -3635,6 +4767,9 @@ difficulty:
     down: 1
     downs:
     - 79.45 km
+    downers:
+    - - '69'
+      - Jonathan Kinred
     downward: 1
     rel: 1.59236e-3
     frac: 0.14490446
@@ -3645,6 +4780,9 @@ difficulty:
     down: 1
     downs:
     - 93.79 km
+    downers:
+    - - '87'
+      - Corinna Schwiegershausen
     downward: 1
     rel: 1.59236e-3
     frac: 0.14649682
@@ -3655,6 +4793,9 @@ difficulty:
     down: 1
     downs:
     - 108.82 km
+    downers:
+    - - '18'
+      - Jürgen Pasker
     downward: 5
     rel: 7.96178e-3
     frac: 0.1544586
@@ -3665,6 +4806,9 @@ difficulty:
     down: 1
     downs:
     - 109.25 km
+    downers:
+    - - '51'
+      - Rob In 't Groen
     downward: 4
     rel: 6.36943e-3
     frac: 0.16082803
@@ -3675,6 +4819,9 @@ difficulty:
     down: 1
     downs:
     - 113.65 km
+    downers:
+    - - '10'
+      - Marat Matnurov
     downward: 4
     rel: 6.36943e-3
     frac: 0.16719745
@@ -3685,6 +4832,9 @@ difficulty:
     down: 1
     downs:
     - 114.05 km
+    downers:
+    - - '100'
+      - Attila Bertok
     downward: 3
     rel: 4.77707e-3
     frac: 0.17197452
@@ -3695,6 +4845,9 @@ difficulty:
     down: 1
     downs:
     - 114.92 km
+    downers:
+    - - '103'
+      - Roberto Nichele
     downward: 5
     rel: 7.96178e-3
     frac: 0.17993631
@@ -3705,6 +4858,9 @@ difficulty:
     down: 1
     downs:
     - 118.87 km
+    downers:
+    - - '35'
+      - Carole Tobler
     downward: 5
     rel: 7.96178e-3
     frac: 0.18789809
@@ -3715,6 +4871,9 @@ difficulty:
     down: 1
     downs:
     - 120.93 km
+    downers:
+    - - '3'
+      - Rod Flockhart
     downward: 4
     rel: 6.36943e-3
     frac: 0.19426752
@@ -3725,6 +4884,9 @@ difficulty:
     down: 1
     downs:
     - 121.02 km
+    downers:
+    - - '31'
+      - Andrew Barnes
     downward: 3
     rel: 4.77707e-3
     frac: 0.19904459
@@ -3735,6 +4897,9 @@ difficulty:
     down: 1
     downs:
     - 121.13 km
+    downers:
+    - - '45'
+      - Roland Wöhrle
     downward: 2
     rel: 3.18471e-3
     frac: 0.2022293
@@ -3745,6 +4910,9 @@ difficulty:
     down: 1
     downs:
     - 123.55 km
+    downers:
+    - - '68'
+      - Grant Heaney
     downward: 1
     rel: 1.59236e-3
     frac: 0.20382166
@@ -3755,6 +4923,9 @@ difficulty:
     down: 1
     downs:
     - 130.86 km
+    downers:
+    - - '13'
+      - John Smith
     downward: 2
     rel: 3.18471e-3
     frac: 0.20700637
@@ -3765,6 +4936,9 @@ difficulty:
     down: 1
     downs:
     - 132.51 km
+    downers:
+    - - '106'
+      - Adam Parer
     downward: 1
     rel: 1.59236e-3
     frac: 0.20859873
@@ -3775,6 +4949,9 @@ difficulty:
     down: 1
     downs:
     - 140.24 km
+    downers:
+    - - '14'
+      - Olav Lien Olsen
     downward: 2
     rel: 3.18471e-3
     frac: 0.21178344
@@ -3785,6 +4962,9 @@ difficulty:
     down: 1
     downs:
     - 141.95 km
+    downers:
+    - - '7'
+      - Shaun O'neill
     downward: 1
     rel: 1.59236e-3
     frac: 0.2133758
@@ -3795,6 +4975,9 @@ difficulty:
     down: 1
     downs:
     - 152.99 km
+    downers:
+    - - '47'
+      - ! 'Miguel De Jong '
     downward: 5
     rel: 7.96178e-3
     frac: 0.22133758
@@ -3805,6 +4988,9 @@ difficulty:
     down: 1
     downs:
     - 153.15 km
+    downers:
+    - - '65'
+      - Davis Straub
     downward: 5
     rel: 7.96178e-3
     frac: 0.22929936
@@ -3815,6 +5001,9 @@ difficulty:
     down: 1
     downs:
     - 154.6 km
+    downers:
+    - - '43'
+      - Les Bestt
     downward: 6
     rel: 9.55414e-3
     frac: 0.2388535
@@ -3826,6 +5015,11 @@ difficulty:
     downs:
     - 157.87 km
     - 157.87 km
+    downers:
+    - - '48'
+      - Paolo Rosichetti
+    - - '59'
+      - Artur Dzamikhov
     downward: 11
     rel: 1.751592e-2
     frac: 0.25636943
@@ -3836,6 +5030,9 @@ difficulty:
     down: 1
     downs:
     - 159.27 km
+    downers:
+    - - '99'
+      - Tullio Gervasoni
     downward: 13
     rel: 2.070064e-2
     frac: 0.27707006
@@ -3846,6 +5043,9 @@ difficulty:
     down: 1
     downs:
     - 159.57 km
+    downers:
+    - - '25'
+      - Nick Purcell
     downward: 12
     rel: 1.910828e-2
     frac: 0.29617834
@@ -3857,6 +5057,11 @@ difficulty:
     downs:
     - 160.65 km
     - 160.66 km
+    downers:
+    - - '81'
+      - Valentino Bau
+    - - '75'
+      - Joerg Bajewski
     downward: 11
     rel: 1.751592e-2
     frac: 0.31369427
@@ -3873,6 +5078,21 @@ difficulty:
     - 160.73 km
     - 160.74 km
     - 160.75 km
+    downers:
+    - - '102'
+      - Davide Guiducci
+    - - '70'
+      - Matthew Barlow
+    - - '92'
+      - Hans Kiefinger
+    - - '66'
+      - Jonas Lobitz
+    - - '49'
+      - Tony Giammichele
+    - - '90'
+      - Adam Stevens
+    - - '77'
+      - Len Paton
     downward: 10
     rel: 1.592357e-2
     frac: 0.32961783
@@ -3883,6 +5103,9 @@ difficulty:
     down: 1
     downs:
     - 161.43 km
+    downers:
+    - - '42'
+      - Suan Selenati
     downward: 11
     rel: 1.751592e-2
     frac: 0.34713376
@@ -3893,6 +5116,9 @@ difficulty:
     down: 1
     downs:
     - 161.66 km
+    downers:
+    - - '84'
+      - Yasuhiro Noma
     downward: 10
     rel: 1.592357e-2
     frac: 0.36305732
@@ -3903,6 +5129,9 @@ difficulty:
     down: 1
     downs:
     - 161.71 km
+    downers:
+    - - '30'
+      - Fredy Bircher
     downward: 9
     rel: 1.433121e-2
     frac: 0.37738854
@@ -3913,6 +5142,9 @@ difficulty:
     down: 1
     downs:
     - 163.12 km
+    downers:
+    - - '23'
+      - Gerolf Heinrichs
     downward: 8
     rel: 1.273885e-2
     frac: 0.39012739
@@ -3924,6 +5156,11 @@ difficulty:
     downs:
     - 163.83 km
     - 163.84 km
+    downers:
+    - - '95'
+      - Anton Struganov
+    - - '12'
+      - Glen Mcfarlane
     downward: 8
     rel: 1.273885e-2
     frac: 0.40286624
@@ -3934,6 +5171,9 @@ difficulty:
     down: 1
     downs:
     - 164.07 km
+    downers:
+    - - '11'
+      - Steve Blenkinsop
     downward: 7
     rel: 1.11465e-2
     frac: 0.41401274
@@ -3944,6 +5184,9 @@ difficulty:
     down: 1
     downs:
     - 164.6 km
+    downers:
+    - - '26'
+      - Guy Hubbard
     downward: 7
     rel: 1.11465e-2
     frac: 0.42515924
@@ -3954,6 +5197,9 @@ difficulty:
     down: 1
     downs:
     - 164.62 km
+    downers:
+    - - '85'
+      - Neil Petersen
     downward: 6
     rel: 9.55414e-3
     frac: 0.43471338
@@ -3964,6 +5210,9 @@ difficulty:
     down: 1
     downs:
     - 165.35 km
+    downers:
+    - - '89'
+      - Scott Barrett
     downward: 5
     rel: 7.96178e-3
     frac: 0.44267516
@@ -3974,6 +5223,9 @@ difficulty:
     down: 1
     downs:
     - 167.56 km
+    downers:
+    - - '56'
+      - Cameron Tunbridge
     downward: 8
     rel: 1.273885e-2
     frac: 0.45541401
@@ -3984,6 +5236,9 @@ difficulty:
     down: 1
     downs:
     - 167.8 km
+    downers:
+    - - '15'
+      - ! 'Jean Souviron '
     downward: 7
     rel: 1.11465e-2
     frac: 0.46656051
@@ -3995,6 +5250,11 @@ difficulty:
     downs:
     - 169.85 km
     - 169.88 km
+    downers:
+    - - '93'
+      - Trent Brown
+    - - '1'
+      - Lukas Bader
     downward: 6
     rel: 9.55414e-3
     frac: 0.47611465
@@ -4005,6 +5265,9 @@ difficulty:
     down: 1
     downs:
     - 171.05 km
+    downers:
+    - - '36'
+      - Franz Herrmann
     downward: 5
     rel: 7.96178e-3
     frac: 0.48407643
@@ -4015,6 +5278,9 @@ difficulty:
     down: 1
     downs:
     - 171.91 km
+    downers:
+    - - '60'
+      - Rohan Holtkamp
     downward: 4
     rel: 6.36943e-3
     frac: 0.49044586
@@ -4025,6 +5291,9 @@ difficulty:
     down: 1
     downs:
     - 172.2 km
+    downers:
+    - - '8'
+      - Primoz Gricar
     downward: 3
     rel: 4.77707e-3
     frac: 0.49522293
@@ -4036,6 +5305,11 @@ difficulty:
     downs:
     - 172.41 km
     - 172.42 km
+    downers:
+    - - '61'
+      - Jonny Durand
+    - - '41'
+      - Curt Warren
     downward: 2
     rel: 3.18471e-3
     frac: 0.49840764
@@ -4046,6 +5320,9 @@ difficulty:
     down: 1
     downs:
     - 172.91 km
+    downers:
+    - - '71'
+      - Edoardo Giudiceandrea
     downward: 1
     rel: 1.59236e-3
     frac: 0.5
@@ -4056,6 +5333,9 @@ difficulty:
     down: 1
     downs:
     - 6.98 km
+    downers:
+    - - '33'
+      - Conrad Loten
     downward: 2
     rel: 3.73134e-3
     frac: 3.73134e-3
@@ -4066,6 +5346,9 @@ difficulty:
     down: 1
     downs:
     - 13.49 km
+    downers:
+    - - '24'
+      - Christian Baertschi
     downward: 3
     rel: 5.59701e-3
     frac: 9.32836e-3
@@ -4076,6 +5359,9 @@ difficulty:
     down: 1
     downs:
     - 17.09 km
+    downers:
+    - - '73'
+      - Gijs Wanders
     downward: 5
     rel: 9.32836e-3
     frac: 1.865672e-2
@@ -4086,6 +5372,9 @@ difficulty:
     down: 1
     downs:
     - 21.4 km
+    downers:
+    - - '69'
+      - Jonathan Kinred
     downward: 4
     rel: 7.46269e-3
     frac: 2.61194e-2
@@ -4096,6 +5385,9 @@ difficulty:
     down: 1
     downs:
     - 22.59 km
+    downers:
+    - - '87'
+      - Corinna Schwiegershausen
     downward: 3
     rel: 5.59701e-3
     frac: 3.171642e-2
@@ -4106,6 +5398,9 @@ difficulty:
     down: 1
     downs:
     - 24.02 km
+    downers:
+    - - '18'
+      - Jürgen Pasker
     downward: 2
     rel: 3.73134e-3
     frac: 3.544776e-2
@@ -4116,6 +5411,9 @@ difficulty:
     down: 1
     downs:
     - 25.61 km
+    downers:
+    - - '51'
+      - Rob In 't Groen
     downward: 1
     rel: 1.86567e-3
     frac: 3.731343e-2
@@ -4126,6 +5424,9 @@ difficulty:
     down: 1
     downs:
     - 35.36 km
+    downers:
+    - - '10'
+      - Marat Matnurov
     downward: 1
     rel: 1.86567e-3
     frac: 3.91791e-2
@@ -4136,6 +5437,9 @@ difficulty:
     down: 1
     downs:
     - 46.24 km
+    downers:
+    - - '100'
+      - Attila Bertok
     downward: 5
     rel: 9.32836e-3
     frac: 4.850746e-2
@@ -4146,6 +5450,9 @@ difficulty:
     down: 1
     downs:
     - 50.37 km
+    downers:
+    - - '103'
+      - Roberto Nichele
     downward: 9
     rel: 1.679104e-2
     frac: 6.529851e-2
@@ -4156,6 +5463,9 @@ difficulty:
     down: 1
     downs:
     - 50.43 km
+    downers:
+    - - '35'
+      - Carole Tobler
     downward: 8
     rel: 1.492537e-2
     frac: 8.022388e-2
@@ -4166,6 +5476,9 @@ difficulty:
     down: 1
     downs:
     - 52.37 km
+    downers:
+    - - '3'
+      - Rod Flockhart
     downward: 7
     rel: 1.30597e-2
     frac: 9.328358e-2
@@ -4177,6 +5490,11 @@ difficulty:
     downs:
     - 52.52 km
     - 52.56 km
+    downers:
+    - - '31'
+      - Andrew Barnes
+    - - '45'
+      - Roland Wöhrle
     downward: 6
     rel: 1.119403e-2
     frac: 0.10447761
@@ -4187,6 +5505,9 @@ difficulty:
     down: 1
     downs:
     - 57.34 km
+    downers:
+    - - '68'
+      - Grant Heaney
     downward: 9
     rel: 1.679104e-2
     frac: 0.12126866
@@ -4197,6 +5518,9 @@ difficulty:
     down: 1
     downs:
     - 57.42 km
+    downers:
+    - - '13'
+      - John Smith
     downward: 8
     rel: 1.492537e-2
     frac: 0.13619403
@@ -4207,6 +5531,9 @@ difficulty:
     down: 1
     downs:
     - 57.52 km
+    downers:
+    - - '106'
+      - Adam Parer
     downward: 7
     rel: 1.30597e-2
     frac: 0.14925373
@@ -4217,6 +5544,9 @@ difficulty:
     down: 1
     downs:
     - 58.04 km
+    downers:
+    - - '14'
+      - Olav Lien Olsen
     downward: 6
     rel: 1.119403e-2
     frac: 0.16044776
@@ -4227,6 +5557,9 @@ difficulty:
     down: 1
     downs:
     - 58.19 km
+    downers:
+    - - '7'
+      - Shaun O'neill
     downward: 5
     rel: 9.32836e-3
     frac: 0.16977612
@@ -4237,6 +5570,9 @@ difficulty:
     down: 1
     downs:
     - 64.43 km
+    downers:
+    - - '47'
+      - ! 'Miguel De Jong '
     downward: 5
     rel: 9.32836e-3
     frac: 0.17910448
@@ -4247,6 +5583,9 @@ difficulty:
     down: 1
     downs:
     - 64.54 km
+    downers:
+    - - '65'
+      - Davis Straub
     downward: 4
     rel: 7.46269e-3
     frac: 0.18656716
@@ -4257,6 +5596,9 @@ difficulty:
     down: 1
     downs:
     - 64.62 km
+    downers:
+    - - '43'
+      - Les Bestt
     downward: 3
     rel: 5.59701e-3
     frac: 0.19216418
@@ -4267,6 +5609,9 @@ difficulty:
     down: 1
     downs:
     - 65.18 km
+    downers:
+    - - '48'
+      - Paolo Rosichetti
     downward: 2
     rel: 3.73134e-3
     frac: 0.19589552
@@ -4277,6 +5622,9 @@ difficulty:
     down: 1
     downs:
     - 69.71 km
+    downers:
+    - - '59'
+      - Artur Dzamikhov
     downward: 2
     rel: 3.73134e-3
     frac: 0.19962687
@@ -4287,6 +5635,9 @@ difficulty:
     down: 1
     downs:
     - 75.54 km
+    downers:
+    - - '99'
+      - Tullio Gervasoni
     downward: 2
     rel: 3.73134e-3
     frac: 0.20335821
@@ -4297,6 +5648,9 @@ difficulty:
     down: 1
     downs:
     - 82.25 km
+    downers:
+    - - '25'
+      - Nick Purcell
     downward: 1
     rel: 1.86567e-3
     frac: 0.20522388
@@ -4307,6 +5661,9 @@ difficulty:
     down: 1
     downs:
     - 96.86 km
+    downers:
+    - - '81'
+      - Valentino Bau
     downward: 1
     rel: 1.86567e-3
     frac: 0.20708955
@@ -4317,6 +5674,9 @@ difficulty:
     down: 1
     downs:
     - 106.16 km
+    downers:
+    - - '75'
+      - Joerg Bajewski
     downward: 1
     rel: 1.86567e-3
     frac: 0.20895522
@@ -4327,6 +5687,9 @@ difficulty:
     down: 1
     downs:
     - 119.08 km
+    downers:
+    - - '102'
+      - Davide Guiducci
     downward: 3
     rel: 5.59701e-3
     frac: 0.21455224
@@ -4337,6 +5700,9 @@ difficulty:
     down: 1
     downs:
     - 126.26 km
+    downers:
+    - - '70'
+      - Matthew Barlow
     downward: 5
     rel: 9.32836e-3
     frac: 0.2238806
@@ -4347,6 +5713,9 @@ difficulty:
     down: 1
     downs:
     - 126.9 km
+    downers:
+    - - '92'
+      - Hans Kiefinger
     downward: 7
     rel: 1.30597e-2
     frac: 0.2369403
@@ -4357,6 +5726,9 @@ difficulty:
     down: 1
     downs:
     - 129.67 km
+    downers:
+    - - '66'
+      - Jonas Lobitz
     downward: 7
     rel: 1.30597e-2
     frac: 0.25
@@ -4367,6 +5739,9 @@ difficulty:
     down: 1
     downs:
     - 130.57 km
+    downers:
+    - - '49'
+      - Tony Giammichele
     downward: 6
     rel: 1.119403e-2
     frac: 0.26119403
@@ -4377,6 +5752,9 @@ difficulty:
     down: 1
     downs:
     - 133.27 km
+    downers:
+    - - '90'
+      - Adam Stevens
     downward: 6
     rel: 1.119403e-2
     frac: 0.27238806
@@ -4387,6 +5765,9 @@ difficulty:
     down: 1
     downs:
     - 135.11 km
+    downers:
+    - - '77'
+      - Len Paton
     downward: 6
     rel: 1.119403e-2
     frac: 0.28358209
@@ -4397,6 +5778,9 @@ difficulty:
     down: 1
     downs:
     - 135.22 km
+    downers:
+    - - '42'
+      - Suan Selenati
     downward: 5
     rel: 9.32836e-3
     frac: 0.29291045
@@ -4407,6 +5791,9 @@ difficulty:
     down: 1
     downs:
     - 135.49 km
+    downers:
+    - - '84'
+      - Yasuhiro Noma
     downward: 4
     rel: 7.46269e-3
     frac: 0.30037313
@@ -4417,6 +5804,9 @@ difficulty:
     down: 1
     downs:
     - 136.17 km
+    downers:
+    - - '30'
+      - Fredy Bircher
     downward: 3
     rel: 5.59701e-3
     frac: 0.30597015
@@ -4427,6 +5817,9 @@ difficulty:
     down: 1
     downs:
     - 141.53 km
+    downers:
+    - - '23'
+      - Gerolf Heinrichs
     downward: 7
     rel: 1.30597e-2
     frac: 0.31902985
@@ -4437,6 +5830,9 @@ difficulty:
     down: 1
     downs:
     - 142.05 km
+    downers:
+    - - '95'
+      - Anton Struganov
     downward: 7
     rel: 1.30597e-2
     frac: 0.33208955
@@ -4447,6 +5843,9 @@ difficulty:
     down: 1
     downs:
     - 146.04 km
+    downers:
+    - - '12'
+      - Glen Mcfarlane
     downward: 12
     rel: 2.238806e-2
     frac: 0.35447761
@@ -4458,6 +5857,11 @@ difficulty:
     downs:
     - 146.5 km
     - 146.6 km
+    downers:
+    - - '11'
+      - Steve Blenkinsop
+    - - '26'
+      - Guy Hubbard
     downward: 12
     rel: 2.238806e-2
     frac: 0.37686567
@@ -4468,6 +5872,9 @@ difficulty:
     down: 1
     downs:
     - 148.4 km
+    downers:
+    - - '85'
+      - Neil Petersen
     downward: 11
     rel: 2.052239e-2
     frac: 0.39738806
@@ -4478,6 +5885,9 @@ difficulty:
     down: 1
     downs:
     - 149.2 km
+    downers:
+    - - '89'
+      - Scott Barrett
     downward: 10
     rel: 1.865672e-2
     frac: 0.41604478
@@ -4488,6 +5898,9 @@ difficulty:
     down: 1
     downs:
     - 149.53 km
+    downers:
+    - - '56'
+      - Cameron Tunbridge
     downward: 9
     rel: 1.679104e-2
     frac: 0.43283582
@@ -4499,6 +5912,11 @@ difficulty:
     downs:
     - 150.54 km
     - 150.56 km
+    downers:
+    - - '15'
+      - ! 'Jean Souviron '
+    - - '93'
+      - Trent Brown
     downward: 8
     rel: 1.492537e-2
     frac: 0.44776119
@@ -4509,6 +5927,9 @@ difficulty:
     down: 1
     downs:
     - 150.94 km
+    downers:
+    - - '1'
+      - Lukas Bader
     downward: 7
     rel: 1.30597e-2
     frac: 0.4608209
@@ -4519,6 +5940,9 @@ difficulty:
     down: 1
     downs:
     - 151.03 km
+    downers:
+    - - '36'
+      - Franz Herrmann
     downward: 6
     rel: 1.119403e-2
     frac: 0.47201493
@@ -4529,6 +5953,9 @@ difficulty:
     down: 1
     downs:
     - 152.85 km
+    downers:
+    - - '60'
+      - Rohan Holtkamp
     downward: 5
     rel: 9.32836e-3
     frac: 0.48134328
@@ -4539,6 +5966,9 @@ difficulty:
     down: 1
     downs:
     - 153.0 km
+    downers:
+    - - '8'
+      - Primoz Gricar
     downward: 4
     rel: 7.46269e-3
     frac: 0.48880597
@@ -4549,6 +5979,9 @@ difficulty:
     down: 1
     downs:
     - 153.23 km
+    downers:
+    - - '61'
+      - Jonny Durand
     downward: 3
     rel: 5.59701e-3
     frac: 0.49440299
@@ -4559,6 +5992,9 @@ difficulty:
     down: 1
     downs:
     - 153.56 km
+    downers:
+    - - '41'
+      - Curt Warren
     downward: 2
     rel: 3.73134e-3
     frac: 0.49813433
@@ -4569,6 +6005,9 @@ difficulty:
     down: 1
     downs:
     - 154.85 km
+    downers:
+    - - '71'
+      - Edoardo Giudiceandrea
     downward: 1
     rel: 1.86567e-3
     frac: 0.5

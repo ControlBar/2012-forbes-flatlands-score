@@ -143,7 +143,25 @@
         lng: 148.34513933
       - lat: -33.6172272
         lng: 148.41309311
-    ssRoute: null
+    ssRoute:
+      distance: 134.696362 km
+      legs:
+      - 54.617964 km
+      - 59.237679 km
+      - 20.840718 km
+      legsSum:
+      - 54.617964 km
+      - 113.855643 km
+      - 134.696362 km
+      waypoints:
+      - lat: -33.36137
+        lng: 147.93207
+      - lat: -33.85373
+        lng: 147.94195
+      - lat: -33.4397
+        lng: 148.34533
+      - lat: -33.61965
+        lng: 148.4099
   projection:
     taskRoute:
       spherical:
@@ -424,7 +442,25 @@
         lng: 147.55883484
       - lat: -33.1234972
         lng: 147.91360504
-    ssRoute: null
+    ssRoute:
+      distance: 123.938535 km
+      legs:
+      - 45.853069 km
+      - 39.983433 km
+      - 38.102033 km
+      legsSum:
+      - 45.853069 km
+      - 85.836502 km
+      - 123.938535 km
+      waypoints:
+      - lat: -33.31640392
+        lng: 147.93207
+      - lat: -32.90514024
+        lng: 147.98240162
+      - lat: -32.95396538
+        lng: 147.55883484
+      - lat: -33.1234972
+        lng: 147.91360504
   projection:
     taskRoute:
       spherical:
@@ -697,7 +733,25 @@
         lng: 148.5013
       - lat: -34.82197
         lng: 148.66543
-    ssRoute: null
+    ssRoute:
+      distance: 185.356167 km
+      legs:
+      - 77.994969 km
+      - 27.821246 km
+      - 79.539952 km
+      legsSum:
+      - 77.994969 km
+      - 105.816215 km
+      - 185.356167 km
+      waypoints:
+      - lat: -33.36137
+        lng: 147.93207
+      - lat: -34.02107
+        lng: 148.2233
+      - lat: -34.11795
+        lng: 148.5013
+      - lat: -34.82197
+        lng: 148.66543
   projection:
     taskRoute:
       spherical:
@@ -950,7 +1004,21 @@
         lng: 148.14231991
       - lat: -32.4612072
         lng: 148.99215148
-    ssRoute: null
+    ssRoute:
+      distance: 130.590935 km
+      legs:
+      - 25.185455 km
+      - 105.405480 km
+      legsSum:
+      - 25.185455 km
+      - 130.590935 km
+      waypoints:
+      - lat: -33.22647176
+        lng: 147.93207
+      - lat: -33.08402265
+        lng: 148.14231991
+      - lat: -32.4612072
+        lng: 148.99215148
   projection:
     taskRoute:
       spherical:
@@ -1179,7 +1247,21 @@
         lng: 148.2579313
       - lat: -32.0139772
         lng: 149.436766
-    ssRoute: null
+    ssRoute:
+      distance: 204.396219 km
+      legs:
+      - 75.620901 km
+      - 128.775318 km
+      legsSum:
+      - 75.620901 km
+      - 204.396219 km
+      waypoints:
+      - lat: -33.22647176
+        lng: 147.93207
+      - lat: -32.60245443
+        lng: 148.2579313
+      - lat: -32.0139772
+        lng: 149.436766
   projection:
     taskRoute:
       spherical:
@@ -1408,7 +1490,21 @@
         lng: 147.81504141
       - lat: -31.6908072
         lng: 148.29935503
-    ssRoute: null
+    ssRoute:
+      distance: 187.070589 km
+      legs:
+      - 114.413677 km
+      - 72.656912 km
+      legsSum:
+      - 114.413677 km
+      - 187.070589 km
+      waypoints:
+      - lat: -33.22647176
+        lng: 147.93207
+      - lat: -32.19953718
+        lng: 147.81504141
+      - lat: -31.6908072
+        lng: 148.29935503
   projection:
     taskRoute:
       spherical:
@@ -1675,7 +1771,25 @@
         lng: 148.64706563
       - lat: -32.9334272
         lng: 148.7526382
-    ssRoute: null
+    ssRoute:
+      distance: 166.994543 km
+      legs:
+      - 46.072808 km
+      - 99.635441 km
+      - 21.286295 km
+      legsSum:
+      - 46.072808 km
+      - 145.708248 km
+      - 166.994543 km
+      waypoints:
+      - lat: -33.27143784
+        lng: 147.93207
+      - lat: -32.95815686
+        lng: 147.60788049
+      - lat: -32.76343024
+        lng: 148.64706563
+      - lat: -32.9334272
+        lng: 148.7526382
   projection:
     taskRoute:
       spherical:
@@ -1956,7 +2070,25 @@
         lng: 147.57575487
       - lat: -33.3585772
         lng: 147.93468359
-    ssRoute: null
+    ssRoute:
+      distance: 166.920146 km
+      legs:
+      - 60.297176 km
+      - 64.784775 km
+      - 41.838195 km
+      legsSum:
+      - 60.297176 km
+      - 125.081951 km
+      - 166.920146 km
+      waypoints:
+      - lat: -33.27143784
+        lng: 147.93207
+      - lat: -33.7159199
+        lng: 147.55846832
+      - lat: -33.13199024
+        lng: 147.57575487
+      - lat: -33.3585772
+        lng: 147.93468359
   projection:
     taskRoute:
       spherical:

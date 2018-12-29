@@ -8,6 +8,9 @@ comp:
   utcOffset:
     timeZoneMinutes: 660
   scoreBack: null
+  give:
+    giveFraction: 5.0e-3
+    giveDistance: null
 nominal:
   launch: 0.96
   goal: 0.2
@@ -22,32 +25,32 @@ tasks:
       lat: -33.36137
       lng: 147.93207
       radius: 100.0 m
-      give: 99.5 m
       alt: null
+      give: 99.5 m
     - zoneName: FORBES
       lat: -33.36137
       lng: 147.93207
       radius: 10000.0 m
-      give: 9950.0 m
       alt: null
+      give: 9950.0 m
     - zoneName: PINEY
       lat: -33.85373
       lng: 147.94195
       radius: 400.0 m
-      give: 402.0 m
       alt: null
+      give: 402.0 m
     - zoneName: EUGOWR
       lat: -33.4397
       lng: 148.34533
       radius: 400.0 m
-      give: 402.0 m
       alt: null
+      give: 402.0 m
     - zoneName: GOALD1
       lat: -33.61965
       lng: 148.4099
       radius: 400.0 m
-      give: 402.0 m
       alt: null
+      give: 402.0 m
     raceKind:
       prolog:
       - cylinder:
@@ -98,32 +101,32 @@ tasks:
       lat: -33.36137
       lng: 147.93207
       radius: 100.0 m
-      give: 99.5 m
       alt: null
+      give: 99.5 m
     - zoneName: FORBES
       lat: -33.36137
       lng: 147.93207
       radius: 5000.0 m
-      give: 4975.0 m
       alt: null
+      give: 4975.0 m
     - zoneName: MINES
       lat: -32.90223
       lng: 147.98492
       radius: 400.0 m
-      give: 402.0 m
       alt: null
+      give: 402.0 m
     - zoneName: SKULLS
       lat: -32.9536
       lng: 147.55457
       radius: 400.0 m
-      give: 402.0 m
       alt: null
+      give: 402.0 m
     - zoneName: BOGAN
       lat: -33.12592
       lng: 147.91043
       radius: 400.0 m
-      give: 402.0 m
       alt: null
+      give: 402.0 m
     raceKind:
       prolog:
       - cylinder:
@@ -176,32 +179,32 @@ tasks:
       lat: -33.36137
       lng: 147.93207
       radius: 100.0 m
-      give: 99.5 m
       alt: null
+      give: 99.5 m
     - zoneName: FORBES
       lat: -33.36137
       lng: 147.93207
       radius: 25000.0 m
-      give: 24875.0 m
       alt: null
+      give: 24875.0 m
     - zoneName: TYAGON
       lat: -34.02107
       lng: 148.2233
       radius: 400.0 m
-      give: 402.0 m
       alt: null
+      give: 402.0 m
     - zoneName: CROW
       lat: -34.11795
       lng: 148.5013
       radius: 400.0 m
-      give: 402.0 m
       alt: null
+      give: 402.0 m
     - zoneName: BOOKHA
       lat: -34.82197
       lng: 148.66543
       radius: 1000.0 m
-      give: 1005.0 m
       alt: null
+      give: 1005.0 m
     raceKind:
       prolog:
       - cylinder:
@@ -256,26 +259,26 @@ tasks:
       lat: -33.36137
       lng: 147.93207
       radius: 100.0 m
-      give: 99.5 m
       alt: null
+      give: 99.5 m
     - zoneName: FORBES
       lat: -33.36137
       lng: 147.93207
       radius: 15000.0 m
-      give: 14925.0 m
       alt: null
+      give: 14925.0 m
     - zoneName: MINES
       lat: -32.90223
       lng: 147.98492
       radius: 25000.0 m
-      give: 25125.0 m
       alt: null
+      give: 25125.0 m
     - zoneName: GOALD4
       lat: -32.46363
       lng: 148.989
       radius: 400.0 m
-      give: 402.0 m
       alt: null
+      give: 402.0 m
     raceKind:
       prolog:
       - cylinder:
@@ -329,26 +332,26 @@ tasks:
       lat: -33.36137
       lng: 147.93207
       radius: 100.0 m
-      give: 99.5 m
       alt: null
+      give: 99.5 m
     - zoneName: FORBES
       lat: -33.36137
       lng: 147.93207
       radius: 15000.0 m
-      give: 14925.0 m
       alt: null
+      give: 14925.0 m
     - zoneName: TOMING
       lat: -32.56608
       lng: 148.22657
       radius: 5000.0 m
-      give: 5025.0 m
       alt: null
+      give: 5025.0 m
     - zoneName: DUNEDO
       lat: -32.0164
       lng: 149.43363
       radius: 400.0 m
-      give: 402.0 m
       alt: null
+      give: 402.0 m
     raceKind:
       prolog:
       - cylinder:
@@ -396,26 +399,26 @@ tasks:
       lat: -33.36137
       lng: 147.93207
       radius: 100.0 m
-      give: 99.5 m
       alt: null
+      give: 99.5 m
     - zoneName: FORBES
       lat: -33.36137
       lng: 147.93207
       radius: 15000.0 m
-      give: 14925.0 m
       alt: null
+      give: 14925.0 m
     - zoneName: BUMF
       lat: -32.19498
       lng: 147.76218
       radius: 5000.0 m
-      give: 5025.0 m
       alt: null
+      give: 5025.0 m
     - zoneName: GOALD6
       lat: -31.69323
       lng: 148.29623
       radius: 400.0 m
-      give: 402.0 m
       alt: null
+      give: 402.0 m
     raceKind:
       prolog:
       - cylinder:
@@ -463,32 +466,32 @@ tasks:
       lat: -33.36137
       lng: 147.93207
       radius: 100.0 m
-      give: 99.5 m
       alt: null
+      give: 99.5 m
     - zoneName: FORBES
       lat: -33.36137
       lng: 147.93207
       radius: 10000.0 m
-      give: 9950.0 m
       alt: null
+      give: 9950.0 m
     - zoneName: SKULLS
       lat: -32.9536
       lng: 147.55457
       radius: 5000.0 m
-      give: 5025.0 m
       alt: null
+      give: 5025.0 m
     - zoneName: YEOVAL
       lat: -32.76052
       lng: 148.64958
       radius: 400.0 m
-      give: 402.0 m
       alt: null
+      give: 402.0 m
     - zoneName: DAY7GO
       lat: -32.93585
       lng: 148.74947
       radius: 400.0 m
-      give: 402.0 m
       alt: null
+      give: 402.0 m
     raceKind:
       prolog:
       - cylinder:
@@ -545,32 +548,32 @@ tasks:
       lat: -33.36137
       lng: 147.93207
       radius: 100.0 m
-      give: 99.5 m
       alt: null
+      give: 99.5 m
     - zoneName: FORBES
       lat: -33.36137
       lng: 147.93207
       radius: 10000.0 m
-      give: 9950.0 m
       alt: null
+      give: 9950.0 m
     - zoneName: MARSDE
       lat: -33.75343
       lng: 147.52865
       radius: 5000.0 m
-      give: 5025.0 m
       alt: null
+      give: 5025.0 m
     - zoneName: YARRAB
       lat: -33.12908
       lng: 147.57323
       radius: 400.0 m
-      give: 402.0 m
       alt: null
+      give: 402.0 m
     - zoneName: DAY8GO
       lat: -33.361
       lng: 147.9315
       radius: 400.0 m
-      give: 402.0 m
       alt: null
+      give: 402.0 m
     raceKind:
       prolog:
       - cylinder:

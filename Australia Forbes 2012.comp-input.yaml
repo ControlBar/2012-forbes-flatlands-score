@@ -85,13 +85,6 @@ tasks:
           - 148.40990000 deg
           radius: 400.0 m
     openKind: null
-  didFlyNoTracklog:
-  - - '58'
-    - Anna Belova
-  - - '79'
-    - David Stevens
-  - - '52'
-    - Virpi Nieminen
   speedSection:
   - 2
   - 5
@@ -99,11 +92,6 @@ tasks:
   - open: 2012-01-05T01:00:00Z
     close: 2012-01-05T09:00:00Z
   startGates: []
-  absent:
-  - - '101'
-    - ! 'Andrew Luton '
-  - - '91'
-    - Francesco Rinaldi
   stopped: null
 - taskName: day 2
   zones:
@@ -168,7 +156,6 @@ tasks:
           - 147.91043000 deg
           radius: 400.0 m
     openKind: null
-  didFlyNoTracklog: []
   speedSection:
   - 2
   - 5
@@ -176,13 +163,6 @@ tasks:
   - open: 2012-01-06T01:00:00Z
     close: 2012-01-06T09:00:00Z
   startGates: []
-  absent:
-  - - '101'
-    - ! 'Andrew Luton '
-  - - '65'
-    - Davis Straub
-  - - '86'
-    - Talgat Irgaleev
   stopped: null
 - taskName: Day 3
   zones:
@@ -247,17 +227,6 @@ tasks:
           - 148.66543000 deg
           radius: 1000.0 m
     openKind: null
-  didFlyNoTracklog:
-  - - '101'
-    - ! 'Andrew Luton '
-  - - '78'
-    - Christine Aichner
-  - - '19'
-    - Mikhail Karmazin
-  - - '89'
-    - Scott Barrett
-  - - '42'
-    - Suan Selenati
   speedSection:
   - 2
   - 5
@@ -265,15 +234,6 @@ tasks:
   - open: 2012-01-07T01:00:00Z
     close: 2012-01-07T09:00:00Z
   startGates: []
-  absent:
-  - - '65'
-    - Davis Straub
-  - - '91'
-    - Francesco Rinaldi
-  - - '20'
-    - ! 'Luke Browne '
-  - - '86'
-    - Talgat Irgaleev
   stopped: null
 - taskName: Day 4
   zones:
@@ -327,17 +287,6 @@ tasks:
           - 148.98900000 deg
           radius: 400.0 m
     openKind: null
-  didFlyNoTracklog:
-  - - '67'
-    - ! 'Andy Phillips '
-  - - '28'
-    - Evgeniya Laritskaya
-  - - '57'
-    - Julia Kucherenko
-  - - '88'
-    - Martin Sielaff
-  - - '103'
-    - Roberto Nichele
   speedSection:
   - 2
   - 4
@@ -345,19 +294,6 @@ tasks:
   - open: 2012-01-09T01:00:00Z
     close: 2012-01-09T09:00:00Z
   startGates: []
-  absent:
-  - - '65'
-    - Davis Straub
-  - - '91'
-    - Francesco Rinaldi
-  - - '10'
-    - Marat Matnurov
-  - - '50'
-    - Monique Pavy
-  - - '86'
-    - Talgat Irgaleev
-  - - '72'
-    - Tove Heaney
   stopped: null
 - taskName: Day 5
   zones:
@@ -411,11 +347,6 @@ tasks:
           - 149.43363000 deg
           radius: 400.0 m
     openKind: null
-  didFlyNoTracklog:
-  - - '53'
-    - Hadewych van Kempen
-  - - '40'
-    - Phil de Joux
   speedSection:
   - 2
   - 4
@@ -423,13 +354,6 @@ tasks:
   - open: 2012-01-10T01:00:00Z
     close: 2012-01-10T09:00:00Z
   startGates: []
-  absent:
-  - - '65'
-    - Davis Straub
-  - - '61'
-    - Jonny Durand
-  - - '10'
-    - Marat Matnurov
   stopped: null
 - taskName: Day 6
   zones:
@@ -483,9 +407,6 @@ tasks:
           - 148.29623000 deg
           radius: 400.0 m
     openKind: null
-  didFlyNoTracklog:
-  - - '91'
-    - Francesco Rinaldi
   speedSection:
   - 2
   - 4
@@ -493,13 +414,6 @@ tasks:
   - open: 2012-01-12T01:00:00Z
     close: 2012-01-12T09:00:00Z
   startGates: []
-  absent:
-  - - '65'
-    - Davis Straub
-  - - '61'
-    - Jonny Durand
-  - - '10'
-    - Marat Matnurov
   stopped: null
 - taskName: Day 7
   zones:
@@ -564,13 +478,6 @@ tasks:
           - 148.74947000 deg
           radius: 400.0 m
     openKind: null
-  didFlyNoTracklog:
-  - - '62'
-    - Enda Murphy
-  - - '28'
-    - Evgeniya Laritskaya
-  - - '47'
-    - ! 'Miguel De Jong '
   speedSection:
   - 2
   - 5
@@ -578,17 +485,6 @@ tasks:
   - open: 2012-01-13T01:00:00Z
     close: 2012-01-13T09:00:00Z
   startGates: []
-  absent:
-  - - '65'
-    - Davis Straub
-  - - '61'
-    - Jonny Durand
-  - - '57'
-    - Julia Kucherenko
-  - - '20'
-    - ! 'Luke Browne '
-  - - '10'
-    - Marat Matnurov
   stopped: null
 - taskName: Day 8
   zones:
@@ -653,23 +549,6 @@ tasks:
           - 147.93150000 deg
           radius: 400.0 m
     openKind: null
-  didFlyNoTracklog:
-  - - '58'
-    - Anna Belova
-  - - '95'
-    - Anton Struganov
-  - - '41'
-    - Curt Warren
-  - - '28'
-    - Evgeniya Laritskaya
-  - - '30'
-    - Fredy Bircher
-  - - '64'
-    - Gustavo Carvalho
-  - - '32'
-    - Kathryn O'Riordan
-  - - '22'
-    - Mark Russell
   speedSection:
   - 2
   - 5
@@ -677,19 +556,6 @@ tasks:
   - open: 2012-01-14T01:00:00Z
     close: 2012-01-14T09:00:00Z
   startGates: []
-  absent:
-  - - '106'
-    - Adam Parer
-  - - '65'
-    - Davis Straub
-  - - '61'
-    - Jonny Durand
-  - - '57'
-    - Julia Kucherenko
-  - - '10'
-    - Marat Matnurov
-  - - '72'
-    - Tove Heaney
   stopped: null
 taskFolders:
 - - Tracklogs
@@ -2941,3 +2807,154 @@ pilots:
   - - - '84'
       - Yasuhiro Noma
     - Yasuhiro_Noma.20120114-100044.7971.84.kml
+pilotGroups:
+- absent:
+  - - '101'
+    - ! 'Andrew Luton '
+  - - '91'
+    - Francesco Rinaldi
+  didFlyNoTracklog:
+  - - '58'
+    - Anna Belova
+  - - '79'
+    - David Stevens
+  - - '52'
+    - Virpi Nieminen
+  dnf:
+  - - '86'
+    - Talgat Irgaleev
+- absent:
+  - - '101'
+    - ! 'Andrew Luton '
+  - - '65'
+    - Davis Straub
+  - - '86'
+    - Talgat Irgaleev
+  didFlyNoTracklog: []
+  dnf: []
+- absent:
+  - - '65'
+    - Davis Straub
+  - - '91'
+    - Francesco Rinaldi
+  - - '20'
+    - ! 'Luke Browne '
+  - - '86'
+    - Talgat Irgaleev
+  didFlyNoTracklog:
+  - - '101'
+    - ! 'Andrew Luton '
+  - - '78'
+    - Christine Aichner
+  - - '19'
+    - Mikhail Karmazin
+  - - '89'
+    - Scott Barrett
+  - - '42'
+    - Suan Selenati
+  dnf: []
+- absent:
+  - - '65'
+    - Davis Straub
+  - - '91'
+    - Francesco Rinaldi
+  - - '10'
+    - Marat Matnurov
+  - - '50'
+    - Monique Pavy
+  - - '86'
+    - Talgat Irgaleev
+  - - '72'
+    - Tove Heaney
+  didFlyNoTracklog:
+  - - '67'
+    - ! 'Andy Phillips '
+  - - '28'
+    - Evgeniya Laritskaya
+  - - '57'
+    - Julia Kucherenko
+  - - '88'
+    - Martin Sielaff
+  - - '103'
+    - Roberto Nichele
+  dnf: []
+- absent:
+  - - '65'
+    - Davis Straub
+  - - '61'
+    - Jonny Durand
+  - - '10'
+    - Marat Matnurov
+  didFlyNoTracklog:
+  - - '53'
+    - Hadewych van Kempen
+  - - '40'
+    - Phil de Joux
+  dnf:
+  - - '91'
+    - Francesco Rinaldi
+  - - '57'
+    - Julia Kucherenko
+- absent:
+  - - '65'
+    - Davis Straub
+  - - '61'
+    - Jonny Durand
+  - - '10'
+    - Marat Matnurov
+  didFlyNoTracklog:
+  - - '91'
+    - Francesco Rinaldi
+  dnf: []
+- absent:
+  - - '65'
+    - Davis Straub
+  - - '61'
+    - Jonny Durand
+  - - '57'
+    - Julia Kucherenko
+  - - '20'
+    - ! 'Luke Browne '
+  - - '10'
+    - Marat Matnurov
+  didFlyNoTracklog:
+  - - '62'
+    - Enda Murphy
+  - - '28'
+    - Evgeniya Laritskaya
+  - - '47'
+    - ! 'Miguel De Jong '
+  dnf: []
+- absent:
+  - - '106'
+    - Adam Parer
+  - - '65'
+    - Davis Straub
+  - - '61'
+    - Jonny Durand
+  - - '57'
+    - Julia Kucherenko
+  - - '10'
+    - Marat Matnurov
+  - - '72'
+    - Tove Heaney
+  didFlyNoTracklog:
+  - - '58'
+    - Anna Belova
+  - - '95'
+    - Anton Struganov
+  - - '41'
+    - Curt Warren
+  - - '28'
+    - Evgeniya Laritskaya
+  - - '30'
+    - Fredy Bircher
+  - - '64'
+    - Gustavo Carvalho
+  - - '32'
+    - Kathryn O'Riordan
+  - - '22'
+    - Mark Russell
+  dnf:
+  - - '86'
+    - Talgat Irgaleev

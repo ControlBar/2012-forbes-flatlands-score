@@ -46,9 +46,6 @@ difficulty:
     - -2.737 km
     - -1.911 km
     - -0.020 km
-    - 0.000 km
-    - 0.000 km
-    - 0.000 km
     - 1.762 km
     - 1.800 km
     - 4.306 km
@@ -57,6 +54,9 @@ difficulty:
     - 4.906 km
     - 4.958 km
     - 4.974 km
+    - 5.000 km
+    - 5.000 km
+    - 5.000 km
     downers:
     - - '46'
       - Jonathon Foote
@@ -66,12 +66,6 @@ difficulty:
       - Martin Sielaff
     - - '50'
       - Monique Pavy
-    - - '52'
-      - Virpi Nieminen
-    - - '79'
-      - David Stevens
-    - - '58'
-      - Anna Belova
     - - '28'
       - Evgeniya Laritskaya
     - - '37'
@@ -88,6 +82,12 @@ difficulty:
       - Phil de Joux
     - - '32'
       - Kathryn O'Riordan
+    - - '52'
+      - Virpi Nieminen
+    - - '79'
+      - David Stevens
+    - - '58'
+      - Anna Belova
     downward: 5
     rel: 7.16332e-3
     frac: 7.16332e-3
@@ -1811,7 +1811,7 @@ difficulty:
     down: 2
     downs:
     - -19.339 km
-    - 0.000 km
+    - 5.000 km
     downers:
     - - '87'
       - Corinna Schwiegershausen
@@ -2423,11 +2423,11 @@ difficulty:
     endAhead: 12.5 km
     down: 5
     downs:
-    - 0.000 km
-    - 0.000 km
-    - 0.000 km
-    - 0.000 km
     - 3.397 km
+    - 5.000 km
+    - 5.000 km
+    - 5.000 km
+    - 5.000 km
     downers:
     - - '76'
       - Dmitriy Korchenkov
@@ -3101,10 +3101,10 @@ difficulty:
     endAhead: 15.0 km
     down: 4
     downs:
-    - 0.000 km
-    - 0.000 km
     - 0.417 km
     - 0.507 km
+    - 5.000 km
+    - 5.000 km
     downers:
     - - '105'
       - Chris Lawry
@@ -3896,7 +3896,7 @@ difficulty:
     endAhead: 17.9 km
     down: 1
     downs:
-    - 0.000 km
+    - 5.000 km
     downers:
     - - '100'
       - Attila Bertok
@@ -4497,22 +4497,22 @@ difficulty:
     endAhead: 11.2 km
     down: 5
     downs:
-    - 0.000 km
-    - 0.000 km
-    - 0.000 km
     - 0.337 km
     - 0.394 km
+    - 5.000 km
+    - 5.000 km
+    - 5.000 km
     downers:
-    - - '16'
-      - Grant Edward
-    - - '21'
-      - Gavin Myers
-    - - '53'
-      - Hadewych van Kempen
     - - '40'
       - Phil de Joux
     - - '32'
       - Kathryn O'Riordan
+    - - '52'
+      - Virpi Nieminen
+    - - '79'
+      - David Stevens
+    - - '58'
+      - Anna Belova
     downward: 1
     rel: 1.75439e-3
     frac: 1.75439e-3
@@ -5409,9 +5409,9 @@ difficulty:
     endAhead: 12.5 km
     down: 3
     downs:
-    - 0.000 km
-    - 0.000 km
-    - 0.000 km
+    - 5.000 km
+    - 5.000 km
+    - 5.000 km
     downers:
     - - '2'
       - Pablo Gomes

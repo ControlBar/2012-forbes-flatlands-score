@@ -15732,62 +15732,62 @@ scoreDfNoTrack:
 - - - - '101'
       - ! 'Andrew Luton '
     - place: 1=
-      total: 14
+      total: 227
       breakdown:
-        reach: 6.185
-        effort: 7.432
-        distance: 13.617
+        reach: 227.425
+        effort: 0
+        distance: 227.425
         leading: 0
         arrival: 0
         time: 0
       velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
+      reachDistance: 183.857 km
+      landedDistance: 183.857 km
   - - - '78'
       - Christine Aichner
     - place: 1=
-      total: 14
+      total: 227
       breakdown:
-        reach: 6.185
-        effort: 7.432
-        distance: 13.617
+        reach: 227.425
+        effort: 0
+        distance: 227.425
         leading: 0
         arrival: 0
         time: 0
       velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
+      reachDistance: 183.857 km
+      landedDistance: 183.857 km
   - - - '19'
       - Mikhail Karmazin
     - place: 1=
-      total: 14
+      total: 227
       breakdown:
-        reach: 6.185
-        effort: 7.432
-        distance: 13.617
+        reach: 227.425
+        effort: 0
+        distance: 227.425
         leading: 0
         arrival: 0
         time: 0
       velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
+      reachDistance: 183.857 km
+      landedDistance: 183.857 km
   - - - '89'
       - Scott Barrett
     - place: 1=
-      total: 14
+      total: 227
       breakdown:
-        reach: 6.185
-        effort: 7.432
-        distance: 13.617
+        reach: 227.425
+        effort: 0
+        distance: 227.425
         leading: 0
         arrival: 0
         time: 0
       velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
+      reachDistance: 183.857 km
+      landedDistance: 183.857 km
   - - - '42'
       - Suan Selenati
-    - place: 1=
+    - place: '5'
       total: 14
       breakdown:
         reach: 6.185
@@ -15801,21 +15801,21 @@ scoreDfNoTrack:
       landedDistance: 0.000 km
 - - - - '67'
       - ! 'Andy Phillips '
-    - place: 1=
-      total: 15
+    - place: '1'
+      total: 252
       breakdown:
-        reach: 8.736
-        effort: 5.93
-        distance: 14.667
+        reach: 251.661
+        effort: 0
+        distance: 251.661
         leading: 0
         arrival: 0
         time: 0
       velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
+      reachDistance: 144.031 km
+      landedDistance: 144.031 km
   - - - '28'
       - Evgeniya Laritskaya
-    - place: 1=
+    - place: 2=
       total: 15
       breakdown:
         reach: 8.736
@@ -15829,7 +15829,7 @@ scoreDfNoTrack:
       landedDistance: 0.000 km
   - - - '57'
       - Julia Kucherenko
-    - place: 1=
+    - place: 2=
       total: 15
       breakdown:
         reach: 8.736
@@ -15843,7 +15843,7 @@ scoreDfNoTrack:
       landedDistance: 0.000 km
   - - - '88'
       - Martin Sielaff
-    - place: 1=
+    - place: 2=
       total: 15
       breakdown:
         reach: 8.736
@@ -15857,7 +15857,7 @@ scoreDfNoTrack:
       landedDistance: 0.000 km
   - - - '103'
       - Roberto Nichele
-    - place: 1=
+    - place: 2=
       total: 15
       breakdown:
         reach: 8.736
@@ -15953,65 +15953,79 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
-- - - - '58'
-      - Anna Belova
-    - place: 1=
-      total: 11
-      breakdown:
-        reach: 8.857
-        effort: 2.42
-        distance: 11.277
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
-  - - - '95'
+- - - - '95'
       - Anton Struganov
     - place: 1=
-      total: 11
+      total: 281
       breakdown:
-        reach: 8.857
-        effort: 2.42
-        distance: 11.277
+        reach: 281.385
+        effort: 0
+        distance: 281.385
         leading: 0
         arrival: 0
         time: 0
       velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
+      reachDistance: 158.848 km
+      landedDistance: 158.848 km
   - - - '41'
       - Curt Warren
     - place: 1=
-      total: 11
+      total: 281
       breakdown:
-        reach: 8.857
-        effort: 2.42
-        distance: 11.277
+        reach: 281.385
+        effort: 0
+        distance: 281.385
         leading: 0
         arrival: 0
         time: 0
       velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
-  - - - '28'
-      - Evgeniya Laritskaya
-    - place: 1=
-      total: 11
-      breakdown:
-        reach: 8.857
-        effort: 2.42
-        distance: 11.277
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
+      reachDistance: 158.848 km
+      landedDistance: 158.848 km
   - - - '30'
       - Fredy Bircher
-    - place: 1=
+    - place: '3'
+      total: 280
+      breakdown:
+        reach: 279.919
+        effort: 0
+        distance: 279.919
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 158.020 km
+      landedDistance: 158.020 km
+  - - - '22'
+      - Mark Russell
+    - place: '4'
+      total: 139
+      breakdown:
+        reach: 92.113
+        effort: 47.188
+        distance: 139.301
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 52.000 km
+      landedDistance: 52.000 km
+  - - - '58'
+      - Anna Belova
+    - place: '5'
+      total: 21
+      breakdown:
+        reach: 21.257
+        effort: 0
+        distance: 21.257
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 12.000 km
+      landedDistance: 12.000 km
+  - - - '28'
+      - Evgeniya Laritskaya
+    - place: 6=
       total: 11
       breakdown:
         reach: 8.857
@@ -16025,7 +16039,7 @@ scoreDfNoTrack:
       landedDistance: 0.000 km
   - - - '64'
       - Gustavo Carvalho
-    - place: 1=
+    - place: 6=
       total: 11
       breakdown:
         reach: 8.857
@@ -16039,21 +16053,7 @@ scoreDfNoTrack:
       landedDistance: 0.000 km
   - - - '32'
       - Kathryn O'Riordan
-    - place: 1=
-      total: 11
-      breakdown:
-        reach: 8.857
-        effort: 2.42
-        distance: 11.277
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
-  - - - '22'
-      - Mark Russell
-    - place: 1=
+    - place: 6=
       total: 11
       breakdown:
         reach: 8.857

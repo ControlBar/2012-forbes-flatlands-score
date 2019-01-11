@@ -2814,16 +2814,15 @@ pilotGroups:
   - - '91'
     - Francesco Rinaldi
   didFlyNoTracklog:
-    unDfNoTrack:
-    - - - '58'
-        - Anna Belova
-      - 0.000000 km
-    - - - '79'
-        - David Stevens
-      - 0.000000 km
-    - - - '52'
-        - Virpi Nieminen
-      - 0.000000 km
+  - - - '58'
+      - Anna Belova
+    - 0.000000 km
+  - - - '79'
+      - David Stevens
+    - 0.000000 km
+  - - - '52'
+      - Virpi Nieminen
+    - 0.000000 km
   dnf:
   - - '86'
     - Talgat Irgaleev
@@ -2834,8 +2833,7 @@ pilotGroups:
     - Davis Straub
   - - '86'
     - Talgat Irgaleev
-  didFlyNoTracklog:
-    unDfNoTrack: []
+  didFlyNoTracklog: []
   dnf: []
 - absent:
   - - '65'
@@ -2847,22 +2845,21 @@ pilotGroups:
   - - '86'
     - Talgat Irgaleev
   didFlyNoTracklog:
-    unDfNoTrack:
-    - - - '101'
-        - ! 'Andrew Luton '
-      - 183.857000 km
-    - - - '78'
-        - Christine Aichner
-      - 183.857000 km
-    - - - '19'
-        - Mikhail Karmazin
-      - 183.857000 km
-    - - - '89'
-        - Scott Barrett
-      - 183.857000 km
-    - - - '42'
-        - Suan Selenati
-      - 0.000000 km
+  - - - '101'
+      - ! 'Andrew Luton '
+    - 183.857000 km
+  - - - '78'
+      - Christine Aichner
+    - 183.857000 km
+  - - - '19'
+      - Mikhail Karmazin
+    - 183.857000 km
+  - - - '89'
+      - Scott Barrett
+    - 183.857000 km
+  - - - '42'
+      - Suan Selenati
+    - 0.000000 km
   dnf: []
 - absent:
   - - '65'
@@ -2878,22 +2875,21 @@ pilotGroups:
   - - '72'
     - Tove Heaney
   didFlyNoTracklog:
-    unDfNoTrack:
-    - - - '67'
-        - ! 'Andy Phillips '
-      - 144.031000 km
-    - - - '28'
-        - Evgeniya Laritskaya
-      - 0.000000 km
-    - - - '57'
-        - Julia Kucherenko
-      - 0.000000 km
-    - - - '88'
-        - Martin Sielaff
-      - 0.000000 km
-    - - - '103'
-        - Roberto Nichele
-      - 0.000000 km
+  - - - '67'
+      - ! 'Andy Phillips '
+    - 144.031000 km
+  - - - '28'
+      - Evgeniya Laritskaya
+    - 0.000000 km
+  - - - '57'
+      - Julia Kucherenko
+    - 0.000000 km
+  - - - '88'
+      - Martin Sielaff
+    - 0.000000 km
+  - - - '103'
+      - Roberto Nichele
+    - 0.000000 km
   dnf: []
 - absent:
   - - '65'
@@ -2903,13 +2899,12 @@ pilotGroups:
   - - '10'
     - Marat Matnurov
   didFlyNoTracklog:
-    unDfNoTrack:
-    - - - '53'
-        - Hadewych van Kempen
-      - 0.000000 km
-    - - - '40'
-        - Phil de Joux
-      - 0.000000 km
+  - - - '53'
+      - Hadewych van Kempen
+    - 0.000000 km
+  - - - '40'
+      - Phil de Joux
+    - 0.000000 km
   dnf:
   - - '91'
     - Francesco Rinaldi
@@ -2923,10 +2918,9 @@ pilotGroups:
   - - '10'
     - Marat Matnurov
   didFlyNoTracklog:
-    unDfNoTrack:
-    - - - '91'
-        - Francesco Rinaldi
-      - 0.000000 km
+  - - - '91'
+      - Francesco Rinaldi
+    - 0.000000 km
   dnf: []
 - absent:
   - - '65'
@@ -2940,16 +2934,15 @@ pilotGroups:
   - - '10'
     - Marat Matnurov
   didFlyNoTracklog:
-    unDfNoTrack:
-    - - - '62'
-        - Enda Murphy
-      - 0.000000 km
-    - - - '28'
-        - Evgeniya Laritskaya
-      - 0.000000 km
-    - - - '47'
-        - ! 'Miguel De Jong '
-      - 0.000000 km
+  - - - '62'
+      - Enda Murphy
+    - 0.000000 km
+  - - - '28'
+      - Evgeniya Laritskaya
+    - 0.000000 km
+  - - - '47'
+      - ! 'Miguel De Jong '
+    - 0.000000 km
   dnf: []
 - absent:
   - - '106'
@@ -2965,31 +2958,30 @@ pilotGroups:
   - - '72'
     - Tove Heaney
   didFlyNoTracklog:
-    unDfNoTrack:
-    - - - '58'
-        - Anna Belova
-      - 12.000000 km
-    - - - '95'
-        - Anton Struganov
-      - 158.848000 km
-    - - - '41'
-        - Curt Warren
-      - 158.848000 km
-    - - - '28'
-        - Evgeniya Laritskaya
-      - 0.000000 km
-    - - - '30'
-        - Fredy Bircher
-      - 158.020000 km
-    - - - '64'
-        - Gustavo Carvalho
-      - 0.000000 km
-    - - - '32'
-        - Kathryn O'Riordan
-      - 0.000000 km
-    - - - '22'
-        - Mark Russell
-      - 52.000000 km
+  - - - '58'
+      - Anna Belova
+    - 12.000000 km
+  - - - '95'
+      - Anton Struganov
+    - 158.848000 km
+  - - - '41'
+      - Curt Warren
+    - 158.848000 km
+  - - - '28'
+      - Evgeniya Laritskaya
+    - 0.000000 km
+  - - - '30'
+      - Fredy Bircher
+    - 158.020000 km
+  - - - '64'
+      - Gustavo Carvalho
+    - 0.000000 km
+  - - - '32'
+      - Kathryn O'Riordan
+    - 0.000000 km
+  - - - '22'
+      - Mark Russell
+    - 52.000000 km
   dnf:
   - - '86'
     - Talgat Irgaleev

@@ -2814,12 +2814,16 @@ pilotGroups:
   - - '91'
     - Francesco Rinaldi
   didFlyNoTracklog:
-  - - '58'
-    - Anna Belova
-  - - '79'
-    - David Stevens
-  - - '52'
-    - Virpi Nieminen
+    unDfNoTrack:
+    - - - '58'
+        - Anna Belova
+      - null
+    - - - '79'
+        - David Stevens
+      - null
+    - - - '52'
+        - Virpi Nieminen
+      - null
   dnf:
   - - '86'
     - Talgat Irgaleev
@@ -2830,7 +2834,8 @@ pilotGroups:
     - Davis Straub
   - - '86'
     - Talgat Irgaleev
-  didFlyNoTracklog: []
+  didFlyNoTracklog:
+    unDfNoTrack: []
   dnf: []
 - absent:
   - - '65'
@@ -2842,16 +2847,22 @@ pilotGroups:
   - - '86'
     - Talgat Irgaleev
   didFlyNoTracklog:
-  - - '101'
-    - ! 'Andrew Luton '
-  - - '78'
-    - Christine Aichner
-  - - '19'
-    - Mikhail Karmazin
-  - - '89'
-    - Scott Barrett
-  - - '42'
-    - Suan Selenati
+    unDfNoTrack:
+    - - - '101'
+        - ! 'Andrew Luton '
+      - null
+    - - - '78'
+        - Christine Aichner
+      - null
+    - - - '19'
+        - Mikhail Karmazin
+      - null
+    - - - '89'
+        - Scott Barrett
+      - null
+    - - - '42'
+        - Suan Selenati
+      - null
   dnf: []
 - absent:
   - - '65'
@@ -2867,16 +2878,22 @@ pilotGroups:
   - - '72'
     - Tove Heaney
   didFlyNoTracklog:
-  - - '67'
-    - ! 'Andy Phillips '
-  - - '28'
-    - Evgeniya Laritskaya
-  - - '57'
-    - Julia Kucherenko
-  - - '88'
-    - Martin Sielaff
-  - - '103'
-    - Roberto Nichele
+    unDfNoTrack:
+    - - - '67'
+        - ! 'Andy Phillips '
+      - null
+    - - - '28'
+        - Evgeniya Laritskaya
+      - null
+    - - - '57'
+        - Julia Kucherenko
+      - null
+    - - - '88'
+        - Martin Sielaff
+      - null
+    - - - '103'
+        - Roberto Nichele
+      - null
   dnf: []
 - absent:
   - - '65'
@@ -2886,10 +2903,13 @@ pilotGroups:
   - - '10'
     - Marat Matnurov
   didFlyNoTracklog:
-  - - '53'
-    - Hadewych van Kempen
-  - - '40'
-    - Phil de Joux
+    unDfNoTrack:
+    - - - '53'
+        - Hadewych van Kempen
+      - null
+    - - - '40'
+        - Phil de Joux
+      - null
   dnf:
   - - '91'
     - Francesco Rinaldi
@@ -2903,8 +2923,10 @@ pilotGroups:
   - - '10'
     - Marat Matnurov
   didFlyNoTracklog:
-  - - '91'
-    - Francesco Rinaldi
+    unDfNoTrack:
+    - - - '91'
+        - Francesco Rinaldi
+      - null
   dnf: []
 - absent:
   - - '65'
@@ -2918,12 +2940,16 @@ pilotGroups:
   - - '10'
     - Marat Matnurov
   didFlyNoTracklog:
-  - - '62'
-    - Enda Murphy
-  - - '28'
-    - Evgeniya Laritskaya
-  - - '47'
-    - ! 'Miguel De Jong '
+    unDfNoTrack:
+    - - - '62'
+        - Enda Murphy
+      - null
+    - - - '28'
+        - Evgeniya Laritskaya
+      - null
+    - - - '47'
+        - ! 'Miguel De Jong '
+      - null
   dnf: []
 - absent:
   - - '106'
@@ -2939,22 +2965,31 @@ pilotGroups:
   - - '72'
     - Tove Heaney
   didFlyNoTracklog:
-  - - '58'
-    - Anna Belova
-  - - '95'
-    - Anton Struganov
-  - - '41'
-    - Curt Warren
-  - - '28'
-    - Evgeniya Laritskaya
-  - - '30'
-    - Fredy Bircher
-  - - '64'
-    - Gustavo Carvalho
-  - - '32'
-    - Kathryn O'Riordan
-  - - '22'
-    - Mark Russell
+    unDfNoTrack:
+    - - - '58'
+        - Anna Belova
+      - null
+    - - - '95'
+        - Anton Struganov
+      - null
+    - - - '41'
+        - Curt Warren
+      - null
+    - - - '28'
+        - Evgeniya Laritskaya
+      - null
+    - - - '30'
+        - Fredy Bircher
+      - null
+    - - - '64'
+        - Gustavo Carvalho
+      - null
+    - - - '32'
+        - Kathryn O'Riordan
+      - null
+    - - - '22'
+        - Mark Russell
+      - null
   dnf:
   - - '86'
     - Talgat Irgaleev

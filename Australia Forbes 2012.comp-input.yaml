@@ -21,7 +21,7 @@ nominal:
   distance: 80.0 km
   free: 5.0 km
   time: 2.000000 h
-tweak:
+compTweak:
   arrivalWeightScaling: null
   leadingWeightScaling: null
 tasks:
@@ -96,6 +96,9 @@ tasks:
     close: 2012-01-05T09:00:00Z
   startGates: []
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: null
+    leadingWeightScaling: null
 - taskName: day 2
   zones:
     raw:
@@ -167,6 +170,9 @@ tasks:
     close: 2012-01-06T09:00:00Z
   startGates: []
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: null
+    leadingWeightScaling: null
 - taskName: Day 3
   zones:
     raw:
@@ -238,6 +244,9 @@ tasks:
     close: 2012-01-07T09:00:00Z
   startGates: []
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: null
+    leadingWeightScaling: null
 - taskName: Day 4
   zones:
     raw:
@@ -298,6 +307,9 @@ tasks:
     close: 2012-01-09T09:00:00Z
   startGates: []
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: null
+    leadingWeightScaling: null
 - taskName: Day 5
   zones:
     raw:
@@ -358,6 +370,9 @@ tasks:
     close: 2012-01-10T09:00:00Z
   startGates: []
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: null
+    leadingWeightScaling: null
 - taskName: Day 6
   zones:
     raw:
@@ -418,6 +433,9 @@ tasks:
     close: 2012-01-12T09:00:00Z
   startGates: []
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: null
+    leadingWeightScaling: null
 - taskName: Day 7
   zones:
     raw:
@@ -489,6 +507,9 @@ tasks:
     close: 2012-01-13T09:00:00Z
   startGates: []
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: null
+    leadingWeightScaling: null
 - taskName: Day 8
   zones:
     raw:
@@ -560,6 +581,9 @@ tasks:
     close: 2012-01-14T09:00:00Z
   startGates: []
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: null
+    leadingWeightScaling: null
 taskFolders:
 - - Tracklogs
   - day 1

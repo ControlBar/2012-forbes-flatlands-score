@@ -88,6 +88,7 @@ tasks:
           - 148.40990000 deg
           radius: 400.0 m
     openKind: null
+  penalties: []
   speedSection:
   - 2
   - 5
@@ -162,6 +163,7 @@ tasks:
           - 147.91043000 deg
           radius: 400.0 m
     openKind: null
+  penalties: []
   speedSection:
   - 2
   - 5
@@ -236,6 +238,15 @@ tasks:
           - 148.66543000 deg
           radius: 1000.0 m
     openKind: null
+  penalties:
+  - - - '67'
+      - ! 'Andy Phillips '
+    - - contents: 0.16
+        tag: PenaltyPoints
+  - - - '77'
+      - Len Paton
+    - - contents: 0.13
+        tag: PenaltyPoints
   speedSection:
   - 2
   - 5
@@ -299,6 +310,25 @@ tasks:
           - 148.98900000 deg
           radius: 400.0 m
     openKind: null
+  penalties:
+  - - - '76'
+      - Dmitriy Korchenkov
+    - - contents: 0.1
+        tag: PenaltyFraction
+  - - - '77'
+      - Len Paton
+    - []
+  - - - '17'
+      - John Urlich
+    - - contents: 9.0e-2
+        tag: PenaltyPoints
+  - - - '43'
+      - Les Bestt
+    - []
+  - - - '98'
+      - Patrick Collin
+    - - contents: 0.1
+        tag: PenaltyFraction
   speedSection:
   - 2
   - 4
@@ -362,6 +392,15 @@ tasks:
           - 149.43363000 deg
           radius: 400.0 m
     openKind: null
+  penalties:
+  - - - '76'
+      - Dmitriy Korchenkov
+    - - contents: 0.1
+        tag: PenaltyFraction
+  - - - '17'
+      - John Urlich
+    - - contents: 0.43
+        tag: PenaltyPoints
   speedSection:
   - 2
   - 4
@@ -425,6 +464,11 @@ tasks:
           - 148.29623000 deg
           radius: 400.0 m
     openKind: null
+  penalties:
+  - - - '96'
+      - Brodrick Osborne
+    - - contents: 6
+        tag: PenaltyPoints
   speedSection:
   - 2
   - 4
@@ -499,6 +543,7 @@ tasks:
           - 148.74947000 deg
           radius: 400.0 m
     openKind: null
+  penalties: []
   speedSection:
   - 2
   - 5
@@ -573,6 +618,7 @@ tasks:
           - 147.93150000 deg
           radius: 400.0 m
     openKind: null
+  penalties: []
   speedSection:
   - 2
   - 5

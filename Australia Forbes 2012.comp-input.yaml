@@ -241,12 +241,10 @@ tasks:
   penalties:
   - - - '67'
       - ! 'Andy Phillips '
-    - - contents: 0.16
-        tag: PenaltyPoints
+    - - penalty-points: 0.16
   - - - '77'
       - Len Paton
-    - - contents: 0.13
-        tag: PenaltyPoints
+    - - penalty-points: 0.13
   speedSection:
   - 2
   - 5
@@ -313,22 +311,19 @@ tasks:
   penalties:
   - - - '76'
       - Dmitriy Korchenkov
-    - - contents: 0.1
-        tag: PenaltyFraction
+    - - penalty-fraction: 0.1
   - - - '77'
       - Len Paton
     - []
   - - - '17'
       - John Urlich
-    - - contents: 9.0e-2
-        tag: PenaltyPoints
+    - - penalty-points: 9.0e-2
   - - - '43'
       - Les Bestt
     - []
   - - - '98'
       - Patrick Collin
-    - - contents: 0.1
-        tag: PenaltyFraction
+    - - penalty-fraction: 0.1
   speedSection:
   - 2
   - 4
@@ -395,12 +390,10 @@ tasks:
   penalties:
   - - - '76'
       - Dmitriy Korchenkov
-    - - contents: 0.1
-        tag: PenaltyFraction
+    - - penalty-fraction: 0.1
   - - - '17'
       - John Urlich
-    - - contents: 0.43
-        tag: PenaltyPoints
+    - - penalty-points: 0.43
   speedSection:
   - 2
   - 4
@@ -467,8 +460,7 @@ tasks:
   penalties:
   - - - '96'
       - Brodrick Osborne
-    - - contents: 6
-        tag: PenaltyPoints
+    - - penalty-points: 6
   speedSection:
   - 2
   - 4

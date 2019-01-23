@@ -88,7 +88,6 @@ tasks:
           - 148.40990000 deg
           radius: 400.0 m
     openKind: null
-  penalties: []
   speedSection:
   - 2
   - 5
@@ -100,6 +99,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  penalties: []
 - taskName: day 2
   zones:
     raw:
@@ -163,7 +163,6 @@ tasks:
           - 147.91043000 deg
           radius: 400.0 m
     openKind: null
-  penalties: []
   speedSection:
   - 2
   - 5
@@ -175,6 +174,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  penalties: []
 - taskName: Day 3
   zones:
     raw:
@@ -238,13 +238,6 @@ tasks:
           - 148.66543000 deg
           radius: 1000.0 m
     openKind: null
-  penalties:
-  - - - '67'
-      - ! 'Andy Phillips '
-    - - penalty-points: 0.16
-  - - - '77'
-      - Len Paton
-    - - penalty-points: 0.13
   speedSection:
   - 2
   - 5
@@ -256,6 +249,13 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  penalties:
+  - - - '67'
+      - ! 'Andy Phillips '
+    - - penalty-points: 0.16
+  - - - '77'
+      - Len Paton
+    - - penalty-points: 0.13
 - taskName: Day 4
   zones:
     raw:
@@ -308,6 +308,17 @@ tasks:
           - 148.98900000 deg
           radius: 400.0 m
     openKind: null
+  speedSection:
+  - 2
+  - 4
+  zoneTimes:
+  - open: 2012-01-09T01:00:00Z
+    close: 2012-01-09T09:00:00Z
+  startGates: []
+  stopped: null
+  taskTweak:
+    arrivalWeightScaling: null
+    leadingWeightScaling: null
   penalties:
   - - - '76'
       - Dmitriy Korchenkov
@@ -324,17 +335,6 @@ tasks:
   - - - '98'
       - Patrick Collin
     - - penalty-fraction: 0.1
-  speedSection:
-  - 2
-  - 4
-  zoneTimes:
-  - open: 2012-01-09T01:00:00Z
-    close: 2012-01-09T09:00:00Z
-  startGates: []
-  stopped: null
-  taskTweak:
-    arrivalWeightScaling: null
-    leadingWeightScaling: null
 - taskName: Day 5
   zones:
     raw:
@@ -387,13 +387,6 @@ tasks:
           - 149.43363000 deg
           radius: 400.0 m
     openKind: null
-  penalties:
-  - - - '76'
-      - Dmitriy Korchenkov
-    - - penalty-fraction: 0.1
-  - - - '17'
-      - John Urlich
-    - - penalty-points: 0.43
   speedSection:
   - 2
   - 4
@@ -405,6 +398,13 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  penalties:
+  - - - '76'
+      - Dmitriy Korchenkov
+    - - penalty-fraction: 0.1
+  - - - '17'
+      - John Urlich
+    - - penalty-points: 0.43
 - taskName: Day 6
   zones:
     raw:
@@ -457,10 +457,6 @@ tasks:
           - 148.29623000 deg
           radius: 400.0 m
     openKind: null
-  penalties:
-  - - - '96'
-      - Brodrick Osborne
-    - - penalty-points: 6
   speedSection:
   - 2
   - 4
@@ -472,6 +468,10 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  penalties:
+  - - - '96'
+      - Brodrick Osborne
+    - - penalty-points: 6
 - taskName: Day 7
   zones:
     raw:
@@ -535,7 +535,6 @@ tasks:
           - 148.74947000 deg
           radius: 400.0 m
     openKind: null
-  penalties: []
   speedSection:
   - 2
   - 5
@@ -547,6 +546,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  penalties: []
 - taskName: Day 8
   zones:
     raw:
@@ -610,7 +610,6 @@ tasks:
           - 147.93150000 deg
           radius: 400.0 m
     openKind: null
-  penalties: []
   speedSection:
   - 2
   - 5
@@ -622,6 +621,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  penalties: []
 taskFolders:
 - - Tracklogs
   - day 1

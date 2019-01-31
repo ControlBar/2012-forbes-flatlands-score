@@ -15350,7 +15350,7 @@ score:
         reach: 269.41
         effort: 269.41
         distance: 538.821
-        leading: 19.2
+        leading: 19.4
         arrival: 41.3
         time: 175.4
       velocity:
@@ -15367,13 +15367,13 @@ score:
       stoppedAlt: null
   - - - '60'
       - Rohan Holtkamp
-    - place: 12=
-      total: 773
+    - place: '12'
+      total: 774
       breakdown:
         reach: 269.41
         effort: 269.41
         distance: 538.821
-        leading: 18.1
+        leading: 18.3
         arrival: 34.9
         time: 181.5
       velocity:
@@ -15390,7 +15390,7 @@ score:
       stoppedAlt: null
   - - - '92'
       - Hans Kiefinger
-    - place: 12=
+    - place: 13=
       total: 773
       breakdown:
         reach: 269.41
@@ -15413,7 +15413,7 @@ score:
       stoppedAlt: null
   - - - '89'
       - Scott Barrett
-    - place: 12=
+    - place: 13=
       total: 773
       breakdown:
         reach: 269.41
@@ -15690,12 +15690,12 @@ score:
   - - - '84'
       - Yasuhiro Noma
     - place: '26'
-      total: 731
+      total: 734
       breakdown:
         reach: 269.41
         effort: 269.41
         distance: 538.821
-        leading: 11.7
+        leading: 14.9
         arrival: 18.4
         time: 162.3
       velocity:
@@ -16353,9 +16353,32 @@ score:
       reachDistance: 119.077 km
       landedDistance: 118.569 km
       stoppedAlt: 214.000 m
+  - - - '69'
+      - Jonathan Kinred
+    - place: '56'
+      total: 332
+      breakdown:
+        reach: 198.784
+        effort: 128.536
+        distance: 327.319
+        leading: 4.4
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2012-01-14T03:32:38Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 116.923 km
+      landedDistance: 130.058 km
+      stoppedAlt: 272.000 m
   - - - '27'
       - ! 'Boris Marold '
-    - place: 56=
+    - place: '57'
       total: 331
       breakdown:
         reach: 215.319
@@ -16376,29 +16399,6 @@ score:
       reachDistance: 126.649 km
       landedDistance: 126.393 km
       stoppedAlt: 263.000 m
-  - - - '69'
-      - Jonathan Kinred
-    - place: 56=
-      total: 331
-      breakdown:
-        reach: 198.784
-        effort: 128.536
-        distance: 327.319
-        leading: 3.8
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2012-01-14T03:32:38Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 116.923 km
-      landedDistance: 130.058 km
-      stoppedAlt: 272.000 m
   - - - '96'
       - Brodrick Osborne
     - place: '58'
@@ -31870,7 +31870,7 @@ scoreDf:
         reach: 269.41
         effort: 269.41
         distance: 538.821
-        leading: 19.2
+        leading: 19.4
         arrival: 41.3
         time: 175.4
       velocity:
@@ -31887,13 +31887,13 @@ scoreDf:
       stoppedAlt: null
   - - - '60'
       - Rohan Holtkamp
-    - place: 12=
-      total: 773
+    - place: '12'
+      total: 774
       breakdown:
         reach: 269.41
         effort: 269.41
         distance: 538.821
-        leading: 18.1
+        leading: 18.3
         arrival: 34.9
         time: 181.5
       velocity:
@@ -31910,7 +31910,7 @@ scoreDf:
       stoppedAlt: null
   - - - '92'
       - Hans Kiefinger
-    - place: 12=
+    - place: 13=
       total: 773
       breakdown:
         reach: 269.41
@@ -31933,7 +31933,7 @@ scoreDf:
       stoppedAlt: null
   - - - '89'
       - Scott Barrett
-    - place: 12=
+    - place: 13=
       total: 773
       breakdown:
         reach: 269.41
@@ -32210,12 +32210,12 @@ scoreDf:
   - - - '84'
       - Yasuhiro Noma
     - place: '26'
-      total: 731
+      total: 734
       breakdown:
         reach: 269.41
         effort: 269.41
         distance: 538.821
-        leading: 11.7
+        leading: 14.9
         arrival: 18.4
         time: 162.3
       velocity:
@@ -32828,9 +32828,32 @@ scoreDf:
       reachDistance: 119.077 km
       landedDistance: 118.569 km
       stoppedAlt: 214.000 m
+  - - - '69'
+      - Jonathan Kinred
+    - place: '53'
+      total: 332
+      breakdown:
+        reach: 198.784
+        effort: 128.536
+        distance: 327.319
+        leading: 4.4
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2012-01-14T03:32:38Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 116.923 km
+      landedDistance: 130.058 km
+      stoppedAlt: 272.000 m
   - - - '27'
       - ! 'Boris Marold '
-    - place: 53=
+    - place: '54'
       total: 331
       breakdown:
         reach: 215.319
@@ -32851,29 +32874,6 @@ scoreDf:
       reachDistance: 126.649 km
       landedDistance: 126.393 km
       stoppedAlt: 263.000 m
-  - - - '69'
-      - Jonathan Kinred
-    - place: 53=
-      total: 331
-      breakdown:
-        reach: 198.784
-        effort: 128.536
-        distance: 327.319
-        leading: 3.8
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2012-01-14T03:32:38Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 116.923 km
-      landedDistance: 130.058 km
-      stoppedAlt: 272.000 m
   - - - '96'
       - Brodrick Osborne
     - place: '55'

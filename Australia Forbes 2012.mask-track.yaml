@@ -126,14 +126,14 @@ bestDistance:
 - 174.105927 km
 - 158.465204 km
 sumDistance:
-- 2868.680386 km
+- 3058.525386 km
 - 8650.867768 km
 - 11032.764368 km
 - 7133.384490 km
 - 10238.450416 km
 - 13363.234187 km
 - 8648.903649 km
-- 9073.206728 km
+- 9165.585728 km
 leadScaling:
 - 3.668378e-8
 - 3.649303e-8
@@ -373,10 +373,6 @@ lead:
       - Les Bestt
     - coef: 1.13555445
       frac: 0
-  - - - '36'
-      - Franz Herrmann
-    - coef: 1.22081182
-      frac: 0
   - - - '77'
       - Len Paton
     - coef: 1.24022547
@@ -401,25 +397,9 @@ lead:
       - Yasuhiro Noma
     - coef: 1.50392698
       frac: 0
-  - - - '60'
-      - Rohan Holtkamp
-    - coef: 1.53199368
-      frac: 0
-  - - - '1'
-      - Lukas Bader
-    - coef: 1.62455527
-      frac: 0
-  - - - '89'
-      - Scott Barrett
-    - coef: 1.63383171
-      frac: 0
   - - - '30'
       - Fredy Bircher
     - coef: 1.70931869
-      frac: 0
-  - - - '26'
-      - Guy Hubbard
-    - coef: 1.71109457
       frac: 0
   - - - '95'
       - Anton Struganov
@@ -437,6 +417,10 @@ lead:
       - Glen Mcfarlane
     - coef: 2.70209545
       frac: 0
+  - - - '36'
+      - Franz Herrmann
+    - coef: 2.89412992
+      frac: 0
   - - - '71'
       - Edoardo Giudiceandrea
     - coef: 2.96420695
@@ -444,6 +428,14 @@ lead:
   - - - '85'
       - Neil Petersen
     - coef: 2.97208053
+      frac: 0
+  - - - '89'
+      - Scott Barrett
+    - coef: 2.98860239
+      frac: 0
+  - - - '26'
+      - Guy Hubbard
+    - coef: 3.04463982
       frac: 0
   - - - '15'
       - ! 'Jean Souviron '
@@ -457,9 +449,17 @@ lead:
       - Trent Brown
     - coef: 3.21659788
       frac: 0
+  - - - '1'
+      - Lukas Bader
+    - coef: 3.2325516
+      frac: 0
   - - - '61'
       - Jonny Durand
     - coef: 3.27039142
+      frac: 0
+  - - - '60'
+      - Rohan Holtkamp
+    - coef: 3.53127567
       frac: 0
   - - - '8'
       - Primoz Gricar
@@ -2609,6 +2609,10 @@ lead:
       - Hans Kiefinger
     - coef: 3.97194946
       frac: 0.67797246
+  - - - '70'
+      - Matthew Barlow
+    - coef: 3.97809169
+      frac: 0.67419308
   - - - '15'
       - ! 'Jean Souviron '
     - coef: 3.97974761
@@ -2625,6 +2629,10 @@ lead:
       - Roland Wöhrle
     - coef: 4.0365931
       frac: 0.63922334
+  - - - '84'
+      - Yasuhiro Noma
+    - coef: 4.05488259
+      frac: 0.62863728
   - - - '31'
       - Andrew Barnes
     - coef: 4.05908945
@@ -2633,6 +2641,10 @@ lead:
       - Davide Guiducci
     - coef: 4.07501128
       frac: 0.61715836
+  - - - '60'
+      - Rohan Holtkamp
+    - coef: 4.07510469
+      frac: 0.6171055
   - - - '26'
       - Guy Hubbard
     - coef: 4.07838974
@@ -2673,6 +2685,10 @@ lead:
       - Wolfgang Siess
     - coef: 4.26149972
       frac: 0.51780124
+  - - - '69'
+      - Jonathan Kinred
+    - coef: 4.32987888
+      frac: 0.48390579
   - - - '20'
       - ! 'Luke Browne '
     - coef: 4.34548269
@@ -2733,30 +2749,22 @@ lead:
       - ! 'Miguel De Jong '
     - coef: 4.85381684
       frac: 0.25272546
-  - - - '70'
-      - Matthew Barlow
-    - coef: 4.88460994
-      frac: 0.24030243
   - - - '97'
       - Konrad Schwab
     - coef: 4.90202242
       frac: 0.23332242
-  - - - '60'
-      - Rohan Holtkamp
-    - coef: 4.9173972
-      frac: 0.22718555
-  - - - '84'
-      - Yasuhiro Noma
-    - coef: 5.02414205
-      frac: 0.18522737
-  - - - '69'
-      - Jonathan Kinred
-    - coef: 5.37487397
-      frac: 5.428363e-2
+  - - - '67'
+      - ! 'Andy Phillips '
+    - coef: 5.35848118
+      frac: 6.019603e-2
   - - - '27'
       - ! 'Boris Marold '
     - coef: 5.49213059
       frac: 1.251663e-2
+  - - - '98'
+      - Patrick Collin
+    - coef: 5.55790358
+      frac: 0
   - - - '96'
       - Brodrick Osborne
     - coef: 5.59862221
@@ -2809,10 +2817,6 @@ lead:
       - David Stevens
     - coef: 6.15828288
       frac: 0
-  - - - '67'
-      - ! 'Andy Phillips '
-    - coef: 6.21558142
-      frac: 0
   - - - '52'
       - Virpi Nieminen
     - coef: 6.2285332
@@ -2824,10 +2828,6 @@ lead:
   - - - '76'
       - Dmitriy Korchenkov
     - coef: 6.50516714
-      frac: 0
-  - - - '98'
-      - Patrick Collin
-    - coef: 6.70148802
       frac: 0
   - - - '53'
       - Hadewych van Kempen
@@ -5492,6 +5492,8 @@ nigh:
       - Edoardo Giudiceandrea
     - togo:
         distance: 9.013296 km
+        flipSum:
+        - 9.013296 km
         legs:
         - 9.013296 km
         legsSum:
@@ -5506,6 +5508,8 @@ nigh:
       - Curt Warren
     - togo:
         distance: 8.969400 km
+        flipSum:
+        - 8.969400 km
         legs:
         - 8.969400 km
         legsSum:
@@ -5520,6 +5524,8 @@ nigh:
       - Jonny Durand
     - togo:
         distance: 15.468227 km
+        flipSum:
+        - 15.468227 km
         legs:
         - 15.468227 km
         legsSum:
@@ -5534,6 +5540,9 @@ nigh:
       - Primoz Gricar
     - togo:
         distance: 20.628684 km
+        flipSum:
+        - 20.628684 km
+        - 20.125615 km
         legs:
         - 0.503068 km
         - 20.125615 km
@@ -5551,61 +5560,73 @@ nigh:
   - - - '60'
       - Rohan Holtkamp
     - togo:
-        distance: 78.912380 km
+        distance: 24.518285 km
+        flipSum:
+        - 24.518285 km
+        - 20.132806 km
         legs:
-        - 58.779574 km
+        - 4.385479 km
         - 20.132806 km
         legsSum:
-        - 58.779574 km
-        - 78.912380 km
+        - 4.385479 km
+        - 24.518285 km
         waypoints:
-        - lat: -33.850208
-          lng: 147.939249
+        - lat: -33.473703
+          lng: 148.314481
         - lat: -33.44322816
           lng: 148.34448899
         - lat: -33.61622878
           lng: 148.40856509
-      made: 53.996773 km
+      made: 108.444773 km
   - - - '36'
       - Franz Herrmann
     - togo:
-        distance: 78.556887 km
+        distance: 30.173182 km
+        flipSum:
+        - 30.173182 km
+        - 20.166959 km
         legs:
-        - 58.424081 km
-        - 20.132806 km
+        - 10.006223 km
+        - 20.166959 km
         legsSum:
-        - 58.424081 km
-        - 78.556887 km
+        - 10.006223 km
+        - 30.173182 km
         waypoints:
-        - lat: -33.84945
-          lng: 147.944183
-        - lat: -33.44322816
-          lng: 148.34448899
+        - lat: -33.493533
+          lng: 148.254517
+        - lat: -33.44307493
+          lng: 148.34383793
         - lat: -33.61622878
           lng: 148.40856509
-      made: 54.175773 km
+      made: 102.789773 km
   - - - '1'
       - Lukas Bader
     - togo:
-        distance: 78.590546 km
+        distance: 44.887644 km
+        flipSum:
+        - 44.887644 km
+        - 20.140549 km
         legs:
-        - 58.457740 km
-        - 20.132806 km
+        - 24.747095 km
+        - 20.140549 km
         legsSum:
-        - 58.457740 km
-        - 78.590546 km
+        - 24.747095 km
+        - 44.887644 km
         waypoints:
-        - lat: -33.84995
-          lng: 147.944341
-        - lat: -33.44322816
-          lng: 148.34448899
+        - lat: -33.601577
+          lng: 148.156772
+        - lat: -33.44319789
+          lng: 148.34432364
         - lat: -33.61622878
           lng: 148.40856509
-      made: 54.225773 km
+      made: 88.074773 km
   - - - '93'
       - Trent Brown
     - togo:
         distance: 45.362684 km
+        flipSum:
+        - 45.362684 km
+        - 20.140549 km
         legs:
         - 25.222135 km
         - 20.140549 km
@@ -5624,6 +5645,9 @@ nigh:
       - ! 'Jean Souviron '
     - togo:
         distance: 46.113043 km
+        flipSum:
+        - 46.113043 km
+        - 20.125615 km
         legs:
         - 25.987428 km
         - 20.125615 km
@@ -5642,6 +5666,9 @@ nigh:
       - Cameron Tunbridge
     - togo:
         distance: 50.687034 km
+        flipSum:
+        - 50.687034 km
+        - 20.140549 km
         legs:
         - 30.546485 km
         - 20.140549 km
@@ -5659,25 +5686,31 @@ nigh:
   - - - '89'
       - Scott Barrett
     - togo:
-        distance: 78.912345 km
+        distance: 51.979545 km
+        flipSum:
+        - 51.979545 km
+        - 20.118989 km
         legs:
-        - 58.779538 km
-        - 20.132806 km
+        - 31.860556 km
+        - 20.118989 km
         legsSum:
-        - 58.779538 km
-        - 78.912345 km
+        - 31.860556 km
+        - 51.979545 km
         waypoints:
-        - lat: -33.85045
-          lng: 147.9396
-        - lat: -33.44322816
-          lng: 148.34448899
+        - lat: -33.685317
+          lng: 148.1608
+        - lat: -33.44327235
+          lng: 148.34482331
         - lat: -33.61622878
           lng: 148.40856509
-      made: 54.031773 km
+      made: 80.982773 km
   - - - '85'
       - Neil Petersen
     - togo:
         distance: 52.681587 km
+        flipSum:
+        - 52.681587 km
+        - 20.148831 km
         legs:
         - 32.532756 km
         - 20.148831 km
@@ -5695,25 +5728,31 @@ nigh:
   - - - '26'
       - Guy Hubbard
     - togo:
-        distance: 78.731053 km
+        distance: 52.781261 km
+        flipSum:
+        - 52.781261 km
+        - 20.140549 km
         legs:
-        - 58.598247 km
-        - 20.132806 km
+        - 32.640713 km
+        - 20.140549 km
         legsSum:
-        - 58.598247 km
-        - 78.731053 km
+        - 32.640713 km
+        - 52.781261 km
         waypoints:
-        - lat: -33.849942
-          lng: 147.941938
-        - lat: -33.44322816
-          lng: 148.34448899
+        - lat: -33.649826
+          lng: 148.094151
+        - lat: -33.44319789
+          lng: 148.34432364
         - lat: -33.61622878
           lng: 148.40856509
-      made: 54.198773 km
+      made: 80.181773 km
   - - - '11'
       - Steve Blenkinsop
     - togo:
         distance: 60.497320 km
+        flipSum:
+        - 60.497320 km
+        - 20.132806 km
         legs:
         - 40.364514 km
         - 20.132806 km
@@ -5732,6 +5771,9 @@ nigh:
       - Glen Mcfarlane
     - togo:
         distance: 60.833511 km
+        flipSum:
+        - 60.833511 km
+        - 20.132806 km
         legs:
         - 40.700705 km
         - 20.132806 km
@@ -5750,6 +5792,9 @@ nigh:
       - Anton Struganov
     - togo:
         distance: 71.885631 km
+        flipSum:
+        - 71.885631 km
+        - 20.132806 km
         legs:
         - 51.752825 km
         - 20.132806 km
@@ -5768,6 +5813,9 @@ nigh:
       - Gerolf Heinrichs
     - togo:
         distance: 78.226812 km
+        flipSum:
+        - 78.226812 km
+        - 20.132806 km
         legs:
         - 58.094006 km
         - 20.132806 km
@@ -5786,6 +5834,10 @@ nigh:
       - Fredy Bircher
     - togo:
         distance: 78.955301 km
+        flipSum:
+        - 78.955301 km
+        - 78.756935 km
+        - 20.132806 km
         legs:
         - 0.198366 km
         - 58.624129 km
@@ -5808,6 +5860,10 @@ nigh:
       - Yasuhiro Noma
     - togo:
         distance: 79.640524 km
+        flipSum:
+        - 79.640524 km
+        - 78.896117 km
+        - 20.132806 km
         legs:
         - 0.744407 km
         - 58.763311 km
@@ -5830,6 +5886,10 @@ nigh:
       - Suan Selenati
     - togo:
         distance: 82.409914 km
+        flipSum:
+        - 82.409914 km
+        - 78.683110 km
+        - 20.132806 km
         legs:
         - 3.726803 km
         - 58.550304 km
@@ -5852,6 +5912,10 @@ nigh:
       - Len Paton
     - togo:
         distance: 84.851859 km
+        flipSum:
+        - 84.851859 km
+        - 78.695756 km
+        - 20.132806 km
         legs:
         - 6.156102 km
         - 58.562950 km
@@ -5874,6 +5938,10 @@ nigh:
       - Adam Stevens
     - togo:
         distance: 86.245259 km
+        flipSum:
+        - 86.245259 km
+        - 78.668493 km
+        - 20.132806 km
         legs:
         - 7.576766 km
         - 58.535687 km
@@ -5896,6 +5964,10 @@ nigh:
       - Tony Giammichele
     - togo:
         distance: 87.091444 km
+        flipSum:
+        - 87.091444 km
+        - 78.695756 km
+        - 20.132806 km
         legs:
         - 8.395687 km
         - 58.562950 km
@@ -5918,6 +5990,10 @@ nigh:
       - Jonas Lobitz
     - togo:
         distance: 89.227383 km
+        flipSum:
+        - 89.227383 km
+        - 78.677649 km
+        - 20.132806 km
         legs:
         - 10.549734 km
         - 58.544843 km
@@ -5940,6 +6016,10 @@ nigh:
       - Hans Kiefinger
     - togo:
         distance: 90.112236 km
+        flipSum:
+        - 90.112236 km
+        - 78.661738 km
+        - 20.132806 km
         legs:
         - 11.450498 km
         - 58.528932 km
@@ -5962,6 +6042,10 @@ nigh:
       - Matthew Barlow
     - togo:
         distance: 92.412454 km
+        flipSum:
+        - 92.412454 km
+        - 78.677649 km
+        - 20.132806 km
         legs:
         - 13.734805 km
         - 58.544843 km
@@ -5984,6 +6068,10 @@ nigh:
       - Davide Guiducci
     - togo:
         distance: 92.471468 km
+        flipSum:
+        - 92.471468 km
+        - 78.683110 km
+        - 20.132806 km
         legs:
         - 13.788357 km
         - 58.550304 km
@@ -6006,6 +6094,10 @@ nigh:
       - Joerg Bajewski
     - togo:
         distance: 91.192728 km
+        flipSum:
+        - 91.192728 km
+        - 78.664812 km
+        - 20.132806 km
         legs:
         - 12.527916 km
         - 58.532006 km
@@ -6028,6 +6120,10 @@ nigh:
       - Valentino Bau
     - togo:
         distance: 92.801943 km
+        flipSum:
+        - 92.801943 km
+        - 78.668493 km
+        - 20.132806 km
         legs:
         - 14.133450 km
         - 58.535687 km
@@ -6050,6 +6146,10 @@ nigh:
       - Nick Purcell
     - togo:
         distance: 93.253377 km
+        flipSum:
+        - 93.253377 km
+        - 78.661738 km
+        - 20.132806 km
         legs:
         - 14.591639 km
         - 58.528932 km
@@ -6072,6 +6172,10 @@ nigh:
       - Tullio Gervasoni
     - togo:
         distance: 93.797098 km
+        flipSum:
+        - 93.797098 km
+        - 78.683110 km
+        - 20.132806 km
         legs:
         - 15.113988 km
         - 58.550304 km
@@ -6094,6 +6198,10 @@ nigh:
       - Artur Dzamikhov
     - togo:
         distance: 94.009391 km
+        flipSum:
+        - 94.009391 km
+        - 78.661738 km
+        - 20.132806 km
         legs:
         - 15.347653 km
         - 58.528932 km
@@ -6116,6 +6224,10 @@ nigh:
       - Paolo Rosichetti
     - togo:
         distance: 94.470332 km
+        flipSum:
+        - 94.470332 km
+        - 78.672774 km
+        - 20.132806 km
         legs:
         - 15.797558 km
         - 58.539968 km
@@ -6138,6 +6250,10 @@ nigh:
       - Les Bestt
     - togo:
         distance: 94.474682 km
+        flipSum:
+        - 94.474682 km
+        - 78.677649 km
+        - 20.132806 km
         legs:
         - 15.797033 km
         - 58.544843 km
@@ -6160,6 +6276,10 @@ nigh:
       - Davis Straub
     - togo:
         distance: 94.434563 km
+        flipSum:
+        - 94.434563 km
+        - 78.677649 km
+        - 20.132806 km
         legs:
         - 15.756914 km
         - 58.544843 km
@@ -6182,6 +6302,10 @@ nigh:
       - ! 'Miguel De Jong '
     - togo:
         distance: 93.380455 km
+        flipSum:
+        - 93.380455 km
+        - 78.677649 km
+        - 20.132806 km
         legs:
         - 14.702806 km
         - 58.544843 km
@@ -6204,6 +6328,10 @@ nigh:
       - Shaun O'neill
     - togo:
         distance: 94.370905 km
+        flipSum:
+        - 94.370905 km
+        - 78.683110 km
+        - 20.132806 km
         legs:
         - 15.687794 km
         - 58.550304 km
@@ -6226,6 +6354,10 @@ nigh:
       - Olav Lien Olsen
     - togo:
         distance: 94.404282 km
+        flipSum:
+        - 94.404282 km
+        - 78.677649 km
+        - 20.132806 km
         legs:
         - 15.726633 km
         - 58.544843 km
@@ -6248,6 +6380,10 @@ nigh:
       - Adam Parer
     - togo:
         distance: 94.685284 km
+        flipSum:
+        - 94.685284 km
+        - 78.677649 km
+        - 20.132806 km
         legs:
         - 16.007635 km
         - 58.544843 km
@@ -6270,6 +6406,10 @@ nigh:
       - John Smith
     - togo:
         distance: 94.880094 km
+        flipSum:
+        - 94.880094 km
+        - 78.677649 km
+        - 20.132806 km
         legs:
         - 16.202445 km
         - 58.544843 km
@@ -6292,6 +6432,10 @@ nigh:
       - Grant Heaney
     - togo:
         distance: 94.946287 km
+        flipSum:
+        - 94.946287 km
+        - 78.677649 km
+        - 20.132806 km
         legs:
         - 16.268638 km
         - 58.544843 km
@@ -6314,6 +6458,10 @@ nigh:
       - Roland Wöhrle
     - togo:
         distance: 94.756717 km
+        flipSum:
+        - 94.756717 km
+        - 78.672774 km
+        - 20.132806 km
         legs:
         - 16.083943 km
         - 58.539968 km
@@ -6336,6 +6484,10 @@ nigh:
       - Andrew Barnes
     - togo:
         distance: 94.666823 km
+        flipSum:
+        - 94.666823 km
+        - 78.683110 km
+        - 20.132806 km
         legs:
         - 15.983713 km
         - 58.550304 km
@@ -6358,6 +6510,10 @@ nigh:
       - Rod Flockhart
     - togo:
         distance: 85.899593 km
+        flipSum:
+        - 85.899593 km
+        - 78.661738 km
+        - 20.132806 km
         legs:
         - 7.237856 km
         - 58.528932 km
@@ -6380,6 +6536,10 @@ nigh:
       - Carole Tobler
     - togo:
         distance: 96.713906 km
+        flipSum:
+        - 96.713906 km
+        - 78.668493 km
+        - 20.132806 km
         legs:
         - 18.045413 km
         - 58.535687 km
@@ -6402,6 +6562,10 @@ nigh:
       - Roberto Nichele
     - togo:
         distance: 96.650858 km
+        flipSum:
+        - 96.650858 km
+        - 78.672774 km
+        - 20.132806 km
         legs:
         - 17.978084 km
         - 58.539968 km
@@ -6424,6 +6588,10 @@ nigh:
       - Attila Bertok
     - togo:
         distance: 96.533512 km
+        flipSum:
+        - 96.533512 km
+        - 78.672774 km
+        - 20.132806 km
         legs:
         - 17.860738 km
         - 58.539968 km
@@ -6446,6 +6614,10 @@ nigh:
       - Marat Matnurov
     - togo:
         distance: 99.424411 km
+        flipSum:
+        - 99.424411 km
+        - 78.672774 km
+        - 20.132806 km
         legs:
         - 20.751637 km
         - 58.539968 km
@@ -6468,6 +6640,10 @@ nigh:
       - Rob In 't Groen
     - togo:
         distance: 100.772814 km
+        flipSum:
+        - 100.772814 km
+        - 78.664812 km
+        - 20.132806 km
         legs:
         - 22.108002 km
         - 58.532006 km
@@ -6490,6 +6666,10 @@ nigh:
       - Jürgen Pasker
     - togo:
         distance: 100.379288 km
+        flipSum:
+        - 100.379288 km
+        - 78.672774 km
+        - 20.132806 km
         legs:
         - 21.706514 km
         - 58.539968 km
@@ -6512,6 +6692,10 @@ nigh:
       - Corinna Schwiegershausen
     - togo:
         distance: 99.552026 km
+        flipSum:
+        - 99.552026 km
+        - 78.677649 km
+        - 20.132806 km
         legs:
         - 20.874377 km
         - 58.544843 km
@@ -6534,6 +6718,10 @@ nigh:
       - Jonathan Kinred
     - togo:
         distance: 100.555671 km
+        flipSum:
+        - 100.555671 km
+        - 78.668493 km
+        - 20.132806 km
         legs:
         - 21.887178 km
         - 58.535687 km
@@ -6556,6 +6744,10 @@ nigh:
       - Gijs Wanders
     - togo:
         distance: 102.182162 km
+        flipSum:
+        - 102.182162 km
+        - 78.683110 km
+        - 20.132806 km
         legs:
         - 23.499052 km
         - 58.550304 km
@@ -6578,6 +6770,10 @@ nigh:
       - Christian Baertschi
     - togo:
         distance: 102.132456 km
+        flipSum:
+        - 102.132456 km
+        - 78.668493 km
+        - 20.132806 km
         legs:
         - 23.463964 km
         - 58.535687 km
@@ -6600,6 +6796,10 @@ nigh:
       - Conrad Loten
     - togo:
         distance: 102.620815 km
+        flipSum:
+        - 102.620815 km
+        - 78.664812 km
+        - 20.132806 km
         legs:
         - 23.956003 km
         - 58.532006 km
@@ -6622,6 +6822,10 @@ nigh:
       - Dmitriy Korchenkov
     - togo:
         distance: 105.079032 km
+        flipSum:
+        - 105.079032 km
+        - 78.656197 km
+        - 20.132806 km
         legs:
         - 26.422835 km
         - 58.523391 km
@@ -6644,6 +6848,10 @@ nigh:
       - Phil Schroder
     - togo:
         distance: 105.146235 km
+        flipSum:
+        - 105.146235 km
+        - 78.672774 km
+        - 20.132806 km
         legs:
         - 26.473461 km
         - 58.539968 km
@@ -6666,6 +6874,10 @@ nigh:
       - Gustavo Carvalho
     - togo:
         distance: 106.389054 km
+        flipSum:
+        - 106.389054 km
+        - 78.683110 km
+        - 20.132806 km
         legs:
         - 27.705943 km
         - 58.550304 km
@@ -6688,6 +6900,10 @@ nigh:
       - Mitch Shipley
     - togo:
         distance: 106.348975 km
+        flipSum:
+        - 106.348975 km
+        - 78.683110 km
+        - 20.132806 km
         legs:
         - 27.665865 km
         - 58.550304 km
@@ -6710,6 +6926,10 @@ nigh:
       - Brodrick Osborne
     - togo:
         distance: 105.563339 km
+        flipSum:
+        - 105.563339 km
+        - 78.683110 km
+        - 20.132806 km
         legs:
         - 26.880229 km
         - 58.550304 km
@@ -6732,6 +6952,10 @@ nigh:
       - Konrad Schwab
     - togo:
         distance: 106.977669 km
+        flipSum:
+        - 106.977669 km
+        - 78.683110 km
+        - 20.132806 km
         legs:
         - 28.294558 km
         - 58.550304 km
@@ -6754,6 +6978,10 @@ nigh:
       - Jon snr Durand
     - togo:
         distance: 108.597371 km
+        flipSum:
+        - 108.597371 km
+        - 78.657427 km
+        - 20.132806 km
         legs:
         - 29.939944 km
         - 58.524621 km
@@ -6776,6 +7004,10 @@ nigh:
       - Pablo Gomes
     - togo:
         distance: 108.953084 km
+        flipSum:
+        - 108.953084 km
+        - 78.656197 km
+        - 20.132806 km
         legs:
         - 30.296887 km
         - 58.523391 km
@@ -6798,6 +7030,10 @@ nigh:
       - Alain Le-gac
     - togo:
         distance: 110.823283 km
+        flipSum:
+        - 110.823283 km
+        - 78.683110 km
+        - 20.132806 km
         legs:
         - 32.140173 km
         - 58.550304 km
@@ -6820,6 +7056,10 @@ nigh:
       - Chris Lawry
     - togo:
         distance: 114.764472 km
+        flipSum:
+        - 114.764472 km
+        - 78.683110 km
+        - 20.132806 km
         legs:
         - 36.081362 km
         - 58.550304 km
@@ -6842,6 +7082,10 @@ nigh:
       - Wolfgang Siess
     - togo:
         distance: 116.597969 km
+        flipSum:
+        - 116.597969 km
+        - 78.677649 km
+        - 20.132806 km
         legs:
         - 37.920320 km
         - 58.544843 km
@@ -6864,6 +7108,10 @@ nigh:
       - ! 'Boris Marold '
     - togo:
         distance: 116.552010 km
+        flipSum:
+        - 116.552010 km
+        - 78.677649 km
+        - 20.132806 km
         legs:
         - 37.874361 km
         - 58.544843 km
@@ -6886,6 +7134,10 @@ nigh:
       - Enda Murphy
     - togo:
         distance: 118.552673 km
+        flipSum:
+        - 118.552673 km
+        - 78.677649 km
+        - 20.132806 km
         legs:
         - 39.875024 km
         - 58.544843 km
@@ -6908,6 +7160,10 @@ nigh:
       - ! 'Luke Browne '
     - togo:
         distance: 119.379781 km
+        flipSum:
+        - 119.379781 km
+        - 78.659275 km
+        - 20.132806 km
         legs:
         - 40.720506 km
         - 58.526469 km
@@ -6930,6 +7186,10 @@ nigh:
       - Kari Suhonen
     - togo:
         distance: 113.605453 km
+        flipSum:
+        - 113.605453 km
+        - 78.672774 km
+        - 20.132806 km
         legs:
         - 34.932679 km
         - 58.539968 km
@@ -6952,6 +7212,10 @@ nigh:
       - Mark Russell
     - togo:
         distance: 120.971468 km
+        flipSum:
+        - 120.971468 km
+        - 78.683110 km
+        - 20.132806 km
         legs:
         - 42.288357 km
         - 58.550304 km
@@ -6974,6 +7238,10 @@ nigh:
       - Patrick Collin
     - togo:
         distance: 121.506737 km
+        flipSum:
+        - 121.506737 km
+        - 78.668493 km
+        - 20.132806 km
         legs:
         - 42.838244 km
         - 58.535687 km
@@ -6996,6 +7264,10 @@ nigh:
       - Peter Dall
     - togo:
         distance: 121.923759 km
+        flipSum:
+        - 121.923759 km
+        - 78.664812 km
+        - 20.132806 km
         legs:
         - 43.258947 km
         - 58.532006 km
@@ -7018,6 +7290,10 @@ nigh:
       - Konstantin Lukyanov
     - togo:
         distance: 122.708177 km
+        flipSum:
+        - 122.708177 km
+        - 78.672774 km
+        - 20.132806 km
         legs:
         - 44.035403 km
         - 58.539968 km
@@ -7040,6 +7316,10 @@ nigh:
       - ! 'Andy Phillips '
     - togo:
         distance: 122.866089 km
+        flipSum:
+        - 122.866089 km
+        - 78.664812 km
+        - 20.132806 km
         legs:
         - 44.201277 km
         - 58.532006 km
@@ -7062,6 +7342,10 @@ nigh:
       - Tove Heaney
     - togo:
         distance: 123.904797 km
+        flipSum:
+        - 123.904797 km
+        - 78.672774 km
+        - 20.132806 km
         legs:
         - 45.232024 km
         - 58.539968 km
@@ -7084,6 +7368,10 @@ nigh:
       - Julia Kucherenko
     - togo:
         distance: 125.095786 km
+        flipSum:
+        - 125.095786 km
+        - 78.672774 km
+        - 20.132806 km
         legs:
         - 46.423012 km
         - 58.539968 km
@@ -7106,6 +7394,10 @@ nigh:
       - Francoise Dieuzeide-banet
     - togo:
         distance: 126.281077 km
+        flipSum:
+        - 126.281077 km
+        - 78.672774 km
+        - 20.132806 km
         legs:
         - 47.608303 km
         - 58.539968 km
@@ -7128,6 +7420,10 @@ nigh:
       - Christine Aichner
     - togo:
         distance: 127.107794 km
+        flipSum:
+        - 127.107794 km
+        - 78.672774 km
+        - 20.132806 km
         legs:
         - 48.435020 km
         - 58.539968 km
@@ -7150,6 +7446,10 @@ nigh:
       - Kathryn O'Riordan
     - togo:
         distance: 127.653974 km
+        flipSum:
+        - 127.653974 km
+        - 78.672774 km
+        - 20.132806 km
         legs:
         - 48.981200 km
         - 58.539968 km
@@ -7172,6 +7472,10 @@ nigh:
       - Phil de Joux
     - togo:
         distance: 127.567256 km
+        flipSum:
+        - 127.567256 km
+        - 78.683110 km
+        - 20.132806 km
         legs:
         - 48.884146 km
         - 58.550304 km
@@ -7194,6 +7498,10 @@ nigh:
       - Hadewych van Kempen
     - togo:
         distance: 128.056436 km
+        flipSum:
+        - 128.056436 km
+        - 78.677649 km
+        - 20.132806 km
         legs:
         - 49.378787 km
         - 58.544843 km
@@ -7216,6 +7524,10 @@ nigh:
       - Gavin Myers
     - togo:
         distance: 127.440151 km
+        flipSum:
+        - 127.440151 km
+        - 78.672774 km
+        - 20.132806 km
         legs:
         - 48.767377 km
         - 58.539968 km
@@ -7238,6 +7550,10 @@ nigh:
       - Grant Edward
     - togo:
         distance: 128.483320 km
+        flipSum:
+        - 128.483320 km
+        - 78.668493 km
+        - 20.132806 km
         legs:
         - 49.814828 km
         - 58.535687 km
@@ -7260,6 +7576,10 @@ nigh:
       - Mikhail Karmazin
     - togo:
         distance: 128.261067 km
+        flipSum:
+        - 128.261067 km
+        - 78.672774 km
+        - 20.132806 km
         legs:
         - 49.588293 km
         - 58.539968 km
@@ -7278,32 +7598,14 @@ nigh:
         - lat: -33.61622878
           lng: 148.40856509
       made: 4.701773 km
-  - - - '37'
-      - Peter Ebeling
-    - togo:
-        distance: 130.311801 km
-        legs:
-        - 51.639028 km
-        - 58.539968 km
-        - 20.132806 km
-        legsSum:
-        - 51.639028 km
-        - 110.178995 km
-        - 130.311801 km
-        waypoints:
-        - lat: -33.386774
-          lng: 147.975675
-        - lat: -33.85040655
-          lng: 147.94360765
-        - lat: -33.44322816
-          lng: 148.34448899
-        - lat: -33.61622878
-          lng: 148.40856509
-      made: 2.650773 km
   - - - '28'
       - Evgeniya Laritskaya
     - togo:
         distance: 131.152336 km
+        flipSum:
+        - 131.152336 km
+        - 78.677649 km
+        - 20.132806 km
         legs:
         - 52.474687 km
         - 58.544843 km
@@ -7326,6 +7628,10 @@ nigh:
       - Monique Pavy
     - togo:
         distance: 132.792520 km
+        flipSum:
+        - 132.792520 km
+        - 78.677649 km
+        - 20.132806 km
         legs:
         - 54.114871 km
         - 58.544843 km
@@ -7344,54 +7650,14 @@ nigh:
         - lat: -33.61622878
           lng: 148.40856509
       made: 0.169773 km
-  - - - '88'
-      - Martin Sielaff
-    - togo:
-        distance: 132.977115 km
-        legs:
-        - 54.294005 km
-        - 58.550304 km
-        - 20.132806 km
-        legsSum:
-        - 54.294005 km
-        - 112.844309 km
-        - 132.977115 km
-        waypoints:
-        - lat: -33.3623
-          lng: 147.923833
-        - lat: -33.85030878
-          lng: 147.94328855
-        - lat: -33.44322816
-          lng: 148.34448899
-        - lat: -33.61622878
-          lng: 148.40856509
-      made: -0.014227 km
-  - - - '17'
-      - John Urlich
-    - togo:
-        distance: 132.292604 km
-        legs:
-        - 53.609494 km
-        - 58.550304 km
-        - 20.132806 km
-        legsSum:
-        - 53.609494 km
-        - 112.159798 km
-        - 132.292604 km
-        waypoints:
-        - lat: -33.3689
-          lng: 147.911817
-        - lat: -33.85030878
-          lng: 147.94328855
-        - lat: -33.44322816
-          lng: 148.34448899
-        - lat: -33.61622878
-          lng: 148.40856509
-      made: 0.669773 km
   - - - '46'
       - Jonathon Foote
     - togo:
         distance: 135.996306 km
+        flipSum:
+        - 135.996306 km
+        - 78.672774 km
+        - 20.132806 km
         legs:
         - 57.323532 km
         - 58.539968 km
@@ -7414,6 +7680,8 @@ nigh:
       - Franz Herrmann
     - togo:
         distance: 0.029644 km
+        flipSum:
+        - 0.029644 km
         legs:
         - 0.029644 km
         legsSum:
@@ -7428,6 +7696,8 @@ nigh:
       - Glen Mcfarlane
     - togo:
         distance: 0.205487 km
+        flipSum:
+        - 0.205487 km
         legs:
         - 0.205487 km
         legsSum:
@@ -7442,6 +7712,8 @@ nigh:
       - ! 'Miguel De Jong '
     - togo:
         distance: 0.943357 km
+        flipSum:
+        - 0.943357 km
         legs:
         - 0.943357 km
         legsSum:
@@ -7456,6 +7728,8 @@ nigh:
       - Tony Giammichele
     - togo:
         distance: 37.488421 km
+        flipSum:
+        - 37.488421 km
         legs:
         - 37.488421 km
         legsSum:
@@ -7470,6 +7744,8 @@ nigh:
       - Phil Schroder
     - togo:
         distance: 2.420685 km
+        flipSum:
+        - 2.420685 km
         legs:
         - 2.420685 km
         legsSum:
@@ -7484,6 +7760,8 @@ nigh:
       - Guy Hubbard
     - togo:
         distance: 37.553943 km
+        flipSum:
+        - 37.553943 km
         legs:
         - 37.553943 km
         legsSum:
@@ -7498,6 +7776,8 @@ nigh:
       - Valentino Bau
     - togo:
         distance: 37.596964 km
+        flipSum:
+        - 37.596964 km
         legs:
         - 37.596964 km
         legsSum:
@@ -7512,6 +7792,8 @@ nigh:
       - ! 'Luke Browne '
     - togo:
         distance: 7.473393 km
+        flipSum:
+        - 7.473393 km
         legs:
         - 7.473393 km
         legsSum:
@@ -7526,6 +7808,8 @@ nigh:
       - Brodrick Osborne
     - togo:
         distance: 8.650446 km
+        flipSum:
+        - 8.650446 km
         legs:
         - 8.650446 km
         legsSum:
@@ -7540,6 +7824,8 @@ nigh:
       - Neil Petersen
     - togo:
         distance: 37.467123 km
+        flipSum:
+        - 37.467123 km
         legs:
         - 37.467123 km
         legsSum:
@@ -7554,6 +7840,8 @@ nigh:
       - Gavin Myers
     - togo:
         distance: 37.479413 km
+        flipSum:
+        - 37.479413 km
         legs:
         - 37.479413 km
         legsSum:
@@ -7568,6 +7856,8 @@ nigh:
       - Carole Tobler
     - togo:
         distance: 37.726162 km
+        flipSum:
+        - 37.726162 km
         legs:
         - 37.726162 km
         legsSum:
@@ -7582,6 +7872,8 @@ nigh:
       - Grant Edward
     - togo:
         distance: 37.493160 km
+        flipSum:
+        - 37.493160 km
         legs:
         - 37.493160 km
         legsSum:
@@ -7596,6 +7888,8 @@ nigh:
       - Mark Russell
     - togo:
         distance: 37.562175 km
+        flipSum:
+        - 37.562175 km
         legs:
         - 37.562175 km
         legsSum:
@@ -7610,6 +7904,8 @@ nigh:
       - Wolfgang Siess
     - togo:
         distance: 37.430646 km
+        flipSum:
+        - 37.430646 km
         legs:
         - 37.430646 km
         legsSum:
@@ -7624,6 +7920,8 @@ nigh:
       - Francoise Dieuzeide-banet
     - togo:
         distance: 11.421978 km
+        flipSum:
+        - 11.421978 km
         legs:
         - 11.421978 km
         legsSum:
@@ -7638,6 +7936,8 @@ nigh:
       - Jonathan Kinred
     - togo:
         distance: 37.495761 km
+        flipSum:
+        - 37.495761 km
         legs:
         - 37.495761 km
         legsSum:
@@ -7652,6 +7952,8 @@ nigh:
       - Jonny Durand
     - togo:
         distance: 37.523286 km
+        flipSum:
+        - 37.523286 km
         legs:
         - 37.523286 km
         legsSum:
@@ -7666,6 +7968,8 @@ nigh:
       - Rob In 't Groen
     - togo:
         distance: 13.572582 km
+        flipSum:
+        - 13.572582 km
         legs:
         - 13.572582 km
         legsSum:
@@ -7680,6 +7984,8 @@ nigh:
       - Kari Suhonen
     - togo:
         distance: 37.657995 km
+        flipSum:
+        - 37.657995 km
         legs:
         - 37.657995 km
         legsSum:
@@ -7694,6 +8000,8 @@ nigh:
       - Nick Purcell
     - togo:
         distance: 37.507803 km
+        flipSum:
+        - 37.507803 km
         legs:
         - 37.507803 km
         legsSum:
@@ -7708,6 +8016,8 @@ nigh:
       - Christian Baertschi
     - togo:
         distance: 14.817692 km
+        flipSum:
+        - 14.817692 km
         legs:
         - 14.817692 km
         legsSum:
@@ -7722,6 +8032,8 @@ nigh:
       - Chris Lawry
     - togo:
         distance: 37.439809 km
+        flipSum:
+        - 37.439809 km
         legs:
         - 37.439809 km
         legsSum:
@@ -7736,6 +8048,8 @@ nigh:
       - Jürgen Pasker
     - togo:
         distance: 37.445090 km
+        flipSum:
+        - 37.445090 km
         legs:
         - 37.445090 km
         legsSum:
@@ -7750,6 +8064,8 @@ nigh:
       - Peter Dall
     - togo:
         distance: 37.500737 km
+        flipSum:
+        - 37.500737 km
         legs:
         - 37.500737 km
         legsSum:
@@ -7764,6 +8080,8 @@ nigh:
       - Konstantin Lukyanov
     - togo:
         distance: 20.623650 km
+        flipSum:
+        - 20.623650 km
         legs:
         - 20.623650 km
         legsSum:
@@ -7778,6 +8096,8 @@ nigh:
       - Kathryn O'Riordan
     - togo:
         distance: 37.426256 km
+        flipSum:
+        - 37.426256 km
         legs:
         - 37.426256 km
         legsSum:
@@ -7792,6 +8112,8 @@ nigh:
       - Peter Ebeling
     - togo:
         distance: 21.041046 km
+        flipSum:
+        - 21.041046 km
         legs:
         - 21.041046 km
         legsSum:
@@ -7806,6 +8128,8 @@ nigh:
       - Jon snr Durand
     - togo:
         distance: 21.667440 km
+        flipSum:
+        - 21.667440 km
         legs:
         - 21.667440 km
         legsSum:
@@ -7820,6 +8144,8 @@ nigh:
       - ! 'Boris Marold '
     - togo:
         distance: 22.141927 km
+        flipSum:
+        - 22.141927 km
         legs:
         - 22.141927 km
         legsSum:
@@ -7834,6 +8160,8 @@ nigh:
       - Marat Matnurov
     - togo:
         distance: 22.289964 km
+        flipSum:
+        - 22.289964 km
         legs:
         - 22.289964 km
         legsSum:
@@ -7848,6 +8176,8 @@ nigh:
       - Enda Murphy
     - togo:
         distance: 37.411875 km
+        flipSum:
+        - 37.411875 km
         legs:
         - 37.411875 km
         legsSum:
@@ -7862,6 +8192,8 @@ nigh:
       - Trent Brown
     - togo:
         distance: 37.365923 km
+        flipSum:
+        - 37.365923 km
         legs:
         - 37.365923 km
         legsSum:
@@ -7876,6 +8208,8 @@ nigh:
       - Curt Warren
     - togo:
         distance: 30.188051 km
+        flipSum:
+        - 30.188051 km
         legs:
         - 30.188051 km
         legsSum:
@@ -7890,6 +8224,8 @@ nigh:
       - Edoardo Giudiceandrea
     - togo:
         distance: 37.447925 km
+        flipSum:
+        - 37.447925 km
         legs:
         - 37.447925 km
         legsSum:
@@ -7904,6 +8240,8 @@ nigh:
       - Alain Le-gac
     - togo:
         distance: 37.569384 km
+        flipSum:
+        - 37.569384 km
         legs:
         - 37.569384 km
         legsSum:
@@ -7918,6 +8256,8 @@ nigh:
       - Martin Sielaff
     - togo:
         distance: 37.476838 km
+        flipSum:
+        - 37.476838 km
         legs:
         - 37.476838 km
         legsSum:
@@ -7932,6 +8272,8 @@ nigh:
       - Les Bestt
     - togo:
         distance: 34.823406 km
+        flipSum:
+        - 34.823406 km
         legs:
         - 34.823406 km
         legsSum:
@@ -7946,6 +8288,8 @@ nigh:
       - Shaun O'neill
     - togo:
         distance: 35.580849 km
+        flipSum:
+        - 35.580849 km
         legs:
         - 35.580849 km
         legsSum:
@@ -7960,6 +8304,8 @@ nigh:
       - Pablo Gomes
     - togo:
         distance: 37.574951 km
+        flipSum:
+        - 37.574951 km
         legs:
         - 37.574951 km
         legsSum:
@@ -7974,6 +8320,8 @@ nigh:
       - Evgeniya Laritskaya
     - togo:
         distance: 37.542584 km
+        flipSum:
+        - 37.542584 km
         legs:
         - 37.542584 km
         legsSum:
@@ -7988,6 +8336,9 @@ nigh:
       - Konrad Schwab
     - togo:
         distance: 77.262519 km
+        flipSum:
+        - 77.262519 km
+        - 37.529264 km
         legs:
         - 39.733255 km
         - 37.529264 km
@@ -8006,6 +8357,9 @@ nigh:
       - Rod Flockhart
     - togo:
         distance: 77.538558 km
+        flipSum:
+        - 77.538558 km
+        - 37.529264 km
         legs:
         - 40.009295 km
         - 37.529264 km
@@ -8024,6 +8378,9 @@ nigh:
       - John Urlich
     - togo:
         distance: 77.226199 km
+        flipSum:
+        - 77.226199 km
+        - 37.529264 km
         legs:
         - 39.696935 km
         - 37.529264 km
@@ -8042,6 +8399,9 @@ nigh:
       - Tove Heaney
     - togo:
         distance: 37.700887 km
+        flipSum:
+        - 37.700887 km
+        - 37.588300 km
         legs:
         - 0.112587 km
         - 37.588300 km
@@ -8060,6 +8420,9 @@ nigh:
       - Christine Aichner
     - togo:
         distance: 77.320553 km
+        flipSum:
+        - 77.320553 km
+        - 37.529264 km
         legs:
         - 39.791289 km
         - 37.529264 km
@@ -8078,6 +8441,9 @@ nigh:
       - Andrew Barnes
     - togo:
         distance: 37.635011 km
+        flipSum:
+        - 37.635011 km
+        - 37.570302 km
         legs:
         - 0.064709 km
         - 37.570302 km
@@ -8096,6 +8462,9 @@ nigh:
       - Patrick Collin
     - togo:
         distance: 66.314231 km
+        flipSum:
+        - 66.314231 km
+        - 37.524430 km
         legs:
         - 28.789801 km
         - 37.524430 km
@@ -8114,6 +8483,9 @@ nigh:
       - David Stevens
     - togo:
         distance: 66.204246 km
+        flipSum:
+        - 66.204246 km
+        - 37.529264 km
         legs:
         - 28.674982 km
         - 37.529264 km
@@ -8132,6 +8504,9 @@ nigh:
       - Francesco Rinaldi
     - togo:
         distance: 77.645795 km
+        flipSum:
+        - 77.645795 km
+        - 37.529264 km
         legs:
         - 40.116531 km
         - 37.529264 km
@@ -8150,6 +8525,9 @@ nigh:
       - Gustavo Carvalho
     - togo:
         distance: 77.206132 km
+        flipSum:
+        - 77.206132 km
+        - 37.529264 km
         legs:
         - 39.676868 km
         - 37.529264 km
@@ -8168,6 +8546,10 @@ nigh:
       - Dmitriy Korchenkov
     - togo:
         distance: 83.187685 km
+        flipSum:
+        - 83.187685 km
+        - 77.383070 km
+        - 37.529264 km
         legs:
         - 5.804615 km
         - 39.853806 km
@@ -8190,6 +8572,10 @@ nigh:
       - Mikhail Karmazin
     - togo:
         distance: 89.793995 km
+        flipSum:
+        - 89.793995 km
+        - 77.442511 km
+        - 37.529264 km
         legs:
         - 12.351484 km
         - 39.913247 km
@@ -8212,6 +8598,10 @@ nigh:
       - Monique Pavy
     - togo:
         distance: 95.576303 km
+        flipSum:
+        - 95.576303 km
+        - 77.367301 km
+        - 37.529264 km
         legs:
         - 18.209003 km
         - 39.838037 km
@@ -8234,6 +8624,10 @@ nigh:
       - Virpi Nieminen
     - togo:
         distance: 103.792014 km
+        flipSum:
+        - 103.792014 km
+        - 77.400939 km
+        - 37.529264 km
         legs:
         - 26.391075 km
         - 39.871675 km
@@ -8256,6 +8650,10 @@ nigh:
       - Phil de Joux
     - togo:
         distance: 107.095212 km
+        flipSum:
+        - 107.095212 km
+        - 77.400939 km
+        - 37.529264 km
         legs:
         - 29.694273 km
         - 39.871675 km
@@ -8278,6 +8676,10 @@ nigh:
       - Anna Belova
     - togo:
         distance: 107.908585 km
+        flipSum:
+        - 107.908585 km
+        - 77.410626 km
+        - 37.529264 km
         legs:
         - 30.497960 km
         - 39.881362 km
@@ -8300,6 +8702,10 @@ nigh:
       - Matthew Barlow
     - togo:
         distance: 77.453661 km
+        flipSum:
+        - 77.453661 km
+        - 77.383070 km
+        - 37.529264 km
         legs:
         - 0.070591 km
         - 39.853806 km
@@ -8322,6 +8728,10 @@ nigh:
       - Hadewych van Kempen
     - togo:
         distance: 111.175009 km
+        flipSum:
+        - 111.175009 km
+        - 77.391749 km
+        - 37.529264 km
         legs:
         - 33.783260 km
         - 39.862485 km
@@ -8344,6 +8754,10 @@ nigh:
       - Jonathon Foote
     - togo:
         distance: 116.939396 km
+        flipSum:
+        - 116.939396 km
+        - 77.410626 km
+        - 37.529264 km
         legs:
         - 39.528770 km
         - 39.881362 km
@@ -8366,6 +8780,10 @@ nigh:
       - ! 'Andy Phillips '
     - togo:
         distance: 78.096483 km
+        flipSum:
+        - 78.096483 km
+        - 77.431428 km
+        - 37.529264 km
         legs:
         - 0.665055 km
         - 39.902164 km
@@ -8388,6 +8806,10 @@ nigh:
       - Julia Kucherenko
     - togo:
         distance: 124.275987 km
+        flipSum:
+        - 124.275987 km
+        - 77.410626 km
+        - 37.529264 km
         legs:
         - 46.865362 km
         - 39.881362 km
@@ -8410,6 +8832,8 @@ nigh:
       - ! 'Jean Souviron '
     - togo:
         distance: 4.062007 km
+        flipSum:
+        - 4.062007 km
         legs:
         - 4.062007 km
         legsSum:
@@ -8424,6 +8848,8 @@ nigh:
       - Guy Hubbard
     - togo:
         distance: 4.660097 km
+        flipSum:
+        - 4.660097 km
         legs:
         - 4.660097 km
         legsSum:
@@ -8438,6 +8864,8 @@ nigh:
       - Edoardo Giudiceandrea
     - togo:
         distance: 14.393921 km
+        flipSum:
+        - 14.393921 km
         legs:
         - 14.393921 km
         legsSum:
@@ -8452,6 +8880,8 @@ nigh:
       - Fredy Bircher
     - togo:
         distance: 78.284470 km
+        flipSum:
+        - 78.284470 km
         legs:
         - 78.284470 km
         legsSum:
@@ -8466,6 +8896,8 @@ nigh:
       - Roland Wöhrle
     - togo:
         distance: 78.400278 km
+        flipSum:
+        - 78.400278 km
         legs:
         - 78.400278 km
         legsSum:
@@ -8480,6 +8912,8 @@ nigh:
       - Kari Suhonen
     - togo:
         distance: 16.706457 km
+        flipSum:
+        - 16.706457 km
         legs:
         - 16.706457 km
         legsSum:
@@ -8494,6 +8928,8 @@ nigh:
       - Peter Ebeling
     - togo:
         distance: 78.776337 km
+        flipSum:
+        - 78.776337 km
         legs:
         - 78.776337 km
         legsSum:
@@ -8508,6 +8944,8 @@ nigh:
       - Phil Schroder
     - togo:
         distance: 50.333424 km
+        flipSum:
+        - 50.333424 km
         legs:
         - 50.333424 km
         legsSum:
@@ -8522,6 +8960,8 @@ nigh:
       - Phil de Joux
     - togo:
         distance: 51.453539 km
+        flipSum:
+        - 51.453539 km
         legs:
         - 51.453539 km
         legsSum:
@@ -8536,6 +8976,8 @@ nigh:
       - Pablo Gomes
     - togo:
         distance: 54.111090 km
+        flipSum:
+        - 54.111090 km
         legs:
         - 54.111090 km
         legsSum:
@@ -8550,6 +8992,8 @@ nigh:
       - Adam Parer
     - togo:
         distance: 54.859582 km
+        flipSum:
+        - 54.859582 km
         legs:
         - 54.859582 km
         legsSum:
@@ -8564,6 +9008,8 @@ nigh:
       - ! 'Andy Phillips '
     - togo:
         distance: 78.296266 km
+        flipSum:
+        - 78.296266 km
         legs:
         - 78.296266 km
         legsSum:
@@ -8578,6 +9024,8 @@ nigh:
       - Patrick Collin
     - togo:
         distance: 62.329404 km
+        flipSum:
+        - 62.329404 km
         legs:
         - 62.329404 km
         legsSum:
@@ -8592,6 +9040,8 @@ nigh:
       - Enda Murphy
     - togo:
         distance: 78.332028 km
+        flipSum:
+        - 78.332028 km
         legs:
         - 78.332028 km
         legsSum:
@@ -8606,6 +9056,8 @@ nigh:
       - Rob In 't Groen
     - togo:
         distance: 64.711089 km
+        flipSum:
+        - 64.711089 km
         legs:
         - 64.711089 km
         legsSum:
@@ -8620,6 +9072,8 @@ nigh:
       - Glen Mcfarlane
     - togo:
         distance: 74.613369 km
+        flipSum:
+        - 74.613369 km
         legs:
         - 74.613369 km
         legsSum:
@@ -8634,6 +9088,8 @@ nigh:
       - David Stevens
     - togo:
         distance: 78.267692 km
+        flipSum:
+        - 78.267692 km
         legs:
         - 78.267692 km
         legsSum:
@@ -8648,6 +9104,8 @@ nigh:
       - Tove Heaney
     - togo:
         distance: 78.231177 km
+        flipSum:
+        - 78.231177 km
         legs:
         - 78.231177 km
         legsSum:
@@ -8662,6 +9120,9 @@ nigh:
       - Kathryn O'Riordan
     - togo:
         distance: 87.193230 km
+        flipSum:
+        - 87.193230 km
+        - 78.492270 km
         legs:
         - 8.700960 km
         - 78.492270 km
@@ -8680,6 +9141,9 @@ nigh:
       - Marat Matnurov
     - togo:
         distance: 87.387630 km
+        flipSum:
+        - 87.387630 km
+        - 78.492270 km
         legs:
         - 8.895361 km
         - 78.492270 km
@@ -8698,6 +9162,9 @@ nigh:
       - Virpi Nieminen
     - togo:
         distance: 87.638130 km
+        flipSum:
+        - 87.638130 km
+        - 78.505472 km
         legs:
         - 9.132657 km
         - 78.505472 km
@@ -8716,6 +9183,9 @@ nigh:
       - Konrad Schwab
     - togo:
         distance: 105.663080 km
+        flipSum:
+        - 105.663080 km
+        - 78.532831 km
         legs:
         - 27.130249 km
         - 78.532831 km
@@ -8734,6 +9204,9 @@ nigh:
       - Paolo Rosichetti
     - togo:
         distance: 91.360073 km
+        flipSum:
+        - 91.360073 km
+        - 78.561317 km
         legs:
         - 12.798756 km
         - 78.561317 km
@@ -8752,6 +9225,9 @@ nigh:
       - Jonathon Foote
     - togo:
         distance: 96.036071 km
+        flipSum:
+        - 96.036071 km
+        - 78.519000 km
         legs:
         - 17.517072 km
         - 78.519000 km
@@ -8770,6 +9246,9 @@ nigh:
       - Brodrick Osborne
     - togo:
         distance: 105.154089 km
+        flipSum:
+        - 105.154089 km
+        - 78.519000 km
         legs:
         - 26.635089 km
         - 78.519000 km
@@ -8788,6 +9267,9 @@ nigh:
       - Les Bestt
     - togo:
         distance: 105.126473 km
+        flipSum:
+        - 105.126473 km
+        - 78.532831 km
         legs:
         - 26.593643 km
         - 78.532831 km
@@ -8806,6 +9288,10 @@ nigh:
       - Jürgen Pasker
     - togo:
         distance: 109.184916 km
+        flipSum:
+        - 109.184916 km
+        - 106.084794 km
+        - 78.532831 km
         legs:
         - 3.100122 km
         - 27.551964 km
@@ -8828,6 +9314,10 @@ nigh:
       - Anna Belova
     - togo:
         distance: 111.744687 km
+        flipSum:
+        - 111.744687 km
+        - 105.785111 km
+        - 78.532831 km
         legs:
         - 5.959576 km
         - 27.252281 km
@@ -8850,6 +9340,10 @@ nigh:
       - Konstantin Lukyanov
     - togo:
         distance: 114.168326 km
+        flipSum:
+        - 114.168326 km
+        - 105.934843 km
+        - 78.532831 km
         legs:
         - 8.233483 km
         - 27.402012 km
@@ -8872,6 +9366,10 @@ nigh:
       - Gavin Myers
     - togo:
         distance: 128.766899 km
+        flipSum:
+        - 128.766899 km
+        - 106.007679 km
+        - 78.532831 km
         legs:
         - 22.759219 km
         - 27.474849 km
@@ -8894,6 +9392,10 @@ nigh:
       - Evgeniya Laritskaya
     - togo:
         distance: 133.773614 km
+        flipSum:
+        - 133.773614 km
+        - 105.992676 km
+        - 78.532831 km
         legs:
         - 27.780939 km
         - 27.459845 km
@@ -8916,6 +9418,10 @@ nigh:
       - Gerolf Heinrichs
     - togo:
         distance: 134.711562 km
+        flipSum:
+        - 134.711562 km
+        - 105.977868 km
+        - 78.532831 km
         legs:
         - 28.733694 km
         - 27.445037 km
@@ -8938,6 +9444,10 @@ nigh:
       - Gijs Wanders
     - togo:
         distance: 140.765726 km
+        flipSum:
+        - 140.765726 km
+        - 106.022854 km
+        - 78.532831 km
         legs:
         - 34.742871 km
         - 27.490024 km
@@ -8960,6 +9470,10 @@ nigh:
       - Grant Edward
     - togo:
         distance: 147.090955 km
+        flipSum:
+        - 147.090955 km
+        - 105.992676 km
+        - 78.532831 km
         legs:
         - 41.098279 km
         - 27.459845 km
@@ -8982,6 +9496,10 @@ nigh:
       - Gustavo Carvalho
     - togo:
         distance: 155.699247 km
+        flipSum:
+        - 155.699247 km
+        - 105.934843 km
+        - 78.532831 km
         legs:
         - 49.764404 km
         - 27.402012 km
@@ -9004,6 +9522,10 @@ nigh:
       - Valentino Bau
     - togo:
         distance: 157.749196 km
+        flipSum:
+        - 157.749196 km
+        - 105.977868 km
+        - 78.532831 km
         legs:
         - 51.771328 km
         - 27.445037 km
@@ -9026,6 +9548,10 @@ nigh:
       - Mark Russell
     - togo:
         distance: 158.661222 km
+        flipSum:
+        - 158.661222 km
+        - 105.992676 km
+        - 78.532831 km
         legs:
         - 52.668546 km
         - 27.459845 km
@@ -9048,6 +9574,10 @@ nigh:
       - Alain Le-gac
     - togo:
         distance: 160.145524 km
+        flipSum:
+        - 160.145524 km
+        - 105.977868 km
+        - 78.532831 km
         legs:
         - 54.167657 km
         - 27.445037 km
@@ -9070,6 +9600,10 @@ nigh:
       - John Urlich
     - togo:
         distance: 161.855764 km
+        flipSum:
+        - 161.855764 km
+        - 105.934843 km
+        - 78.532831 km
         legs:
         - 55.920922 km
         - 27.402012 km
@@ -9092,6 +9626,10 @@ nigh:
       - Martin Sielaff
     - togo:
         distance: 166.386052 km
+        flipSum:
+        - 166.386052 km
+        - 105.963277 km
+        - 78.532831 km
         legs:
         - 60.422774 km
         - 27.430447 km
@@ -9114,6 +9652,10 @@ nigh:
       - Hadewych van Kempen
     - togo:
         distance: 165.788180 km
+        flipSum:
+        - 165.788180 km
+        - 105.963277 km
+        - 78.532831 km
         legs:
         - 59.824903 km
         - 27.430447 km
@@ -9136,6 +9678,10 @@ nigh:
       - Monique Pavy
     - togo:
         distance: 168.668429 km
+        flipSum:
+        - 168.668429 km
+        - 105.963277 km
+        - 78.532831 km
         legs:
         - 62.705152 km
         - 27.430447 km
@@ -9158,6 +9704,10 @@ nigh:
       - Julia Kucherenko
     - togo:
         distance: 171.508786 km
+        flipSum:
+        - 171.508786 km
+        - 105.977868 km
+        - 78.532831 km
         legs:
         - 65.530918 km
         - 27.445037 km
@@ -9180,6 +9730,10 @@ nigh:
       - Dmitriy Korchenkov
     - togo:
         distance: 171.441331 km
+        flipSum:
+        - 171.441331 km
+        - 105.977868 km
+        - 78.532831 km
         legs:
         - 65.463464 km
         - 27.445037 km
@@ -9202,6 +9756,10 @@ nigh:
       - ! 'Boris Marold '
     - togo:
         distance: 175.530795 km
+        flipSum:
+        - 175.530795 km
+        - 105.963277 km
+        - 78.532831 km
         legs:
         - 69.567518 km
         - 27.430447 km
@@ -9224,6 +9782,10 @@ nigh:
       - Peter Dall
     - togo:
         distance: 105.911201 km
+        flipSum:
+        - 105.911201 km
+        - 105.803283 km
+        - 78.532831 km
         legs:
         - 0.107918 km
         - 27.270452 km
@@ -9246,6 +9808,8 @@ nigh:
       - Mitch Shipley
     - togo:
         distance: 84.215762 km
+        flipSum:
+        - 84.215762 km
         legs:
         - 84.215762 km
         legsSum:
@@ -9260,6 +9824,8 @@ nigh:
       - Conrad Loten
     - togo:
         distance: 2.161478 km
+        flipSum:
+        - 2.161478 km
         legs:
         - 2.161478 km
         legsSum:
@@ -9274,6 +9840,8 @@ nigh:
       - Gavin Myers
     - togo:
         distance: 7.896683 km
+        flipSum:
+        - 7.896683 km
         legs:
         - 7.896683 km
         legsSum:
@@ -9288,6 +9856,8 @@ nigh:
       - Enda Murphy
     - togo:
         distance: 12.482716 km
+        flipSum:
+        - 12.482716 km
         legs:
         - 12.482716 km
         legsSum:
@@ -9302,6 +9872,8 @@ nigh:
       - Adam Parer
     - togo:
         distance: 84.558234 km
+        flipSum:
+        - 84.558234 km
         legs:
         - 84.558234 km
         legsSum:
@@ -9316,6 +9888,8 @@ nigh:
       - Brodrick Osborne
     - togo:
         distance: 85.840741 km
+        flipSum:
+        - 85.840741 km
         legs:
         - 85.840741 km
         legsSum:
@@ -9330,6 +9904,8 @@ nigh:
       - Jonas Lobitz
     - togo:
         distance: 85.830571 km
+        flipSum:
+        - 85.830571 km
         legs:
         - 85.830571 km
         legsSum:
@@ -9344,6 +9920,8 @@ nigh:
       - Anton Struganov
     - togo:
         distance: 13.864418 km
+        flipSum:
+        - 13.864418 km
         legs:
         - 13.864418 km
         legsSum:
@@ -9358,6 +9936,8 @@ nigh:
       - Alain Le-gac
     - togo:
         distance: 85.795406 km
+        flipSum:
+        - 85.795406 km
         legs:
         - 85.795406 km
         legsSum:
@@ -9372,6 +9952,8 @@ nigh:
       - Shaun O'neill
     - togo:
         distance: 24.070104 km
+        flipSum:
+        - 24.070104 km
         legs:
         - 24.070104 km
         legsSum:
@@ -9386,6 +9968,8 @@ nigh:
       - ! 'Andrew Luton '
     - togo:
         distance: 86.360545 km
+        flipSum:
+        - 86.360545 km
         legs:
         - 86.360545 km
         legsSum:
@@ -9400,6 +9984,8 @@ nigh:
       - Edoardo Giudiceandrea
     - togo:
         distance: 86.749386 km
+        flipSum:
+        - 86.749386 km
         legs:
         - 86.749386 km
         legsSum:
@@ -9414,6 +10000,8 @@ nigh:
       - Len Paton
     - togo:
         distance: 79.734023 km
+        flipSum:
+        - 79.734023 km
         legs:
         - 79.734023 km
         legsSum:
@@ -9428,6 +10016,8 @@ nigh:
       - Les Bestt
     - togo:
         distance: 35.437094 km
+        flipSum:
+        - 35.437094 km
         legs:
         - 35.437094 km
         legsSum:
@@ -9442,6 +10032,8 @@ nigh:
       - Grant Edward
     - togo:
         distance: 87.660044 km
+        flipSum:
+        - 87.660044 km
         legs:
         - 87.660044 km
         legsSum:
@@ -9456,6 +10048,8 @@ nigh:
       - Konstantin Lukyanov
     - togo:
         distance: 88.533073 km
+        flipSum:
+        - 88.533073 km
         legs:
         - 88.533073 km
         legsSum:
@@ -9470,6 +10064,8 @@ nigh:
       - Mikhail Karmazin
     - togo:
         distance: 85.210600 km
+        flipSum:
+        - 85.210600 km
         legs:
         - 85.210600 km
         legsSum:
@@ -9484,6 +10080,8 @@ nigh:
       - Corinna Schwiegershausen
     - togo:
         distance: 82.993455 km
+        flipSum:
+        - 82.993455 km
         legs:
         - 82.993455 km
         legsSum:
@@ -9498,6 +10096,8 @@ nigh:
       - Glen Mcfarlane
     - togo:
         distance: 84.178454 km
+        flipSum:
+        - 84.178454 km
         legs:
         - 84.178454 km
         legsSum:
@@ -9512,6 +10112,8 @@ nigh:
       - Primoz Gricar
     - togo:
         distance: 81.789989 km
+        flipSum:
+        - 81.789989 km
         legs:
         - 81.789989 km
         legsSum:
@@ -9526,6 +10128,8 @@ nigh:
       - Jonathon Foote
     - togo:
         distance: 86.655403 km
+        flipSum:
+        - 86.655403 km
         legs:
         - 86.655403 km
         legsSum:
@@ -9540,6 +10144,8 @@ nigh:
       - Rob In 't Groen
     - togo:
         distance: 56.782240 km
+        flipSum:
+        - 56.782240 km
         legs:
         - 56.782240 km
         legsSum:
@@ -9554,6 +10160,8 @@ nigh:
       - Rod Flockhart
     - togo:
         distance: 83.142482 km
+        flipSum:
+        - 83.142482 km
         legs:
         - 83.142482 km
         legsSum:
@@ -9568,6 +10176,8 @@ nigh:
       - ! 'Miguel De Jong '
     - togo:
         distance: 87.344152 km
+        flipSum:
+        - 87.344152 km
         legs:
         - 87.344152 km
         legsSum:
@@ -9582,6 +10192,8 @@ nigh:
       - Matthew Barlow
     - togo:
         distance: 83.518446 km
+        flipSum:
+        - 83.518446 km
         legs:
         - 83.518446 km
         legsSum:
@@ -9596,6 +10208,8 @@ nigh:
       - Neil Petersen
     - togo:
         distance: 75.432677 km
+        flipSum:
+        - 75.432677 km
         legs:
         - 75.432677 km
         legsSum:
@@ -9610,6 +10224,8 @@ nigh:
       - Kathryn O'Riordan
     - togo:
         distance: 80.098235 km
+        flipSum:
+        - 80.098235 km
         legs:
         - 80.098235 km
         legsSum:
@@ -9624,6 +10240,8 @@ nigh:
       - Virpi Nieminen
     - togo:
         distance: 86.432627 km
+        flipSum:
+        - 86.432627 km
         legs:
         - 86.432627 km
         legsSum:
@@ -9638,6 +10256,8 @@ nigh:
       - Gijs Wanders
     - togo:
         distance: 83.814481 km
+        flipSum:
+        - 83.814481 km
         legs:
         - 83.814481 km
         legsSum:
@@ -9652,6 +10272,8 @@ nigh:
       - Tony Giammichele
     - togo:
         distance: 85.728866 km
+        flipSum:
+        - 85.728866 km
         legs:
         - 85.728866 km
         legsSum:
@@ -9666,6 +10288,8 @@ nigh:
       - David Stevens
     - togo:
         distance: 86.428736 km
+        flipSum:
+        - 86.428736 km
         legs:
         - 86.428736 km
         legsSum:
@@ -9680,6 +10304,8 @@ nigh:
       - Chris Lawry
     - togo:
         distance: 113.843885 km
+        flipSum:
+        - 113.843885 km
         legs:
         - 113.843885 km
         legsSum:
@@ -9694,6 +10320,8 @@ nigh:
       - Curt Warren
     - togo:
         distance: 88.885931 km
+        flipSum:
+        - 88.885931 km
         legs:
         - 88.885931 km
         legsSum:
@@ -9708,6 +10336,8 @@ nigh:
       - Davide Guiducci
     - togo:
         distance: 120.364694 km
+        flipSum:
+        - 120.364694 km
         legs:
         - 120.364694 km
         legsSum:
@@ -9722,6 +10352,8 @@ nigh:
       - Mark Russell
     - togo:
         distance: 121.792696 km
+        flipSum:
+        - 121.792696 km
         legs:
         - 121.792696 km
         legsSum:
@@ -9736,6 +10368,8 @@ nigh:
       - Peter Dall
     - togo:
         distance: 95.070465 km
+        flipSum:
+        - 95.070465 km
         legs:
         - 95.070465 km
         legsSum:
@@ -9750,6 +10384,9 @@ nigh:
       - John Urlich
     - togo:
         distance: 96.703394 km
+        flipSum:
+        - 96.703394 km
+        - 85.204124 km
         legs:
         - 11.499270 km
         - 85.204124 km
@@ -9768,6 +10405,8 @@ nigh:
       - ! 'Luke Browne '
     - togo:
         distance: 101.484399 km
+        flipSum:
+        - 101.484399 km
         legs:
         - 101.484399 km
         legsSum:
@@ -9782,6 +10421,9 @@ nigh:
       - ! 'Boris Marold '
     - togo:
         distance: 96.708140 km
+        flipSum:
+        - 96.708140 km
+        - 85.859375 km
         legs:
         - 10.848765 km
         - 85.859375 km
@@ -9800,6 +10442,9 @@ nigh:
       - Konrad Schwab
     - togo:
         distance: 106.898556 km
+        flipSum:
+        - 106.898556 km
+        - 99.698053 km
         legs:
         - 7.200503 km
         - 99.698053 km
@@ -9818,6 +10463,9 @@ nigh:
       - Dmitriy Korchenkov
     - togo:
         distance: 110.173680 km
+        flipSum:
+        - 110.173680 km
+        - 98.723965 km
         legs:
         - 11.449716 km
         - 98.723965 km
@@ -9836,6 +10484,8 @@ nigh:
       - Gustavo Carvalho
     - togo:
         distance: 120.241376 km
+        flipSum:
+        - 120.241376 km
         legs:
         - 120.241376 km
         legsSum:
@@ -9850,6 +10500,9 @@ nigh:
       - Phil de Joux
     - togo:
         distance: 115.436074 km
+        flipSum:
+        - 115.436074 km
+        - 99.698053 km
         legs:
         - 15.738021 km
         - 99.698053 km
@@ -9868,6 +10521,9 @@ nigh:
       - Pablo Gomes
     - togo:
         distance: 116.785162 km
+        flipSum:
+        - 116.785162 km
+        - 96.795555 km
         legs:
         - 19.989607 km
         - 96.795555 km
@@ -9886,6 +10542,9 @@ nigh:
       - Hadewych van Kempen
     - togo:
         distance: 118.061957 km
+        flipSum:
+        - 118.061957 km
+        - 98.723965 km
         legs:
         - 19.337992 km
         - 98.723965 km
@@ -9904,6 +10563,9 @@ nigh:
       - Peter Ebeling
     - togo:
         distance: 124.520106 km
+        flipSum:
+        - 124.520106 km
+        - 100.676469 km
         legs:
         - 23.843637 km
         - 100.676469 km
@@ -9922,6 +10584,9 @@ nigh:
       - Fredy Bircher
     - togo:
         distance: 127.608937 km
+        flipSum:
+        - 127.608937 km
+        - 99.698053 km
         legs:
         - 27.910885 km
         - 99.698053 km
@@ -9940,6 +10605,9 @@ nigh:
       - Paolo Rosichetti
     - togo:
         distance: 128.027982 km
+        flipSum:
+        - 128.027982 km
+        - 100.676469 km
         legs:
         - 27.351512 km
         - 100.676469 km
@@ -9958,6 +10626,9 @@ nigh:
       - Valentino Bau
     - togo:
         distance: 130.416898 km
+        flipSum:
+        - 130.416898 km
+        - 98.723965 km
         legs:
         - 31.692933 km
         - 98.723965 km
@@ -9976,6 +10647,9 @@ nigh:
       - Carole Tobler
     - togo:
         distance: 135.501258 km
+        flipSum:
+        - 135.501258 km
+        - 100.676469 km
         legs:
         - 34.824789 km
         - 100.676469 km
@@ -9994,6 +10668,9 @@ nigh:
       - Anna Belova
     - togo:
         distance: 136.812944 km
+        flipSum:
+        - 136.812944 km
+        - 98.723965 km
         legs:
         - 38.088979 km
         - 98.723965 km
@@ -10012,6 +10689,8 @@ nigh:
       - Jonathan Kinred
     - togo:
         distance: 124.589633 km
+        flipSum:
+        - 124.589633 km
         legs:
         - 124.589633 km
         legsSum:
@@ -10026,6 +10705,8 @@ nigh:
       - Nick Purcell
     - togo:
         distance: 22.129546 km
+        flipSum:
+        - 22.129546 km
         legs:
         - 22.129546 km
         legsSum:
@@ -10040,6 +10721,8 @@ nigh:
       - Edoardo Giudiceandrea
     - togo:
         distance: 124.119272 km
+        flipSum:
+        - 124.119272 km
         legs:
         - 124.119272 km
         legsSum:
@@ -10054,6 +10737,8 @@ nigh:
       - Wolfgang Siess
     - togo:
         distance: 124.412004 km
+        flipSum:
+        - 124.412004 km
         legs:
         - 124.412004 km
         legsSum:
@@ -10068,6 +10753,8 @@ nigh:
       - Curt Warren
     - togo:
         distance: 26.290100 km
+        flipSum:
+        - 26.290100 km
         legs:
         - 26.290100 km
         legsSum:
@@ -10082,6 +10769,8 @@ nigh:
       - Enda Murphy
     - togo:
         distance: 123.738618 km
+        flipSum:
+        - 123.738618 km
         legs:
         - 123.738618 km
         legsSum:
@@ -10096,6 +10785,8 @@ nigh:
       - Grant Heaney
     - togo:
         distance: 123.722330 km
+        flipSum:
+        - 123.722330 km
         legs:
         - 123.722330 km
         legsSum:
@@ -10110,6 +10801,8 @@ nigh:
       - Mark Russell
     - togo:
         distance: 123.528283 km
+        flipSum:
+        - 123.528283 km
         legs:
         - 123.528283 km
         legsSum:
@@ -10124,6 +10817,8 @@ nigh:
       - Christine Aichner
     - togo:
         distance: 124.451990 km
+        flipSum:
+        - 124.451990 km
         legs:
         - 124.451990 km
         legsSum:
@@ -10138,6 +10833,8 @@ nigh:
       - ! 'Jean Souviron '
     - togo:
         distance: 123.982515 km
+        flipSum:
+        - 123.982515 km
         legs:
         - 123.982515 km
         legsSum:
@@ -10152,6 +10849,8 @@ nigh:
       - Davide Guiducci
     - togo:
         distance: 123.875068 km
+        flipSum:
+        - 123.875068 km
         legs:
         - 123.875068 km
         legsSum:
@@ -10166,6 +10865,8 @@ nigh:
       - Franz Herrmann
     - togo:
         distance: 124.289625 km
+        flipSum:
+        - 124.289625 km
         legs:
         - 124.289625 km
         legsSum:
@@ -10180,6 +10881,8 @@ nigh:
       - Adam Parer
     - togo:
         distance: 123.840184 km
+        flipSum:
+        - 123.840184 km
         legs:
         - 123.840184 km
         legsSum:
@@ -10194,6 +10897,8 @@ nigh:
       - Kari Suhonen
     - togo:
         distance: 39.502833 km
+        flipSum:
+        - 39.502833 km
         legs:
         - 39.502833 km
         legsSum:
@@ -10208,6 +10913,8 @@ nigh:
       - Yasuhiro Noma
     - togo:
         distance: 123.942455 km
+        flipSum:
+        - 123.942455 km
         legs:
         - 123.942455 km
         legsSum:
@@ -10222,6 +10929,8 @@ nigh:
       - Jonas Lobitz
     - togo:
         distance: 124.300476 km
+        flipSum:
+        - 124.300476 km
         legs:
         - 124.300476 km
         legsSum:
@@ -10236,6 +10945,8 @@ nigh:
       - Tullio Gervasoni
     - togo:
         distance: 124.026643 km
+        flipSum:
+        - 124.026643 km
         legs:
         - 124.026643 km
         legsSum:
@@ -10250,6 +10961,8 @@ nigh:
       - Tove Heaney
     - togo:
         distance: 43.467129 km
+        flipSum:
+        - 43.467129 km
         legs:
         - 43.467129 km
         legsSum:
@@ -10264,6 +10977,8 @@ nigh:
       - Andrew Barnes
     - togo:
         distance: 48.427702 km
+        flipSum:
+        - 48.427702 km
         legs:
         - 48.427702 km
         legsSum:
@@ -10278,6 +10993,8 @@ nigh:
       - Suan Selenati
     - togo:
         distance: 123.824832 km
+        flipSum:
+        - 123.824832 km
         legs:
         - 123.824832 km
         legsSum:
@@ -10292,6 +11009,8 @@ nigh:
       - ! 'Luke Browne '
     - togo:
         distance: 125.478473 km
+        flipSum:
+        - 125.478473 km
         legs:
         - 125.478473 km
         legsSum:
@@ -10306,6 +11025,8 @@ nigh:
       - David Stevens
     - togo:
         distance: 123.866396 km
+        flipSum:
+        - 123.866396 km
         legs:
         - 123.866396 km
         legsSum:
@@ -10320,6 +11041,8 @@ nigh:
       - Kathryn O'Riordan
     - togo:
         distance: 77.661742 km
+        flipSum:
+        - 77.661742 km
         legs:
         - 77.661742 km
         legsSum:
@@ -10334,6 +11057,8 @@ nigh:
       - Jon snr Durand
     - togo:
         distance: 123.489843 km
+        flipSum:
+        - 123.489843 km
         legs:
         - 123.489843 km
         legsSum:
@@ -10348,6 +11073,8 @@ nigh:
       - Lukas Bader
     - togo:
         distance: 123.526687 km
+        flipSum:
+        - 123.526687 km
         legs:
         - 123.526687 km
         legsSum:
@@ -10362,6 +11089,8 @@ nigh:
       - Brodrick Osborne
     - togo:
         distance: 123.833379 km
+        flipSum:
+        - 123.833379 km
         legs:
         - 123.833379 km
         legsSum:
@@ -10376,6 +11105,8 @@ nigh:
       - Neil Petersen
     - togo:
         distance: 104.729451 km
+        flipSum:
+        - 104.729451 km
         legs:
         - 104.729451 km
         legsSum:
@@ -10390,6 +11121,8 @@ nigh:
       - Konstantin Lukyanov
     - togo:
         distance: 125.300062 km
+        flipSum:
+        - 125.300062 km
         legs:
         - 125.300062 km
         legsSum:
@@ -10404,6 +11137,8 @@ nigh:
       - Carole Tobler
     - togo:
         distance: 123.656403 km
+        flipSum:
+        - 123.656403 km
         legs:
         - 123.656403 km
         legsSum:
@@ -10418,6 +11153,8 @@ nigh:
       - Peter Ebeling
     - togo:
         distance: 129.044525 km
+        flipSum:
+        - 129.044525 km
         legs:
         - 129.044525 km
         legsSum:
@@ -10432,6 +11169,9 @@ nigh:
       - ! 'Andy Phillips '
     - togo:
         distance: 136.911831 km
+        flipSum:
+        - 136.911831 km
+        - 126.363171 km
         legs:
         - 10.548660 km
         - 126.363171 km
@@ -10450,6 +11190,9 @@ nigh:
       - Jürgen Pasker
     - togo:
         distance: 139.906273 km
+        flipSum:
+        - 139.906273 km
+        - 127.875286 km
         legs:
         - 12.030987 km
         - 127.875286 km
@@ -10468,6 +11211,9 @@ nigh:
       - Fredy Bircher
     - togo:
         distance: 141.462840 km
+        flipSum:
+        - 141.462840 km
+        - 127.294085 km
         legs:
         - 14.168755 km
         - 127.294085 km
@@ -10486,6 +11232,9 @@ nigh:
       - Shaun O'neill
     - togo:
         distance: 143.796474 km
+        flipSum:
+        - 143.796474 km
+        - 127.294085 km
         legs:
         - 16.502390 km
         - 127.294085 km
@@ -10504,6 +11253,9 @@ nigh:
       - ! 'Andrew Luton '
     - togo:
         distance: 143.816781 km
+        flipSum:
+        - 143.816781 km
+        - 126.728063 km
         legs:
         - 17.088718 km
         - 126.728063 km
@@ -10522,6 +11274,9 @@ nigh:
       - Grant Edward
     - togo:
         distance: 145.622788 km
+        flipSum:
+        - 145.622788 km
+        - 126.011002 km
         legs:
         - 19.611786 km
         - 126.011002 km
@@ -10540,6 +11295,9 @@ nigh:
       - Gavin Myers
     - togo:
         distance: 148.566610 km
+        flipSum:
+        - 148.566610 km
+        - 126.363171 km
         legs:
         - 22.203440 km
         - 126.363171 km
@@ -10558,6 +11316,9 @@ nigh:
       - Peter Dall
     - togo:
         distance: 149.520260 km
+        flipSum:
+        - 149.520260 km
+        - 126.363171 km
         legs:
         - 23.157089 km
         - 126.363171 km
@@ -10576,6 +11337,9 @@ nigh:
       - Patrick Collin
     - togo:
         distance: 150.151115 km
+        flipSum:
+        - 150.151115 km
+        - 126.728063 km
         legs:
         - 23.423052 km
         - 126.728063 km
@@ -10594,6 +11358,9 @@ nigh:
       - Martin Sielaff
     - togo:
         distance: 155.121782 km
+        flipSum:
+        - 155.121782 km
+        - 126.363171 km
         legs:
         - 28.758611 km
         - 126.363171 km
@@ -10612,6 +11379,9 @@ nigh:
       - Glen Mcfarlane
     - togo:
         distance: 129.062961 km
+        flipSum:
+        - 129.062961 km
+        - 124.181391 km
         legs:
         - 4.881569 km
         - 124.181391 km
@@ -10630,6 +11400,9 @@ nigh:
       - Rob In 't Groen
     - togo:
         distance: 156.461384 km
+        flipSum:
+        - 156.461384 km
+        - 126.185351 km
         legs:
         - 30.276033 km
         - 126.185351 km
@@ -10648,6 +11421,9 @@ nigh:
       - Artur Dzamikhov
     - togo:
         distance: 156.903961 km
+        flipSum:
+        - 156.903961 km
+        - 125.840410 km
         legs:
         - 31.063552 km
         - 125.840410 km
@@ -10666,6 +11442,9 @@ nigh:
       - Jonathon Foote
     - togo:
         distance: 157.235862 km
+        flipSum:
+        - 157.235862 km
+        - 125.840410 km
         legs:
         - 31.395452 km
         - 125.840410 km
@@ -10684,6 +11463,9 @@ nigh:
       - Pablo Gomes
     - togo:
         distance: 160.824425 km
+        flipSum:
+        - 160.824425 km
+        - 127.103319 km
         legs:
         - 33.721105 km
         - 127.103319 km
@@ -10702,6 +11484,9 @@ nigh:
       - Dmitriy Korchenkov
     - togo:
         distance: 164.028352 km
+        flipSum:
+        - 164.028352 km
+        - 125.840410 km
         legs:
         - 38.187942 km
         - 125.840410 km
@@ -10720,6 +11505,9 @@ nigh:
       - Francoise Dieuzeide-banet
     - togo:
         distance: 165.310909 km
+        flipSum:
+        - 165.310909 km
+        - 126.914545 km
         legs:
         - 38.396364 km
         - 126.914545 km
@@ -10738,6 +11526,9 @@ nigh:
       - Gustavo Carvalho
     - togo:
         distance: 168.356275 km
+        flipSum:
+        - 168.356275 km
+        - 126.728063 km
         legs:
         - 41.628212 km
         - 126.728063 km
@@ -10756,6 +11547,9 @@ nigh:
       - Valentino Bau
     - togo:
         distance: 172.900937 km
+        flipSum:
+        - 172.900937 km
+        - 126.728063 km
         legs:
         - 46.172875 km
         - 126.728063 km
@@ -10774,6 +11568,9 @@ nigh:
       - Mikhail Karmazin
     - togo:
         distance: 172.885835 km
+        flipSum:
+        - 172.885835 km
+        - 126.363171 km
         legs:
         - 46.522664 km
         - 126.363171 km
@@ -10792,6 +11589,9 @@ nigh:
       - John Urlich
     - togo:
         distance: 178.775334 km
+        flipSum:
+        - 178.775334 km
+        - 125.840410 km
         legs:
         - 52.934925 km
         - 125.840410 km
@@ -10810,6 +11610,9 @@ nigh:
       - Virpi Nieminen
     - togo:
         distance: 187.215688 km
+        flipSum:
+        - 187.215688 km
+        - 126.544172 km
         legs:
         - 60.671516 km
         - 126.544172 km
@@ -10828,6 +11631,9 @@ nigh:
       - Evgeniya Laritskaya
     - togo:
         distance: 190.648359 km
+        flipSum:
+        - 190.648359 km
+        - 126.544172 km
         legs:
         - 64.104186 km
         - 126.544172 km
@@ -10846,6 +11652,9 @@ nigh:
       - Les Bestt
     - togo:
         distance: 194.440099 km
+        flipSum:
+        - 194.440099 km
+        - 126.728063 km
         legs:
         - 67.712036 km
         - 126.728063 km
@@ -10864,6 +11673,9 @@ nigh:
       - ! 'Boris Marold '
     - togo:
         distance: 195.563625 km
+        flipSum:
+        - 195.563625 km
+        - 126.544172 km
         legs:
         - 69.019453 km
         - 126.544172 km
@@ -10882,6 +11694,9 @@ nigh:
       - Alain Le-gac
     - togo:
         distance: 197.562024 km
+        flipSum:
+        - 197.562024 km
+        - 126.728063 km
         legs:
         - 70.833961 km
         - 126.728063 km
@@ -10900,6 +11715,9 @@ nigh:
       - ! 'Miguel De Jong '
     - togo:
         distance: 200.282544 km
+        flipSum:
+        - 200.282544 km
+        - 126.544172 km
         legs:
         - 73.738371 km
         - 126.544172 km
@@ -10918,6 +11736,9 @@ nigh:
       - Chris Lawry
     - togo:
         distance: 201.029271 km
+        flipSum:
+        - 201.029271 km
+        - 126.544172 km
         legs:
         - 74.485099 km
         - 126.544172 km
@@ -10936,6 +11757,9 @@ nigh:
       - Matthew Barlow
     - togo:
         distance: 201.367723 km
+        flipSum:
+        - 201.367723 km
+        - 126.544172 km
         legs:
         - 74.823550 km
         - 126.544172 km
@@ -10954,6 +11778,9 @@ nigh:
       - Konrad Schwab
     - togo:
         distance: 206.927760 km
+        flipSum:
+        - 206.927760 km
+        - 126.544172 km
         legs:
         - 80.383587 km
         - 126.544172 km
@@ -10972,6 +11799,9 @@ nigh:
       - Anna Belova
     - togo:
         distance: 210.275210 km
+        flipSum:
+        - 210.275210 km
+        - 126.544172 km
         legs:
         - 83.731038 km
         - 126.544172 km
@@ -10990,6 +11820,9 @@ nigh:
       - Talgat Irgaleev
     - togo:
         distance: 216.340802 km
+        flipSum:
+        - 216.340802 km
+        - 126.728063 km
         legs:
         - 89.612739 km
         - 126.728063 km
@@ -11008,6 +11841,9 @@ nigh:
       - Monique Pavy
     - togo:
         distance: 216.369232 km
+        flipSum:
+        - 216.369232 km
+        - 126.728063 km
         legs:
         - 89.641169 km
         - 126.728063 km
@@ -11026,6 +11862,8 @@ nigh:
       - Roberto Nichele
     - togo:
         distance: 70.670266 km
+        flipSum:
+        - 70.670266 km
         legs:
         - 70.670266 km
         legsSum:
@@ -11040,6 +11878,8 @@ nigh:
       - Suan Selenati
     - togo:
         distance: 8.429820 km
+        flipSum:
+        - 8.429820 km
         legs:
         - 8.429820 km
         legsSum:
@@ -11054,6 +11894,8 @@ nigh:
       - Virpi Nieminen
     - togo:
         distance: 69.721565 km
+        flipSum:
+        - 69.721565 km
         legs:
         - 69.721565 km
         legsSum:
@@ -11068,6 +11910,8 @@ nigh:
       - Steve Blenkinsop
     - togo:
         distance: 70.429798 km
+        flipSum:
+        - 70.429798 km
         legs:
         - 70.429798 km
         legsSum:
@@ -11082,6 +11926,8 @@ nigh:
       - Patrick Collin
     - togo:
         distance: 69.872752 km
+        flipSum:
+        - 69.872752 km
         legs:
         - 69.872752 km
         legsSum:
@@ -11096,6 +11942,8 @@ nigh:
       - Scott Barrett
     - togo:
         distance: 70.591205 km
+        flipSum:
+        - 70.591205 km
         legs:
         - 70.591205 km
         legsSum:
@@ -11110,6 +11958,8 @@ nigh:
       - Len Paton
     - togo:
         distance: 70.500958 km
+        flipSum:
+        - 70.500958 km
         legs:
         - 70.500958 km
         legsSum:
@@ -11124,6 +11974,8 @@ nigh:
       - ! 'Luke Browne '
     - togo:
         distance: 23.764050 km
+        flipSum:
+        - 23.764050 km
         legs:
         - 23.764050 km
         legsSum:
@@ -11138,6 +11990,8 @@ nigh:
       - John Urlich
     - togo:
         distance: 70.974109 km
+        flipSum:
+        - 70.974109 km
         legs:
         - 70.974109 km
         legsSum:
@@ -11152,6 +12006,8 @@ nigh:
       - Cameron Tunbridge
     - togo:
         distance: 42.881244 km
+        flipSum:
+        - 42.881244 km
         legs:
         - 42.881244 km
         legsSum:
@@ -11166,6 +12022,8 @@ nigh:
       - ! 'Boris Marold '
     - togo:
         distance: 70.959211 km
+        flipSum:
+        - 70.959211 km
         legs:
         - 70.959211 km
         legsSum:
@@ -11180,6 +12038,8 @@ nigh:
       - ! 'Andrew Luton '
     - togo:
         distance: 70.427477 km
+        flipSum:
+        - 70.427477 km
         legs:
         - 70.427477 km
         legsSum:
@@ -11194,6 +12054,8 @@ nigh:
       - Hadewych van Kempen
     - togo:
         distance: 70.193704 km
+        flipSum:
+        - 70.193704 km
         legs:
         - 70.193704 km
         legsSum:
@@ -11208,6 +12070,8 @@ nigh:
       - Konstantin Lukyanov
     - togo:
         distance: 71.263724 km
+        flipSum:
+        - 71.263724 km
         legs:
         - 71.263724 km
         legsSum:
@@ -11222,6 +12086,8 @@ nigh:
       - Mikhail Karmazin
     - togo:
         distance: 65.147882 km
+        flipSum:
+        - 65.147882 km
         legs:
         - 65.147882 km
         legsSum:
@@ -11236,6 +12102,8 @@ nigh:
       - Alain Le-gac
     - togo:
         distance: 67.996965 km
+        flipSum:
+        - 67.996965 km
         legs:
         - 67.996965 km
         legsSum:
@@ -11250,6 +12118,9 @@ nigh:
       - Peter Dall
     - togo:
         distance: 72.178431 km
+        flipSum:
+        - 72.178431 km
+        - 70.056500 km
         legs:
         - 2.121931 km
         - 70.056500 km
@@ -11268,6 +12139,9 @@ nigh:
       - ! 'Andy Phillips '
     - togo:
         distance: 75.938008 km
+        flipSum:
+        - 75.938008 km
+        - 70.950015 km
         legs:
         - 4.987993 km
         - 70.950015 km
@@ -11286,6 +12160,9 @@ nigh:
       - Jon snr Durand
     - togo:
         distance: 78.459645 km
+        flipSum:
+        - 78.459645 km
+        - 72.332339 km
         legs:
         - 6.127306 km
         - 72.332339 km
@@ -11304,6 +12181,9 @@ nigh:
       - Dmitriy Korchenkov
     - togo:
         distance: 83.723964 km
+        flipSum:
+        - 83.723964 km
+        - 70.482989 km
         legs:
         - 13.240975 km
         - 70.482989 km
@@ -11322,6 +12202,9 @@ nigh:
       - Shaun O'neill
     - togo:
         distance: 92.163355 km
+        flipSum:
+        - 92.163355 km
+        - 73.054827 km
         legs:
         - 19.108528 km
         - 73.054827 km
@@ -11340,6 +12223,9 @@ nigh:
       - Phil de Joux
     - togo:
         distance: 93.608557 km
+        flipSum:
+        - 93.608557 km
+        - 71.668839 km
         legs:
         - 21.939717 km
         - 71.668839 km
@@ -11358,6 +12244,9 @@ nigh:
       - Chris Lawry
     - togo:
         distance: 106.817454 km
+        flipSum:
+        - 106.817454 km
+        - 72.160199 km
         legs:
         - 34.657256 km
         - 72.160199 km
@@ -11376,6 +12265,9 @@ nigh:
       - Valentino Bau
     - togo:
         distance: 107.801398 km
+        flipSum:
+        - 107.801398 km
+        - 72.687388 km
         legs:
         - 35.114011 km
         - 72.687388 km
@@ -11394,6 +12286,9 @@ nigh:
       - Gustavo Carvalho
     - togo:
         distance: 107.788982 km
+        flipSum:
+        - 107.788982 km
+        - 73.817053 km
         legs:
         - 33.971929 km
         - 73.817053 km
@@ -11412,6 +12307,9 @@ nigh:
       - Grant Edward
     - togo:
         distance: 109.567194 km
+        flipSum:
+        - 109.567194 km
+        - 72.687388 km
         legs:
         - 36.879806 km
         - 72.687388 km
@@ -11430,6 +12328,9 @@ nigh:
       - Glen Mcfarlane
     - togo:
         distance: 111.157383 km
+        flipSum:
+        - 111.157383 km
+        - 73.054827 km
         legs:
         - 38.102556 km
         - 73.054827 km
@@ -11448,6 +12349,9 @@ nigh:
       - ! 'Miguel De Jong '
     - togo:
         distance: 111.722438 km
+        flipSum:
+        - 111.722438 km
+        - 72.160199 km
         legs:
         - 39.562239 km
         - 72.160199 km
@@ -11466,6 +12370,9 @@ nigh:
       - Konrad Schwab
     - togo:
         distance: 114.860105 km
+        flipSum:
+        - 114.860105 km
+        - 72.508159 km
         legs:
         - 42.351946 km
         - 72.508159 km
@@ -11484,6 +12391,9 @@ nigh:
       - Gerolf Heinrichs
     - togo:
         distance: 131.182576 km
+        flipSum:
+        - 131.182576 km
+        - 72.508159 km
         legs:
         - 58.674416 km
         - 72.508159 km
@@ -11502,6 +12412,9 @@ nigh:
       - Kathryn O'Riordan
     - togo:
         distance: 132.764678 km
+        flipSum:
+        - 132.764678 km
+        - 72.332339 km
         legs:
         - 60.432339 km
         - 72.332339 km
@@ -11520,6 +12433,9 @@ nigh:
       - Artur Dzamikhov
     - togo:
         distance: 140.008580 km
+        flipSum:
+        - 140.008580 km
+        - 72.332339 km
         legs:
         - 67.676241 km
         - 72.332339 km
@@ -11538,6 +12454,9 @@ nigh:
       - Martin Sielaff
     - togo:
         distance: 139.971912 km
+        flipSum:
+        - 139.971912 km
+        - 72.332339 km
         legs:
         - 67.639573 km
         - 72.332339 km
@@ -11556,6 +12475,9 @@ nigh:
       - Matthew Barlow
     - togo:
         distance: 142.336060 km
+        flipSum:
+        - 142.336060 km
+        - 72.687388 km
         legs:
         - 69.648673 km
         - 72.687388 km
@@ -11574,6 +12496,9 @@ nigh:
       - David Stevens
     - togo:
         distance: 143.720673 km
+        flipSum:
+        - 143.720673 km
+        - 72.687388 km
         legs:
         - 71.033285 km
         - 72.687388 km
@@ -11592,6 +12517,9 @@ nigh:
       - ! 'Jean Souviron '
     - togo:
         distance: 145.268832 km
+        flipSum:
+        - 145.268832 km
+        - 72.508159 km
         legs:
         - 72.760672 km
         - 72.508159 km
@@ -11610,6 +12538,9 @@ nigh:
       - Monique Pavy
     - togo:
         distance: 144.574144 km
+        flipSum:
+        - 144.574144 km
+        - 72.869711 km
         legs:
         - 71.704433 km
         - 72.869711 km
@@ -11628,6 +12559,9 @@ nigh:
       - Wolfgang Siess
     - togo:
         distance: 149.821176 km
+        flipSum:
+        - 149.821176 km
+        - 72.508159 km
         legs:
         - 77.313017 km
         - 72.508159 km
@@ -11646,6 +12580,9 @@ nigh:
       - Enda Murphy
     - togo:
         distance: 153.575220 km
+        flipSum:
+        - 153.575220 km
+        - 72.508159 km
         legs:
         - 81.067061 km
         - 72.508159 km
@@ -11664,6 +12601,9 @@ nigh:
       - Anna Belova
     - togo:
         distance: 157.312631 km
+        flipSum:
+        - 157.312631 km
+        - 72.508159 km
         legs:
         - 84.804472 km
         - 72.508159 km
@@ -11682,6 +12622,9 @@ nigh:
       - Peter Ebeling
     - togo:
         distance: 162.280410 km
+        flipSum:
+        - 162.280410 km
+        - 72.869711 km
         legs:
         - 89.410698 km
         - 72.869711 km
@@ -11700,6 +12643,9 @@ nigh:
       - Jonathon Foote
     - togo:
         distance: 170.503450 km
+        flipSum:
+        - 170.503450 km
+        - 72.508159 km
         legs:
         - 97.995291 km
         - 72.508159 km
@@ -11718,6 +12664,9 @@ nigh:
       - Pablo Gomes
     - togo:
         distance: 178.684596 km
+        flipSum:
+        - 178.684596 km
+        - 72.687388 km
         legs:
         - 105.997208 km
         - 72.687388 km
@@ -11736,6 +12685,9 @@ nigh:
       - Talgat Irgaleev
     - togo:
         distance: 182.744139 km
+        flipSum:
+        - 182.744139 km
+        - 72.869711 km
         legs:
         - 109.874428 km
         - 72.869711 km
@@ -11754,6 +12706,9 @@ nigh:
       - Olav Lien Olsen
     - togo:
         distance: 184.801561 km
+        flipSum:
+        - 184.801561 km
+        - 72.687388 km
         legs:
         - 112.114173 km
         - 72.687388 km
@@ -11772,6 +12727,9 @@ nigh:
       - Rob In 't Groen
     - togo:
         distance: 187.793775 km
+        flipSum:
+        - 187.793775 km
+        - 72.687388 km
         legs:
         - 115.106387 km
         - 72.687388 km
@@ -11790,6 +12748,8 @@ nigh:
       - Trent Brown
     - togo:
         distance: 1.647265 km
+        flipSum:
+        - 1.647265 km
         legs:
         - 1.647265 km
         legsSum:
@@ -11804,6 +12764,8 @@ nigh:
       - Hans Kiefinger
     - togo:
         distance: 20.841575 km
+        flipSum:
+        - 20.841575 km
         legs:
         - 20.841575 km
         legsSum:
@@ -11818,6 +12780,8 @@ nigh:
       - Cameron Tunbridge
     - togo:
         distance: 20.875406 km
+        flipSum:
+        - 20.875406 km
         legs:
         - 20.875406 km
         legsSum:
@@ -11832,6 +12796,8 @@ nigh:
       - Yasuhiro Noma
     - togo:
         distance: 2.476516 km
+        flipSum:
+        - 2.476516 km
         legs:
         - 2.476516 km
         legsSum:
@@ -11846,6 +12812,8 @@ nigh:
       - Grant Heaney
     - togo:
         distance: 2.764521 km
+        flipSum:
+        - 2.764521 km
         legs:
         - 2.764521 km
         legsSum:
@@ -11860,6 +12828,8 @@ nigh:
       - Roberto Nichele
     - togo:
         distance: 20.933719 km
+        flipSum:
+        - 20.933719 km
         legs:
         - 20.933719 km
         legsSum:
@@ -11874,6 +12844,8 @@ nigh:
       - Primoz Gricar
     - togo:
         distance: 4.701825 km
+        flipSum:
+        - 4.701825 km
         legs:
         - 4.701825 km
         legsSum:
@@ -11888,6 +12860,8 @@ nigh:
       - Franz Herrmann
     - togo:
         distance: 4.572821 km
+        flipSum:
+        - 4.572821 km
         legs:
         - 4.572821 km
         legsSum:
@@ -11902,6 +12876,8 @@ nigh:
       - Jonas Lobitz
     - togo:
         distance: 20.902719 km
+        flipSum:
+        - 20.902719 km
         legs:
         - 20.902719 km
         legsSum:
@@ -11916,6 +12892,8 @@ nigh:
       - John Smith
     - togo:
         distance: 20.816254 km
+        flipSum:
+        - 20.816254 km
         legs:
         - 20.816254 km
         legsSum:
@@ -11930,6 +12908,8 @@ nigh:
       - Steve Blenkinsop
     - togo:
         distance: 9.245031 km
+        flipSum:
+        - 9.245031 km
         legs:
         - 9.245031 km
         legsSum:
@@ -11944,6 +12924,8 @@ nigh:
       - Lukas Bader
     - togo:
         distance: 20.811221 km
+        flipSum:
+        - 20.811221 km
         legs:
         - 20.811221 km
         legsSum:
@@ -11958,6 +12940,8 @@ nigh:
       - Joerg Bajewski
     - togo:
         distance: 9.909121 km
+        flipSum:
+        - 9.909121 km
         legs:
         - 9.909121 km
         legsSum:
@@ -11972,6 +12956,8 @@ nigh:
       - Corinna Schwiegershausen
     - togo:
         distance: 10.572204 km
+        flipSum:
+        - 10.572204 km
         legs:
         - 10.572204 km
         legsSum:
@@ -11986,6 +12972,8 @@ nigh:
       - Edoardo Giudiceandrea
     - togo:
         distance: 21.190443 km
+        flipSum:
+        - 21.190443 km
         legs:
         - 21.190443 km
         legsSum:
@@ -12000,6 +12988,8 @@ nigh:
       - Adam Parer
     - togo:
         distance: 10.736369 km
+        flipSum:
+        - 10.736369 km
         legs:
         - 10.736369 km
         legsSum:
@@ -12014,6 +13004,8 @@ nigh:
       - Konrad Schwab
     - togo:
         distance: 11.206628 km
+        flipSum:
+        - 11.206628 km
         legs:
         - 11.206628 km
         legsSum:
@@ -12028,6 +13020,8 @@ nigh:
       - Nick Purcell
     - togo:
         distance: 20.836681 km
+        flipSum:
+        - 20.836681 km
         legs:
         - 20.836681 km
         legsSum:
@@ -12042,6 +13036,8 @@ nigh:
       - Tony Giammichele
     - togo:
         distance: 12.915062 km
+        flipSum:
+        - 12.915062 km
         legs:
         - 12.915062 km
         legsSum:
@@ -12056,6 +13052,8 @@ nigh:
       - Christian Baertschi
     - togo:
         distance: 12.692133 km
+        flipSum:
+        - 12.692133 km
         legs:
         - 12.692133 km
         legsSum:
@@ -12070,6 +13068,8 @@ nigh:
       - Jon snr Durand
     - togo:
         distance: 13.825348 km
+        flipSum:
+        - 13.825348 km
         legs:
         - 13.825348 km
         legsSum:
@@ -12084,6 +13084,8 @@ nigh:
       - ! 'Andrew Luton '
     - togo:
         distance: 20.864212 km
+        flipSum:
+        - 20.864212 km
         legs:
         - 20.864212 km
         legsSum:
@@ -12098,6 +13100,8 @@ nigh:
       - Wolfgang Siess
     - togo:
         distance: 20.881702 km
+        flipSum:
+        - 20.881702 km
         legs:
         - 20.881702 km
         legsSum:
@@ -12112,6 +13116,8 @@ nigh:
       - Artur Dzamikhov
     - togo:
         distance: 13.838114 km
+        flipSum:
+        - 13.838114 km
         legs:
         - 13.838114 km
         legsSum:
@@ -12126,6 +13132,8 @@ nigh:
       - Glen Mcfarlane
     - togo:
         distance: 13.851496 km
+        flipSum:
+        - 13.851496 km
         legs:
         - 13.851496 km
         legsSum:
@@ -12140,6 +13148,8 @@ nigh:
       - Olav Lien Olsen
     - togo:
         distance: 20.805104 km
+        flipSum:
+        - 20.805104 km
         legs:
         - 20.805104 km
         legsSum:
@@ -12154,6 +13164,8 @@ nigh:
       - Andrew Barnes
     - togo:
         distance: 20.768894 km
+        flipSum:
+        - 20.768894 km
         legs:
         - 20.768894 km
         legsSum:
@@ -12168,6 +13180,8 @@ nigh:
       - Guy Hubbard
     - togo:
         distance: 20.810508 km
+        flipSum:
+        - 20.810508 km
         legs:
         - 20.810508 km
         legsSum:
@@ -12182,6 +13196,8 @@ nigh:
       - ! 'Jean Souviron '
     - togo:
         distance: 13.928076 km
+        flipSum:
+        - 13.928076 km
         legs:
         - 13.928076 km
         legsSum:
@@ -12196,6 +13212,8 @@ nigh:
       - Valentino Bau
     - togo:
         distance: 21.181055 km
+        flipSum:
+        - 21.181055 km
         legs:
         - 21.181055 km
         legsSum:
@@ -12210,6 +13228,8 @@ nigh:
       - Conrad Loten
     - togo:
         distance: 15.276833 km
+        flipSum:
+        - 15.276833 km
         legs:
         - 15.276833 km
         legsSum:
@@ -12224,6 +13244,8 @@ nigh:
       - Len Paton
     - togo:
         distance: 20.773073 km
+        flipSum:
+        - 20.773073 km
         legs:
         - 20.773073 km
         legsSum:
@@ -12238,6 +13260,8 @@ nigh:
       - Mitch Shipley
     - togo:
         distance: 21.028062 km
+        flipSum:
+        - 21.028062 km
         legs:
         - 21.028062 km
         legsSum:
@@ -12252,6 +13276,8 @@ nigh:
       - Adam Stevens
     - togo:
         distance: 19.764412 km
+        flipSum:
+        - 19.764412 km
         legs:
         - 19.764412 km
         legsSum:
@@ -12266,6 +13292,8 @@ nigh:
       - Francoise Dieuzeide-banet
     - togo:
         distance: 21.162120 km
+        flipSum:
+        - 21.162120 km
         legs:
         - 21.162120 km
         legsSum:
@@ -12280,6 +13308,8 @@ nigh:
       - Carole Tobler
     - togo:
         distance: 21.401897 km
+        flipSum:
+        - 21.401897 km
         legs:
         - 21.401897 km
         legsSum:
@@ -12294,6 +13324,9 @@ nigh:
       - David Stevens
     - togo:
         distance: 120.537002 km
+        flipSum:
+        - 120.537002 km
+        - 20.960614 km
         legs:
         - 99.576388 km
         - 20.960614 km
@@ -12312,6 +13345,9 @@ nigh:
       - Matthew Barlow
     - togo:
         distance: 120.829064 km
+        flipSum:
+        - 120.829064 km
+        - 20.960614 km
         legs:
         - 99.868450 km
         - 20.960614 km
@@ -12330,6 +13366,9 @@ nigh:
       - Kari Suhonen
     - togo:
         distance: 41.771750 km
+        flipSum:
+        - 41.771750 km
+        - 20.960614 km
         legs:
         - 20.811136 km
         - 20.960614 km
@@ -12348,6 +13387,9 @@ nigh:
       - Neil Petersen
     - togo:
         distance: 120.526674 km
+        flipSum:
+        - 120.526674 km
+        - 20.960614 km
         legs:
         - 99.566060 km
         - 20.960614 km
@@ -12366,6 +13408,9 @@ nigh:
       - Rod Flockhart
     - togo:
         distance: 49.742469 km
+        flipSum:
+        - 49.742469 km
+        - 20.936969 km
         legs:
         - 28.805499 km
         - 20.936969 km
@@ -12384,6 +13429,9 @@ nigh:
       - Paolo Rosichetti
     - togo:
         distance: 121.494570 km
+        flipSum:
+        - 121.494570 km
+        - 20.960614 km
         legs:
         - 100.533956 km
         - 20.960614 km
@@ -12402,6 +13450,9 @@ nigh:
       - Anton Struganov
     - togo:
         distance: 121.675240 km
+        flipSum:
+        - 121.675240 km
+        - 20.960614 km
         legs:
         - 100.714626 km
         - 20.960614 km
@@ -12420,6 +13471,9 @@ nigh:
       - Mark Russell
     - togo:
         distance: 121.441238 km
+        flipSum:
+        - 121.441238 km
+        - 20.960614 km
         legs:
         - 100.480624 km
         - 20.960614 km
@@ -12438,6 +13492,9 @@ nigh:
       - Phil Schroder
     - togo:
         distance: 121.280496 km
+        flipSum:
+        - 121.280496 km
+        - 20.960614 km
         legs:
         - 100.319882 km
         - 20.960614 km
@@ -12456,6 +13513,9 @@ nigh:
       - Gijs Wanders
     - togo:
         distance: 121.580682 km
+        flipSum:
+        - 121.580682 km
+        - 20.960614 km
         legs:
         - 100.620068 km
         - 20.960614 km
@@ -12474,6 +13534,9 @@ nigh:
       - Gavin Myers
     - togo:
         distance: 120.893817 km
+        flipSum:
+        - 120.893817 km
+        - 20.960614 km
         legs:
         - 99.933203 km
         - 20.960614 km
@@ -12492,6 +13555,9 @@ nigh:
       - Kathryn O'Riordan
     - togo:
         distance: 120.475965 km
+        flipSum:
+        - 120.475965 km
+        - 20.960614 km
         legs:
         - 99.515351 km
         - 20.960614 km
@@ -12510,6 +13576,9 @@ nigh:
       - Les Bestt
     - togo:
         distance: 120.290113 km
+        flipSum:
+        - 120.290113 km
+        - 20.960614 km
         legs:
         - 99.329499 km
         - 20.960614 km
@@ -12528,6 +13597,9 @@ nigh:
       - Jonathan Kinred
     - togo:
         distance: 120.889340 km
+        flipSum:
+        - 120.889340 km
+        - 20.960614 km
         legs:
         - 99.928726 km
         - 20.960614 km
@@ -12546,6 +13618,9 @@ nigh:
       - Jürgen Pasker
     - togo:
         distance: 120.816575 km
+        flipSum:
+        - 120.816575 km
+        - 20.960614 km
         legs:
         - 99.855961 km
         - 20.960614 km
@@ -12564,6 +13639,9 @@ nigh:
       - Konstantin Lukyanov
     - togo:
         distance: 119.359074 km
+        flipSum:
+        - 119.359074 km
+        - 20.960614 km
         legs:
         - 98.398461 km
         - 20.960614 km
@@ -12582,6 +13660,9 @@ nigh:
       - Shaun O'neill
     - togo:
         distance: 120.518984 km
+        flipSum:
+        - 120.518984 km
+        - 20.973033 km
         legs:
         - 99.545951 km
         - 20.973033 km
@@ -12600,6 +13681,9 @@ nigh:
       - Francesco Rinaldi
     - togo:
         distance: 120.650752 km
+        flipSum:
+        - 120.650752 km
+        - 20.960614 km
         legs:
         - 99.690138 km
         - 20.960614 km
@@ -12618,6 +13702,9 @@ nigh:
       - Fredy Bircher
     - togo:
         distance: 101.581357 km
+        flipSum:
+        - 101.581357 km
+        - 20.948586 km
         legs:
         - 80.632771 km
         - 20.948586 km
@@ -12636,6 +13723,9 @@ nigh:
       - Peter Ebeling
     - togo:
         distance: 120.191293 km
+        flipSum:
+        - 120.191293 km
+        - 20.960614 km
         legs:
         - 99.230679 km
         - 20.960614 km
@@ -12654,6 +13744,9 @@ nigh:
       - Grant Edward
     - togo:
         distance: 120.485412 km
+        flipSum:
+        - 120.485412 km
+        - 20.960614 km
         legs:
         - 99.524798 km
         - 20.960614 km
@@ -12672,6 +13765,9 @@ nigh:
       - Mikhail Karmazin
     - togo:
         distance: 121.949588 km
+        flipSum:
+        - 121.949588 km
+        - 20.960614 km
         legs:
         - 100.988975 km
         - 20.960614 km
@@ -12690,6 +13786,9 @@ nigh:
       - Brodrick Osborne
     - togo:
         distance: 120.897387 km
+        flipSum:
+        - 120.897387 km
+        - 20.960614 km
         legs:
         - 99.936773 km
         - 20.960614 km
@@ -12708,6 +13807,10 @@ nigh:
       - Pablo Gomes
     - togo:
         distance: 122.083031 km
+        flipSum:
+        - 122.083031 km
+        - 121.007999 km
+        - 20.960614 km
         legs:
         - 1.075032 km
         - 100.047385 km
@@ -12730,6 +13833,10 @@ nigh:
       - Peter Dall
     - togo:
         distance: 132.880859 km
+        flipSum:
+        - 132.880859 km
+        - 121.007999 km
+        - 20.960614 km
         legs:
         - 11.872860 km
         - 100.047385 km
@@ -12752,6 +13859,10 @@ nigh:
       - Suan Selenati
     - togo:
         distance: 123.371068 km
+        flipSum:
+        - 123.371068 km
+        - 120.717010 km
+        - 20.960614 km
         legs:
         - 2.654057 km
         - 99.756397 km
@@ -12774,6 +13885,10 @@ nigh:
       - ! 'Andy Phillips '
     - togo:
         distance: 129.614784 km
+        flipSum:
+        - 129.614784 km
+        - 120.297208 km
+        - 20.960614 km
         legs:
         - 9.317576 km
         - 99.336594 km
@@ -12796,6 +13911,10 @@ nigh:
       - Gustavo Carvalho
     - togo:
         distance: 132.525429 km
+        flipSum:
+        - 132.525429 km
+        - 121.359504 km
+        - 20.960614 km
         legs:
         - 11.165925 km
         - 100.398890 km
@@ -12818,6 +13937,10 @@ nigh:
       - Chris Lawry
     - togo:
         distance: 134.876185 km
+        flipSum:
+        - 134.876185 km
+        - 121.007999 km
+        - 20.960614 km
         legs:
         - 13.868186 km
         - 100.047385 km
@@ -12840,6 +13963,10 @@ nigh:
       - ! 'Boris Marold '
     - togo:
         distance: 139.029596 km
+        flipSum:
+        - 139.029596 km
+        - 120.806980 km
+        - 20.960614 km
         legs:
         - 18.222617 km
         - 99.846366 km
@@ -12862,6 +13989,10 @@ nigh:
       - Tove Heaney
     - togo:
         distance: 139.969636 km
+        flipSum:
+        - 139.969636 km
+        - 121.235933 km
+        - 20.960614 km
         legs:
         - 18.733703 km
         - 100.275319 km
@@ -12884,6 +14015,10 @@ nigh:
       - Patrick Collin
     - togo:
         distance: 141.809476 km
+        flipSum:
+        - 141.809476 km
+        - 121.007999 km
+        - 20.960614 km
         legs:
         - 20.801477 km
         - 100.047385 km
@@ -12906,6 +14041,10 @@ nigh:
       - Alain Le-gac
     - togo:
         distance: 143.596452 km
+        flipSum:
+        - 143.596452 km
+        - 121.235933 km
+        - 20.960614 km
         legs:
         - 22.360518 km
         - 100.275319 km
@@ -12928,6 +14067,10 @@ nigh:
       - Christine Aichner
     - togo:
         distance: 147.742642 km
+        flipSum:
+        - 147.742642 km
+        - 120.904033 km
+        - 20.960614 km
         legs:
         - 26.838610 km
         - 99.943419 km
@@ -12950,6 +14093,10 @@ nigh:
       - Anna Belova
     - togo:
         distance: 152.467337 km
+        flipSum:
+        - 152.467337 km
+        - 121.007999 km
+        - 20.960614 km
         legs:
         - 31.459338 km
         - 100.047385 km
@@ -12972,6 +14119,10 @@ nigh:
       - John Urlich
     - togo:
         distance: 153.463960 km
+        flipSum:
+        - 153.463960 km
+        - 120.904033 km
+        - 20.960614 km
         legs:
         - 32.559927 km
         - 99.943419 km
@@ -12994,6 +14145,10 @@ nigh:
       - Hadewych van Kempen
     - togo:
         distance: 154.523543 km
+        flipSum:
+        - 154.523543 km
+        - 121.235933 km
+        - 20.960614 km
         legs:
         - 33.287610 km
         - 100.275319 km
@@ -13016,6 +14171,10 @@ nigh:
       - Phil de Joux
     - togo:
         distance: 155.491835 km
+        flipSum:
+        - 155.491835 km
+        - 121.007999 km
+        - 20.960614 km
         legs:
         - 34.483836 km
         - 100.047385 km
@@ -13038,6 +14197,10 @@ nigh:
       - Rob In 't Groen
     - togo:
         distance: 155.533020 km
+        flipSum:
+        - 155.533020 km
+        - 121.007999 km
+        - 20.960614 km
         legs:
         - 34.525021 km
         - 100.047385 km
@@ -13060,6 +14223,10 @@ nigh:
       - Dmitriy Korchenkov
     - togo:
         distance: 156.057319 km
+        flipSum:
+        - 156.057319 km
+        - 121.118697 km
+        - 20.960614 km
         legs:
         - 34.938623 km
         - 100.158083 km
@@ -13082,6 +14249,10 @@ nigh:
       - Martin Sielaff
     - togo:
         distance: 158.947332 km
+        flipSum:
+        - 158.947332 km
+        - 120.904033 km
+        - 20.960614 km
         legs:
         - 38.043299 km
         - 99.943419 km
@@ -13104,6 +14275,10 @@ nigh:
       - Jonathon Foote
     - togo:
         distance: 159.103355 km
+        flipSum:
+        - 159.103355 km
+        - 120.904033 km
+        - 20.960614 km
         legs:
         - 38.199323 km
         - 99.943419 km
@@ -13126,6 +14301,10 @@ nigh:
       - Virpi Nieminen
     - togo:
         distance: 160.474762 km
+        flipSum:
+        - 160.474762 km
+        - 121.007999 km
+        - 20.960614 km
         legs:
         - 39.466763 km
         - 100.047385 km
@@ -13148,6 +14327,10 @@ nigh:
       - Talgat Irgaleev
     - togo:
         distance: 173.680039 km
+        flipSum:
+        - 173.680039 km
+        - 121.007999 km
+        - 20.960614 km
         legs:
         - 52.672040 km
         - 100.047385 km
@@ -13170,6 +14353,10 @@ nigh:
       - Monique Pavy
     - togo:
         distance: 173.206793 km
+        flipSum:
+        - 173.206793 km
+        - 121.007999 km
+        - 20.960614 km
         legs:
         - 52.198794 km
         - 100.047385 km
@@ -13192,6 +14379,8 @@ nigh:
       - ! 'Luke Browne '
     - togo:
         distance: 4.125548 km
+        flipSum:
+        - 4.125548 km
         legs:
         - 4.125548 km
         legsSum:
@@ -13206,6 +14395,8 @@ nigh:
       - Roberto Nichele
     - togo:
         distance: 4.826844 km
+        flipSum:
+        - 4.826844 km
         legs:
         - 4.826844 km
         legsSum:
@@ -13220,6 +14411,8 @@ nigh:
       - Olav Lien Olsen
     - togo:
         distance: 5.271727 km
+        flipSum:
+        - 5.271727 km
         legs:
         - 5.271727 km
         legsSum:
@@ -13234,6 +14427,8 @@ nigh:
       - John Smith
     - togo:
         distance: 5.999710 km
+        flipSum:
+        - 5.999710 km
         legs:
         - 5.999710 km
         legsSum:
@@ -13248,6 +14443,8 @@ nigh:
       - Mikhail Karmazin
     - togo:
         distance: 5.902467 km
+        flipSum:
+        - 5.902467 km
         legs:
         - 5.902467 km
         legsSum:
@@ -13262,6 +14459,8 @@ nigh:
       - Guy Hubbard
     - togo:
         distance: 7.940884 km
+        flipSum:
+        - 7.940884 km
         legs:
         - 7.940884 km
         legsSum:
@@ -13276,6 +14475,8 @@ nigh:
       - Nick Purcell
     - togo:
         distance: 7.890554 km
+        flipSum:
+        - 7.890554 km
         legs:
         - 7.890554 km
         legsSum:
@@ -13290,6 +14491,8 @@ nigh:
       - Paolo Rosichetti
     - togo:
         distance: 8.438020 km
+        flipSum:
+        - 8.438020 km
         legs:
         - 8.438020 km
         legsSum:
@@ -13304,6 +14507,8 @@ nigh:
       - Len Paton
     - togo:
         distance: 8.445109 km
+        flipSum:
+        - 8.445109 km
         legs:
         - 8.445109 km
         legsSum:
@@ -13318,6 +14523,8 @@ nigh:
       - Gijs Wanders
     - togo:
         distance: 9.214101 km
+        flipSum:
+        - 9.214101 km
         legs:
         - 9.214101 km
         legsSum:
@@ -13332,6 +14539,8 @@ nigh:
       - Chris Lawry
     - togo:
         distance: 9.580753 km
+        flipSum:
+        - 9.580753 km
         legs:
         - 9.580753 km
         legsSum:
@@ -13346,6 +14555,8 @@ nigh:
       - Conrad Loten
     - togo:
         distance: 10.175153 km
+        flipSum:
+        - 10.175153 km
         legs:
         - 10.175153 km
         legsSum:
@@ -13360,6 +14571,8 @@ nigh:
       - Phil Schroder
     - togo:
         distance: 12.052167 km
+        flipSum:
+        - 12.052167 km
         legs:
         - 12.052167 km
         legsSum:
@@ -13374,6 +14587,8 @@ nigh:
       - Primoz Gricar
     - togo:
         distance: 11.272035 km
+        flipSum:
+        - 11.272035 km
         legs:
         - 11.272035 km
         legsSum:
@@ -13388,6 +14603,8 @@ nigh:
       - Cameron Tunbridge
     - togo:
         distance: 12.099288 km
+        flipSum:
+        - 12.099288 km
         legs:
         - 12.099288 km
         legsSum:
@@ -13402,6 +14619,8 @@ nigh:
       - Konrad Schwab
     - togo:
         distance: 16.523222 km
+        flipSum:
+        - 16.523222 km
         legs:
         - 16.523222 km
         legsSum:
@@ -13416,6 +14635,8 @@ nigh:
       - Rob In 't Groen
     - togo:
         distance: 17.306199 km
+        flipSum:
+        - 17.306199 km
         legs:
         - 17.306199 km
         legsSum:
@@ -13430,6 +14651,8 @@ nigh:
       - Gavin Myers
     - togo:
         distance: 22.632371 km
+        flipSum:
+        - 22.632371 km
         legs:
         - 22.632371 km
         legsSum:
@@ -13444,6 +14667,8 @@ nigh:
       - Rod Flockhart
     - togo:
         distance: 22.498154 km
+        flipSum:
+        - 22.498154 km
         legs:
         - 22.498154 km
         legsSum:
@@ -13458,6 +14683,8 @@ nigh:
       - Konstantin Lukyanov
     - togo:
         distance: 23.746572 km
+        flipSum:
+        - 23.746572 km
         legs:
         - 23.746572 km
         legsSum:
@@ -13472,6 +14699,8 @@ nigh:
       - Glen Mcfarlane
     - togo:
         distance: 23.740179 km
+        flipSum:
+        - 23.740179 km
         legs:
         - 23.740179 km
         legsSum:
@@ -13486,6 +14715,8 @@ nigh:
       - Les Bestt
     - togo:
         distance: 25.648124 km
+        flipSum:
+        - 25.648124 km
         legs:
         - 25.648124 km
         legsSum:
@@ -13499,21 +14730,25 @@ nigh:
   - - - '69'
       - Jonathan Kinred
     - togo:
-        distance: 41.501861 km
+        distance: 27.608870 km
+        flipSum:
+        - 27.608870 km
         legs:
-        - 41.501861 km
+        - 27.608870 km
         legsSum:
-        - 41.501861 km
+        - 27.608870 km
         waypoints:
-        - lat: -33.127745
-          lng: 147.577619
-        - lat: -33.35877293
-          lng: 147.92811771
-      made: 116.923204 km
+        - lat: -33.199495
+          lng: 147.70028
+        - lat: -33.35866374
+          lng: 147.928225
+      made: 130.856204 km
   - - - '55'
       - Kari Suhonen
     - togo:
         distance: 28.995626 km
+        flipSum:
+        - 28.995626 km
         legs:
         - 28.995626 km
         legsSum:
@@ -13528,6 +14763,8 @@ nigh:
       - ! 'Boris Marold '
     - togo:
         distance: 31.815887 km
+        flipSum:
+        - 31.815887 km
         legs:
         - 31.815887 km
         legsSum:
@@ -13542,6 +14779,8 @@ nigh:
       - ! 'Miguel De Jong '
     - togo:
         distance: 32.380648 km
+        flipSum:
+        - 32.380648 km
         legs:
         - 32.380648 km
         legsSum:
@@ -13556,6 +14795,8 @@ nigh:
       - Francesco Rinaldi
     - togo:
         distance: 39.388320 km
+        flipSum:
+        - 39.388320 km
         legs:
         - 39.388320 km
         legsSum:
@@ -13569,25 +14810,31 @@ nigh:
   - - - '98'
       - Patrick Collin
     - togo:
-        distance: 105.594509 km
+        distance: 52.726114 km
+        flipSum:
+        - 52.726114 km
+        - 41.377329 km
         legs:
-        - 64.217180 km
+        - 11.348785 km
         - 41.377329 km
         legsSum:
-        - 64.217180 km
-        - 105.594509 km
+        - 11.348785 km
+        - 52.726114 km
         waypoints:
-        - lat: -33.70925
-          lng: 147.543083
+        - lat: -33.2344
+          lng: 147.573417
         - lat: -33.13234684
           lng: 147.57502838
         - lat: -33.35877293
           lng: 147.92811771
-      made: 52.668204 km
+      made: 105.739204 km
   - - - '96'
       - Brodrick Osborne
     - togo:
         distance: 61.279789 km
+        flipSum:
+        - 61.279789 km
+        - 41.377329 km
         legs:
         - 19.902460 km
         - 41.377329 km
@@ -13606,6 +14853,9 @@ nigh:
       - Francoise Dieuzeide-banet
     - togo:
         distance: 76.634651 km
+        flipSum:
+        - 76.634651 km
+        - 41.377329 km
         legs:
         - 35.257322 km
         - 41.377329 km
@@ -13623,25 +14873,31 @@ nigh:
   - - - '67'
       - ! 'Andy Phillips '
     - togo:
-        distance: 105.611518 km
+        distance: 80.322253 km
+        flipSum:
+        - 80.322253 km
+        - 41.332429 km
         legs:
-        - 64.234189 km
-        - 41.377329 km
+        - 38.989824 km
+        - 41.332429 km
         legsSum:
-        - 64.234189 km
-        - 105.611518 km
+        - 38.989824 km
+        - 80.322253 km
         waypoints:
-        - lat: -33.70927
-          lng: 147.5398
-        - lat: -33.13234684
-          lng: 147.57502838
+        - lat: -33.380017
+          lng: 147.872208
+        - lat: -33.13141621
+          lng: 147.57649638
         - lat: -33.35877293
           lng: 147.92811771
-      made: 52.788204 km
+      made: 78.143204 km
   - - - '16'
       - Grant Edward
     - togo:
         distance: 88.473161 km
+        flipSum:
+        - 88.473161 km
+        - 41.377329 km
         legs:
         - 47.095831 km
         - 41.377329 km
@@ -13660,6 +14916,9 @@ nigh:
       - Tony Giammichele
     - togo:
         distance: 92.967432 km
+        flipSum:
+        - 92.967432 km
+        - 41.377329 km
         legs:
         - 51.590103 km
         - 41.377329 km
@@ -13678,6 +14937,9 @@ nigh:
       - Peter Ebeling
     - togo:
         distance: 93.864312 km
+        flipSum:
+        - 93.864312 km
+        - 41.370312 km
         legs:
         - 52.494000 km
         - 41.370312 km
@@ -13696,6 +14958,9 @@ nigh:
       - Pablo Gomes
     - togo:
         distance: 93.572481 km
+        flipSum:
+        - 93.572481 km
+        - 41.370312 km
         legs:
         - 52.202169 km
         - 41.370312 km
@@ -13714,6 +14979,9 @@ nigh:
       - Shaun O'neill
     - togo:
         distance: 93.398097 km
+        flipSum:
+        - 93.398097 km
+        - 41.370312 km
         legs:
         - 52.027785 km
         - 41.370312 km
@@ -13732,6 +15000,9 @@ nigh:
       - Corinna Schwiegershausen
     - togo:
         distance: 100.574953 km
+        flipSum:
+        - 100.574953 km
+        - 41.363856 km
         legs:
         - 59.211096 km
         - 41.363856 km
@@ -13750,6 +15021,9 @@ nigh:
       - Christian Baertschi
     - togo:
         distance: 100.853605 km
+        flipSum:
+        - 100.853605 km
+        - 41.377329 km
         legs:
         - 59.476276 km
         - 41.377329 km
@@ -13768,6 +15042,9 @@ nigh:
       - Enda Murphy
     - togo:
         distance: 101.373922 km
+        flipSum:
+        - 101.373922 km
+        - 41.377329 km
         legs:
         - 59.996593 km
         - 41.377329 km
@@ -13786,6 +15063,9 @@ nigh:
       - Christine Aichner
     - togo:
         distance: 101.162053 km
+        flipSum:
+        - 101.162053 km
+        - 41.377329 km
         legs:
         - 59.784723 km
         - 41.377329 km
@@ -13804,6 +15084,9 @@ nigh:
       - Alain Le-gac
     - togo:
         distance: 100.749220 km
+        flipSum:
+        - 100.749220 km
+        - 41.377329 km
         legs:
         - 59.371891 km
         - 41.377329 km
@@ -13821,25 +15104,31 @@ nigh:
   - - - '79'
       - David Stevens
     - togo:
-        distance: 105.680576 km
+        distance: 105.784787 km
+        flipSum:
+        - 105.784787 km
+        - 41.377329 km
         legs:
-        - 64.303247 km
+        - 64.407458 km
         - 41.377329 km
         legsSum:
-        - 64.303247 km
-        - 105.680576 km
+        - 64.407458 km
+        - 105.784787 km
         waypoints:
-        - lat: -33.710114
-          lng: 147.545488
+        - lat: -33.711023
+          lng: 147.544682
         - lat: -33.13234684
           lng: 147.57502838
         - lat: -33.35877293
           lng: 147.92811771
-      made: 52.660204 km
+      made: 52.680204 km
   - - - '42'
       - Suan Selenati
     - togo:
         distance: 105.599679 km
+        flipSum:
+        - 105.599679 km
+        - 41.377329 km
         legs:
         - 64.222350 km
         - 41.377329 km
@@ -13858,6 +15147,9 @@ nigh:
       - Jürgen Pasker
     - togo:
         distance: 105.808203 km
+        flipSum:
+        - 105.808203 km
+        - 41.377329 km
         legs:
         - 64.430874 km
         - 41.377329 km
@@ -13876,6 +15168,9 @@ nigh:
       - Virpi Nieminen
     - togo:
         distance: 108.153897 km
+        flipSum:
+        - 108.153897 km
+        - 41.370312 km
         legs:
         - 66.783585 km
         - 41.370312 km
@@ -13894,6 +15189,9 @@ nigh:
       - Dmitriy Korchenkov
     - togo:
         distance: 106.641240 km
+        flipSum:
+        - 106.641240 km
+        - 41.377329 km
         legs:
         - 65.263911 km
         - 41.377329 km
@@ -13912,6 +15210,10 @@ nigh:
       - Phil de Joux
     - togo:
         distance: 112.381968 km
+        flipSum:
+        - 112.381968 km
+        - 105.620857 km
+        - 41.377329 km
         legs:
         - 6.761111 km
         - 64.243528 km
@@ -13934,6 +15236,10 @@ nigh:
       - Hadewych van Kempen
     - togo:
         distance: 122.788657 km
+        flipSum:
+        - 122.788657 km
+        - 105.693758 km
+        - 41.377329 km
         legs:
         - 17.094899 km
         - 64.316429 km
@@ -13956,6 +15262,10 @@ nigh:
       - ! 'Andrew Luton '
     - togo:
         distance: 133.018372 km
+        flipSum:
+        - 133.018372 km
+        - 105.798970 km
+        - 41.377329 km
         legs:
         - 27.219402 km
         - 64.421641 km
@@ -13978,6 +15288,10 @@ nigh:
       - Martin Sielaff
     - togo:
         distance: 134.603204 km
+        flipSum:
+        - 134.603204 km
+        - 105.798970 km
+        - 41.377329 km
         legs:
         - 28.804234 km
         - 64.421641 km
@@ -14000,6 +15314,10 @@ nigh:
       - John Urlich
     - togo:
         distance: 136.119800 km
+        flipSum:
+        - 136.119800 km
+        - 105.863448 km
+        - 41.377329 km
         legs:
         - 30.256352 km
         - 64.486118 km
@@ -14022,6 +15340,10 @@ nigh:
       - Neil Petersen
     - togo:
         distance: 137.060120 km
+        flipSum:
+        - 137.060120 km
+        - 105.742370 km
+        - 41.377329 km
         legs:
         - 31.317749 km
         - 64.365041 km
@@ -14044,6 +15366,10 @@ nigh:
       - Jonathon Foote
     - togo:
         distance: 141.188043 km
+        flipSum:
+        - 141.188043 km
+        - 105.863448 km
+        - 41.377329 km
         legs:
         - 35.324595 km
         - 64.486118 km
@@ -14066,6 +15392,10 @@ nigh:
       - Carole Tobler
     - togo:
         distance: 144.155465 km
+        flipSum:
+        - 144.155465 km
+        - 105.742370 km
+        - 41.377329 km
         legs:
         - 38.413094 km
         - 64.365041 km
@@ -14088,6 +15418,10 @@ nigh:
       - Monique Pavy
     - togo:
         distance: 151.788060 km
+        flipSum:
+        - 151.788060 km
+        - 105.935679 km
+        - 41.377329 km
         legs:
         - 45.852381 km
         - 64.558350 km

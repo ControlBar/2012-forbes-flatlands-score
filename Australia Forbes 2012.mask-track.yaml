@@ -127,12 +127,12 @@ bestDistance:
 - 158.465204 km
 sumDistance:
 - 3058.525386 km
-- 8650.867768 km
-- 11032.764368 km
-- 7133.384490 km
-- 10238.450416 km
-- 13363.234187 km
-- 8648.903649 km
+- 9252.764768 km
+- 11237.472435 km
+- 8150.251108 km
+- 11845.846684 km
+- 13820.085228 km
+- 9784.734649 km
 - 9165.585728 km
 leadScaling:
 - 3.668378e-8
@@ -145,11 +145,11 @@ leadScaling:
 - 2.51694e-8
 leadCoefMin:
 - 1.558276e-2
-- 3.30431134
+- 3.28317881
 - 1.50861314
-- 2.59051914
-- 3.78689552
-- 3.08665091
+- 2.50972985
+- 3.72012355
+- 2.98598115
 - 3.06921139
 - 3.62406311
 lead:
@@ -465,345 +465,345 @@ lead:
       - Primoz Gricar
     - coef: 3.55419393
       frac: 0
-- - - - '68'
+- - - - '23'
+      - Gerolf Heinrichs
+    - coef: 3.28317881
+      frac: 1
+  - - - '68'
       - Grant Heaney
     - coef: 3.30431134
-      frac: 1
+      frac: 0.94857162
+  - - - '15'
+      - ! 'Jean Souviron '
+    - coef: 3.31326406
+      frac: 0.93491649
+  - - - '60'
+      - Rohan Holtkamp
+    - coef: 3.32664874
+      frac: 0.91681831
+  - - - '90'
+      - Adam Stevens
+    - coef: 3.32887919
+      frac: 0.91399672
+  - - - '56'
+      - Cameron Tunbridge
+    - coef: 3.3374191
+      frac: 0.90359125
+  - - - '89'
+      - Scott Barrett
+    - coef: 3.35104973
+      frac: 0.88804995
+  - - - '106'
+      - Adam Parer
+    - coef: 3.35416833
+      frac: 0.88464636
+  - - - '95'
+      - Anton Struganov
+    - coef: 3.37365176
+      frac: 0.86440375
+  - - - '1'
+      - Lukas Bader
+    - coef: 3.37432803
+      frac: 0.86372889
+  - - - '33'
+      - Conrad Loten
+    - coef: 3.37458277
+      frac: 0.86347512
+  - - - '88'
+      - Martin Sielaff
+    - coef: 3.37507609
+      frac: 0.86298433
   - - - '103'
       - Roberto Nichele
     - coef: 3.37683093
-      frac: 0.88324472
+      frac: 0.86124556
   - - - '99'
       - Tullio Gervasoni
     - coef: 3.38314821
-      frac: 0.87655905
+      frac: 0.85507392
   - - - '30'
       - Fredy Bircher
     - coef: 3.38724703
-      frac: 0.87231674
+      frac: 0.85113913
+  - - - '66'
+      - Jonas Lobitz
+    - coef: 3.39299527
+      frac: 0.8457068
+  - - - '102'
+      - Davide Guiducci
+    - coef: 3.44102679
+      frac: 0.80348555
+  - - - '87'
+      - Corinna Schwiegershausen
+    - coef: 3.46718463
+      frac: 0.78233454
+  - - - '42'
+      - Suan Selenati
+    - coef: 3.4693237
+      frac: 0.78065088
   - - - '12'
       - Glen Mcfarlane
     - coef: 3.47410811
-      frac: 0.79413021
+      frac: 0.77690824
+  - - - '5'
+      - Wolfgang Siess
+    - coef: 3.49856904
+      frac: 0.75823924
+  - - - '48'
+      - Paolo Rosichetti
+    - coef: 3.49966269
+      frac: 0.75742157
+  - - - '75'
+      - Joerg Bajewski
+    - coef: 3.50742574
+      frac: 0.75165649
+  - - - '94'
+      - Mitch Shipley
+    - coef: 3.50835674
+      frac: 0.7509696
   - - - '45'
       - Roland Wöhrle
     - coef: 3.50864157
-      frac: 0.76708645
+      frac: 0.75075964
+  - - - '92'
+      - Hans Kiefinger
+    - coef: 3.51428639
+      frac: 0.74661672
   - - - '84'
       - Yasuhiro Noma
     - coef: 3.51862388
-      frac: 0.7595611
+      frac: 0.74345618
+  - - - '59'
+      - Artur Dzamikhov
+    - coef: 3.53063887
+      frac: 0.73480099
   - - - '6'
       - Phil Schroder
     - coef: 3.54729813
-      frac: 0.73856637
+      frac: 0.72302838
   - - - '73'
       - Gijs Wanders
     - coef: 3.62351896
-      frac: 0.68641508
+      frac: 0.67202258
+  - - - '11'
+      - Steve Blenkinsop
+    - coef: 3.67510549
+      frac: 0.63966617
+  - - - '22'
+      - Mark Russell
+    - coef: 3.68955874
+      frac: 0.63086095
+  - - - '83'
+      - Peter Dall
+    - coef: 3.70870126
+      frac: 0.61935791
+  - - - '13'
+      - John Smith
+    - coef: 3.73117254
+      frac: 0.60607237
+  - - - '62'
+      - Enda Murphy
+    - coef: 3.74651524
+      frac: 0.5971289
   - - - '51'
       - Rob In 't Groen
     - coef: 3.75929821
-      frac: 0.60283383
-  - - - '23'
-      - Gerolf Heinrichs
-    - coef: 3.76350096
-      frac: 0.60039181
+      frac: 0.58975269
   - - - '96'
       - Brodrick Osborne
     - coef: 3.79005841
-      frac: 0.58512894
-  - - - '15'
-      - ! 'Jean Souviron '
-    - coef: 3.80480119
-      frac: 0.57677641
-  - - - '56'
-      - Cameron Tunbridge
-    - coef: 3.8361374
-      frac: 0.55929016
-  - - - '60'
-      - Rohan Holtkamp
-    - coef: 3.83892043
-      frac: 0.55775401
-  - - - '90'
-      - Adam Stevens
-    - coef: 3.84788109
-      frac: 0.55282601
+      frac: 0.57226804
+  - - - '25'
+      - Nick Purcell
+    - coef: 3.80181259
+      frac: 0.56568081
+  - - - '55'
+      - Kari Suhonen
+    - coef: 3.8210944
+      frac: 0.55498166
+  - - - '71'
+      - Edoardo Giudiceandrea
+    - coef: 3.83215508
+      frac: 0.54890203
   - - - '27'
       - ! 'Boris Marold '
     - coef: 3.85130911
-      frac: 0.55094792
-  - - - '89'
-      - Scott Barrett
-    - coef: 3.85394076
-      frac: 0.54950879
+      frac: 0.53846945
+  - - - '18'
+      - Jürgen Pasker
+    - coef: 3.85593911
+      frac: 0.53596534
   - - - '72'
       - Tove Heaney
     - coef: 3.86144821
-      frac: 0.54541586
-  - - - '95'
-      - Anton Struganov
-    - coef: 3.86340028
-      frac: 0.54435465
-  - - - '33'
-      - Conrad Loten
-    - coef: 3.87060737
-      frac: 0.54044727
-  - - - '88'
-      - Martin Sielaff
-    - coef: 3.87998821
-      frac: 0.5353861
-  - - - '106'
-      - Adam Parer
-    - coef: 3.88034399
-      frac: 0.53519469
-  - - - '1'
-      - Lukas Bader
-    - coef: 3.89897565
-      frac: 0.52522527
-  - - - '66'
-      - Jonas Lobitz
-    - coef: 3.90466895
-      frac: 0.52219977
+      frac: 0.53299454
+  - - - '49'
+      - Tony Giammichele
+    - coef: 3.87010657
+      frac: 0.52834448
+  - - - '100'
+      - Attila Bertok
+    - coef: 3.88699908
+      frac: 0.51933746
   - - - '31'
       - Andrew Barnes
     - coef: 3.93668628
-      frac: 0.50535976
-  - - - '87'
-      - Corinna Schwiegershausen
-    - coef: 3.96747884
-      frac: 0.48943015
-  - - - '42'
-      - Suan Selenati
-    - coef: 3.98171696
-      frac: 0.48214814
-  - - - '48'
-      - Paolo Rosichetti
-    - coef: 3.99079891
-      frac: 0.47752987
-  - - - '102'
-      - Davide Guiducci
-    - coef: 3.99734439
-      frac: 0.47421405
-  - - - '75'
-      - Joerg Bajewski
-    - coef: 4.04146204
-      frac: 0.45213041
-  - - - '92'
-      - Hans Kiefinger
-    - coef: 4.04372779
-      frac: 0.45100834
+      frac: 0.49331794
+  - - - '2'
+      - Pablo Gomes
+    - coef: 3.95089276
+      frac: 0.48600118
+  - - - '69'
+      - Jonathan Kinred
+    - coef: 3.98842786
+      frac: 0.46691455
+  - - - '97'
+      - Konrad Schwab
+    - coef: 3.99241589
+      frac: 0.46490679
   - - - '44'
       - Francoise Dieuzeide-banet
     - coef: 4.04816465
-      frac: 0.44881438
-  - - - '59'
-      - Artur Dzamikhov
-    - coef: 4.06789482
-      frac: 0.43911043
-  - - - '70'
-      - Matthew Barlow
-    - coef: 4.12821979
-      frac: 0.40994524
-  - - - '94'
-      - Mitch Shipley
-    - coef: 4.12997729
-      frac: 0.40910643
+      frac: 0.4372216
+  - - - '105'
+      - Chris Lawry
+    - coef: 4.06770824
+      frac: 0.42767685
+  - - - '85'
+      - Neil Petersen
+    - coef: 4.09247192
+      frac: 0.41569575
   - - - '37'
       - Peter Ebeling
     - coef: 4.13434351
-      frac: 0.40702512
+      frac: 0.39571165
   - - - '20'
       - ! 'Luke Browne '
     - coef: 4.15453962
-      frac: 0.39744498
+      frac: 0.38619017
   - - - '47'
       - ! 'Miguel De Jong '
     - coef: 4.15615202
-      frac: 0.39668342
+      frac: 0.38543319
   - - - '34'
       - Jon snr Durand
     - coef: 4.1715594
-      frac: 0.38943032
-  - - - '11'
-      - Steve Blenkinsop
-    - coef: 4.18800297
-      frac: 0.38173664
-  - - - '13'
-      - John Smith
-    - coef: 4.2768298
-      frac: 0.34097041
-  - - - '71'
-      - Edoardo Giudiceandrea
-    - coef: 4.29825017
-      frac: 0.33132855
+      frac: 0.37822318
+  - - - '32'
+      - Kathryn O'Riordan
+    - coef: 4.17193486
+      frac: 0.378048
   - - - '36'
       - Franz Herrmann
     - coef: 4.31518546
-      frac: 0.32375449
-  - - - '5'
-      - Wolfgang Siess
-    - coef: 4.32189998
-      frac: 0.32076324
+      frac: 0.31289441
   - - - '8'
       - Primoz Gricar
     - coef: 4.32628947
-      frac: 0.31881134
+      frac: 0.30797453
   - - - '43'
       - Les Bestt
     - coef: 4.3263686
-      frac: 0.31877617
-  - - - '62'
-      - Enda Murphy
-    - coef: 4.37524412
-      frac: 0.29722794
-  - - - '83'
-      - Peter Dall
-    - coef: 4.40527407
-      frac: 0.284151
+      frac: 0.30793954
+  - - - '26'
+      - Guy Hubbard
+    - coef: 4.38355248
+      frac: 0.28287431
   - - - '41'
       - Curt Warren
     - coef: 4.41470596
-      frac: 0.28006839
-  - - - '100'
-      - Attila Bertok
-    - coef: 4.42803435
-      frac: 0.27431882
-  - - - '2'
-      - Pablo Gomes
-    - coef: 4.44641951
-      frac: 0.26642503
-  - - - '22'
-      - Mark Russell
-    - coef: 4.50925144
-      frac: 0.23976128
-  - - - '55'
-      - Kari Suhonen
-    - coef: 4.51350335
-      frac: 0.23797388
+      frac: 0.26940201
+  - - - '61'
+      - Jonny Durand
+    - coef: 4.44026572
+      frac: 0.25844083
+  - - - '81'
+      - Valentino Bau
+    - coef: 4.48304987
+      frac: 0.24027187
+  - - - '77'
+      - Len Paton
+    - coef: 4.48527047
+      frac: 0.23933481
   - - - '24'
       - Christian Baertschi
     - coef: 4.5148468
-      frac: 0.23740956
+      frac: 0.22690846
   - - - '29'
       - Konstantin Lukyanov
     - coef: 4.56906253
-      frac: 0.21480702
-  - - - '25'
-      - Nick Purcell
-    - coef: 4.57822654
-      frac: 0.21101873
-  - - - '18'
-      - Jürgen Pasker
-    - coef: 4.58144612
-      frac: 0.20968996
-  - - - '49'
-      - Tony Giammichele
-    - coef: 4.61107726
-      frac: 0.19751262
+      frac: 0.20438502
+  - - - '35'
+      - Carole Tobler
+    - coef: 4.58253092
+      frac: 0.19883914
+  - - - '21'
+      - Gavin Myers
+    - coef: 4.59721901
+      frac: 0.19281282
   - - - '14'
       - Olav Lien Olsen
     - coef: 4.61186953
-      frac: 0.1971883
-  - - - '69'
-      - Jonathan Kinred
-    - coef: 4.68047048
-      frac: 0.16934863
+      frac: 0.18682425
   - - - '10'
       - Marat Matnurov
     - coef: 4.6814415
-      frac: 0.16895794
-  - - - '105'
-      - Chris Lawry
-    - coef: 4.7509726
-      frac: 0.1412154
+      frac: 0.15868041
+  - - - '17'
+      - John Urlich
+    - coef: 4.74328143
+      frac: 0.13405414
+  - - - '93'
+      - Trent Brown
+    - coef: 4.80380007
+      frac: 0.11028852
   - - - '7'
       - Shaun O'neill
     - coef: 4.84709763
-      frac: 0.10358278
-  - - - '85'
-      - Neil Petersen
-    - coef: 4.85687889
-      frac: 9.979791e-2
-  - - - '32'
-      - Kathryn O'Riordan
-    - coef: 4.91295132
-      frac: 7.82519e-2
+      frac: 9.347881e-2
+  - - - '82'
+      - Alain Le-gac
+    - coef: 4.85769162
+      frac: 8.938957e-2
+  - - - '28'
+      - Evgeniya Laritskaya
+    - coef: 4.87311653
+      frac: 8.345197e-2
+  - - - '3'
+      - Rod Flockhart
+    - coef: 4.9355674
+      frac: 5.960579e-2
   - - - '79'
       - David Stevens
     - coef: 4.95165439
-      frac: 6.352603e-2
-  - - - '26'
-      - Guy Hubbard
-    - coef: 5.06804609
-      frac: 1.991925e-2
+      frac: 5.351212e-2
+  - - - '70'
+      - Matthew Barlow
+    - coef: 5.02350826
+      frac: 2.652949e-2
+  - - - '16'
+      - Grant Edward
+    - coef: 5.05785182
+      frac: 1.37643e-2
   - - - '98'
       - Patrick Collin
     - coef: 5.11384415
-      frac: 3.02565e-3
-  - - - '61'
-      - Jonny Durand
-    - coef: 5.11879183
-      frac: 1.20917e-3
-  - - - '81'
-      - Valentino Bau
-    - coef: 5.12479946
-      frac: 0
-  - - - '77'
-      - Len Paton
-    - coef: 5.16493771
-      frac: 0
-  - - - '35'
-      - Carole Tobler
-    - coef: 5.23116462
-      frac: 0
-  - - - '21'
-      - Gavin Myers
-    - coef: 5.23256841
       frac: 0
   - - - '67'
       - ! 'Andy Phillips '
     - coef: 5.26771614
       frac: 0
-  - - - '82'
-      - Alain Le-gac
-    - coef: 5.33417513
-      frac: 0
-  - - - '28'
-      - Evgeniya Laritskaya
-    - coef: 5.35678405
-      frac: 0
-  - - - '93'
-      - Trent Brown
-    - coef: 5.60383635
-      frac: 0
-  - - - '97'
-      - Konrad Schwab
-    - coef: 5.66470756
-      frac: 0
-  - - - '16'
-      - Grant Edward
-    - coef: 5.77699726
+  - - - '78'
+      - Christine Aichner
+    - coef: 5.28385107
       frac: 0
   - - - '64'
       - Gustavo Carvalho
-    - coef: 5.80135563
-      frac: 0
-  - - - '17'
-      - John Urlich
-    - coef: 5.86800405
-      frac: 0
-  - - - '3'
-      - Rod Flockhart
-    - coef: 6.10810866
+    - coef: 5.66847719
       frac: 0
   - - - '91'
       - Francesco Rinaldi
-    - coef: 6.22936734
-      frac: 0
-  - - - '78'
-      - Christine Aichner
-    - coef: 6.25284071
+    - coef: 5.68675858
       frac: 0
   - - - '76'
       - Dmitriy Korchenkov
@@ -877,6 +877,10 @@ lead:
       - Yasuhiro Noma
     - coef: 2.10532315
       frac: 0.3820079
+  - - - '60'
+      - Rohan Holtkamp
+    - coef: 2.10543989
+      frac: 0.3819273
   - - - '92'
       - Hans Kiefinger
     - coef: 2.12917496
@@ -893,6 +897,10 @@ lead:
       - Curt Warren
     - coef: 2.14690902
       frac: 0.35361877
+  - - - '8'
+      - Primoz Gricar
+    - coef: 2.14699368
+      frac: 0.35356162
   - - - '95'
       - Anton Struganov
     - coef: 2.14704282
@@ -905,6 +913,10 @@ lead:
       - Adam Stevens
     - coef: 2.16382561
       frac: 0.34224805
+  - - - '1'
+      - Lukas Bader
+    - coef: 2.18049317
+      frac: 0.33114004
   - - - '35'
       - Carole Tobler
     - coef: 2.18664646
@@ -985,10 +997,10 @@ lead:
       - Joerg Bajewski
     - coef: 2.49490586
       frac: 0.13607126
-  - - - '60'
-      - Rohan Holtkamp
-    - coef: 2.49593562
-      frac: 0.13547002
+  - - - '69'
+      - Jonathan Kinred
+    - coef: 2.51165722
+      frac: 0.12631667
   - - - '3'
       - Rod Flockhart
     - coef: 2.51218188
@@ -997,10 +1009,6 @@ lead:
       - ! 'Miguel De Jong '
     - coef: 2.53293529
       frac: 0.11400403
-  - - - '8'
-      - Primoz Gricar
-    - coef: 2.54152508
-      frac: 0.10905771
   - - - '40'
       - Phil de Joux
     - coef: 2.55747839
@@ -1009,10 +1017,6 @@ lead:
       - Kari Suhonen
     - coef: 2.5752714
       frac: 8.975653e-2
-  - - - '1'
-      - Lukas Bader
-    - coef: 2.58889908
-      frac: 8.202006e-2
   - - - '6'
       - Phil Schroder
     - coef: 2.61296492
@@ -1029,13 +1033,25 @@ lead:
       - Glen Mcfarlane
     - coef: 2.8349049
       frac: 0
+  - - - '77'
+      - Len Paton
+    - coef: 2.89907647
+      frac: 0
   - - - '44'
       - Francoise Dieuzeide-banet
     - coef: 2.94795263
       frac: 0
-  - - - '69'
-      - Jonathan Kinred
-    - coef: 3.00157473
+  - - - '45'
+      - Roland Wöhrle
+    - coef: 3.08332495
+      frac: 0
+  - - - '62'
+      - Enda Murphy
+    - coef: 3.09573462
+      frac: 0
+  - - - '37'
+      - Peter Ebeling
+    - coef: 3.23476512
       frac: 0
   - - - '2'
       - Pablo Gomes
@@ -1045,13 +1061,13 @@ lead:
       - Virpi Nieminen
     - coef: 3.38927124
       frac: 0
-  - - - '62'
-      - Enda Murphy
-    - coef: 3.47034474
+  - - - '67'
+      - ! 'Andy Phillips '
+    - coef: 3.55581892
       frac: 0
-  - - - '77'
-      - Len Paton
-    - coef: 3.52182953
+  - - - '79'
+      - David Stevens
+    - coef: 3.58032279
       frac: 0
   - - - '98'
       - Patrick Collin
@@ -1061,29 +1077,21 @@ lead:
       - Marat Matnurov
     - coef: 3.62370436
       frac: 0
-  - - - '45'
-      - Roland Wöhrle
-    - coef: 3.68479654
+  - - - '30'
+      - Fredy Bircher
+    - coef: 3.63190284
+      frac: 0
+  - - - '72'
+      - Tove Heaney
+    - coef: 3.67448391
       frac: 0
   - - - '32'
       - Kathryn O'Riordan
     - coef: 3.71670307
       frac: 0
-  - - - '79'
-      - David Stevens
-    - coef: 3.72918843
-      frac: 0
-  - - - '37'
-      - Peter Ebeling
-    - coef: 3.75055825
-      frac: 0
-  - - - '72'
-      - Tove Heaney
-    - coef: 3.8155093
-      frac: 0
-  - - - '67'
-      - ! 'Andy Phillips '
-    - coef: 3.90933729
+  - - - '97'
+      - Konrad Schwab
+    - coef: 3.9396499
       frac: 0
   - - - '43'
       - Les Bestt
@@ -1101,17 +1109,9 @@ lead:
       - Peter Dall
     - coef: 4.01865629
       frac: 0
-  - - - '30'
-      - Fredy Bircher
-    - coef: 4.1343921
-      frac: 0
   - - - '18'
       - Jürgen Pasker
     - coef: 4.14972377
-      frac: 0
-  - - - '97'
-      - Konrad Schwab
-    - coef: 4.38942794
       frac: 0
   - - - '29'
       - Konstantin Lukyanov
@@ -1161,293 +1161,301 @@ lead:
       - John Urlich
     - coef: 7.28026919
       frac: 0
-- - - - '21'
+- - - - '100'
+      - Attila Bertok
+    - coef: 2.50972985
+      frac: 1
+  - - - '106'
+      - Adam Parer
+    - coef: 2.55649851
+      frac: 0.90448
+  - - - '15'
+      - ! 'Jean Souviron '
+    - coef: 2.57379068
+      frac: 0.88218895
+  - - - '21'
       - Gavin Myers
     - coef: 2.59051914
-      frac: 1
+      frac: 0.8624818
+  - - - '13'
+      - John Smith
+    - coef: 2.82352294
+      frac: 0.6602027
+  - - - '1'
+      - Lukas Bader
+    - coef: 2.82914806
+      frac: 0.65615389
+  - - - '60'
+      - Rohan Holtkamp
+    - coef: 2.83271344
+      frac: 0.65359993
+  - - - '61'
+      - Jonny Durand
+    - coef: 2.8443152
+      frac: 0.64535355
+  - - - '42'
+      - Suan Selenati
+    - coef: 2.85275234
+      frac: 0.63941632
+  - - - '66'
+      - Jonas Lobitz
+    - coef: 2.85283429
+      frac: 0.63935889
   - - - '95'
       - Anton Struganov
     - coef: 2.85296338
-      frac: 0.70153339
+      frac: 0.63926844
+  - - - '23'
+      - Gerolf Heinrichs
+    - coef: 2.85412304
+      frac: 0.63845637
+  - - - '56'
+      - Cameron Tunbridge
+    - coef: 2.85484834
+      frac: 0.63794894
+  - - - '90'
+      - Adam Stevens
+    - coef: 2.86322104
+      frac: 0.6321167
+  - - - '96'
+      - Brodrick Osborne
+    - coef: 2.87622795
+      frac: 0.62314685
+  - - - '89'
+      - Scott Barrett
+    - coef: 2.88558679
+      frac: 0.61675833
+  - - - '68'
+      - Grant Heaney
+    - coef: 2.90236036
+      frac: 0.60543941
+  - - - '59'
+      - Artur Dzamikhov
+    - coef: 2.95875612
+      frac: 0.56850857
   - - - '7'
       - Shaun O'neill
     - coef: 2.97021261
-      frac: 0.6182083
+      frac: 0.56120003
+  - - - '94'
+      - Mitch Shipley
+    - coef: 2.97073768
+      frac: 0.56086653
+  - - - '34'
+      - Jon snr Durand
+    - coef: 2.97805728
+      frac: 0.55623055
+  - - - '45'
+      - Roland Wöhrle
+    - coef: 2.97888585
+      frac: 0.55570729
+  - - - '92'
+      - Hans Kiefinger
+    - coef: 2.98224201
+      frac: 0.55359094
+  - - - '31'
+      - Andrew Barnes
+    - coef: 3.00145379
+      frac: 0.54157118
+  - - - '26'
+      - Guy Hubbard
+    - coef: 3.00273365
+      frac: 0.54077606
+  - - - '25'
+      - Nick Purcell
+    - coef: 3.01134344
+      frac: 0.53544493
+  - - - '93'
+      - Trent Brown
+    - coef: 3.01214512
+      frac: 0.5349501
   - - - '62'
       - Enda Murphy
     - coef: 3.01721191
-      frac: 0.58731889
+      frac: 0.53182868
+  - - - '18'
+      - Jürgen Pasker
+    - coef: 3.02636137
+      frac: 0.52621831
+  - - - '44'
+      - Francoise Dieuzeide-banet
+    - coef: 3.03321561
+      frac: 0.52203703
+  - - - '99'
+      - Tullio Gervasoni
+    - coef: 3.03999268
+      frac: 0.51792072
+  - - - '5'
+      - Wolfgang Siess
+    - coef: 3.05182354
+      frac: 0.51077658
+  - - - '55'
+      - Kari Suhonen
+    - coef: 3.05236318
+      frac: 0.51045196
+  - - - '6'
+      - Phil Schroder
+    - coef: 3.05431625
+      frac: 0.50927799
   - - - '33'
       - Conrad Loten
     - coef: 3.06280163
-      frac: 0.55842383
+      frac: 0.50419374
+  - - - '24'
+      - Christian Baertschi
+    - coef: 3.06574269
+      frac: 0.5024376
+  - - - '78'
+      - Christine Aichner
+    - coef: 3.08471251
+      frac: 0.49118391
+  - - - '71'
+      - Edoardo Giudiceandrea
+    - coef: 3.14485625
+      frac: 0.45629359
+  - - - '46'
+      - Jonathon Foote
+    - coef: 3.15593292
+      frac: 0.4499903
+  - - - '75'
+      - Joerg Bajewski
+    - coef: 3.16560666
+      frac: 0.44451476
   - - - '84'
       - Yasuhiro Noma
     - coef: 3.17449617
-      frac: 0.49129238
+      frac: 0.4395068
+  - - - '14'
+      - Olav Lien Olsen
+    - coef: 3.19748462
+      frac: 0.42665845
+  - - - '19'
+      - Mikhail Karmazin
+    - coef: 3.2258385
+      frac: 0.41100679
   - - - '11'
       - Steve Blenkinsop
     - coef: 3.24102143
-      frac: 0.45335722
-  - - - '100'
-      - Attila Bertok
-    - coef: 3.42644661
-      frac: 0.35387463
+      frac: 0.40271072
+  - - - '12'
+      - Glen Mcfarlane
+    - coef: 3.27150495
+      frac: 0.38622548
+  - - - '32'
+      - Kathryn O'Riordan
+    - coef: 3.29182963
+      frac: 0.37535618
+  - - - '29'
+      - Konstantin Lukyanov
+    - coef: 3.33195348
+      frac: 0.35417085
+  - - - '87'
+      - Corinna Schwiegershausen
+    - coef: 3.36126045
+      frac: 0.33891417
+  - - - '77'
+      - Len Paton
+    - coef: 3.36710274
+      frac: 0.33589384
+  - - - '36'
+      - Franz Herrmann
+    - coef: 3.47785921
+      frac: 0.27986608
+  - - - '3'
+      - Rod Flockhart
+    - coef: 3.47823208
+      frac: 0.27968119
   - - - '51'
       - Rob In 't Groen
     - coef: 3.53321563
-      frac: 0.29996623
-  - - - '15'
-      - ! 'Jean Souviron '
-    - coef: 3.60292306
-      frac: 0.26586892
+      frac: 0.25267035
   - - - '98'
       - Patrick Collin
     - coef: 3.63909564
-      frac: 0.24848472
-  - - - '34'
-      - Jon snr Durand
-    - coef: 3.7350157
-      frac: 0.20332585
-  - - - '32'
-      - Kathryn O'Riordan
-    - coef: 3.73533792
-      frac: 0.20317633
+      frac: 0.20197942
+  - - - '47'
+      - ! 'Miguel De Jong '
+    - coef: 3.68411599
+      frac: 0.18091001
   - - - '69'
       - Jonathan Kinred
     - coef: 3.76522431
-      frac: 0.18936817
-  - - - '68'
-      - Grant Heaney
-    - coef: 3.79702347
-      frac: 0.17480424
-  - - - '5'
-      - Wolfgang Siess
-    - coef: 3.797274
-      frac: 0.17469001
-  - - - '59'
-      - Artur Dzamikhov
-    - coef: 3.82608108
-      frac: 0.16160744
-  - - - '89'
-      - Scott Barrett
-    - coef: 3.84085397
-      frac: 0.15493791
-  - - - '55'
-      - Kari Suhonen
-    - coef: 3.86340622
-      frac: 0.14480665
-  - - - '60'
-      - Rohan Holtkamp
-    - coef: 3.86901432
-      frac: 0.14229661
-  - - - '61'
-      - Jonny Durand
-    - coef: 3.87008352
-      frac: 0.14181848
-  - - - '44'
-      - Francoise Dieuzeide-banet
-    - coef: 3.87064301
-      frac: 0.14156833
-  - - - '26'
-      - Guy Hubbard
-    - coef: 3.87380139
-      frac: 0.14015694
-  - - - '24'
-      - Christian Baertschi
-    - coef: 3.87402075
-      frac: 0.14005896
-  - - - '42'
-      - Suan Selenati
-    - coef: 3.88266436
-      frac: 0.13620249
-  - - - '23'
-      - Gerolf Heinrichs
-    - coef: 3.88418521
-      frac: 0.13552483
-  - - - '13'
-      - John Smith
-    - coef: 3.88970434
-      frac: 0.13306785
-  - - - '6'
-      - Phil Schroder
-    - coef: 3.89538439
-      frac: 0.13054287
+      frac: 0.14361798
+  - - - '8'
+      - Primoz Gricar
+    - coef: 3.80193802
+      frac: 0.12700318
+  - - - '82'
+      - Alain Le-gac
+    - coef: 3.86942651
+      frac: 9.686565e-2
   - - - '43'
       - Les Bestt
     - coef: 3.90249347
-      frac: 0.12738778
-  - - - '25'
-      - Nick Purcell
-    - coef: 3.92548486
-      frac: 0.11722273
-  - - - '90'
-      - Adam Stevens
-    - coef: 3.928751
-      frac: 0.11578344
+      frac: 8.228193e-2
+  - - - '70'
+      - Matthew Barlow
+    - coef: 3.91960171
+      frac: 7.478194e-2
   - - - '85'
       - Neil Petersen
     - coef: 3.93769121
-      frac: 0.11184974
-  - - - '31'
-      - Andrew Barnes
-    - coef: 3.93923349
-      frac: 0.11117202
-  - - - '18'
-      - Jürgen Pasker
-    - coef: 3.947502
-      frac: 0.10754299
-  - - - '1'
-      - Lukas Bader
-    - coef: 3.95058195
-      frac: 0.10619309
-  - - - '93'
-      - Trent Brown
-    - coef: 3.95658976
-      frac: 0.10356288
-  - - - '78'
-      - Christine Aichner
-    - coef: 3.96301683
-      frac: 0.10075338
-  - - - '56'
-      - Cameron Tunbridge
-    - coef: 3.97418031
-      frac: 9.588384e-2
-  - - - '99'
-      - Tullio Gervasoni
-    - coef: 3.99251054
-      frac: 8.791643e-2
-  - - - '92'
-      - Hans Kiefinger
-    - coef: 3.99750814
-      frac: 8.575021e-2
-  - - - '45'
-      - Roland Wöhrle
-    - coef: 4.00542488
-      frac: 8.232394e-2
-  - - - '46'
-      - Jonathon Foote
-    - coef: 4.13921571
-      frac: 2.535014e-2
-  - - - '75'
-      - Joerg Bajewski
-    - coef: 4.1849268
-      frac: 6.26486e-3
-  - - - '14'
-      - Olav Lien Olsen
-    - coef: 4.2923988
+      frac: 6.68847e-2
+  - - - '101'
+      - ! 'Andrew Luton '
+    - coef: 3.95993353
+      frac: 5.722004e-2
+  - - - '16'
+      - Grant Edward
+    - coef: 4.0194791
+      frac: 3.158638e-2
+  - - - '41'
+      - Curt Warren
+    - coef: 4.24799035
       frac: 0
   - - - '17'
       - John Urlich
     - coef: 4.32543508
       frac: 0
-  - - - '36'
-      - Franz Herrmann
-    - coef: 4.34407928
-      frac: 0
-  - - - '106'
-      - Adam Parer
-    - coef: 4.34989362
-      frac: 0
-  - - - '41'
-      - Curt Warren
-    - coef: 4.4326608
-      frac: 0
-  - - - '70'
-      - Matthew Barlow
-    - coef: 4.43307168
-      frac: 0
-  - - - '66'
-      - Jonas Lobitz
-    - coef: 4.43600056
-      frac: 0
-  - - - '94'
-      - Mitch Shipley
-    - coef: 4.45944749
-      frac: 0
   - - - '79'
       - David Stevens
-    - coef: 4.46345701
-      frac: 0
-  - - - '96'
-      - Brodrick Osborne
-    - coef: 4.46576058
-      frac: 0
-  - - - '12'
-      - Glen Mcfarlane
-    - coef: 4.47133879
+    - coef: 4.36322922
       frac: 0
   - - - '49'
       - Tony Giammichele
-    - coef: 4.49062125
+    - coef: 4.38718305
       frac: 0
-  - - - '19'
-      - Mikhail Karmazin
-    - coef: 4.50326436
-      frac: 0
-  - - - '3'
-      - Rod Flockhart
-    - coef: 4.5050557
+  - - - '105'
+      - Chris Lawry
+    - coef: 4.39114303
       frac: 0
   - - - '73'
       - Gijs Wanders
     - coef: 4.52805862
       frac: 0
-  - - - '29'
-      - Konstantin Lukyanov
-    - coef: 4.5888326
-      frac: 0
-  - - - '47'
-      - ! 'Miguel De Jong '
-    - coef: 4.60512673
-      frac: 0
-  - - - '71'
-      - Edoardo Giudiceandrea
-    - coef: 4.61569836
-      frac: 0
-  - - - '87'
-      - Corinna Schwiegershausen
-    - coef: 4.64079424
-      frac: 0
-  - - - '77'
-      - Len Paton
-    - coef: 4.7613404
-      frac: 0
-  - - - '16'
-      - Grant Edward
-    - coef: 4.79001992
-      frac: 0
-  - - - '8'
-      - Primoz Gricar
-    - coef: 4.8483252
-      frac: 0
-  - - - '83'
-      - Peter Dall
-    - coef: 4.92904928
-      frac: 0
-  - - - '82'
-      - Alain Le-gac
-    - coef: 5.00008104
-      frac: 0
-  - - - '20'
-      - ! 'Luke Browne '
-    - coef: 5.05415473
+  - - - '102'
+      - Davide Guiducci
+    - coef: 4.59224174
       frac: 0
   - - - '52'
       - Virpi Nieminen
-    - coef: 5.08558186
+    - coef: 4.65035032
       frac: 0
-  - - - '101'
-      - ! 'Andrew Luton '
-    - coef: 5.16830354
+  - - - '83'
+      - Peter Dall
+    - coef: 4.77843662
+      frac: 0
+  - - - '20'
+      - ! 'Luke Browne '
+    - coef: 4.9472531
+      frac: 0
+  - - - '22'
+      - Mark Russell
+    - coef: 5.00673542
       frac: 0
   - - - '76'
       - Dmitriy Korchenkov
     - coef: 5.8038889
-      frac: 0
-  - - - '105'
-      - Chris Lawry
-    - coef: 5.80881673
       frac: 0
   - - - '97'
       - Konrad Schwab
@@ -1465,254 +1473,250 @@ lead:
       - Phil de Joux
     - coef: 6.01893934
       frac: 0
+  - - - '64'
+      - Gustavo Carvalho
+    - coef: 6.21624292
+      frac: 0
   - - - '27'
       - ! 'Boris Marold '
     - coef: 6.24621166
-      frac: 0
-  - - - '102'
-      - Davide Guiducci
-    - coef: 6.27292206
-      frac: 0
-  - - - '64'
-      - Gustavo Carvalho
-    - coef: 6.46101451
-      frac: 0
-  - - - '22'
-      - Mark Russell
-    - coef: 6.52547386
       frac: 0
   - - - '37'
       - Peter Ebeling
     - coef: 6.52832917
       frac: 0
-- - - - '26'
+- - - - '33'
+      - Conrad Loten
+    - coef: 3.72012355
+      frac: 1
+  - - - '26'
       - Guy Hubbard
     - coef: 3.78689552
-      frac: 1
+      frac: 0.89377901
+  - - - '89'
+      - Scott Barrett
+    - coef: 3.79728672
+      frac: 0.88302647
+  - - - '100'
+      - Attila Bertok
+    - coef: 3.80070663
+      frac: 0.87959529
+  - - - '42'
+      - Suan Selenati
+    - coef: 3.81003317
+      frac: 0.87047558
   - - - '93'
       - Trent Brown
     - coef: 3.81112664
-      frac: 0.9462777
+      frac: 0.86942752
+  - - - '90'
+      - Adam Stevens
+    - coef: 3.8112125
+      frac: 0.86934541
+  - - - '60'
+      - Rohan Holtkamp
+    - coef: 3.81648682
+      frac: 0.86434934
+  - - - '11'
+      - Steve Blenkinsop
+    - coef: 3.8172672
+      frac: 0.86361797
   - - - '41'
       - Curt Warren
     - coef: 3.82094455
-      frac: 0.93260276
+      frac: 0.86019752
+  - - - '49'
+      - Tony Giammichele
+    - coef: 3.83055136
+      frac: 0.85145209
+  - - - '36'
+      - Franz Herrmann
+    - coef: 3.83327134
+      frac: 0.84902272
+  - - - '94'
+      - Mitch Shipley
+    - coef: 3.83643603
+      frac: 0.8462205
+  - - - '13'
+      - John Smith
+    - coef: 3.83736115
+      frac: 0.84540617
+  - - - '45'
+      - Roland Wöhrle
+    - coef: 3.8391312
+      frac: 0.84385402
+  - - - '3'
+      - Rod Flockhart
+    - coef: 3.84204917
+      frac: 0.84131196
   - - - '56'
       - Cameron Tunbridge
     - coef: 3.84205895
-      frac: 0.90703066
+      frac: 0.84130347
   - - - '48'
       - Paolo Rosichetti
     - coef: 3.84252511
-      frac: 0.90650763
+      frac: 0.84089926
+  - - - '92'
+      - Hans Kiefinger
+    - coef: 3.85240748
+      frac: 0.83244698
+  - - - '6'
+      - Phil Schroder
+    - coef: 3.85301934
+      frac: 0.83193071
+  - - - '66'
+      - Jonas Lobitz
+    - coef: 3.85528187
+      frac: 0.83002851
+  - - - '102'
+      - Davide Guiducci
+    - coef: 3.87028646
+      frac: 0.8176709
+  - - - '15'
+      - ! 'Jean Souviron '
+    - coef: 3.87785073
+      frac: 0.81159812
+  - - - '106'
+      - Adam Parer
+    - coef: 3.8841283
+      frac: 0.80663175
+  - - - '84'
+      - Yasuhiro Noma
+    - coef: 3.88688995
+      frac: 0.80446707
+  - - - '99'
+      - Tullio Gervasoni
+    - coef: 3.88954633
+      frac: 0.80239614
+  - - - '68'
+      - Grant Heaney
+    - coef: 3.92785523
+      frac: 0.77363148
   - - - '31'
       - Andrew Barnes
     - coef: 3.92807693
-      frac: 0.82605021
+      frac: 0.77347045
+  - - - '62'
+      - Enda Murphy
+    - coef: 3.93380716
+      frac: 0.76932793
+  - - - '103'
+      - Roberto Nichele
+    - coef: 3.93496457
+      frac: 0.76849572
+  - - - '73'
+      - Gijs Wanders
+    - coef: 3.94049042
+      frac: 0.76454292
+  - - - '24'
+      - Christian Baertschi
+    - coef: 3.95084101
+      frac: 0.75722655
+  - - - '87'
+      - Corinna Schwiegershausen
+    - coef: 3.95501767
+      frac: 0.75430538
+  - - - '8'
+      - Primoz Gricar
+    - coef: 4.00791532
+      frac: 0.71868053
+  - - - '5'
+      - Wolfgang Siess
+    - coef: 4.01765657
+      frac: 0.71236769
   - - - '75'
       - Joerg Bajewski
     - coef: 4.02524479
-      frac: 0.75336874
+      frac: 0.70749777
+  - - - '22'
+      - Mark Russell
+    - coef: 4.0417682
+      frac: 0.69703083
   - - - '25'
       - Nick Purcell
     - coef: 4.04553475
-      frac: 0.73956351
+      frac: 0.69467019
+  - - - '95'
+      - Anton Struganov
+    - coef: 4.07994044
+      frac: 0.67351098
+  - - - '79'
+      - David Stevens
+    - coef: 4.09610171
+      frac: 0.66380651
+  - - - '71'
+      - Edoardo Giudiceandrea
+    - coef: 4.09707835
+      frac: 0.66322457
+  - - - '69'
+      - Jonathan Kinred
+    - coef: 4.10668368
+      frac: 0.6575276
+  - - - '78'
+      - Christine Aichner
+    - coef: 4.1119625
+      frac: 0.65441681
+  - - - '14'
+      - Olav Lien Olsen
+    - coef: 4.1683722
+      frac: 0.62199848
+  - - - '23'
+      - Gerolf Heinrichs
+    - coef: 4.18558675
+      frac: 0.61238154
+  - - - '34'
+      - Jon snr Durand
+    - coef: 4.22992327
+      frac: 0.58814222
   - - - '72'
       - Tove Heaney
     - coef: 4.23341485
-      frac: 0.62520044
+      frac: 0.58626384
+  - - - '77'
+      - Len Paton
+    - coef: 4.24229788
+      frac: 0.58150408
   - - - '55'
       - Kari Suhonen
     - coef: 4.24449985
-      frac: 0.61902281
-  - - - '33'
-      - Conrad Loten
-    - coef: 4.74006831
-      frac: 0.37862566
-  - - - '89'
-      - Scott Barrett
-    - coef: 4.7458484
-      frac: 0.37611616
-  - - - '11'
-      - Steve Blenkinsop
-    - coef: 4.76857642
-      frac: 0.36629696
-  - - - '60'
-      - Rohan Holtkamp
-    - coef: 4.77083892
-      frac: 0.36532367
-  - - - '45'
-      - Roland Wöhrle
-    - coef: 4.79708336
-      frac: 0.35408756
-  - - - '13'
-      - John Smith
-    - coef: 4.81898413
-      frac: 0.34478542
-  - - - '90'
-      - Adam Stevens
-    - coef: 4.82926987
-      frac: 0.3404394
-  - - - '92'
-      - Hans Kiefinger
-    - coef: 4.85214852
-      frac: 0.33082341
-  - - - '6'
-      - Phil Schroder
-    - coef: 4.86514866
-      frac: 0.32539009
-  - - - '49'
-      - Tony Giammichele
-    - coef: 4.86860242
-      frac: 0.3239503
-  - - - '3'
-      - Rod Flockhart
-    - coef: 4.86954492
-      frac: 0.32355765
-  - - - '94'
-      - Mitch Shipley
-    - coef: 4.95229935
-      frac: 0.28951237
-  - - - '42'
-      - Suan Selenati
-    - coef: 5.03361251
-      frac: 0.25683689
-  - - - '100'
-      - Attila Bertok
-    - coef: 5.03858248
-      frac: 0.25486314
+      frac: 0.5803284
+  - - - '1'
+      - Lukas Bader
+    - coef: 4.27835694
+      frac: 0.56245296
+  - - - '96'
+      - Brodrick Osborne
+    - coef: 4.54437207
+      frac: 0.43264747
+  - - - '29'
+      - Konstantin Lukyanov
+    - coef: 4.8457554
+      frac: 0.30164144
   - - - '32'
       - Kathryn O'Riordan
     - coef: 5.05045598
-      frac: 0.25015832
-  - - - '1'
-      - Lukas Bader
-    - coef: 5.05600515
-      frac: 0.24796454
-  - - - '103'
-      - Roberto Nichele
-    - coef: 5.06130343
-      frac: 0.24587293
+      frac: 0.21935366
   - - - '85'
       - Neil Petersen
     - coef: 5.06309597
-      frac: 0.24516594
-  - - - '87'
-      - Corinna Schwiegershausen
-    - coef: 5.06968272
-      frac: 0.24257093
-  - - - '8'
-      - Primoz Gricar
-    - coef: 5.07488537
-      frac: 0.24052435
-  - - - '24'
-      - Christian Baertschi
-    - coef: 5.10113921
-      frac: 0.23023854
-  - - - '36'
-      - Franz Herrmann
-    - coef: 5.12163723
-      frac: 0.22225532
-  - - - '66'
-      - Jonas Lobitz
-    - coef: 5.13017474
-      frac: 0.21894235
-  - - - '34'
-      - Jon snr Durand
-    - coef: 5.13180235
-      frac: 0.21831156
-  - - - '102'
-      - Davide Guiducci
-    - coef: 5.14868178
-      frac: 0.2117847
-  - - - '84'
-      - Yasuhiro Noma
-    - coef: 5.15292242
-      frac: 0.2101492
-  - - - '99'
-      - Tullio Gervasoni
-    - coef: 5.15379888
-      frac: 0.20981139
-  - - - '106'
-      - Adam Parer
-    - coef: 5.1569573
-      frac: 0.20859463
-  - - - '15'
-      - ! 'Jean Souviron '
-    - coef: 5.16130063
-      frac: 0.20692292
-  - - - '68'
-      - Grant Heaney
-    - coef: 5.16872645
-      frac: 0.20406885
-  - - - '62'
-      - Enda Murphy
-    - coef: 5.17176414
-      frac: 0.20290281
-  - - - '23'
-      - Gerolf Heinrichs
-    - coef: 5.17293715
-      frac: 0.20245277
-  - - - '96'
-      - Brodrick Osborne
-    - coef: 5.17344543
-      frac: 0.2022578
-  - - - '73'
-      - Gijs Wanders
-    - coef: 5.17417893
-      frac: 0.20197649
-  - - - '95'
-      - Anton Struganov
-    - coef: 5.17801717
-      frac: 0.20050522
-  - - - '79'
-      - David Stevens
-    - coef: 5.19096835
-      frac: 0.19555075
-  - - - '22'
-      - Mark Russell
-    - coef: 5.19375197
-      frac: 0.19448787
-  - - - '29'
-      - Konstantin Lukyanov
-    - coef: 5.22144114
-      frac: 0.18395307
-  - - - '78'
-      - Christine Aichner
-    - coef: 5.222937
-      frac: 0.18338589
-  - - - '71'
-      - Edoardo Giudiceandrea
-    - coef: 5.24521955
-      frac: 0.17496017
-  - - - '69'
-      - Jonathan Kinred
-    - coef: 5.2537243
-      frac: 0.1717556
-  - - - '5'
-      - Wolfgang Siess
-    - coef: 5.26573499
-      frac: 0.16724053
-  - - - '77'
-      - Len Paton
-    - coef: 5.27281854
-      frac: 0.1645834
-  - - - '14'
-      - Olav Lien Olsen
-    - coef: 5.28284382
-      frac: 0.16083
+      frac: 0.21441664
   - - - '18'
       - Jürgen Pasker
     - coef: 5.30265999
-      frac: 0.15343552
+      frac: 0.1235711
+  - - - '20'
+      - ! 'Luke Browne '
+    - coef: 5.35673528
+      frac: 0.10371805
   - - - '37'
       - Peter Ebeling
-    - coef: 5.40278304
-      frac: 0.11655474
+    - coef: 5.38846234
+      frac: 9.217171e-2
   - - - '35'
       - Carole Tobler
-    - coef: 5.42665148
-      frac: 0.10787638
+    - coef: 5.39701557
+      frac: 8.907153e-2
   - - - '30'
       - Fredy Bircher
     - coef: 5.77254461
@@ -1724,10 +1728,6 @@ lead:
   - - - '67'
       - ! 'Andy Phillips '
     - coef: 5.91329626
-      frac: 0
-  - - - '20'
-      - ! 'Luke Browne '
-    - coef: 5.97361511
       frac: 0
   - - - '12'
       - Glen Mcfarlane
@@ -1825,273 +1825,273 @@ lead:
       - Chris Lawry
     - coef: 8.9889655
       frac: 0
-- - - - '45'
+- - - - '57'
+      - Julia Kucherenko
+    - coef: 2.98598115
+      frac: 1
+  - - - '95'
+      - Anton Struganov
+    - coef: 3.06813696
+      frac: 0.86876092
+  - - - '60'
+      - Rohan Holtkamp
+    - coef: 3.0807926
+      frac: 0.85560743
+  - - - '45'
       - Roland Wöhrle
     - coef: 3.08665091
-      frac: 1
+      frac: 0.84971915
+  - - - '90'
+      - Adam Stevens
+    - coef: 3.09221531
+      frac: 0.84423122
   - - - '49'
       - Tony Giammichele
     - coef: 3.09268191
-      frac: 0.97724393
+      frac: 0.84377544
+  - - - '75'
+      - Joerg Bajewski
+    - coef: 3.0927216
+      frac: 0.84373669
+  - - - '24'
+      - Christian Baertschi
+    - coef: 3.10097878
+      frac: 0.83577842
   - - - '13'
       - John Smith
     - coef: 3.10634993
-      frac: 0.94990429
-  - - - '57'
-      - Julia Kucherenko
-    - coef: 3.1967017
-      frac: 0.84227534
+      frac: 0.83070393
+  - - - '84'
+      - Yasuhiro Noma
+    - coef: 3.11191939
+      frac: 0.82552118
+  - - - '87'
+      - Corinna Schwiegershausen
+    - coef: 3.11239879
+      frac: 0.82507868
+  - - - '25'
+      - Nick Purcell
+    - coef: 3.11847992
+      frac: 0.81951316
+  - - - '1'
+      - Lukas Bader
+    - coef: 3.12348673
+      frac: 0.81499455
+  - - - '6'
+      - Phil Schroder
+    - coef: 3.12390797
+      frac: 0.81461691
+  - - - '68'
+      - Grant Heaney
+    - coef: 3.22927349
+      frac: 0.72936128
   - - - '21'
       - Gavin Myers
     - coef: 3.23341941
-      frac: 0.80890057
-  - - - '95'
-      - Anton Struganov
-    - coef: 3.27127064
-      frac: 0.77731572
-  - - - '60'
-      - Rohan Holtkamp
-    - coef: 3.28242533
-      frac: 0.768434
-  - - - '75'
-      - Joerg Bajewski
-    - coef: 3.2976835
-      frac: 0.75655332
-  - - - '90'
-      - Adam Stevens
-    - coef: 3.30560183
-      frac: 0.75050108
+      frac: 0.72629533
   - - - '18'
       - Jürgen Pasker
     - coef: 3.30680377
-      frac: 0.74958882
+      frac: 0.67455248
   - - - '55'
       - Kari Suhonen
     - coef: 3.3244281
-      frac: 0.73639663
-  - - - '1'
-      - Lukas Bader
-    - coef: 3.32718446
-      frac: 0.73436338
-  - - - '84'
-      - Yasuhiro Noma
-    - coef: 3.33400275
-      frac: 0.72936689
-  - - - '24'
-      - Christian Baertschi
-    - coef: 3.33993782
-      frac: 0.72505489
-  - - - '87'
-      - Corinna Schwiegershausen
-    - coef: 3.34778157
-      frac: 0.71940749
-  - - - '25'
-      - Nick Purcell
-    - coef: 3.35092649
-      frac: 0.71715912
-  - - - '6'
-      - Phil Schroder
-    - coef: 3.38746495
-      frac: 0.69165548
+      frac: 0.6627401
   - - - '33'
       - Conrad Loten
     - coef: 3.40147998
-      frac: 0.6821511
+      frac: 0.61332077
+  - - - '41'
+      - Curt Warren
+    - coef: 3.43549208
+      frac: 0.59249668
   - - - '43'
       - Les Bestt
     - coef: 3.45242071
-      frac: 0.64872865
-  - - - '68'
-      - Grant Heaney
-    - coef: 3.49517104
-      frac: 0.62186535
+      frac: 0.58232877
+  - - - '66'
+      - Jonas Lobitz
+    - coef: 3.47380312
+      frac: 0.56965983
+  - - - '100'
+      - Attila Bertok
+    - coef: 3.47645348
+      frac: 0.56810254
+  - - - '48'
+      - Paolo Rosichetti
+    - coef: 3.4889238
+      frac: 0.56081252
+  - - - '27'
+      - ! 'Boris Marold '
+    - coef: 3.50360382
+      frac: 0.55230748
+  - - - '102'
+      - Davide Guiducci
+    - coef: 3.50567933
+      frac: 0.55111154
+  - - - '53'
+      - Hadewych van Kempen
+    - coef: 3.53972347
+      frac: 0.53171586
+  - - - '103'
+      - Roberto Nichele
+    - coef: 3.54593559
+      frac: 0.5282201
   - - - '96'
       - Brodrick Osborne
     - coef: 3.55143085
-      frac: 0.58790019
+      frac: 0.52513849
+  - - - '31'
+      - Andrew Barnes
+    - coef: 3.59594964
+      frac: 0.50053019
+  - - - '85'
+      - Neil Petersen
+    - coef: 3.5969483
+      frac: 0.49998517
   - - - '22'
       - Mark Russell
     - coef: 3.6156865
-      frac: 0.55074379
-  - - - '41'
-      - Curt Warren
-    - coef: 3.63152887
-      frac: 0.54181909
+      frac: 0.48981318
+  - - - '11'
+      - Steve Blenkinsop
+    - coef: 3.62377886
+      frac: 0.48545154
+  - - - '89'
+      - Scott Barrett
+    - coef: 3.62770757
+      frac: 0.48334069
+  - - - '92'
+      - Hans Kiefinger
+    - coef: 3.62917374
+      frac: 0.48255404
+  - - - '71'
+      - Edoardo Giudiceandrea
+    - coef: 3.63503822
+      frac: 0.4794135
   - - - '44'
       - Francoise Dieuzeide-banet
     - coef: 3.65678287
-      frac: 0.52776908
-  - - - '100'
-      - Attila Bertok
-    - coef: 3.67310282
-      frac: 0.51879984
-  - - - '66'
-      - Jonas Lobitz
-    - coef: 3.68666392
-      frac: 0.51140996
+      frac: 0.46785038
+  - - - '26'
+      - Guy Hubbard
+    - coef: 3.67875064
+      frac: 0.45629481
+  - - - '101'
+      - ! 'Andrew Luton '
+    - coef: 3.68382114
+      frac: 0.45364505
   - - - '78'
       - Christine Aichner
     - coef: 3.70619116
-      frac: 0.50086597
-  - - - '48'
-      - Paolo Rosichetti
-    - coef: 3.72231378
-      frac: 0.49224362
+      frac: 0.44203056
+  - - - '93'
+      - Trent Brown
+    - coef: 3.71950147
+      frac: 0.43517695
+  - - - '106'
+      - Adam Parer
+    - coef: 3.73128775
+      frac: 0.42914261
   - - - '20'
       - ! 'Luke Browne '
     - coef: 3.73417066
-      frac: 0.48594904
+      frac: 0.42767148
   - - - '99'
       - Tullio Gervasoni
     - coef: 3.73452095
-      frac: 0.48576366
+      frac: 0.42749286
   - - - '83'
       - Peter Dall
     - coef: 3.73492498
-      frac: 0.48554989
-  - - - '102'
-      - Davide Guiducci
-    - coef: 3.73634165
-      frac: 0.48480068
-  - - - '53'
-      - Hadewych van Kempen
-    - coef: 3.73645323
-      frac: 0.4847417
+      frac: 0.42728686
+  - - - '8'
+      - Primoz Gricar
+    - coef: 3.74733807
+      frac: 0.42097607
+  - - - '94'
+      - Mitch Shipley
+    - coef: 3.74879562
+      frac: 0.42023731
   - - - '30'
       - Fredy Bircher
     - coef: 3.75319592
-      frac: 0.47592857
+      frac: 0.41800988
+  - - - '35'
+      - Carole Tobler
+    - coef: 3.76537972
+      frac: 0.41186452
   - - - '36'
       - Franz Herrmann
     - coef: 3.78949625
-      frac: 0.45706979
-  - - - '31'
-      - Andrew Barnes
-    - coef: 3.8284101
-      frac: 0.43721033
-  - - - '71'
-      - Edoardo Giudiceandrea
-    - coef: 3.86908225
-      frac: 0.4168213
-  - - - '92'
-      - Hans Kiefinger
-    - coef: 3.86989865
-      frac: 0.4164157
-  - - - '85'
-      - Neil Petersen
-    - coef: 3.88185129
-      frac: 0.41049357
-  - - - '27'
-      - ! 'Boris Marold '
-    - coef: 3.88765459
-      frac: 0.40762893
+      frac: 0.39979399
+  - - - '52'
+      - Virpi Nieminen
+    - coef: 3.82939804
+      frac: 0.38008448
+  - - - '3'
+      - Rod Flockhart
+    - coef: 3.83552326
+      frac: 0.37708672
   - - - '56'
       - Cameron Tunbridge
     - coef: 3.90200228
-      frac: 0.40057613
-  - - - '26'
-      - Guy Hubbard
-    - coef: 3.92733697
-      frac: 0.38822265
-  - - - '93'
-      - Trent Brown
-    - coef: 3.938304
-      frac: 0.38291359
-  - - - '106'
-      - Adam Parer
-    - coef: 3.94441389
-      frac: 0.37996573
-  - - - '94'
-      - Mitch Shipley
-    - coef: 3.94508654
-      frac: 0.37964162
-  - - - '8'
-      - Primoz Gricar
-    - coef: 3.94785914
-      frac: 0.37830657
-  - - - '35'
-      - Carole Tobler
-    - coef: 4.0185979
-      frac: 0.34471288
-  - - - '11'
-      - Steve Blenkinsop
-    - coef: 4.0379987
-      frac: 0.33564985
-  - - - '101'
-      - ! 'Andrew Luton '
-    - coef: 4.06123872
-      frac: 0.32487403
-  - - - '3'
-      - Rod Flockhart
-    - coef: 4.08959662
-      frac: 0.3118405
+      frac: 0.34499999
+  - - - '72'
+      - Tove Heaney
+    - coef: 4.01746161
+      frac: 0.29105646
+  - - - '98'
+      - Patrick Collin
+    - coef: 4.05558903
+      frac: 0.2736922
   - - - '42'
       - Suan Selenati
     - coef: 4.09405708
-      frac: 0.30980167
-  - - - '103'
-      - Roberto Nichele
-    - coef: 4.14197292
-      frac: 0.28808606
-  - - - '89'
-      - Scott Barrett
-    - coef: 4.14778509
-      frac: 0.28547456
+      frac: 0.25638069
+  - - - '77'
+      - Len Paton
+    - coef: 4.1309088
+      frac: 0.23998352
   - - - '7'
       - Shaun O'neill
     - coef: 4.19778938
-      frac: 0.2632
-  - - - '72'
-      - Tove Heaney
-    - coef: 4.25084157
-      frac: 0.23993004
+      frac: 0.21066703
   - - - '34'
       - Jon snr Durand
     - coef: 4.26913187
-      frac: 0.2319899
-  - - - '52'
-      - Virpi Nieminen
-    - coef: 4.28327251
-      frac: 0.22587923
+      frac: 0.17998318
+  - - - '69'
+      - Jonathan Kinred
+    - coef: 4.27661809
+      frac: 0.17679682
   - - - '73'
       - Gijs Wanders
     - coef: 4.29304147
-      frac: 0.22167177
+      frac: 0.16982803
   - - - '67'
       - ! 'Andy Phillips '
     - coef: 4.38233749
-      frac: 0.18372317
-  - - - '98'
-      - Patrick Collin
-    - coef: 4.4304434
-      frac: 0.16364183
+      frac: 0.1324354
   - - - '19'
       - Mikhail Karmazin
     - coef: 4.49108095
-      frac: 0.13866736
-  - - - '77'
-      - Len Paton
-    - coef: 4.53823322
-      frac: 0.11949477
-  - - - '69'
-      - Jonathan Kinred
-    - coef: 4.54278824
-      frac: 0.11765373
+      frac: 8.795869e-2
+  - - - '28'
+      - Evgeniya Laritskaya
+    - coef: 4.55787247
+      frac: 6.11721e-2
   - - - '29'
       - Konstantin Lukyanov
-    - coef: 4.68778813
-      frac: 6.001008e-2
+    - coef: 4.58435908
+      frac: 5.065523e-2
   - - - '82'
       - Alain Le-gac
     - coef: 4.71441681
-      frac: 4.961671e-2
-  - - - '28'
-      - Evgeniya Laritskaya
-    - coef: 4.80168771
-      frac: 1.594405e-2
+      frac: 0
   - - - '17'
       - John Urlich
-    - coef: 4.96530735
+    - coef: 4.77632797
       frac: 0
   - - - '76'
       - Dmitriy Korchenkov
@@ -2197,6 +2197,14 @@ lead:
       - Attila Bertok
     - coef: 3.06921139
       frac: 1
+  - - - '23'
+      - Gerolf Heinrichs
+    - coef: 3.08550554
+      frac: 0.95577387
+  - - - '41'
+      - Curt Warren
+    - coef: 3.12855902
+      frac: 0.89530482
   - - - '8'
       - Primoz Gricar
     - coef: 3.21706471
@@ -2209,10 +2217,22 @@ lead:
       - Roland Wöhrle
     - coef: 3.28563224
       frac: 0.75195881
+  - - - '103'
+      - Roberto Nichele
+    - coef: 3.29729235
+      frac: 0.74312781
+  - - - '92'
+      - Hans Kiefinger
+    - coef: 3.29893289
+      frac: 0.74189752
   - - - '106'
       - Adam Parer
     - coef: 3.32872238
       frac: 0.7200407
+  - - - '13'
+      - John Smith
+    - coef: 3.3311412
+      frac: 0.71830378
   - - - '36'
       - Franz Herrmann
     - coef: 3.33256463
@@ -2225,26 +2245,62 @@ lead:
       - Christian Baertschi
     - coef: 3.34462783
       frac: 0.70871532
+  - - - '71'
+      - Edoardo Giudiceandrea
+    - coef: 3.34817873
+      frac: 0.70621701
   - - - '84'
       - Yasuhiro Noma
     - coef: 3.34988904
       frac: 0.70501747
+  - - - '66'
+      - Jonas Lobitz
+    - coef: 3.35178199
+      frac: 0.70369268
+  - - - '60'
+      - Rohan Holtkamp
+    - coef: 3.35669365
+      frac: 0.70026893
   - - - '90'
       - Adam Stevens
     - coef: 3.36774456
       frac: 0.69263614
+  - - - '56'
+      - Cameron Tunbridge
+    - coef: 3.3736834
+      frac: 0.6885732
+  - - - '1'
+      - Lukas Bader
+    - coef: 3.37603302
+      frac: 0.68697306
   - - - '87'
       - Corinna Schwiegershausen
     - coef: 3.37787853
       frac: 0.68571909
+  - - - '102'
+      - Davide Guiducci
+    - coef: 3.37963349
+      frac: 0.68452897
   - - - '68'
       - Grant Heaney
     - coef: 3.38397022
       frac: 0.68159759
+  - - - '81'
+      - Valentino Bau
+    - coef: 3.3856206
+      frac: 0.68048557
   - - - '89'
       - Scott Barrett
     - coef: 3.38948417
       frac: 0.67788984
+  - - - '26'
+      - Guy Hubbard
+    - coef: 3.41063499
+      frac: 0.66386008
+  - - - '77'
+      - Len Paton
+    - coef: 3.42620976
+      frac: 0.65371377
   - - - '59'
       - Artur Dzamikhov
     - coef: 3.45134132
@@ -2265,14 +2321,30 @@ lead:
       - Glen Mcfarlane
     - coef: 3.66659252
       frac: 0.51191881
+  - - - '5'
+      - Wolfgang Siess
+    - coef: 3.68572819
+      frac: 0.50155068
+  - - - '94'
+      - Mitch Shipley
+    - coef: 3.74116902
+      frac: 0.47209919
   - - - '15'
       - ! 'Jean Souviron '
     - coef: 3.75679717
       frac: 0.46394544
+  - - - '21'
+      - Gavin Myers
+    - coef: 3.87107438
+      frac: 0.4060847
   - - - '33'
       - Conrad Loten
     - coef: 3.88570399
       frac: 0.39888269
+  - - - '101'
+      - ! 'Andrew Luton '
+    - coef: 3.90159271
+      frac: 0.39110938
   - - - '75'
       - Joerg Bajewski
     - coef: 3.94370281
@@ -2285,197 +2357,125 @@ lead:
       - Rod Flockhart
     - coef: 3.95240022
       frac: 0.36657756
+  - - - '25'
+      - Nick Purcell
+    - coef: 3.96696946
+      frac: 0.35963054
+  - - - '79'
+      - David Stevens
+    - coef: 3.96839722
+      frac: 0.35895177
+  - - - '14'
+      - Olav Lien Olsen
+    - coef: 3.99163035
+      frac: 0.34795653
+  - - - '31'
+      - Andrew Barnes
+    - coef: 4.01803388
+      frac: 0.33557232
+  - - - '6'
+      - Phil Schroder
+    - coef: 4.02843138
+      frac: 0.33072714
   - - - '44'
       - Francoise Dieuzeide-banet
     - coef: 4.03596966
       frac: 0.32722528
+  - - - '22'
+      - Mark Russell
+    - coef: 4.05673304
+      frac: 0.3176265
+  - - - '48'
+      - Paolo Rosichetti
+    - coef: 4.06015191
+      frac: 0.31605246
+  - - - '18'
+      - Jürgen Pasker
+    - coef: 4.06358327
+      frac: 0.31447449
   - - - '35'
       - Carole Tobler
     - coef: 4.09608726
       frac: 0.29961576
-  - - - '23'
-      - Gerolf Heinrichs
-    - coef: 4.32487741
-      frac: 0.19910824
-  - - - '41'
-      - Curt Warren
-    - coef: 4.33881735
-      frac: 0.19319168
+  - - - '70'
+      - Matthew Barlow
+    - coef: 4.47650852
+      frac: 0.13586499
+  - - - '85'
+      - Neil Petersen
+    - coef: 4.50059168
+      frac: 0.12603423
+  - - - '69'
+      - Jonathan Kinred
+    - coef: 4.5097408
+      frac: 0.12231403
   - - - '55'
       - Kari Suhonen
     - coef: 4.54754449
       frac: 0.10702507
-  - - - '92'
-      - Hans Kiefinger
-    - coef: 4.65880697
-      frac: 6.276428e-2
-  - - - '66'
-      - Jonas Lobitz
-    - coef: 4.65970711
-      frac: 6.24105e-2
-  - - - '56'
-      - Cameron Tunbridge
-    - coef: 4.68367847
-      frac: 5.301333e-2
-  - - - '60'
-      - Rohan Holtkamp
-    - coef: 4.73048231
-      frac: 3.479838e-2
-  - - - '103'
-      - Roberto Nichele
-    - coef: 4.7333466
-      frac: 3.368926e-2
-  - - - '102'
-      - Davide Guiducci
-    - coef: 4.76746943
-      frac: 2.052463e-2
-  - - - '71'
-      - Edoardo Giudiceandrea
-    - coef: 4.79929391
-      frac: 8.32596e-3
-  - - - '13'
-      - John Smith
-    - coef: 4.81825825
-      frac: 1.09229e-3
-  - - - '81'
-      - Valentino Bau
-    - coef: 4.85334427
+  - - - '32'
+      - Kathryn O'Riordan
+    - coef: 4.59163949
+      frac: 8.935538e-2
+  - - - '43'
+      - Les Bestt
+    - coef: 4.7079872
+      frac: 4.35313e-2
+  - - - '7'
+      - Shaun O'neill
+    - coef: 4.775707
+      frac: 1.735982e-2
+  - - - '73'
+      - Gijs Wanders
+    - coef: 4.9688923
       frac: 0
-  - - - '1'
-      - Lukas Bader
-    - coef: 4.92462183
-      frac: 0
-  - - - '94'
-      - Mitch Shipley
-    - coef: 4.99605518
-      frac: 0
-  - - - '77'
-      - Len Paton
-    - coef: 5.01805939
-      frac: 0
-  - - - '26'
-      - Guy Hubbard
-    - coef: 5.02620166
+  - - - '95'
+      - Anton Struganov
+    - coef: 5.03405016
       frac: 0
   - - - '30'
       - Fredy Bircher
     - coef: 5.05958428
       frac: 0
-  - - - '101'
-      - ! 'Andrew Luton '
-    - coef: 5.10808817
-      frac: 0
-  - - - '5'
-      - Wolfgang Siess
-    - coef: 5.12507147
-      frac: 0
-  - - - '25'
-      - Nick Purcell
-    - coef: 5.30955173
+  - - - '16'
+      - Grant Edward
+    - coef: 5.24746735
       frac: 0
   - - - '42'
       - Suan Selenati
     - coef: 5.31852735
       frac: 0
-  - - - '18'
-      - Jürgen Pasker
-    - coef: 5.48100031
+  - - - '91'
+      - Francesco Rinaldi
+    - coef: 5.34363701
       frac: 0
-  - - - '14'
-      - Olav Lien Olsen
-    - coef: 5.48251883
-      frac: 0
-  - - - '7'
-      - Shaun O'neill
-    - coef: 5.50018029
-      frac: 0
-  - - - '31'
-      - Andrew Barnes
-    - coef: 5.5011811
-      frac: 0
-  - - - '21'
-      - Gavin Myers
-    - coef: 5.53968961
-      frac: 0
-  - - - '22'
-      - Mark Russell
-    - coef: 5.54488362
-      frac: 0
-  - - - '79'
-      - David Stevens
-    - coef: 5.55689909
-      frac: 0
-  - - - '6'
-      - Phil Schroder
-    - coef: 5.56543025
-      frac: 0
-  - - - '48'
-      - Paolo Rosichetti
-    - coef: 5.58968949
+  - - - '29'
+      - Konstantin Lukyanov
+    - coef: 5.53287872
       frac: 0
   - - - '96'
       - Brodrick Osborne
-    - coef: 5.61519779
+    - coef: 5.61449412
       frac: 0
-  - - - '16'
-      - Grant Edward
-    - coef: 5.66482603
-      frac: 0
-  - - - '85'
-      - Neil Petersen
-    - coef: 5.66541199
-      frac: 0
-  - - - '69'
-      - Jonathan Kinred
-    - coef: 5.67052553
-      frac: 0
-  - - - '70'
-      - Matthew Barlow
-    - coef: 5.68514779
-      frac: 0
-  - - - '32'
-      - Kathryn O'Riordan
-    - coef: 5.68769117
+  - - - '19'
+      - Mikhail Karmazin
+    - coef: 5.67063011
       frac: 0
   - - - '2'
       - Pablo Gomes
     - coef: 5.71090881
       frac: 0
-  - - - '43'
-      - Les Bestt
-    - coef: 5.73913504
-      frac: 0
   - - - '83'
       - Peter Dall
     - coef: 5.85773056
       frac: 0
-  - - - '91'
-      - Francesco Rinaldi
-    - coef: 5.92120739
-      frac: 0
-  - - - '73'
-      - Gijs Wanders
-    - coef: 5.9565269
-      frac: 0
-  - - - '19'
-      - Mikhail Karmazin
-    - coef: 6.01725164
-      frac: 0
-  - - - '95'
-      - Anton Struganov
-    - coef: 6.03295441
-      frac: 0
-  - - - '29'
-      - Konstantin Lukyanov
-    - coef: 6.05481463
+  - - - '37'
+      - Peter Ebeling
+    - coef: 6.05354538
       frac: 0
   - - - '64'
       - Gustavo Carvalho
     - coef: 6.28107205
-      frac: 0
-  - - - '37'
-      - Peter Ebeling
-    - coef: 6.33519283
       frac: 0
   - - - '105'
       - Chris Lawry
@@ -7727,19 +7727,19 @@ nigh:
   - - - '49'
       - Tony Giammichele
     - togo:
-        distance: 37.488421 km
+        distance: 1.574902 km
         flipSum:
-        - 37.488421 km
+        - 1.574902 km
         legs:
-        - 37.488421 km
+        - 1.574902 km
         legsSum:
-        - 37.488421 km
+        - 1.574902 km
         waypoints:
-        - lat: -32.9543
-          lng: 147.559283
-        - lat: -33.12416226
-          lng: 147.90668233
-      made: 90.706976 km
+        - lat: -33.11305
+          lng: 147.895817
+        - lat: -33.12327844
+          lng: 147.90751431
+      made: 126.708976 km
   - - - '6'
       - Phil Schroder
     - togo:
@@ -7759,35 +7759,35 @@ nigh:
   - - - '26'
       - Guy Hubbard
     - togo:
-        distance: 37.553943 km
+        distance: 2.479121 km
         flipSum:
-        - 37.553943 km
+        - 2.479121 km
         legs:
-        - 37.553943 km
+        - 2.479121 km
         legsSum:
-        - 37.553943 km
+        - 2.479121 km
         waypoints:
-        - lat: -32.957051
-          lng: 147.556575
-        - lat: -33.12416226
-          lng: 147.90668233
-      made: 90.683976 km
+        - lat: -33.121296
+          lng: 147.880011
+        - lat: -33.12521814
+          lng: 147.90621716
+      made: 125.804976 km
   - - - '81'
       - Valentino Bau
     - togo:
-        distance: 37.596964 km
+        distance: 7.327703 km
         flipSum:
-        - 37.596964 km
+        - 7.327703 km
         legs:
-        - 37.596964 km
+        - 7.327703 km
         legsSum:
-        - 37.596964 km
+        - 7.327703 km
         waypoints:
-        - lat: -32.952967
-          lng: 147.558867
-        - lat: -33.12416226
-          lng: 147.90668233
-      made: 90.675976 km
+        - lat: -33.106967
+          lng: 147.8306
+        - lat: -33.12494349
+          lng: 147.9062959
+      made: 120.955976 km
   - - - '20'
       - ! 'Luke Browne '
     - togo:
@@ -7823,99 +7823,99 @@ nigh:
   - - - '85'
       - Neil Petersen
     - togo:
-        distance: 37.467123 km
+        distance: 10.762338 km
         flipSum:
-        - 37.467123 km
+        - 10.762338 km
         legs:
-        - 37.467123 km
+        - 10.762338 km
         legsSum:
-        - 37.467123 km
+        - 10.762338 km
         waypoints:
-        - lat: -32.954967
-          lng: 147.559083
-        - lat: -33.12416226
-          lng: 147.90668233
-      made: 90.722976 km
+        - lat: -33.108083
+          lng: 147.792483
+        - lat: -33.12521814
+          lng: 147.90621716
+      made: 117.521976 km
   - - - '21'
       - Gavin Myers
     - togo:
-        distance: 37.479413 km
+        distance: 11.205899 km
         flipSum:
-        - 37.479413 km
+        - 11.205899 km
         legs:
-        - 37.479413 km
+        - 11.205899 km
         legsSum:
-        - 37.479413 km
+        - 11.205899 km
         waypoints:
-        - lat: -32.9568
-          lng: 147.557667
-        - lat: -33.12416226
-          lng: 147.90668233
-      made: 90.693976 km
+        - lat: -33.10855
+          lng: 147.78755
+        - lat: -33.12535719
+          lng: 147.9061875
+      made: 117.077976 km
   - - - '35'
       - Carole Tobler
     - togo:
-        distance: 37.726162 km
+        distance: 11.351053 km
         flipSum:
-        - 37.726162 km
+        - 11.351053 km
         legs:
-        - 37.726162 km
+        - 11.351053 km
         legsSum:
-        - 37.726162 km
+        - 11.351053 km
         waypoints:
-        - lat: -32.957767
-          lng: 147.553967
-        - lat: -33.12416226
-          lng: 147.90668233
-      made: 90.492976 km
+        - lat: -33.108483
+          lng: 147.785983
+        - lat: -33.12535719
+          lng: 147.9061875
+      made: 116.932976 km
   - - - '16'
       - Grant Edward
     - togo:
-        distance: 37.493160 km
+        distance: 11.611966 km
         flipSum:
-        - 37.493160 km
+        - 11.611966 km
         legs:
-        - 37.493160 km
+        - 11.611966 km
         legsSum:
-        - 37.493160 km
+        - 11.611966 km
         waypoints:
-        - lat: -32.955942
-          lng: 147.558086
-        - lat: -33.12416226
-          lng: 147.90668233
-      made: 90.752976 km
+        - lat: -33.110154
+          lng: 147.782832
+        - lat: -33.12535719
+          lng: 147.9061875
+      made: 116.671976 km
   - - - '22'
       - Mark Russell
     - togo:
-        distance: 37.562175 km
+        distance: 11.603423 km
         flipSum:
-        - 37.562175 km
+        - 11.603423 km
         legs:
-        - 37.562175 km
+        - 11.603423 km
         legsSum:
-        - 37.562175 km
+        - 11.603423 km
         waypoints:
-        - lat: -32.956874
-          lng: 147.556594
-        - lat: -33.12416226
-          lng: 147.90668233
-      made: 90.703976 km
+        - lat: -33.109684
+          lng: 147.783009
+        - lat: -33.12535719
+          lng: 147.9061875
+      made: 116.680976 km
   - - - '5'
       - Wolfgang Siess
     - togo:
-        distance: 37.430646 km
+        distance: 11.537711 km
         flipSum:
-        - 37.430646 km
+        - 11.537711 km
         legs:
-        - 37.430646 km
+        - 11.537711 km
         legsSum:
-        - 37.430646 km
+        - 11.537711 km
         waypoints:
-        - lat: -32.95485
-          lng: 147.559617
-        - lat: -33.12416226
-          lng: 147.90668233
-      made: 90.675976 km
+        - lat: -33.11115
+          lng: 147.783467
+        - lat: -33.12549711
+          lng: 147.90616438
+      made: 116.745976 km
   - - - '44'
       - Francoise Dieuzeide-banet
     - togo:
@@ -7935,35 +7935,35 @@ nigh:
   - - - '69'
       - Jonathan Kinred
     - togo:
-        distance: 37.495761 km
+        distance: 12.747523 km
         flipSum:
-        - 37.495761 km
+        - 12.747523 km
         legs:
-        - 37.495761 km
+        - 12.747523 km
         legsSum:
-        - 37.495761 km
+        - 12.747523 km
         waypoints:
-        - lat: -32.957059
-          lng: 147.557288
-        - lat: -33.12416226
-          lng: 147.90668233
-      made: 90.677976 km
+        - lat: -33.090749
+          lng: 147.775663
+        - lat: -33.12480832
+          lng: 147.90634487
+      made: 115.535976 km
   - - - '61'
       - Jonny Durand
     - togo:
-        distance: 37.523286 km
+        distance: 13.850606 km
         flipSum:
-        - 37.523286 km
+        - 13.850606 km
         legs:
-        - 37.523286 km
+        - 13.850606 km
         legsSum:
-        - 37.523286 km
+        - 13.850606 km
         waypoints:
-        - lat: -32.956617
-          lng: 147.55725
-        - lat: -33.12416226
-          lng: 147.90668233
-      made: 90.725976 km
+        - lat: -33.112
+          lng: 147.758317
+        - lat: -33.12549711
+          lng: 147.90616438
+      made: 114.432976 km
   - - - '51'
       - Rob In 't Groen
     - togo:
@@ -7983,35 +7983,35 @@ nigh:
   - - - '55'
       - Kari Suhonen
     - togo:
-        distance: 37.657995 km
+        distance: 13.580275 km
         flipSum:
-        - 37.657995 km
+        - 13.580275 km
         legs:
-        - 37.657995 km
+        - 13.580275 km
         legsSum:
-        - 37.657995 km
+        - 13.580275 km
         waypoints:
-        - lat: -32.951983
-          lng: 147.5588
-        - lat: -33.1240404
-          lng: 147.90676762
-      made: 90.584976 km
+        - lat: -33.100667
+          lng: 147.763383
+        - lat: -33.12521814
+          lng: 147.90621716
+      made: 114.703976 km
   - - - '25'
       - Nick Purcell
     - togo:
-        distance: 37.507803 km
+        distance: 14.211982 km
         flipSum:
-        - 37.507803 km
+        - 14.211982 km
         legs:
-        - 37.507803 km
+        - 14.211982 km
         legsSum:
-        - 37.507803 km
+        - 14.211982 km
         waypoints:
-        - lat: -32.954671
-          lng: 147.558784
-        - lat: -33.12416226
-          lng: 147.90668233
-      made: 90.753976 km
+        - lat: -33.116237
+          lng: 147.753954
+        - lat: -33.12563769
+          lng: 147.90614784
+      made: 114.071976 km
   - - - '24'
       - Christian Baertschi
     - togo:
@@ -8031,51 +8031,51 @@ nigh:
   - - - '105'
       - Chris Lawry
     - togo:
-        distance: 37.439809 km
+        distance: 14.989136 km
         flipSum:
-        - 37.439809 km
+        - 14.989136 km
         legs:
-        - 37.439809 km
+        - 14.989136 km
         legsSum:
-        - 37.439809 km
+        - 14.989136 km
         waypoints:
-        - lat: -32.9544
-          lng: 147.559817
-        - lat: -33.12416226
-          lng: 147.90668233
-      made: 90.658976 km
+        - lat: -33.116483
+          lng: 147.745567
+        - lat: -33.12563769
+          lng: 147.90614784
+      made: 113.294976 km
   - - - '18'
       - Jürgen Pasker
     - togo:
-        distance: 37.445090 km
+        distance: 14.928619 km
         flipSum:
-        - 37.445090 km
+        - 14.928619 km
         legs:
-        - 37.445090 km
+        - 14.928619 km
         legsSum:
-        - 37.445090 km
+        - 14.928619 km
         waypoints:
-        - lat: -32.955433
-          lng: 147.559033
-        - lat: -33.12416226
-          lng: 147.90668233
-      made: 90.711976 km
+        - lat: -33.097117
+          lng: 147.749483
+        - lat: -33.12521814
+          lng: 147.90621716
+      made: 113.354976 km
   - - - '83'
       - Peter Dall
     - togo:
-        distance: 37.500737 km
+        distance: 18.285250 km
         flipSum:
-        - 37.500737 km
+        - 18.285250 km
         legs:
-        - 37.500737 km
+        - 18.285250 km
         legsSum:
-        - 37.500737 km
+        - 18.285250 km
         waypoints:
-        - lat: -32.95428
-          lng: 147.559144
-        - lat: -33.12416226
-          lng: 147.90668233
-      made: 90.719976 km
+        - lat: -33.07541
+          lng: 147.719112
+        - lat: -33.12480832
+          lng: 147.90634487
+      made: 109.998976 km
   - - - '29'
       - Konstantin Lukyanov
     - togo:
@@ -8095,19 +8095,19 @@ nigh:
   - - - '32'
       - Kathryn O'Riordan
     - togo:
-        distance: 37.426256 km
+        distance: 20.521577 km
         flipSum:
-        - 37.426256 km
+        - 20.521577 km
         legs:
-        - 37.426256 km
+        - 20.521577 km
         legsSum:
-        - 37.426256 km
+        - 20.521577 km
         waypoints:
-        - lat: -32.956933
-          lng: 147.558233
-        - lat: -33.12416226
-          lng: 147.90668233
-      made: 90.656976 km
+        - lat: -33.0909
+          lng: 147.689733
+        - lat: -33.12521814
+          lng: 147.90621716
+      made: 107.761976 km
   - - - '37'
       - Peter Ebeling
     - togo:
@@ -8175,35 +8175,35 @@ nigh:
   - - - '62'
       - Enda Murphy
     - togo:
-        distance: 37.411875 km
+        distance: 27.264177 km
         flipSum:
-        - 37.411875 km
+        - 27.264177 km
         legs:
-        - 37.411875 km
+        - 27.264177 km
         legsSum:
-        - 37.411875 km
+        - 27.264177 km
         waypoints:
-        - lat: -32.955629
-          lng: 147.559309
-        - lat: -33.12416226
-          lng: 147.90668233
-      made: 90.678976 km
+        - lat: -32.987179
+          lng: 147.664034
+        - lat: -33.12392144
+          lng: 147.90685855
+      made: 101.019976 km
   - - - '93'
       - Trent Brown
     - togo:
-        distance: 37.365923 km
+        distance: 28.623773 km
         flipSum:
-        - 37.365923 km
+        - 28.623773 km
         legs:
-        - 37.365923 km
+        - 28.623773 km
         legsSum:
-        - 37.365923 km
+        - 28.623773 km
         waypoints:
-        - lat: -32.952817
-          lng: 147.56185
-        - lat: -33.1240404
-          lng: 147.90676762
-      made: 90.431976 km
+        - lat: -32.9803
+          lng: 147.651983
+        - lat: -33.12392144
+          lng: 147.90685855
+      made: 99.659976 km
   - - - '41'
       - Curt Warren
     - togo:
@@ -8223,51 +8223,51 @@ nigh:
   - - - '71'
       - Edoardo Giudiceandrea
     - togo:
-        distance: 37.447925 km
+        distance: 32.879808 km
         flipSum:
-        - 37.447925 km
+        - 32.879808 km
         legs:
-        - 37.447925 km
+        - 32.879808 km
         legsSum:
-        - 37.447925 km
+        - 32.879808 km
         waypoints:
-        - lat: -32.95495
-          lng: 147.559333
-        - lat: -33.12416226
-          lng: 147.90668233
-      made: 90.699976 km
+        - lat: -33.0207
+          lng: 147.576067
+        - lat: -33.12467487
+          lng: 147.90640013
+      made: 95.403976 km
   - - - '82'
       - Alain Le-gac
     - togo:
-        distance: 37.569384 km
+        distance: 33.861465 km
         flipSum:
-        - 37.569384 km
+        - 33.861465 km
         legs:
-        - 37.569384 km
+        - 33.861465 km
         legsSum:
-        - 37.569384 km
+        - 33.861465 km
         waypoints:
-        - lat: -32.9572
-          lng: 147.556283
-        - lat: -33.12416226
-          lng: 147.90668233
-      made: 90.664976 km
+        - lat: -32.9898
+          lng: 147.580617
+        - lat: -33.12428683
+          lng: 147.90660282
+      made: 94.422976 km
   - - - '88'
       - Martin Sielaff
     - togo:
-        distance: 37.476838 km
+        distance: 34.554634 km
         flipSum:
-        - 37.476838 km
+        - 34.554634 km
         legs:
-        - 37.476838 km
+        - 34.554634 km
         legsSum:
-        - 37.476838 km
+        - 34.554634 km
         waypoints:
-        - lat: -32.9559
-          lng: 147.558317
+        - lat: -32.973567
+          lng: 147.582383
         - lat: -33.12416226
           lng: 147.90668233
-      made: 90.740976 km
+      made: 93.728976 km
   - - - '43'
       - Les Bestt
     - togo:
@@ -8303,98 +8303,98 @@ nigh:
   - - - '2'
       - Pablo Gomes
     - togo:
-        distance: 37.574951 km
+        distance: 36.508774 km
         flipSum:
-        - 37.574951 km
+        - 36.508774 km
         legs:
-        - 37.574951 km
+        - 36.508774 km
         legsSum:
-        - 37.574951 km
+        - 36.508774 km
         waypoints:
-        - lat: -32.953226
-          lng: 147.558959
-        - lat: -33.12416226
-          lng: 147.90668233
-      made: 90.689976 km
+        - lat: -32.954118
+          lng: 147.571635
+        - lat: -33.1240404
+          lng: 147.90676762
+      made: 91.774976 km
   - - - '28'
       - Evgeniya Laritskaya
     - togo:
-        distance: 37.542584 km
+        distance: 37.342777 km
         flipSum:
-        - 37.542584 km
+        - 37.342777 km
         legs:
-        - 37.542584 km
+        - 37.342777 km
         legsSum:
-        - 37.542584 km
+        - 37.342777 km
         waypoints:
-        - lat: -32.957
-          lng: 147.55675
+        - lat: -32.9603
+          lng: 147.556983
         - lat: -33.12416226
           lng: 147.90668233
-      made: 90.689976 km
+      made: 90.940976 km
   - - - '97'
       - Konrad Schwab
     - togo:
-        distance: 77.262519 km
+        distance: 39.150752 km
         flipSum:
-        - 77.262519 km
-        - 37.529264 km
+        - 39.150752 km
+        - 37.507672 km
         legs:
-        - 39.733255 km
-        - 37.529264 km
+        - 1.643080 km
+        - 37.507672 km
         legsSum:
-        - 39.733255 km
-        - 77.262519 km
+        - 1.643080 km
+        - 39.150752 km
         waypoints:
-        - lat: -32.902317
-          lng: 147.979967
-        - lat: -32.95430173
-          lng: 147.55877465
+        - lat: -32.963917
+          lng: 147.572683
+        - lat: -32.95547952
+          lng: 147.55822528
         - lat: -33.12416226
           lng: 147.90668233
-      made: 50.896976 km
+      made: 89.132976 km
   - - - '3'
       - Rod Flockhart
     - togo:
-        distance: 77.538558 km
+        distance: 48.542628 km
         flipSum:
-        - 77.538558 km
-        - 37.529264 km
+        - 48.542628 km
+        - 37.554399 km
         legs:
-        - 40.009295 km
-        - 37.529264 km
+        - 10.988230 km
+        - 37.554399 km
         legsSum:
-        - 40.009295 km
-        - 77.538558 km
+        - 10.988230 km
+        - 48.542628 km
         waypoints:
-        - lat: -32.906617
-          lng: 147.983683
-        - lat: -32.95430173
-          lng: 147.55877465
+        - lat: -32.9111
+          lng: 147.665067
+        - lat: -32.95374116
+          lng: 147.55885371
         - lat: -33.12416226
           lng: 147.90668233
-      made: 50.645976 km
+      made: 79.740976 km
   - - - '17'
       - John Urlich
     - togo:
-        distance: 77.226199 km
+        distance: 49.336269 km
         flipSum:
-        - 77.226199 km
-        - 37.529264 km
+        - 49.336269 km
+        - 37.547264 km
         legs:
-        - 39.696935 km
-        - 37.529264 km
+        - 11.789004 km
+        - 37.547264 km
         legsSum:
-        - 39.696935 km
-        - 77.226199 km
+        - 11.789004 km
+        - 49.336269 km
         waypoints:
-        - lat: -32.901167
-          lng: 147.979367
-        - lat: -32.95430173
-          lng: 147.55877465
+        - lat: -32.912183
+          lng: 147.674983
+        - lat: -32.95388217
+          lng: 147.5588438
         - lat: -33.12416226
           lng: 147.90668233
-      made: 50.808976 km
+      made: 78.947976 km
   - - - '72'
       - Tove Heaney
     - togo:
@@ -8419,24 +8419,24 @@ nigh:
   - - - '78'
       - Christine Aichner
     - togo:
-        distance: 77.320553 km
+        distance: 52.885402 km
         flipSum:
-        - 77.320553 km
-        - 37.529264 km
+        - 52.885402 km
+        - 37.540690 km
         legs:
-        - 39.791289 km
-        - 37.529264 km
+        - 15.344712 km
+        - 37.540690 km
         legsSum:
-        - 39.791289 km
-        - 77.320553 km
+        - 15.344712 km
+        - 52.885402 km
         waypoints:
-        - lat: -32.900453
-          lng: 147.980259
-        - lat: -32.95430173
-          lng: 147.55877465
+        - lat: -32.916503
+          lng: 147.717057
+        - lat: -32.95402274
+          lng: 147.5588273
         - lat: -33.12416226
           lng: 147.90668233
-      made: 50.828976 km
+      made: 75.398976 km
   - - - '31'
       - Andrew Barnes
     - togo:
@@ -8503,45 +8503,45 @@ nigh:
   - - - '91'
       - Francesco Rinaldi
     - togo:
-        distance: 77.645795 km
+        distance: 67.078173 km
         flipSum:
-        - 77.645795 km
-        - 37.529264 km
+        - 67.078173 km
+        - 37.534687 km
         legs:
-        - 40.116531 km
-        - 37.529264 km
+        - 29.543486 km
+        - 37.534687 km
         legsSum:
-        - 40.116531 km
-        - 77.645795 km
+        - 29.543486 km
+        - 67.078173 km
         waypoints:
-        - lat: -32.907083
-          lng: 147.984917
-        - lat: -32.95430173
-          lng: 147.55877465
+        - lat: -32.904767
+          lng: 147.869833
+        - lat: -32.95416267
+          lng: 147.55880424
         - lat: -33.12416226
           lng: 147.90668233
-      made: 50.537976 km
+      made: 61.205976 km
   - - - '64'
       - Gustavo Carvalho
     - togo:
-        distance: 77.206132 km
+        distance: 75.319737 km
         flipSum:
-        - 77.206132 km
+        - 75.319737 km
         - 37.529264 km
         legs:
-        - 39.676868 km
+        - 37.790473 km
         - 37.529264 km
         legsSum:
-        - 39.676868 km
-        - 77.206132 km
+        - 37.790473 km
+        - 75.319737 km
         waypoints:
-        - lat: -32.901817
-          lng: 147.979267
+        - lat: -32.90005
+          lng: 147.958483
         - lat: -32.95430173
           lng: 147.55877465
         - lat: -33.12416226
           lng: 147.90668233
-      made: 50.823976 km
+      made: 52.963976 km
   - - - '76'
       - Dmitriy Korchenkov
     - togo:
@@ -8701,29 +8701,24 @@ nigh:
   - - - '70'
       - Matthew Barlow
     - togo:
-        distance: 77.453661 km
+        distance: 77.416590 km
         flipSum:
-        - 77.453661 km
-        - 77.383070 km
+        - 77.416590 km
         - 37.529264 km
         legs:
-        - 0.070591 km
-        - 39.853806 km
+        - 39.887326 km
         - 37.529264 km
         legsSum:
-        - 0.070591 km
-        - 39.924397 km
-        - 77.453661 km
+        - 39.887326 km
+        - 77.416590 km
         waypoints:
-        - lat: -32.905183
-          lng: 147.981483
-        - lat: -32.90456621
-          lng: 147.98166202
+        - lat: -32.904817
+          lng: 147.982067
         - lat: -32.95430173
           lng: 147.55877465
         - lat: -33.12416226
           lng: 147.90668233
-      made: 50.829976 km
+      made: 50.866976 km
   - - - '53'
       - Hadewych van Kempen
     - togo:
@@ -8879,35 +8874,35 @@ nigh:
   - - - '30'
       - Fredy Bircher
     - togo:
-        distance: 78.284470 km
+        distance: 16.270197 km
         flipSum:
-        - 78.284470 km
+        - 16.270197 km
         legs:
-        - 78.284470 km
+        - 16.270197 km
         legsSum:
-        - 78.284470 km
+        - 16.270197 km
         waypoints:
-        - lat: -34.122117
-          lng: 148.499967
-        - lat: -34.81314961
-          lng: 148.66329281
-      made: 105.428311 km
+        - lat: -34.6774
+          lng: 148.59635
+        - lat: -34.81366141
+          lng: 148.6612378
+      made: 167.588311 km
   - - - '45'
       - Roland Wöhrle
     - togo:
-        distance: 78.400278 km
+        distance: 16.690180 km
         flipSum:
-        - 78.400278 km
+        - 16.690180 km
         legs:
-        - 78.400278 km
+        - 16.690180 km
         legsSum:
-        - 78.400278 km
+        - 16.690180 km
         waypoints:
-        - lat: -34.12155
-          lng: 148.496917
-        - lat: -34.81314961
-          lng: 148.66329281
-      made: 105.234311 km
+        - lat: -34.671617
+          lng: 148.60215
+        - lat: -34.81341699
+          lng: 148.66204478
+      made: 167.168311 km
   - - - '55'
       - Kari Suhonen
     - togo:
@@ -8927,19 +8922,19 @@ nigh:
   - - - '37'
       - Peter Ebeling
     - togo:
-        distance: 78.776337 km
+        distance: 37.400218 km
         flipSum:
-        - 78.776337 km
+        - 37.400218 km
         legs:
-        - 78.776337 km
+        - 37.400218 km
         legsSum:
-        - 78.776337 km
+        - 37.400218 km
         waypoints:
-        - lat: -34.118125
-          lng: 148.496782
-        - lat: -34.81314961
-          lng: 148.66329281
-      made: 105.081311 km
+        - lat: -34.487014
+          lng: 148.56325
+        - lat: -34.81322529
+          lng: 148.66287264
+      made: 146.458311 km
   - - - '6'
       - Phil Schroder
     - togo:
@@ -9007,19 +9002,19 @@ nigh:
   - - - '67'
       - ! 'Andy Phillips '
     - togo:
-        distance: 78.296266 km
+        distance: 56.421399 km
         flipSum:
-        - 78.296266 km
+        - 56.421399 km
         legs:
-        - 78.296266 km
+        - 56.421399 km
         legsSum:
-        - 78.296266 km
+        - 56.421399 km
         waypoints:
-        - lat: -34.121742
-          lng: 148.501638
-        - lat: -34.81314961
-          lng: 148.66329281
-      made: 105.516311 km
+        - lat: -34.321062
+          lng: 148.512955
+        - lat: -34.81322529
+          lng: 148.66287264
+      made: 127.437311 km
   - - - '98'
       - Patrick Collin
     - togo:
@@ -9039,19 +9034,19 @@ nigh:
   - - - '62'
       - Enda Murphy
     - togo:
-        distance: 78.332028 km
+        distance: 63.823754 km
         flipSum:
-        - 78.332028 km
+        - 63.823754 km
         legs:
-        - 78.332028 km
+        - 63.823754 km
         legsSum:
-        - 78.332028 km
+        - 63.823754 km
         waypoints:
-        - lat: -34.121095
-          lng: 148.503663
-        - lat: -34.81314961
-          lng: 148.66329281
-      made: 105.504311 km
+        - lat: -34.253527
+          lng: 148.508407
+        - lat: -34.81322529
+          lng: 148.66287264
+      made: 120.034311 km
   - - - '51'
       - Rob In 't Groen
     - togo:
@@ -9087,35 +9082,35 @@ nigh:
   - - - '79'
       - David Stevens
     - togo:
-        distance: 78.267692 km
+        distance: 74.849719 km
         flipSum:
-        - 78.267692 km
+        - 74.849719 km
         legs:
-        - 78.267692 km
+        - 74.849719 km
         legsSum:
-        - 78.267692 km
+        - 74.849719 km
         waypoints:
-        - lat: -34.122035
-          lng: 148.501441
+        - lat: -34.153301
+          lng: 148.501813
         - lat: -34.81314961
           lng: 148.66329281
-      made: 105.483311 km
+      made: 109.008311 km
   - - - '72'
       - Tove Heaney
     - togo:
-        distance: 78.231177 km
+        distance: 76.575063 km
         flipSum:
-        - 78.231177 km
+        - 76.575063 km
         legs:
-        - 78.231177 km
+        - 76.575063 km
         legsSum:
-        - 78.231177 km
+        - 76.575063 km
         waypoints:
-        - lat: -34.122233
-          lng: 148.5023
+        - lat: -34.138067
+          lng: 148.49825
         - lat: -34.81314961
           lng: 148.66329281
-      made: 105.457311 km
+      made: 107.283311 km
   - - - '32'
       - Kathryn O'Riordan
     - togo:
@@ -9182,24 +9177,24 @@ nigh:
   - - - '97'
       - Konrad Schwab
     - togo:
-        distance: 105.663080 km
+        distance: 87.413043 km
         flipSum:
-        - 105.663080 km
-        - 78.532831 km
+        - 87.413043 km
+        - 78.519000 km
         legs:
-        - 27.130249 km
-        - 78.532831 km
+        - 8.894043 km
+        - 78.519000 km
         legsSum:
-        - 27.130249 km
-        - 105.663080 km
+        - 8.894043 km
+        - 87.413043 km
         waypoints:
-        - lat: -34.02235
-          lng: 148.22805
-        - lat: -34.12017701
-          lng: 148.49788768
+        - lat: -34.093667
+          lng: 148.4069
+        - lat: -34.12028621
+          lng: 148.49799592
         - lat: -34.81314961
           lng: 148.66329281
-      made: 78.075311 km
+      made: 96.445311 km
   - - - '48'
       - Paolo Rosichetti
     - togo:
@@ -9674,32 +9669,6 @@ nigh:
         - lat: -34.81314961
           lng: 148.66329281
       made: 18.070311 km
-  - - - '50'
-      - Monique Pavy
-    - togo:
-        distance: 168.668429 km
-        flipSum:
-        - 168.668429 km
-        - 105.963277 km
-        - 78.532831 km
-        legs:
-        - 62.705152 km
-        - 27.430447 km
-        - 78.532831 km
-        legsSum:
-        - 62.705152 km
-        - 90.135599 km
-        - 168.668429 km
-        waypoints:
-        - lat: -33.483667
-          lng: 148.011933
-        - lat: -34.01862816
-          lng: 148.22648705
-        - lat: -34.12017701
-          lng: 148.49788768
-        - lat: -34.81314961
-          lng: 148.66329281
-      made: 15.190311 km
   - - - '57'
       - Julia Kucherenko
     - togo:
@@ -9726,58 +9695,6 @@ nigh:
         - lat: -34.81314961
           lng: 148.66329281
       made: 12.349311 km
-  - - - '76'
-      - Dmitriy Korchenkov
-    - togo:
-        distance: 171.441331 km
-        flipSum:
-        - 171.441331 km
-        - 105.977868 km
-        - 78.532831 km
-        legs:
-        - 65.463464 km
-        - 27.445037 km
-        - 78.532831 km
-        legsSum:
-        - 65.463464 km
-        - 92.908501 km
-        - 171.441331 km
-        waypoints:
-        - lat: -33.474121
-          lng: 147.956851
-        - lat: -34.01852634
-          lng: 148.22636893
-        - lat: -34.12017701
-          lng: 148.49788768
-        - lat: -34.81314961
-          lng: 148.66329281
-      made: 12.417311 km
-  - - - '27'
-      - ! 'Boris Marold '
-    - togo:
-        distance: 175.530795 km
-        flipSum:
-        - 175.530795 km
-        - 105.963277 km
-        - 78.532831 km
-        legs:
-        - 69.567518 km
-        - 27.430447 km
-        - 78.532831 km
-        legsSum:
-        - 69.567518 km
-        - 96.997964 km
-        - 175.530795 km
-        waypoints:
-        - lat: -33.435611
-          lng: 147.953594
-        - lat: -34.01862816
-          lng: 148.22648705
-        - lat: -34.12017701
-          lng: 148.49788768
-        - lat: -34.81314961
-          lng: 148.66329281
-      made: 8.327311 km
   - - - '83'
       - Peter Dall
     - togo:
@@ -9807,19 +9724,19 @@ nigh:
 - - - - '94'
       - Mitch Shipley
     - togo:
-        distance: 84.215762 km
+        distance: 0.731295 km
         flipSum:
-        - 84.215762 km
+        - 0.731295 km
         legs:
-        - 84.215762 km
+        - 0.731295 km
         legsSum:
-        - 84.215762 km
+        - 0.731295 km
         waypoints:
-        - lat: -32.918367
-          lng: 148.264
-        - lat: -32.46574438
-          lng: 148.98555072
-      made: 54.903794 km
+        - lat: -32.468067
+          lng: 148.97815
+        - lat: -32.46513598
+          lng: 148.9851281
+      made: 140.121794 km
   - - - '33'
       - Conrad Loten
     - togo:
@@ -9871,51 +9788,51 @@ nigh:
   - - - '106'
       - Adam Parer
     - togo:
-        distance: 84.558234 km
+        distance: 13.076801 km
         flipSum:
-        - 84.558234 km
+        - 13.076801 km
         legs:
-        - 84.558234 km
+        - 13.076801 km
         legsSum:
-        - 84.558234 km
+        - 13.076801 km
         waypoints:
-        - lat: -32.935717
-          lng: 148.2751
-        - lat: -32.46585701
-          lng: 148.98565177
-      made: 52.839794 km
+        - lat: -32.520167
+          lng: 148.8619
+        - lat: -32.46526308
+          lng: 148.98520116
+      made: 127.775794 km
   - - - '96'
       - Brodrick Osborne
     - togo:
-        distance: 85.840741 km
+        distance: 14.279823 km
         flipSum:
-        - 85.840741 km
+        - 14.279823 km
         legs:
-        - 85.840741 km
+        - 14.279823 km
         legsSum:
-        - 85.840741 km
+        - 14.279823 km
         waypoints:
-        - lat: -32.931483
-          lng: 148.253933
-        - lat: -32.46585701
-          lng: 148.98565177
-      made: 54.548794 km
+        - lat: -32.5561
+          lng: 148.877267
+        - lat: -32.46617363
+          lng: 148.98598522
+      made: 126.572794 km
   - - - '66'
       - Jonas Lobitz
     - togo:
-        distance: 85.830571 km
+        distance: 14.550860 km
         flipSum:
-        - 85.830571 km
+        - 14.550860 km
         legs:
-        - 85.830571 km
+        - 14.550860 km
         legsSum:
-        - 85.830571 km
+        - 14.550860 km
         waypoints:
-        - lat: -32.930117
-          lng: 148.25285
-        - lat: -32.46585701
-          lng: 148.98565177
-      made: 54.729794 km
+        - lat: -32.560533
+          lng: 148.878467
+        - lat: -32.46627154
+          lng: 148.98610591
+      made: 126.301794 km
   - - - '95'
       - Anton Struganov
     - togo:
@@ -9935,19 +9852,19 @@ nigh:
   - - - '82'
       - Alain Le-gac
     - togo:
-        distance: 85.795406 km
+        distance: 20.826353 km
         flipSum:
-        - 85.795406 km
+        - 20.826353 km
         legs:
-        - 85.795406 km
+        - 20.826353 km
         legsSum:
-        - 85.795406 km
+        - 20.826353 km
         waypoints:
-        - lat: -32.937117
-          lng: 148.259633
-        - lat: -32.46585701
-          lng: 148.98565177
-      made: 53.726794 km
+        - lat: -32.61205
+          lng: 148.8466
+        - lat: -32.46645498
+          lng: 148.98636047
+      made: 120.026794 km
   - - - '7'
       - Shaun O'neill
     - togo:
@@ -9967,51 +9884,51 @@ nigh:
   - - - '101'
       - ! 'Andrew Luton '
     - togo:
-        distance: 86.360545 km
+        distance: 28.126171 km
         flipSum:
-        - 86.360545 km
+        - 28.126171 km
         legs:
-        - 86.360545 km
+        - 28.126171 km
         legsSum:
-        - 86.360545 km
+        - 28.126171 km
         waypoints:
-        - lat: -33.009724
-          lng: 148.326462
-        - lat: -32.46617363
-          lng: 148.98598522
-      made: 43.527794 km
+        - lat: -32.656759
+          lng: 148.788646
+        - lat: -32.46636537
+          lng: 148.98623105
+      made: 112.726794 km
   - - - '71'
       - Edoardo Giudiceandrea
     - togo:
-        distance: 86.749386 km
+        distance: 28.401196 km
         flipSum:
-        - 86.749386 km
+        - 28.401196 km
         legs:
-        - 86.749386 km
+        - 28.401196 km
         legsSum:
-        - 86.749386 km
+        - 28.401196 km
         waypoints:
-        - lat: -32.942917
-          lng: 148.25205
-        - lat: -32.46585701
-          lng: 148.98565177
-      made: 53.618794 km
+        - lat: -32.658833
+          lng: 148.787
+        - lat: -32.46636537
+          lng: 148.98623105
+      made: 112.451794 km
   - - - '77'
       - Len Paton
     - togo:
-        distance: 79.734023 km
+        distance: 31.980974 km
         flipSum:
-        - 79.734023 km
+        - 31.980974 km
         legs:
-        - 79.734023 km
+        - 31.980974 km
         legsSum:
-        - 79.734023 km
+        - 31.980974 km
         waypoints:
-        - lat: -32.924451
-          lng: 148.330611
-        - lat: -32.46596621
-          lng: 148.98575798
-      made: 49.307794 km
+        - lat: -32.67394
+          lng: 148.749989
+        - lat: -32.46627154
+          lng: 148.98610591
+      made: 108.871794 km
   - - - '43'
       - Les Bestt
     - togo:
@@ -10031,115 +9948,115 @@ nigh:
   - - - '16'
       - Grant Edward
     - togo:
-        distance: 87.660044 km
+        distance: 40.029233 km
         flipSum:
-        - 87.660044 km
+        - 40.029233 km
         legs:
-        - 87.660044 km
+        - 40.029233 km
         legsSum:
-        - 87.660044 km
+        - 40.029233 km
         waypoints:
-        - lat: -32.952866
-          lng: 148.248883
-        - lat: -32.46585701
-          lng: 148.98565177
-      made: 52.792794 km
+        - lat: -32.736724
+          lng: 148.704076
+        - lat: -32.46636537
+          lng: 148.98623105
+      made: 100.823794 km
   - - - '29'
       - Konstantin Lukyanov
     - togo:
-        distance: 88.533073 km
+        distance: 40.592062 km
         flipSum:
-        - 88.533073 km
+        - 40.592062 km
         legs:
-        - 88.533073 km
+        - 40.592062 km
         legsSum:
-        - 88.533073 km
+        - 40.592062 km
         waypoints:
-        - lat: -32.973583
-          lng: 148.256667
-        - lat: -32.46596621
-          lng: 148.98575798
-      made: 50.461794 km
+        - lat: -32.729733
+          lng: 148.686167
+        - lat: -32.46627154
+          lng: 148.98610591
+      made: 100.260794 km
   - - - '19'
       - Mikhail Karmazin
     - togo:
-        distance: 85.210600 km
+        distance: 40.745498 km
         flipSum:
-        - 85.210600 km
+        - 40.745498 km
         legs:
-        - 85.210600 km
+        - 40.745498 km
         legsSum:
-        - 85.210600 km
+        - 40.745498 km
         waypoints:
-        - lat: -32.92625
-          lng: 148.2577
-        - lat: -32.46585701
-          lng: 148.98565177
-      made: 54.732794 km
+        - lat: -32.713367
+          lng: 148.664933
+        - lat: -32.4660718
+          lng: 148.98586919
+      made: 100.107794 km
   - - - '87'
       - Corinna Schwiegershausen
     - togo:
-        distance: 82.993455 km
+        distance: 42.773106 km
         flipSum:
-        - 82.993455 km
+        - 42.773106 km
         legs:
-        - 82.993455 km
+        - 42.773106 km
         legsSum:
-        - 82.993455 km
+        - 42.773106 km
         waypoints:
-        - lat: -32.8861
-          lng: 148.252833
-        - lat: -32.4656285
-          lng: 148.985455
-      made: 57.672794 km
+        - lat: -32.721817
+          lng: 148.644817
+        - lat: -32.4660718
+          lng: 148.98586919
+      made: 98.079794 km
   - - - '12'
       - Glen Mcfarlane
     - togo:
-        distance: 84.178454 km
+        distance: 45.255930 km
         flipSum:
-        - 84.178454 km
+        - 45.255930 km
         legs:
-        - 84.178454 km
+        - 45.255930 km
         legsSum:
-        - 84.178454 km
+        - 45.255930 km
         waypoints:
-        - lat: -32.922683
-          lng: 148.268333
-        - lat: -32.46585701
-          lng: 148.98565177
-      made: 54.284794 km
+        - lat: -32.756083
+          lng: 148.646867
+        - lat: -32.46617363
+          lng: 148.98598522
+      made: 95.596794 km
   - - - '8'
       - Primoz Gricar
     - togo:
-        distance: 81.789989 km
+        distance: 51.577444 km
         flipSum:
-        - 81.789989 km
+        - 51.577444 km
         legs:
-        - 81.789989 km
+        - 51.577444 km
         legsSum:
-        - 81.789989 km
+        - 51.577444 km
         waypoints:
-        - lat: -32.863283
-          lng: 148.2504
+        - lat: -32.716583
+          lng: 148.52245
         - lat: -32.4656285
           lng: 148.985455
-      made: 58.497794 km
+      made: 89.275794 km
   - - - '46'
       - Jonathon Foote
     - togo:
-        distance: 86.655403 km
+        distance: 53.215937 km
         flipSum:
-        - 86.655403 km
+        - 53.215937 km
         legs:
-        - 86.655403 km
+        - 53.215937 km
         legsSum:
-        - 86.655403 km
+        - 53.215937 km
         waypoints:
-        - lat: -32.9448
-          lng: 148.25505
-        - lat: -32.46585701
-          lng: 148.98565177
-      made: 53.306794 km
+        - lat: -32.78625
+          lng: 148.563517
+        - lat: -32.4660718
+          lng: 148.98586919
+      made: 87.636794 km
   - - - '51'
       - Rob In 't Groen
     - togo:
@@ -10159,51 +10076,51 @@ nigh:
   - - - '3'
       - Rod Flockhart
     - togo:
-        distance: 83.142482 km
+        distance: 57.718650 km
         flipSum:
-        - 83.142482 km
+        - 57.718650 km
         legs:
-        - 83.142482 km
+        - 57.718650 km
         legsSum:
-        - 83.142482 km
+        - 57.718650 km
         waypoints:
-        - lat: -32.912483
-          lng: 148.273117
-        - lat: -32.46574438
-          lng: 148.98555072
-      made: 54.611794 km
+        - lat: -32.782917
+          lng: 148.497667
+        - lat: -32.46585701
+          lng: 148.98565177
+      made: 83.133794 km
   - - - '47'
       - ! 'Miguel De Jong '
     - togo:
-        distance: 87.344152 km
+        distance: 62.386038 km
         flipSum:
-        - 87.344152 km
+        - 62.386038 km
         legs:
-        - 87.344152 km
+        - 62.386038 km
         legsSum:
-        - 87.344152 km
+        - 62.386038 km
         waypoints:
-        - lat: -32.9468
-          lng: 148.247567
-        - lat: -32.46585701
-          lng: 148.98565177
-      made: 53.474794 km
+        - lat: -32.821517
+          lng: 148.470333
+        - lat: -32.46596621
+          lng: 148.98575798
+      made: 78.466794 km
   - - - '70'
       - Matthew Barlow
     - togo:
-        distance: 83.518446 km
+        distance: 75.733162 km
         flipSum:
-        - 83.518446 km
+        - 75.733162 km
         legs:
-        - 83.518446 km
+        - 75.733162 km
         legsSum:
-        - 83.518446 km
+        - 75.733162 km
         waypoints:
-        - lat: -32.9134
-          lng: 148.268917
+        - lat: -32.871267
+          lng: 148.335517
         - lat: -32.46574438
           lng: 148.98555072
-      made: 54.870794 km
+      made: 65.119794 km
   - - - '85'
       - Neil Petersen
     - togo:
@@ -10223,35 +10140,35 @@ nigh:
   - - - '32'
       - Kathryn O'Riordan
     - togo:
-        distance: 80.098235 km
+        distance: 78.230927 km
         flipSum:
-        - 80.098235 km
+        - 78.230927 km
         legs:
-        - 80.098235 km
+        - 78.230927 km
         legsSum:
-        - 80.098235 km
+        - 78.230927 km
         waypoints:
-        - lat: -32.89295
-          lng: 148.296483
+        - lat: -32.88105
+          lng: 148.3109
         - lat: -32.46574438
           lng: 148.98555072
-      made: 53.663794 km
+      made: 62.621794 km
   - - - '52'
       - Virpi Nieminen
     - togo:
-        distance: 86.432627 km
+        distance: 80.547894 km
         flipSum:
-        - 86.432627 km
+        - 80.547894 km
         legs:
-        - 86.432627 km
+        - 80.547894 km
         legsSum:
-        - 86.432627 km
+        - 80.547894 km
         waypoints:
-        - lat: -33.002367
-          lng: 148.316967
-        - lat: -32.4660718
-          lng: 148.98586919
-      made: 44.714794 km
+        - lat: -32.97955
+          lng: 148.378517
+        - lat: -32.46617363
+          lng: 148.98598522
+      made: 60.304794 km
   - - - '73'
       - Gijs Wanders
     - togo:
@@ -10271,115 +10188,115 @@ nigh:
   - - - '49'
       - Tony Giammichele
     - togo:
-        distance: 85.728866 km
+        distance: 85.602689 km
         flipSum:
-        - 85.728866 km
+        - 85.602689 km
         legs:
-        - 85.728866 km
+        - 85.602689 km
         legsSum:
-        - 85.728866 km
+        - 85.602689 km
         waypoints:
-        - lat: -32.931633
-          lng: 148.255567
+        - lat: -32.9319
+          lng: 148.2575
         - lat: -32.46585701
           lng: 148.98565177
-      made: 54.428794 km
+      made: 55.249794 km
   - - - '79'
       - David Stevens
     - togo:
-        distance: 86.428736 km
+        distance: 86.190824 km
         flipSum:
-        - 86.428736 km
+        - 86.190824 km
         legs:
-        - 86.428736 km
+        - 86.190824 km
         legsSum:
-        - 86.428736 km
+        - 86.190824 km
         waypoints:
-        - lat: -32.93715
-          lng: 148.251133
+        - lat: -32.935767
+          lng: 148.253083
         - lat: -32.46585701
           lng: 148.98565177
-      made: 54.152794 km
+      made: 54.661794 km
   - - - '105'
       - Chris Lawry
     - togo:
-        distance: 113.843885 km
+        distance: 86.748686 km
         flipSum:
-        - 113.843885 km
+        - 86.748686 km
         legs:
-        - 113.843885 km
+        - 86.748686 km
         legsSum:
-        - 113.843885 km
+        - 86.748686 km
         waypoints:
-        - lat: -33.120567
-          lng: 148.049283
-        - lat: -32.46596621
-          lng: 148.98575798
-      made: 27.008794 km
+        - lat: -32.939017
+          lng: 148.248517
+        - lat: -32.46585701
+          lng: 148.98565177
+      made: 54.103794 km
   - - - '41'
       - Curt Warren
     - togo:
-        distance: 88.885931 km
+        distance: 87.210386 km
         flipSum:
-        - 88.885931 km
+        - 87.210386 km
         legs:
-        - 88.885931 km
+        - 87.210386 km
         legsSum:
-        - 88.885931 km
+        - 87.210386 km
         waypoints:
-        - lat: -32.967167
-          lng: 148.2456
-        - lat: -32.46585701
-          lng: 148.98565177
-      made: 51.520794 km
+        - lat: -32.9625
+          lng: 148.264183
+        - lat: -32.46596621
+          lng: 148.98575798
+      made: 53.642794 km
   - - - '102'
       - Davide Guiducci
     - togo:
-        distance: 120.364694 km
+        distance: 92.323184 km
         flipSum:
-        - 120.364694 km
+        - 92.323184 km
         legs:
-        - 120.364694 km
+        - 92.323184 km
         legsSum:
-        - 120.364694 km
+        - 92.323184 km
         waypoints:
-        - lat: -33.1265
-          lng: 147.96555
-        - lat: -32.46585701
-          lng: 148.98565177
-      made: 20.487794 km
+        - lat: -32.997
+          lng: 148.227017
+        - lat: -32.46596621
+          lng: 148.98575798
+      made: 48.529794 km
   - - - '22'
       - Mark Russell
     - togo:
-        distance: 121.792696 km
+        distance: 93.804917 km
         flipSum:
-        - 121.792696 km
+        - 93.804917 km
         legs:
-        - 121.792696 km
+        - 93.804917 km
         legsSum:
-        - 121.792696 km
+        - 93.804917 km
         waypoints:
-        - lat: -33.191343
-          lng: 148.009074
-        - lat: -32.4660718
-          lng: 148.98586919
-      made: 19.046794 km
+        - lat: -33.001045
+          lng: 148.210424
+        - lat: -32.46596621
+          lng: 148.98575798
+      made: 47.047794 km
   - - - '83'
       - Peter Dall
     - togo:
-        distance: 95.070465 km
+        distance: 95.047636 km
         flipSum:
-        - 95.070465 km
+        - 95.047636 km
         legs:
-        - 95.070465 km
+        - 95.047636 km
         legsSum:
-        - 95.070465 km
+        - 95.047636 km
         waypoints:
-        - lat: -33.050816
-          lng: 148.244132
+        - lat: -33.05081
+          lng: 148.24446
         - lat: -32.4660718
           lng: 148.98586919
-      made: 42.497794 km
+      made: 45.804794 km
   - - - '17'
       - John Urlich
     - togo:
@@ -10404,19 +10321,19 @@ nigh:
   - - - '20'
       - ! 'Luke Browne '
     - togo:
-        distance: 101.484399 km
+        distance: 99.436201 km
         flipSum:
-        - 101.484399 km
+        - 99.436201 km
         legs:
-        - 101.484399 km
+        - 99.436201 km
         legsSum:
-        - 101.484399 km
+        - 99.436201 km
         waypoints:
-        - lat: -33.066283
-          lng: 148.168217
+        - lat: -33.051833
+          lng: 148.182367
         - lat: -32.46596621
           lng: 148.98575798
-      made: 39.366794 km
+      made: 41.416794 km
   - - - '27'
       - ! 'Boris Marold '
     - togo:
@@ -10483,19 +10400,19 @@ nigh:
   - - - '64'
       - Gustavo Carvalho
     - togo:
-        distance: 120.241376 km
+        distance: 114.890482 km
         flipSum:
-        - 120.241376 km
+        - 114.890482 km
         legs:
-        - 120.241376 km
+        - 114.890482 km
         legsSum:
-        - 120.241376 km
+        - 114.890482 km
         waypoints:
-        - lat: -33.126683
-          lng: 147.967383
+        - lat: -33.090617
+          lng: 148.006833
         - lat: -32.46585701
           lng: 148.98565177
-      made: 20.611794 km
+      made: 25.962794 km
   - - - '40'
       - Phil de Joux
     - togo:
@@ -10580,48 +10497,6 @@ nigh:
         - lat: -32.46596621
           lng: 148.98575798
       made: 16.332794 km
-  - - - '30'
-      - Fredy Bircher
-    - togo:
-        distance: 127.608937 km
-        flipSum:
-        - 127.608937 km
-        - 99.698053 km
-        legs:
-        - 27.910885 km
-        - 99.698053 km
-        legsSum:
-        - 27.910885 km
-        - 127.608937 km
-        waypoints:
-        - lat: -33.260583
-          lng: 148.01
-        - lat: -33.05483236
-          lng: 148.18174301
-        - lat: -32.46596621
-          lng: 148.98575798
-      made: 13.243794 km
-  - - - '48'
-      - Paolo Rosichetti
-    - togo:
-        distance: 128.027982 km
-        flipSum:
-        - 128.027982 km
-        - 100.676469 km
-        legs:
-        - 27.351512 km
-        - 100.676469 km
-        legsSum:
-        - 27.351512 km
-        - 128.027982 km
-        waypoints:
-        - lat: -33.244633
-          lng: 147.978683
-        - lat: -33.06120854
-          lng: 148.17444234
-        - lat: -32.46596621
-          lng: 148.98575798
-      made: 12.824794 km
   - - - '81'
       - Valentino Bau
     - togo:
@@ -10643,64 +10518,22 @@ nigh:
         - lat: -32.46596621
           lng: 148.98575798
       made: 10.435794 km
-  - - - '35'
-      - Carole Tobler
-    - togo:
-        distance: 135.501258 km
-        flipSum:
-        - 135.501258 km
-        - 100.676469 km
-        legs:
-        - 34.824789 km
-        - 100.676469 km
-        legsSum:
-        - 34.824789 km
-        - 135.501258 km
-        waypoints:
-        - lat: -33.302317
-          lng: 147.935617
-        - lat: -33.06120854
-          lng: 148.17444234
-        - lat: -32.46596621
-          lng: 148.98575798
-      made: 5.351794 km
-  - - - '58'
-      - Anna Belova
-    - togo:
-        distance: 136.812944 km
-        flipSum:
-        - 136.812944 km
-        - 98.723965 km
-        legs:
-        - 38.088979 km
-        - 98.723965 km
-        legsSum:
-        - 38.088979 km
-        - 136.812944 km
-        waypoints:
-        - lat: -33.337777
-          lng: 147.970048
-        - lat: -33.04821919
-          lng: 148.18873909
-        - lat: -32.46596621
-          lng: 148.98575798
-      made: 4.039794 km
 - - - - '69'
       - Jonathan Kinred
     - togo:
-        distance: 124.589633 km
+        distance: 17.044703 km
         flipSum:
-        - 124.589633 km
+        - 17.044703 km
         legs:
-        - 124.589633 km
+        - 17.044703 km
         legsSum:
-        - 124.589633 km
+        - 17.044703 km
         waypoints:
-        - lat: -32.577663
-          lng: 148.281459
-        - lat: -32.01815766
-          lng: 149.42992835
-      made: 92.328732 km
+        - lat: -32.072528
+          lng: 149.260797
+        - lat: -32.01764502
+          lng: 149.42964963
+      made: 200.321732 km
   - - - '25'
       - Nick Purcell
     - togo:
@@ -10720,35 +10553,35 @@ nigh:
   - - - '71'
       - Edoardo Giudiceandrea
     - togo:
-        distance: 124.119272 km
+        distance: 25.027800 km
         flipSum:
-        - 124.119272 km
+        - 25.027800 km
         legs:
-        - 124.119272 km
+        - 25.027800 km
         legsSum:
-        - 124.119272 km
+        - 25.027800 km
         waypoints:
-        - lat: -32.572567
-          lng: 148.2838
-        - lat: -32.01815766
-          lng: 149.42992835
-      made: 92.577732 km
+        - lat: -32.114183
+          lng: 149.1897
+        - lat: -32.01790598
+          lng: 149.42977711
+      made: 192.338732 km
   - - - '5'
       - Wolfgang Siess
     - togo:
-        distance: 124.412004 km
+        distance: 23.979603 km
         flipSum:
-        - 124.412004 km
+        - 23.979603 km
         legs:
-        - 124.412004 km
+        - 23.979603 km
         legsSum:
-        - 124.412004 km
+        - 23.979603 km
         waypoints:
-        - lat: -32.5825
-          lng: 148.286933
-        - lat: -32.01827953
-          lng: 149.43001259
-      made: 91.587732 km
+        - lat: -32.109683
+          lng: 149.1995
+        - lat: -32.01790598
+          lng: 149.42977711
+      made: 193.386732 km
   - - - '41'
       - Curt Warren
     - togo:
@@ -10768,131 +10601,131 @@ nigh:
   - - - '62'
       - Enda Murphy
     - togo:
-        distance: 123.738618 km
+        distance: 29.023711 km
         flipSum:
-        - 123.738618 km
+        - 29.023711 km
         legs:
-        - 123.738618 km
+        - 29.023711 km
         legsSum:
-        - 123.738618 km
+        - 29.023711 km
         waypoints:
-        - lat: -32.559939
-          lng: 148.280094
-        - lat: -32.01815766
-          lng: 149.42992835
-      made: 93.481732 km
+        - lat: -32.124719
+          lng: 149.148724
+        - lat: -32.01790598
+          lng: 149.42977711
+      made: 188.342732 km
   - - - '68'
       - Grant Heaney
     - togo:
-        distance: 123.722330 km
+        distance: 28.844987 km
         flipSum:
-        - 123.722330 km
+        - 28.844987 km
         legs:
-        - 123.722330 km
+        - 28.844987 km
         legsSum:
-        - 123.722330 km
+        - 28.844987 km
         waypoints:
-        - lat: -32.559629
-          lng: 148.28009
-        - lat: -32.01815766
-          lng: 149.42992835
-      made: 93.506732 km
+        - lat: -32.124794
+          lng: 149.150844
+        - lat: -32.01790598
+          lng: 149.42977711
+      made: 188.521732 km
   - - - '22'
       - Mark Russell
     - togo:
-        distance: 123.528283 km
+        distance: 31.391779 km
         flipSum:
-        - 123.528283 km
+        - 31.391779 km
         legs:
-        - 123.528283 km
+        - 31.391779 km
         legsSum:
-        - 123.528283 km
+        - 31.391779 km
         waypoints:
-        - lat: -32.558852
-          lng: 148.281946
+        - lat: -32.159847
+          lng: 149.141714
         - lat: -32.01815766
           lng: 149.42992835
-      made: 93.355732 km
+      made: 185.974732 km
   - - - '78'
       - Christine Aichner
     - togo:
-        distance: 124.451990 km
+        distance: 32.000405 km
         flipSum:
-        - 124.451990 km
+        - 32.000405 km
         legs:
-        - 124.451990 km
+        - 32.000405 km
         legsSum:
-        - 124.451990 km
+        - 32.000405 km
         waypoints:
-        - lat: -32.575978
-          lng: 148.282012
+        - lat: -32.159944
+          lng: 149.134333
         - lat: -32.01815766
           lng: 149.42992835
-      made: 92.438732 km
+      made: 185.366732 km
   - - - '15'
       - ! 'Jean Souviron '
     - togo:
-        distance: 123.982515 km
+        distance: 37.790198 km
         flipSum:
-        - 123.982515 km
+        - 37.790198 km
         legs:
-        - 123.982515 km
+        - 37.790198 km
         legsSum:
-        - 123.982515 km
+        - 37.790198 km
         waypoints:
-        - lat: -32.565367
-          lng: 148.280683
-        - lat: -32.01815766
-          lng: 149.42992835
-      made: 93.235732 km
+        - lat: -32.1905
+          lng: 149.084133
+        - lat: -32.01827953
+          lng: 149.43001259
+      made: 179.576732 km
   - - - '102'
       - Davide Guiducci
     - togo:
-        distance: 123.875068 km
+        distance: 37.683789 km
         flipSum:
-        - 123.875068 km
+        - 37.683789 km
         legs:
-        - 123.875068 km
+        - 37.683789 km
         legsSum:
-        - 123.875068 km
+        - 37.683789 km
         waypoints:
-        - lat: -32.56325
-          lng: 148.2806
-        - lat: -32.01815766
-          lng: 149.42992835
-      made: 93.349732 km
+        - lat: -32.190533
+          lng: 149.085467
+        - lat: -32.01827953
+          lng: 149.43001259
+      made: 179.682732 km
   - - - '36'
       - Franz Herrmann
     - togo:
-        distance: 124.289625 km
+        distance: 37.261991 km
         flipSum:
-        - 124.289625 km
+        - 37.261991 km
         legs:
-        - 124.289625 km
+        - 37.261991 km
         legsSum:
-        - 124.289625 km
+        - 37.261991 km
         waypoints:
-        - lat: -32.56975
-          lng: 148.279833
-        - lat: -32.01815766
-          lng: 149.42992835
-      made: 93.061732 km
+        - lat: -32.191483
+          lng: 149.09135
+        - lat: -32.01827953
+          lng: 149.43001259
+      made: 180.104732 km
   - - - '106'
       - Adam Parer
     - togo:
-        distance: 123.840184 km
+        distance: 39.329331 km
         flipSum:
-        - 123.840184 km
+        - 39.329331 km
         legs:
-        - 123.840184 km
+        - 39.329331 km
         legsSum:
-        - 123.840184 km
+        - 39.329331 km
         waypoints:
-        - lat: -32.563617
-          lng: 148.281267
+        - lat: -32.195917
+          lng: 149.068933
         - lat: -32.01815766
           lng: 149.42992835
-      made: 93.275732 km
+      made: 178.037732 km
   - - - '55'
       - Kari Suhonen
     - togo:
@@ -10912,51 +10745,51 @@ nigh:
   - - - '84'
       - Yasuhiro Noma
     - togo:
-        distance: 123.942455 km
+        distance: 39.679362 km
         flipSum:
-        - 123.942455 km
+        - 39.679362 km
         legs:
-        - 123.942455 km
+        - 39.679362 km
         legsSum:
-        - 123.942455 km
+        - 39.679362 km
         waypoints:
-        - lat: -32.564375
-          lng: 148.280518
-        - lat: -32.01815766
-          lng: 149.42992835
-      made: 93.315732 km
+        - lat: -32.205873
+          lng: 149.071625
+        - lat: -32.01827953
+          lng: 149.43001259
+      made: 177.687732 km
   - - - '66'
       - Jonas Lobitz
     - togo:
-        distance: 124.300476 km
+        distance: 40.525351 km
         flipSum:
-        - 124.300476 km
+        - 40.525351 km
         legs:
-        - 124.300476 km
+        - 40.525351 km
         legsSum:
-        - 124.300476 km
+        - 40.525351 km
         waypoints:
-        - lat: -32.5699
-          lng: 148.2798
-        - lat: -32.01815766
-          lng: 149.42992835
-      made: 93.045732 km
+        - lat: -32.2072
+          lng: 149.06205
+        - lat: -32.01827953
+          lng: 149.43001259
+      made: 176.841732 km
   - - - '99'
       - Tullio Gervasoni
     - togo:
-        distance: 124.026643 km
+        distance: 41.497555 km
         flipSum:
-        - 124.026643 km
+        - 41.497555 km
         legs:
-        - 124.026643 km
+        - 41.497555 km
         legsSum:
-        - 124.026643 km
+        - 41.497555 km
         waypoints:
-        - lat: -32.56535
-          lng: 148.280133
-        - lat: -32.01815766
-          lng: 149.42992835
-      made: 93.257732 km
+        - lat: -32.2119
+          lng: 149.053333
+        - lat: -32.01827953
+          lng: 149.43001259
+      made: 175.868732 km
   - - - '72'
       - Tove Heaney
     - togo:
@@ -10992,51 +10825,51 @@ nigh:
   - - - '42'
       - Suan Selenati
     - togo:
-        distance: 123.824832 km
+        distance: 51.903024 km
         flipSum:
-        - 123.824832 km
+        - 51.903024 km
         legs:
-        - 123.824832 km
+        - 51.903024 km
         legsSum:
-        - 123.824832 km
+        - 51.903024 km
         waypoints:
-        - lat: -32.561733
-          lng: 148.280217
-        - lat: -32.01815766
-          lng: 149.42992835
-      made: 93.415732 km
+        - lat: -32.21195
+          lng: 148.92855
+        - lat: -32.01790598
+          lng: 149.42977711
+      made: 165.463732 km
   - - - '20'
       - ! 'Luke Browne '
     - togo:
-        distance: 125.478473 km
+        distance: 57.878101 km
         flipSum:
-        - 125.478473 km
+        - 57.878101 km
         legs:
-        - 125.478473 km
+        - 57.878101 km
         legsSum:
-        - 125.478473 km
+        - 57.878101 km
         waypoints:
-        - lat: -32.589033
-          lng: 148.278267
+        - lat: -32.283283
+          lng: 148.900867
         - lat: -32.01827953
           lng: 149.43001259
-      made: 91.334732 km
+      made: 159.488732 km
   - - - '79'
       - David Stevens
     - togo:
-        distance: 123.866396 km
+        distance: 60.474030 km
         flipSum:
-        - 123.866396 km
+        - 60.474030 km
         legs:
-        - 123.866396 km
+        - 60.474030 km
         legsSum:
-        - 123.866396 km
+        - 60.474030 km
         waypoints:
-        - lat: -32.563156
-          lng: 148.280644
-        - lat: -32.01815766
-          lng: 149.42992835
-      made: 93.353732 km
+        - lat: -32.266146
+          lng: 148.858283
+        - lat: -32.01803308
+          lng: 149.42984981
+      made: 156.892732 km
   - - - '32'
       - Kathryn O'Riordan
     - togo:
@@ -11056,51 +10889,51 @@ nigh:
   - - - '34'
       - Jon snr Durand
     - togo:
-        distance: 123.489843 km
+        distance: 79.348860 km
         flipSum:
-        - 123.489843 km
+        - 79.348860 km
         legs:
-        - 123.489843 km
+        - 79.348860 km
         legsSum:
-        - 123.489843 km
+        - 79.348860 km
         waypoints:
-        - lat: -32.550917
-          lng: 148.277283
-        - lat: -32.01815766
-          lng: 149.42992835
-      made: 93.766732 km
+        - lat: -32.392567
+          lng: 148.711967
+        - lat: -32.01827953
+          lng: 149.43001259
+      made: 138.017732 km
   - - - '1'
       - Lukas Bader
     - togo:
-        distance: 123.526687 km
+        distance: 87.135470 km
         flipSum:
-        - 123.526687 km
+        - 87.135470 km
         legs:
-        - 123.526687 km
+        - 87.135470 km
         legsSum:
-        - 123.526687 km
+        - 87.135470 km
         waypoints:
-        - lat: -32.553542
-          lng: 148.278522
+        - lat: -32.405033
+          lng: 148.624485
         - lat: -32.01815766
           lng: 149.42992835
-      made: 93.705732 km
+      made: 130.231732 km
   - - - '96'
       - Brodrick Osborne
     - togo:
-        distance: 123.833379 km
+        distance: 95.056466 km
         flipSum:
-        - 123.833379 km
+        - 95.056466 km
         legs:
-        - 123.833379 km
+        - 95.056466 km
         legsSum:
-        - 123.833379 km
+        - 95.056466 km
         waypoints:
-        - lat: -32.561
-          lng: 148.279633
-        - lat: -32.01815766
-          lng: 149.42992835
-      made: 93.512732 km
+        - lat: -32.460817
+          lng: 148.565283
+        - lat: -32.01827953
+          lng: 149.43001259
+      made: 122.310732 km
   - - - '85'
       - Neil Petersen
     - togo:
@@ -11120,51 +10953,51 @@ nigh:
   - - - '29'
       - Konstantin Lukyanov
     - togo:
-        distance: 125.300062 km
+        distance: 110.877038 km
         flipSum:
-        - 125.300062 km
+        - 110.877038 km
         legs:
-        - 125.300062 km
+        - 110.877038 km
         legsSum:
-        - 125.300062 km
+        - 110.877038 km
         waypoints:
-        - lat: -32.5835
-          lng: 148.276683
+        - lat: -32.548633
+          lng: 148.4312
         - lat: -32.01827953
           lng: 149.43001259
-      made: 91.958732 km
+      made: 106.489732 km
   - - - '35'
       - Carole Tobler
     - togo:
-        distance: 123.656403 km
+        distance: 122.914117 km
         flipSum:
-        - 123.656403 km
+        - 122.914117 km
         legs:
-        - 123.656403 km
+        - 122.914117 km
         legsSum:
-        - 123.656403 km
+        - 122.914117 km
         waypoints:
-        - lat: -32.533417
-          lng: 148.264317
+        - lat: -32.531383
+          lng: 148.271983
         - lat: -32.01803308
           lng: 149.42984981
-      made: 93.567732 km
+      made: 94.452732 km
   - - - '37'
       - Peter Ebeling
     - togo:
-        distance: 129.044525 km
+        distance: 128.522749 km
         flipSum:
-        - 129.044525 km
+        - 128.522749 km
         legs:
-        - 129.044525 km
+        - 128.522749 km
         legsSum:
-        - 129.044525 km
+        - 128.522749 km
         waypoints:
-        - lat: -32.607767
-          lng: 148.24716
+        - lat: -32.598114
+          lng: 148.246976
         - lat: -32.01827953
           lng: 149.43001259
-      made: 88.321732 km
+      made: 88.843732 km
   - - - '67'
       - ! 'Andy Phillips '
     - togo:
@@ -11795,27 +11628,6 @@ nigh:
         - lat: -32.01827953
           lng: 149.43001259
       made: 10.438732 km
-  - - - '58'
-      - Anna Belova
-    - togo:
-        distance: 210.275210 km
-        flipSum:
-        - 210.275210 km
-        - 126.544172 km
-        legs:
-        - 83.731038 km
-        - 126.544172 km
-        legsSum:
-        - 83.731038 km
-        - 210.275210 km
-        waypoints:
-        - lat: -33.309831
-          lng: 147.990285
-        - lat: -32.59391658
-          lng: 148.2684786
-        - lat: -32.01827953
-          lng: 149.43001259
-      made: 7.091732 km
   - - - '86'
       - Talgat Irgaleev
     - togo:
@@ -11837,43 +11649,22 @@ nigh:
         - lat: -32.01827953
           lng: 149.43001259
       made: 1.025732 km
-  - - - '50'
-      - Monique Pavy
-    - togo:
-        distance: 216.369232 km
-        flipSum:
-        - 216.369232 km
-        - 126.728063 km
-        legs:
-        - 89.641169 km
-        - 126.728063 km
-        legsSum:
-        - 89.641169 km
-        - 216.369232 km
-        waypoints:
-        - lat: -33.353017
-          lng: 147.9391
-        - lat: -32.59528209
-          lng: 148.2671491
-        - lat: -32.01827953
-          lng: 149.43001259
-      made: 0.997732 km
 - - - - '103'
       - Roberto Nichele
     - togo:
-        distance: 70.670266 km
+        distance: 2.906618 km
         flipSum:
-        - 70.670266 km
+        - 2.906618 km
         legs:
-        - 70.670266 km
+        - 2.906618 km
         legsSum:
-        - 70.670266 km
+        - 2.906618 km
         waypoints:
-        - lat: -32.18845
-          lng: 147.820067
-        - lat: -31.69605498
-          lng: 148.29361262
-      made: 129.985959 km
+        - lat: -31.7048
+          lng: 148.264033
+        - lat: -31.69460656
+          lng: 148.29232406
+      made: 198.500959 km
   - - - '42'
       - Suan Selenati
     - togo:
@@ -11893,83 +11684,83 @@ nigh:
   - - - '52'
       - Virpi Nieminen
     - togo:
-        distance: 69.721565 km
+        distance: 9.543669 km
         flipSum:
-        - 69.721565 km
+        - 9.543669 km
         legs:
-        - 69.721565 km
+        - 9.543669 km
         legsSum:
-        - 69.721565 km
+        - 9.543669 km
         waypoints:
-        - lat: -32.1785
-          lng: 147.821667
-        - lat: -31.69596537
-          lng: 148.29348429
-      made: 130.134959 km
+        - lat: -31.767867
+          lng: 148.238317
+        - lat: -31.69622101
+          lng: 148.29388118
+      made: 191.863959 km
   - - - '11'
       - Steve Blenkinsop
     - togo:
-        distance: 70.429798 km
+        distance: 11.123357 km
         flipSum:
-        - 70.429798 km
+        - 11.123357 km
         legs:
-        - 70.429798 km
+        - 11.123357 km
         legsSum:
-        - 70.429798 km
+        - 11.123357 km
         waypoints:
-        - lat: -32.183617
-          lng: 147.817167
-        - lat: -31.69596537
-          lng: 148.29348429
-      made: 130.443959 km
+        - lat: -31.77855
+          lng: 148.227067
+        - lat: -31.69622101
+          lng: 148.29388118
+      made: 190.284959 km
   - - - '98'
       - Patrick Collin
     - togo:
-        distance: 69.872752 km
+        distance: 17.452460 km
         flipSum:
-        - 69.872752 km
+        - 17.452460 km
         legs:
-        - 69.872752 km
+        - 17.452460 km
         legsSum:
-        - 69.872752 km
+        - 17.452460 km
         waypoints:
-        - lat: -32.171233
-          lng: 147.8091
-        - lat: -31.69596537
-          lng: 148.29348429
-      made: 131.258959 km
+        - lat: -31.817467
+          lng: 148.176633
+        - lat: -31.69605498
+          lng: 148.29361262
+      made: 183.955959 km
   - - - '89'
       - Scott Barrett
     - togo:
-        distance: 70.591205 km
+        distance: 17.769536 km
         flipSum:
-        - 70.591205 km
+        - 17.769536 km
         legs:
-        - 70.591205 km
+        - 17.769536 km
         legsSum:
-        - 70.591205 km
+        - 17.769536 km
         waypoints:
-        - lat: -32.1836
-          lng: 147.814467
-        - lat: -31.69596537
-          lng: 148.29348429
-      made: 130.674959 km
+        - lat: -31.7987
+          lng: 148.149467
+        - lat: -31.69556621
+          lng: 148.29301519
+      made: 183.637959 km
   - - - '77'
       - Len Paton
     - togo:
-        distance: 70.500958 km
+        distance: 19.309604 km
         flipSum:
-        - 70.500958 km
+        - 19.309604 km
         legs:
-        - 70.500958 km
+        - 19.309604 km
         legsSum:
-        - 70.500958 km
+        - 19.309604 km
         waypoints:
-        - lat: -32.187322
-          lng: 147.821279
-        - lat: -31.69605498
-          lng: 148.29361262
-      made: 129.935959 km
+        - lat: -31.847065
+          lng: 148.192659
+        - lat: -31.6963686
+          lng: 148.29416423
+      made: 182.097959 km
   - - - '20'
       - ! 'Luke Browne '
     - togo:
@@ -11989,19 +11780,19 @@ nigh:
   - - - '17'
       - John Urlich
     - togo:
-        distance: 70.974109 km
+        distance: 29.943809 km
         flipSum:
-        - 70.974109 km
+        - 29.943809 km
         legs:
-        - 70.974109 km
+        - 29.943809 km
         legsSum:
-        - 70.974109 km
+        - 29.943809 km
         waypoints:
-        - lat: -32.189017
-          lng: 147.8158
-        - lat: -31.69605498
-          lng: 148.29361262
-      made: 130.296959 km
+        - lat: -31.868133
+          lng: 148.049817
+        - lat: -31.69556621
+          lng: 148.29301519
+      made: 171.463959 km
   - - - '56'
       - Cameron Tunbridge
     - togo:
@@ -12021,67 +11812,67 @@ nigh:
   - - - '27'
       - ! 'Boris Marold '
     - togo:
-        distance: 70.959211 km
+        distance: 43.128315 km
         flipSum:
-        - 70.959211 km
+        - 43.128315 km
         legs:
-        - 70.959211 km
+        - 43.128315 km
         legsSum:
-        - 70.959211 km
+        - 43.128315 km
         waypoints:
-        - lat: -32.18957
-          lng: 147.816841
-        - lat: -31.69605498
-          lng: 148.29361262
-      made: 130.183959 km
+        - lat: -31.977051
+          lng: 147.978888
+        - lat: -31.69587154
+          lng: 148.29336019
+      made: 158.279959 km
   - - - '101'
       - ! 'Andrew Luton '
     - togo:
-        distance: 70.427477 km
+        distance: 43.521946 km
         flipSum:
-        - 70.427477 km
+        - 43.521946 km
         legs:
-        - 70.427477 km
+        - 43.521946 km
         legsSum:
-        - 70.427477 km
+        - 43.521946 km
         waypoints:
-        - lat: -32.181319
-          lng: 147.813963
-        - lat: -31.69596537
-          lng: 148.29348429
-      made: 130.803959 km
+        - lat: -32.001642
+          lng: 148.005699
+        - lat: -31.69605498
+          lng: 148.29361262
+      made: 157.885959 km
   - - - '53'
       - Hadewych van Kempen
     - togo:
-        distance: 70.193704 km
+        distance: 56.777818 km
         flipSum:
-        - 70.193704 km
+        - 56.777818 km
         legs:
-        - 70.193704 km
+        - 56.777818 km
         legsSum:
-        - 70.193704 km
+        - 56.777818 km
         waypoints:
-        - lat: -32.176383
-          lng: 147.810933
+        - lat: -32.0851
+          lng: 147.9041
         - lat: -31.69596537
           lng: 148.29348429
-      made: 131.148959 km
+      made: 144.629959 km
   - - - '29'
       - Konstantin Lukyanov
     - togo:
-        distance: 71.263724 km
+        distance: 64.411864 km
         flipSum:
-        - 71.263724 km
+        - 64.411864 km
         legs:
-        - 71.263724 km
+        - 64.411864 km
         legsSum:
-        - 71.263724 km
+        - 64.411864 km
         waypoints:
-        - lat: -32.196967
-          lng: 147.822467
-        - lat: -31.69605498
-          lng: 148.29361262
-      made: 129.263959 km
+        - lat: -32.133267
+          lng: 147.845933
+        - lat: -31.69596537
+          lng: 148.29348429
+      made: 136.995959 km
   - - - '19'
       - Mikhail Karmazin
     - togo:
@@ -12723,27 +12514,6 @@ nigh:
         - lat: -31.69605498
           lng: 148.29361262
       made: 16.605959 km
-  - - - '51'
-      - Rob In 't Groen
-    - togo:
-        distance: 187.793775 km
-        flipSum:
-        - 187.793775 km
-        - 72.687388 km
-        legs:
-        - 115.106387 km
-        - 72.687388 km
-        legsSum:
-        - 115.106387 km
-        - 187.793775 km
-        waypoints:
-        - lat: -33.237283
-          lng: 147.934967
-        - lat: -32.20717683
-          lng: 147.81332767
-        - lat: -31.69605498
-          lng: 148.29361262
-      made: 13.613959 km
 - - - - '93'
       - Trent Brown
     - togo:
@@ -12763,35 +12533,35 @@ nigh:
   - - - '92'
       - Hans Kiefinger
     - togo:
-        distance: 20.841575 km
+        distance: 2.263137 km
         flipSum:
-        - 20.841575 km
+        - 2.263137 km
         legs:
-        - 20.841575 km
+        - 2.263137 km
         legsSum:
-        - 20.841575 km
+        - 2.263137 km
         waypoints:
-        - lat: -32.764183
-          lng: 148.649717
-        - lat: -32.9326448
-          lng: 148.74752414
-      made: 153.250927 km
+        - lat: -32.9119
+          lng: 148.749567
+        - lat: -32.93225271
+          lng: 148.74947
+      made: 171.842927 km
   - - - '56'
       - Cameron Tunbridge
     - togo:
-        distance: 20.875406 km
+        distance: 2.098302 km
         flipSum:
-        - 20.875406 km
+        - 2.098302 km
         legs:
-        - 20.875406 km
+        - 2.098302 km
         legsSum:
-        - 20.875406 km
+        - 2.098302 km
         waypoints:
-        - lat: -32.761733
-          lng: 148.65505
-        - lat: -32.93258316
-          lng: 148.74767557
-      made: 153.046927 km
+        - lat: -32.913383
+          lng: 148.749267
+        - lat: -32.93225271
+          lng: 148.74947
+      made: 172.007927 km
   - - - '84'
       - Yasuhiro Noma
     - togo:
@@ -12827,19 +12597,19 @@ nigh:
   - - - '103'
       - Roberto Nichele
     - togo:
-        distance: 20.933719 km
+        distance: 3.704287 km
         flipSum:
-        - 20.933719 km
+        - 3.704287 km
         legs:
-        - 20.933719 km
+        - 3.704287 km
         legsSum:
-        - 20.933719 km
+        - 3.704287 km
         waypoints:
-        - lat: -32.760967
-          lng: 148.65555
-        - lat: -32.93258316
-          lng: 148.74767557
-      made: 152.973927 km
+        - lat: -32.89975
+          lng: 148.758633
+        - lat: -32.93232184
+          lng: 148.75030619
+      made: 170.401927 km
   - - - '8'
       - Primoz Gricar
     - togo:
@@ -12875,35 +12645,35 @@ nigh:
   - - - '66'
       - Jonas Lobitz
     - togo:
-        distance: 20.902719 km
+        distance: 6.849383 km
         flipSum:
-        - 20.902719 km
+        - 6.849383 km
         legs:
-        - 20.902719 km
+        - 6.849383 km
         legsSum:
-        - 20.902719 km
+        - 6.849383 km
         waypoints:
-        - lat: -32.761867
-          lng: 148.654
-        - lat: -32.93258316
-          lng: 148.74767557
-      made: 153.144927 km
+        - lat: -32.871517
+          lng: 148.736883
+        - lat: -32.932297
+          lng: 148.7487995
+      made: 167.256927 km
   - - - '13'
       - John Smith
     - togo:
-        distance: 20.816254 km
+        distance: 7.090315 km
         flipSum:
-        - 20.816254 km
+        - 7.090315 km
         legs:
-        - 20.816254 km
+        - 7.090315 km
         legsSum:
-        - 20.816254 km
+        - 7.090315 km
         waypoints:
-        - lat: -32.7643
-          lng: 148.65005
-        - lat: -32.9326448
-          lng: 148.74752414
-      made: 153.246927 km
+        - lat: -32.8693
+          lng: 148.73705
+        - lat: -32.932297
+          lng: 148.7487995
+      made: 167.015927 km
   - - - '11'
       - Steve Blenkinsop
     - togo:
@@ -12923,19 +12693,19 @@ nigh:
   - - - '1'
       - Lukas Bader
     - togo:
-        distance: 20.811221 km
+        distance: 9.928666 km
         flipSum:
-        - 20.811221 km
+        - 9.928666 km
         legs:
-        - 20.811221 km
+        - 9.928666 km
         legsSum:
-        - 20.811221 km
+        - 9.928666 km
         waypoints:
-        - lat: -32.764363
-          lng: 148.650019
-        - lat: -32.9326448
-          lng: 148.74752414
-      made: 153.239927 km
+        - lat: -32.847726
+          lng: 148.714499
+        - lat: -32.93242878
+          lng: 148.74814551
+      made: 164.176927 km
   - - - '75'
       - Joerg Bajewski
     - togo:
@@ -12971,19 +12741,19 @@ nigh:
   - - - '71'
       - Edoardo Giudiceandrea
     - togo:
-        distance: 21.190443 km
+        distance: 10.583858 km
         flipSum:
-        - 21.190443 km
+        - 10.583858 km
         legs:
-        - 21.190443 km
+        - 10.583858 km
         legsSum:
-        - 21.190443 km
+        - 10.583858 km
         waypoints:
-        - lat: -32.7586
-          lng: 148.655117
-        - lat: -32.93258316
-          lng: 148.74767557
-      made: 152.817927 km
+        - lat: -32.842367
+          lng: 148.711467
+        - lat: -32.93242878
+          lng: 148.74814551
+      made: 163.521927 km
   - - - '106'
       - Adam Parer
     - togo:
@@ -13019,19 +12789,19 @@ nigh:
   - - - '25'
       - Nick Purcell
     - togo:
-        distance: 20.836681 km
+        distance: 12.873175 km
         flipSum:
-        - 20.836681 km
+        - 12.873175 km
         legs:
-        - 20.836681 km
+        - 12.873175 km
         legsSum:
-        - 20.836681 km
+        - 12.873175 km
         waypoints:
-        - lat: -32.764372
-          lng: 148.649376
-        - lat: -32.9326448
-          lng: 148.74752414
-      made: 153.217927 km
+        - lat: -32.823741
+          lng: 148.700658
+        - lat: -32.93247506
+          lng: 148.74798649
+      made: 161.232927 km
   - - - '49'
       - Tony Giammichele
     - togo:
@@ -13083,35 +12853,35 @@ nigh:
   - - - '101'
       - ! 'Andrew Luton '
     - togo:
-        distance: 20.864212 km
+        distance: 13.729360 km
         flipSum:
-        - 20.864212 km
+        - 13.729360 km
         legs:
-        - 20.864212 km
+        - 13.729360 km
         legsSum:
-        - 20.864212 km
+        - 13.729360 km
         waypoints:
-        - lat: -32.764217
-          lng: 148.649083
-        - lat: -32.9326448
-          lng: 148.74752414
-      made: 153.217927 km
+        - lat: -32.81693
+          lng: 148.696162
+        - lat: -32.93247506
+          lng: 148.74798649
+      made: 160.376927 km
   - - - '5'
       - Wolfgang Siess
     - togo:
-        distance: 20.881702 km
+        distance: 13.776272 km
         flipSum:
-        - 20.881702 km
+        - 13.776272 km
         legs:
-        - 20.881702 km
+        - 13.776272 km
         legsSum:
-        - 20.881702 km
+        - 13.776272 km
         waypoints:
-        - lat: -32.7642
-          lng: 148.6487
-        - lat: -32.9326448
-          lng: 148.74752414
-      made: 153.195927 km
+        - lat: -32.8167
+          lng: 148.695467
+        - lat: -32.93247506
+          lng: 148.74798649
+      made: 160.329927 km
   - - - '59'
       - Artur Dzamikhov
     - togo:
@@ -13147,51 +12917,51 @@ nigh:
   - - - '14'
       - Olav Lien Olsen
     - togo:
-        distance: 20.805104 km
+        distance: 13.679324 km
         flipSum:
-        - 20.805104 km
+        - 13.679324 km
         legs:
-        - 20.805104 km
+        - 13.679324 km
         legsSum:
-        - 20.805104 km
+        - 13.679324 km
         waypoints:
-        - lat: -32.764167
-          lng: 148.65065
-        - lat: -32.93258316
-          lng: 148.74767557
-      made: 153.264927 km
+        - lat: -32.817383
+          lng: 148.69625
+        - lat: -32.93247506
+          lng: 148.74798649
+      made: 160.426927 km
   - - - '31'
       - Andrew Barnes
     - togo:
-        distance: 20.768894 km
+        distance: 13.854611 km
         flipSum:
-        - 20.768894 km
+        - 13.854611 km
         legs:
-        - 20.768894 km
+        - 13.854611 km
         legsSum:
-        - 20.768894 km
+        - 13.854611 km
         waypoints:
-        - lat: -32.764519
-          lng: 148.650674
-        - lat: -32.93258316
-          lng: 148.74767557
-      made: 153.226927 km
+        - lat: -32.816378
+          lng: 148.694129
+        - lat: -32.93247506
+          lng: 148.74798649
+      made: 160.250927 km
   - - - '26'
       - Guy Hubbard
     - togo:
-        distance: 20.810508 km
+        distance: 13.911458 km
         flipSum:
-        - 20.810508 km
+        - 13.911458 km
         legs:
-        - 20.810508 km
+        - 13.911458 km
         legsSum:
-        - 20.810508 km
+        - 13.911458 km
         waypoints:
-        - lat: -32.764172
-          lng: 148.650505
-        - lat: -32.93258316
-          lng: 148.74767557
-      made: 153.264927 km
+        - lat: -32.816302
+          lng: 148.692697
+        - lat: -32.93252655
+          lng: 148.74782977
+      made: 160.194927 km
   - - - '15'
       - ! 'Jean Souviron '
     - togo:
@@ -13211,19 +12981,19 @@ nigh:
   - - - '81'
       - Valentino Bau
     - togo:
-        distance: 21.181055 km
+        distance: 14.874912 km
         flipSum:
-        - 21.181055 km
+        - 14.874912 km
         legs:
-        - 21.181055 km
+        - 14.874912 km
         legsSum:
-        - 21.181055 km
+        - 14.874912 km
         waypoints:
-        - lat: -32.759217
-          lng: 148.653733
-        - lat: -32.93258316
-          lng: 148.74767557
-      made: 152.920927 km
+        - lat: -32.80585
+          lng: 148.696617
+        - lat: -32.93242878
+          lng: 148.74814551
+      made: 159.230927 km
   - - - '33'
       - Conrad Loten
     - togo:
@@ -13243,35 +13013,35 @@ nigh:
   - - - '77'
       - Len Paton
     - togo:
-        distance: 20.773073 km
+        distance: 16.712571 km
         flipSum:
-        - 20.773073 km
+        - 16.712571 km
         legs:
-        - 20.773073 km
+        - 16.712571 km
         legsSum:
-        - 20.773073 km
+        - 16.712571 km
         waypoints:
-        - lat: -32.764183
-          lng: 148.6514
-        - lat: -32.93258316
-          lng: 148.74767557
-      made: 153.249927 km
+        - lat: -32.790883
+          lng: 148.687967
+        - lat: -32.93247506
+          lng: 148.74798649
+      made: 157.392927 km
   - - - '94'
       - Mitch Shipley
     - togo:
-        distance: 21.028062 km
+        distance: 16.712732 km
         flipSum:
-        - 21.028062 km
+        - 16.712732 km
         legs:
-        - 21.028062 km
+        - 16.712732 km
         legsSum:
-        - 21.028062 km
+        - 16.712732 km
         waypoints:
-        - lat: -32.76055
-          lng: 148.6542
-        - lat: -32.93258316
-          lng: 148.74767557
-      made: 153.046927 km
+        - lat: -32.790817
+          lng: 148.688183
+        - lat: -32.93247506
+          lng: 148.74798649
+      made: 157.392927 km
   - - - '90'
       - Adam Stevens
     - togo:
@@ -13323,45 +13093,45 @@ nigh:
   - - - '79'
       - David Stevens
     - togo:
-        distance: 120.537002 km
+        distance: 32.194692 km
         flipSum:
-        - 120.537002 km
-        - 20.960614 km
+        - 32.194692 km
+        - 20.998968 km
         legs:
-        - 99.576388 km
-        - 20.960614 km
+        - 11.195724 km
+        - 20.998968 km
         legsSum:
-        - 99.576388 km
-        - 120.537002 km
+        - 11.195724 km
+        - 32.194692 km
         waypoints:
-        - lat: -32.96173
-          lng: 147.608034
-        - lat: -32.76378684
-          lng: 148.6477891
+        - lat: -32.767185
+          lng: 148.527685
+        - lat: -32.76358717
+          lng: 148.64734491
         - lat: -32.9326448
           lng: 148.74752414
-      made: 53.413927 km
+      made: 141.910927 km
   - - - '70'
       - Matthew Barlow
     - togo:
-        distance: 120.829064 km
+        distance: 33.789479 km
         flipSum:
-        - 120.829064 km
-        - 20.960614 km
+        - 33.789479 km
+        - 20.998968 km
         legs:
-        - 99.868450 km
-        - 20.960614 km
+        - 12.790511 km
+        - 20.998968 km
         legsSum:
-        - 99.868450 km
-        - 120.829064 km
+        - 12.790511 km
+        - 33.789479 km
         waypoints:
-        - lat: -32.968467
-          lng: 147.606633
-        - lat: -32.76378684
-          lng: 148.6477891
+        - lat: -32.765167
+          lng: 148.510567
+        - lat: -32.76358717
+          lng: 148.64734491
         - lat: -32.9326448
           lng: 148.74752414
-      made: 53.052927 km
+      made: 140.316927 km
   - - - '55'
       - Kari Suhonen
     - togo:
@@ -13386,24 +13156,24 @@ nigh:
   - - - '85'
       - Neil Petersen
     - togo:
-        distance: 120.526674 km
+        distance: 43.638428 km
         flipSum:
-        - 120.526674 km
-        - 20.960614 km
+        - 43.638428 km
+        - 20.936969 km
         legs:
-        - 99.566060 km
-        - 20.960614 km
+        - 22.701459 km
+        - 20.936969 km
         legsSum:
-        - 99.566060 km
-        - 120.526674 km
+        - 22.701459 km
+        - 43.638428 km
         waypoints:
-        - lat: -32.9606
-          lng: 147.60785
-        - lat: -32.76378684
-          lng: 148.6477891
+        - lat: -32.841483
+          lng: 148.423433
+        - lat: -32.76389493
+          lng: 148.64809942
         - lat: -32.9326448
           lng: 148.74752414
-      made: 53.513927 km
+      made: 130.467927 km
   - - - '3'
       - Rod Flockhart
     - togo:
@@ -13428,276 +13198,276 @@ nigh:
   - - - '48'
       - Paolo Rosichetti
     - togo:
-        distance: 121.494570 km
+        distance: 50.987233 km
         flipSum:
-        - 121.494570 km
-        - 20.960614 km
-        legs:
-        - 100.533956 km
-        - 20.960614 km
-        legsSum:
-        - 100.533956 km
-        - 121.494570 km
-        waypoints:
-        - lat: -32.97625
-          lng: 147.601467
-        - lat: -32.76378684
-          lng: 148.6477891
-        - lat: -32.9326448
-          lng: 148.74752414
-      made: 52.539927 km
-  - - - '95'
-      - Anton Struganov
-    - togo:
-        distance: 121.675240 km
-        flipSum:
-        - 121.675240 km
-        - 20.960614 km
-        legs:
-        - 100.714626 km
-        - 20.960614 km
-        legsSum:
-        - 100.714626 km
-        - 121.675240 km
-        waypoints:
-        - lat: -32.98205
-          lng: 147.601133
-        - lat: -32.76378684
-          lng: 148.6477891
-        - lat: -32.9326448
-          lng: 148.74752414
-      made: 51.923927 km
-  - - - '22'
-      - Mark Russell
-    - togo:
-        distance: 121.441238 km
-        flipSum:
-        - 121.441238 km
-        - 20.960614 km
-        legs:
-        - 100.480624 km
-        - 20.960614 km
-        legsSum:
-        - 100.480624 km
-        - 121.441238 km
-        waypoints:
-        - lat: -32.976528
-          lng: 147.602133
-        - lat: -32.76378684
-          lng: 148.6477891
-        - lat: -32.9326448
-          lng: 148.74752414
-      made: 52.485927 km
-  - - - '6'
-      - Phil Schroder
-    - togo:
-        distance: 121.280496 km
-        flipSum:
-        - 121.280496 km
-        - 20.960614 km
-        legs:
-        - 100.319882 km
-        - 20.960614 km
-        legsSum:
-        - 100.319882 km
-        - 121.280496 km
-        waypoints:
-        - lat: -32.975983
-          lng: 147.60375
-        - lat: -32.76378684
-          lng: 148.6477891
-        - lat: -32.9326448
-          lng: 148.74752414
-      made: 52.489927 km
-  - - - '73'
-      - Gijs Wanders
-    - togo:
-        distance: 121.580682 km
-        flipSum:
-        - 121.580682 km
-        - 20.960614 km
-        legs:
-        - 100.620068 km
-        - 20.960614 km
-        legsSum:
-        - 100.620068 km
-        - 121.580682 km
-        waypoints:
-        - lat: -32.9815
-          lng: 147.602017
-        - lat: -32.76378684
-          lng: 148.6477891
-        - lat: -32.9326448
-          lng: 148.74752414
-      made: 51.964927 km
-  - - - '21'
-      - Gavin Myers
-    - togo:
-        distance: 120.893817 km
-        flipSum:
-        - 120.893817 km
-        - 20.960614 km
-        legs:
-        - 99.933203 km
-        - 20.960614 km
-        legsSum:
-        - 99.933203 km
-        - 120.893817 km
-        waypoints:
-        - lat: -32.967533
-          lng: 147.605667
-        - lat: -32.76378684
-          lng: 148.6477891
-        - lat: -32.9326448
-          lng: 148.74752414
-      made: 53.188927 km
-  - - - '32'
-      - Kathryn O'Riordan
-    - togo:
-        distance: 120.475965 km
-        flipSum:
-        - 120.475965 km
-        - 20.960614 km
-        legs:
-        - 99.515351 km
-        - 20.960614 km
-        legsSum:
-        - 99.515351 km
-        - 120.475965 km
-        waypoints:
-        - lat: -32.958533
-          lng: 147.607867
-        - lat: -32.76378684
-          lng: 148.6477891
-        - lat: -32.9326448
-          lng: 148.74752414
-      made: 53.575927 km
-  - - - '43'
-      - Les Bestt
-    - togo:
-        distance: 120.290113 km
-        flipSum:
-        - 120.290113 km
-        - 20.960614 km
-        legs:
-        - 99.329499 km
-        - 20.960614 km
-        legsSum:
-        - 99.329499 km
-        - 120.290113 km
-        waypoints:
-        - lat: -32.951943
-          lng: 147.608223
-        - lat: -32.76378684
-          lng: 148.6477891
-        - lat: -32.9326448
-          lng: 148.74752414
-      made: 53.791927 km
-  - - - '69'
-      - Jonathan Kinred
-    - togo:
-        distance: 120.889340 km
-        flipSum:
-        - 120.889340 km
-        - 20.960614 km
-        legs:
-        - 99.928726 km
-        - 20.960614 km
-        legsSum:
-        - 99.928726 km
-        - 120.889340 km
-        waypoints:
-        - lat: -32.969056
-          lng: 147.606131
-        - lat: -32.76378684
-          lng: 148.6477891
-        - lat: -32.9326448
-          lng: 148.74752414
-      made: 53.018927 km
-  - - - '18'
-      - Jürgen Pasker
-    - togo:
-        distance: 120.816575 km
-        flipSum:
-        - 120.816575 km
-        - 20.960614 km
-        legs:
-        - 99.855961 km
-        - 20.960614 km
-        legsSum:
-        - 99.855961 km
-        - 120.816575 km
-        waypoints:
-        - lat: -32.96655
-          lng: 147.60625
-        - lat: -32.76378684
-          lng: 148.6477891
-        - lat: -32.9326448
-          lng: 148.74752414
-      made: 53.214927 km
-  - - - '29'
-      - Konstantin Lukyanov
-    - togo:
-        distance: 119.359074 km
-        flipSum:
-        - 119.359074 km
-        - 20.960614 km
-        legs:
-        - 98.398461 km
-        - 20.960614 km
-        legsSum:
-        - 98.398461 km
-        - 119.359074 km
-        waypoints:
-        - lat: -32.94705
-          lng: 147.6172
-        - lat: -32.76378684
-          lng: 148.6477891
-        - lat: -32.9326448
-          lng: 148.74752414
-      made: 52.967927 km
-  - - - '7'
-      - Shaun O'neill
-    - togo:
-        distance: 120.518984 km
-        flipSum:
-        - 120.518984 km
+        - 50.987233 km
         - 20.973033 km
         legs:
-        - 99.545951 km
+        - 30.014200 km
         - 20.973033 km
         legsSum:
-        - 99.545951 km
-        - 120.518984 km
+        - 30.014200 km
+        - 50.987233 km
         waypoints:
-        - lat: -32.9296
-          lng: 147.600483
+        - lat: -32.811983
+          lng: 148.331733
         - lat: -32.76372519
           lng: 148.64763797
         - lat: -32.9326448
           lng: 148.74752414
-      made: 53.495927 km
-  - - - '91'
-      - Francesco Rinaldi
+      made: 123.118927 km
+  - - - '95'
+      - Anton Struganov
     - togo:
-        distance: 120.650752 km
+        distance: 52.300384 km
         flipSum:
-        - 120.650752 km
+        - 52.300384 km
+        - 20.936969 km
+        legs:
+        - 31.363415 km
+        - 20.936969 km
+        legsSum:
+        - 31.363415 km
+        - 52.300384 km
+        waypoints:
+        - lat: -32.8761
+          lng: 148.340167
+        - lat: -32.76389493
+          lng: 148.64809942
+        - lat: -32.9326448
+          lng: 148.74752414
+      made: 121.805927 km
+  - - - '22'
+      - Mark Russell
+    - togo:
+        distance: 52.884373 km
+        flipSum:
+        - 52.884373 km
         - 20.960614 km
         legs:
-        - 99.690138 km
+        - 31.923760 km
         - 20.960614 km
         legsSum:
-        - 99.690138 km
-        - 120.650752 km
+        - 31.923760 km
+        - 52.884373 km
         waypoints:
-        - lat: -32.965417
-          lng: 147.607767
+        - lat: -32.822665
+          lng: 148.313522
         - lat: -32.76378684
           lng: 148.6477891
         - lat: -32.9326448
           lng: 148.74752414
-      made: 53.209927 km
+      made: 121.221927 km
+  - - - '6'
+      - Phil Schroder
+    - togo:
+        distance: 52.788099 km
+        flipSum:
+        - 52.788099 km
+        - 20.960614 km
+        legs:
+        - 31.827485 km
+        - 20.960614 km
+        legsSum:
+        - 31.827485 km
+        - 52.788099 km
+        waypoints:
+        - lat: -32.83425
+          lng: 148.31775
+        - lat: -32.76378684
+          lng: 148.6477891
+        - lat: -32.9326448
+          lng: 148.74752414
+      made: 121.317927 km
+  - - - '73'
+      - Gijs Wanders
+    - togo:
+        distance: 58.041152 km
+        flipSum:
+        - 58.041152 km
+        - 20.936969 km
+        legs:
+        - 37.104183 km
+        - 20.936969 km
+        legsSum:
+        - 37.104183 km
+        - 58.041152 km
+        waypoints:
+        - lat: -32.8828
+          lng: 148.277083
+        - lat: -32.76389493
+          lng: 148.64809942
+        - lat: -32.9326448
+          lng: 148.74752414
+      made: 116.064927 km
+  - - - '21'
+      - Gavin Myers
+    - togo:
+        distance: 60.196953 km
+        flipSum:
+        - 60.196953 km
+        - 20.973033 km
+        legs:
+        - 39.223919 km
+        - 20.973033 km
+        legsSum:
+        - 39.223919 km
+        - 60.196953 km
+        waypoints:
+        - lat: -32.825383
+          lng: 148.234467
+        - lat: -32.76372519
+          lng: 148.64763797
+        - lat: -32.9326448
+          lng: 148.74752414
+      made: 113.908927 km
+  - - - '32'
+      - Kathryn O'Riordan
+    - togo:
+        distance: 60.640146 km
+        flipSum:
+        - 60.640146 km
+        - 20.973033 km
+        legs:
+        - 39.667112 km
+        - 20.973033 km
+        legsSum:
+        - 39.667112 km
+        - 60.640146 km
+        waypoints:
+        - lat: -32.83085
+          lng: 148.230833
+        - lat: -32.76372519
+          lng: 148.64763797
+        - lat: -32.9326448
+          lng: 148.74752414
+      made: 113.465927 km
+  - - - '43'
+      - Les Bestt
+    - togo:
+        distance: 65.141941 km
+        flipSum:
+        - 65.141941 km
+        - 20.973033 km
+        legs:
+        - 44.168907 km
+        - 20.973033 km
+        legsSum:
+        - 44.168907 km
+        - 65.141941 km
+        waypoints:
+        - lat: -32.836121
+          lng: 148.18299
+        - lat: -32.76372519
+          lng: 148.64763797
+        - lat: -32.9326448
+          lng: 148.74752414
+      made: 108.963927 km
+  - - - '69'
+      - Jonathan Kinred
+    - togo:
+        distance: 65.573359 km
+        flipSum:
+        - 65.573359 km
+        - 20.985825 km
+        legs:
+        - 44.587534 km
+        - 20.985825 km
+        legsSum:
+        - 44.587534 km
+        - 65.573359 km
+        waypoints:
+        - lat: -32.799001
+          lng: 148.172404
+        - lat: -32.7636586
+          lng: 148.64748983
+        - lat: -32.9326448
+          lng: 148.74752414
+      made: 108.532927 km
+  - - - '18'
+      - Jürgen Pasker
+    - togo:
+        distance: 80.044388 km
+        flipSum:
+        - 80.044388 km
+        - 20.973033 km
+        legs:
+        - 59.071354 km
+        - 20.973033 km
+        legsSum:
+        - 59.071354 km
+        - 80.044388 km
+        waypoints:
+        - lat: -32.869967
+          lng: 148.028283
+        - lat: -32.76372519
+          lng: 148.64763797
+        - lat: -32.9326448
+          lng: 148.74752414
+      made: 94.061927 km
+  - - - '29'
+      - Konstantin Lukyanov
+    - togo:
+        distance: 94.869294 km
+        flipSum:
+        - 94.869294 km
+        - 20.960614 km
+        legs:
+        - 73.908680 km
+        - 20.960614 km
+        legsSum:
+        - 73.908680 km
+        - 94.869294 km
+        waypoints:
+        - lat: -32.915067
+          lng: 147.87745
+        - lat: -32.76378684
+          lng: 148.6477891
+        - lat: -32.9326448
+          lng: 148.74752414
+      made: 79.236927 km
+  - - - '7'
+      - Shaun O'neill
+    - togo:
+        distance: 99.746356 km
+        flipSum:
+        - 99.746356 km
+        - 20.960614 km
+        legs:
+        - 78.785743 km
+        - 20.960614 km
+        legsSum:
+        - 78.785743 km
+        - 99.746356 km
+        waypoints:
+        - lat: -32.907783
+          lng: 147.822117
+        - lat: -32.76378684
+          lng: 148.6477891
+        - lat: -32.9326448
+          lng: 148.74752414
+      made: 74.359927 km
+  - - - '91'
+      - Francesco Rinaldi
+    - togo:
+        distance: 100.500213 km
+        flipSum:
+        - 100.500213 km
+        - 20.973033 km
+        legs:
+        - 79.527180 km
+        - 20.973033 km
+        legsSum:
+        - 79.527180 km
+        - 100.500213 km
+        waypoints:
+        - lat: -32.905917
+          lng: 147.813433
+        - lat: -32.76372519
+          lng: 148.64763797
+        - lat: -32.9326448
+          lng: 148.74752414
+      made: 73.605927 km
   - - - '30'
       - Fredy Bircher
     - togo:
@@ -13722,87 +13492,87 @@ nigh:
   - - - '37'
       - Peter Ebeling
     - togo:
-        distance: 120.191293 km
+        distance: 105.527214 km
         flipSum:
-        - 120.191293 km
-        - 20.960614 km
+        - 105.527214 km
+        - 20.973033 km
         legs:
-        - 99.230679 km
-        - 20.960614 km
+        - 84.554181 km
+        - 20.973033 km
         legsSum:
-        - 99.230679 km
-        - 120.191293 km
+        - 84.554181 km
+        - 105.527214 km
         waypoints:
-        - lat: -32.943258
-          lng: 147.60718
-        - lat: -32.76378684
-          lng: 148.6477891
+        - lat: -32.89688
+          lng: 147.756664
+        - lat: -32.76372519
+          lng: 148.64763797
         - lat: -32.9326448
           lng: 148.74752414
-      made: 53.820927 km
+      made: 68.578927 km
   - - - '16'
       - Grant Edward
     - togo:
-        distance: 120.485412 km
+        distance: 107.951688 km
         flipSum:
-        - 120.485412 km
+        - 107.951688 km
         - 20.960614 km
         legs:
-        - 99.524798 km
+        - 86.991074 km
         - 20.960614 km
         legsSum:
-        - 99.524798 km
-        - 120.485412 km
+        - 86.991074 km
+        - 107.951688 km
         waypoints:
-        - lat: -32.959408
-          lng: 147.607991
+        - lat: -32.926899
+          lng: 147.737058
         - lat: -32.76378684
           lng: 148.6477891
         - lat: -32.9326448
           lng: 148.74752414
-      made: 53.552927 km
+      made: 66.153927 km
   - - - '19'
       - Mikhail Karmazin
     - togo:
-        distance: 121.949588 km
+        distance: 110.868498 km
         flipSum:
-        - 121.949588 km
+        - 110.868498 km
         - 20.960614 km
         legs:
-        - 100.988975 km
+        - 89.907884 km
         - 20.960614 km
         legsSum:
-        - 100.988975 km
-        - 121.949588 km
+        - 89.907884 km
+        - 110.868498 km
         waypoints:
-        - lat: -32.981567
-          lng: 147.597967
+        - lat: -32.960183
+          lng: 147.714017
         - lat: -32.76378684
           lng: 148.6477891
         - lat: -32.9326448
           lng: 148.74752414
-      made: 52.021927 km
+      made: 63.237927 km
   - - - '96'
       - Brodrick Osborne
     - togo:
-        distance: 120.897387 km
+        distance: 120.965272 km
         flipSum:
-        - 120.897387 km
+        - 120.965272 km
         - 20.960614 km
         legs:
-        - 99.936773 km
+        - 100.004659 km
         - 20.960614 km
         legsSum:
-        - 99.936773 km
-        - 120.897387 km
+        - 100.004659 km
+        - 120.965272 km
         waypoints:
-        - lat: -32.968167
-          lng: 147.6058
+        - lat: -32.9684
+          lng: 147.605117
         - lat: -32.76378684
           lng: 148.6477891
         - lat: -32.9326448
           lng: 148.74752414
-      made: 53.122927 km
+      made: 53.140927 km
   - - - '2'
       - Pablo Gomes
     - togo:
@@ -14349,32 +14119,6 @@ nigh:
         - lat: -32.9326448
           lng: 148.74752414
       made: 0.425927 km
-  - - - '50'
-      - Monique Pavy
-    - togo:
-        distance: 173.206793 km
-        flipSum:
-        - 173.206793 km
-        - 121.007999 km
-        - 20.960614 km
-        legs:
-        - 52.198794 km
-        - 100.047385 km
-        - 20.960614 km
-        legsSum:
-        - 52.198794 km
-        - 152.246179 km
-        - 173.206793 km
-        waypoints:
-        - lat: -33.355267
-          lng: 147.9238
-        - lat: -32.96915586
-          lng: 147.60485332
-        - lat: -32.76378684
-          lng: 148.6477891
-        - lat: -32.9326448
-          lng: 148.74752414
-      made: 0.898927 km
 - - - - '20'
       - ! 'Luke Browne '
     - togo:

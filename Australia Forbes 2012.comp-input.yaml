@@ -99,7 +99,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
-  penalties: []
+  penals: []
 - taskName: day 2
   zones:
     raw:
@@ -174,7 +174,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
-  penalties: []
+  penals: []
 - taskName: Day 3
   zones:
     raw:
@@ -249,7 +249,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
-  penalties:
+  penals:
   - - - '67'
       - ! 'Andy Phillips '
     - - penalty-points: 0.16
@@ -319,19 +319,13 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
-  penalties:
+  penals:
   - - - '76'
       - Dmitriy Korchenkov
     - - penalty-fraction: 0.1
-  - - - '77'
-      - Len Paton
-    - []
   - - - '17'
       - John Urlich
     - - penalty-points: 9.0e-2
-  - - - '43'
-      - Les Bestt
-    - []
   - - - '98'
       - Patrick Collin
     - - penalty-fraction: 0.1
@@ -398,7 +392,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
-  penalties:
+  penals:
   - - - '76'
       - Dmitriy Korchenkov
     - - penalty-fraction: 0.1
@@ -468,7 +462,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
-  penalties:
+  penals:
   - - - '96'
       - Brodrick Osborne
     - - penalty-points: 6
@@ -546,7 +540,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
-  penalties: []
+  penals: []
 - taskName: Day 8
   zones:
     raw:
@@ -621,7 +615,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
-  penalties: []
+  penals: []
 taskFolders:
 - - Tracklogs
   - day 1

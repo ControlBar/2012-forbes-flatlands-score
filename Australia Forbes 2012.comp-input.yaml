@@ -253,9 +253,11 @@ tasks:
   - - - '67'
       - ! 'Andy Phillips '
     - - penalty-points: 0.16
+    - CTAF infringement of 218m
   - - - '77'
       - Len Paton
     - - penalty-points: 0.13
+    - CTAF infringement of 201m
 - taskName: Day 4
   zones:
     raw:
@@ -323,12 +325,15 @@ tasks:
   - - - '76'
       - Dmitriy Korchenkov
     - - penalty-fraction: 0.1
+    - Restricted Airspace infringement > 100m
   - - - '17'
       - John Urlich
     - - penalty-points: 9.0e-2
+    - CTAF infringement of 177m
   - - - '98'
       - Patrick Collin
     - - penalty-fraction: 0.1
+    - Restricted Airspace infringement > 100m
 - taskName: Day 5
   zones:
     raw:
@@ -396,9 +401,11 @@ tasks:
   - - - '76'
       - Dmitriy Korchenkov
     - - penalty-fraction: 0.1
+    - Restricted Airspace infringement > 100m
   - - - '17'
       - John Urlich
     - - penalty-points: 0.43
+    - CTAF infringment of 302m
 - taskName: Day 6
   zones:
     raw:
@@ -466,6 +473,7 @@ tasks:
   - - - '96'
       - Brodrick Osborne
     - - penalty-points: 6
+    - Jump the gun adjustment
 - taskName: Day 7
   zones:
     raw:

@@ -2881,21 +2881,36 @@ pilotGroups:
   - - '91'
     - Francesco Rinaldi
   didFlyNoTracklog:
-  - - - '58'
-      - Anna Belova
-    - awardedFrac: 0
+  - pilot:
+    - '58'
+    - Anna Belova
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 133.356000 km
-  - - - '79'
-      - David Stevens
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '79'
+    - David Stevens
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 133.356000 km
-  - - - '52'
-      - Virpi Nieminen
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '52'
+    - Virpi Nieminen
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 133.356000 km
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
   dnf:
   - - '86'
     - Talgat Irgaleev
@@ -2918,31 +2933,56 @@ pilotGroups:
   - - '86'
     - Talgat Irgaleev
   didFlyNoTracklog:
-  - - - '101'
-      - ! 'Andrew Luton '
-    - awardedFrac: 1.000005439039248
+  - pilot:
+    - '101'
+    - ! 'Andrew Luton '
+    awardedReach:
       awardedMade: 183.857000 km
       awardedTask: 183.856000 km
-  - - - '78'
-      - Christine Aichner
-    - awardedFrac: 1.000005439039248
+      awardedFrac: 1.000005439039248
+    awardedVelocity:
+      ss: 2012-01-07T04:00:00Z
+      es: 2012-01-07T07:13:42Z
+  - pilot:
+    - '78'
+    - Christine Aichner
+    awardedReach:
       awardedMade: 183.857000 km
       awardedTask: 183.856000 km
-  - - - '19'
-      - Mikhail Karmazin
-    - awardedFrac: 1.000005439039248
+      awardedFrac: 1.000005439039248
+    awardedVelocity:
+      ss: 2012-01-07T04:00:00Z
+      es: 2012-01-07T07:18:42Z
+  - pilot:
+    - '19'
+    - Mikhail Karmazin
+    awardedReach:
       awardedMade: 183.857000 km
       awardedTask: 183.856000 km
-  - - - '89'
-      - Scott Barrett
-    - awardedFrac: 1.000005439039248
+      awardedFrac: 1.000005439039248
+    awardedVelocity:
+      ss: 2012-01-07T04:00:00Z
+      es: 2012-01-07T07:17:38Z
+  - pilot:
+    - '89'
+    - Scott Barrett
+    awardedReach:
       awardedMade: 183.857000 km
       awardedTask: 183.856000 km
-  - - - '42'
-      - Suan Selenati
-    - awardedFrac: 0
+      awardedFrac: 1.000005439039248
+    awardedVelocity:
+      ss: 2012-01-07T04:00:00Z
+      es: 2012-01-07T07:19:49Z
+  - pilot:
+    - '42'
+    - Suan Selenati
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 183.856000 km
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
   dnf: []
 - absent:
   - - '65'
@@ -2958,31 +2998,56 @@ pilotGroups:
   - - '72'
     - Tove Heaney
   didFlyNoTracklog:
-  - - - '67'
-      - ! 'Andy Phillips '
-    - awardedFrac: 1.0000069429979865
+  - pilot:
+    - '67'
+    - ! 'Andy Phillips '
+    awardedReach:
       awardedMade: 144.031000 km
       awardedTask: 144.030000 km
-  - - - '28'
-      - Evgeniya Laritskaya
-    - awardedFrac: 0
+      awardedFrac: 1.0000069429979865
+    awardedVelocity:
+      ss: 2012-01-09T04:00:00Z
+      es: 2012-01-09T06:57:06Z
+  - pilot:
+    - '28'
+    - Evgeniya Laritskaya
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 144.030000 km
-  - - - '57'
-      - Julia Kucherenko
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '57'
+    - Julia Kucherenko
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 144.030000 km
-  - - - '88'
-      - Martin Sielaff
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '88'
+    - Martin Sielaff
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 144.030000 km
-  - - - '103'
-      - Roberto Nichele
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '103'
+    - Roberto Nichele
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 144.030000 km
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
   dnf: []
 - absent:
   - - '65'
@@ -2992,16 +3057,26 @@ pilotGroups:
   - - '10'
     - Marat Matnurov
   didFlyNoTracklog:
-  - - - '53'
-      - Hadewych van Kempen
-    - awardedFrac: 0
+  - pilot:
+    - '53'
+    - Hadewych van Kempen
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 217.388000 km
-  - - - '40'
-      - Phil de Joux
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '40'
+    - Phil de Joux
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 217.388000 km
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
   dnf:
   - - '91'
     - Francesco Rinaldi
@@ -3015,11 +3090,16 @@ pilotGroups:
   - - '10'
     - Marat Matnurov
   didFlyNoTracklog:
-  - - - '91'
-      - Francesco Rinaldi
-    - awardedFrac: 0
+  - pilot:
+    - '91'
+    - Francesco Rinaldi
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 201.821000 km
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
   dnf: []
 - absent:
   - - '65'
@@ -3033,21 +3113,36 @@ pilotGroups:
   - - '10'
     - Marat Matnurov
   didFlyNoTracklog:
-  - - - '62'
-      - Enda Murphy
-    - awardedFrac: 0
+  - pilot:
+    - '62'
+    - Enda Murphy
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 174.524000 km
-  - - - '28'
-      - Evgeniya Laritskaya
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '28'
+    - Evgeniya Laritskaya
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 174.524000 km
-  - - - '47'
-      - ! 'Miguel De Jong '
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '47'
+    - ! 'Miguel De Jong '
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 174.524000 km
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
   dnf: []
 - absent:
   - - '106'
@@ -3063,46 +3158,86 @@ pilotGroups:
   - - '72'
     - Tove Heaney
   didFlyNoTracklog:
-  - - - '58'
-      - Anna Belova
-    - awardedFrac: 7.554439177321573e-2
+  - pilot:
+    - '58'
+    - Anna Belova
+    awardedReach:
       awardedMade: 12.000000 km
       awardedTask: 158.847000 km
-  - - - '95'
-      - Anton Struganov
-    - awardedFrac: 1.0000062953659812
+      awardedFrac: 7.554439177321573e-2
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '95'
+    - Anton Struganov
+    awardedReach:
       awardedMade: 158.848000 km
       awardedTask: 158.847000 km
-  - - - '41'
-      - Curt Warren
-    - awardedFrac: 1.0000062953659812
+      awardedFrac: 1.0000062953659812
+    awardedVelocity:
+      ss: 2012-01-14T04:00:00Z
+      es: 2012-01-14T08:03:14Z
+  - pilot:
+    - '41'
+    - Curt Warren
+    awardedReach:
       awardedMade: 158.848000 km
       awardedTask: 158.847000 km
-  - - - '28'
-      - Evgeniya Laritskaya
-    - awardedFrac: 0
+      awardedFrac: 1.0000062953659812
+    awardedVelocity:
+      ss: 2012-01-14T04:00:00Z
+      es: 2012-01-14T07:56:52Z
+  - pilot:
+    - '28'
+    - Evgeniya Laritskaya
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 158.847000 km
-  - - - '30'
-      - Fredy Bircher
-    - awardedFrac: 0.9947937323336292
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '30'
+    - Fredy Bircher
+    awardedReach:
       awardedMade: 158.020000 km
       awardedTask: 158.847000 km
-  - - - '64'
-      - Gustavo Carvalho
-    - awardedFrac: 0
+      awardedFrac: 0.9947937323336292
+    awardedVelocity:
+      ss: 2012-01-14T03:31:04Z
+      es: null
+  - pilot:
+    - '64'
+    - Gustavo Carvalho
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 158.847000 km
-  - - - '32'
-      - Kathryn O'Riordan
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '32'
+    - Kathryn O'Riordan
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 158.847000 km
-  - - - '22'
-      - Mark Russell
-    - awardedFrac: 0.3273590310172682
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '22'
+    - Mark Russell
+    awardedReach:
       awardedMade: 52.000000 km
       awardedTask: 158.847000 km
+      awardedFrac: 0.3273590310172682
+    awardedVelocity:
+      ss: null
+      es: null
   dnf:
   - - '86'
     - Talgat Irgaleev

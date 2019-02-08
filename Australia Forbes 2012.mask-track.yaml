@@ -1,12 +1,12 @@
 pilotsAtEss:
 - 0
 - 32
-- 42
-- 35
+- 46
+- 36
 - 27
 - 47
 - 8
-- 27
+- 29
 raceTime:
 - openTask: 2012-01-05T01:00:00Z
   closeTask: 2012-01-05T09:00:00Z
@@ -128,12 +128,12 @@ bestDistance:
 sumDistance:
 - 3059.214386 km
 - 9252.988768 km
-- 11237.760435 km
-- 8150.910108 km
+- 11953.193679 km
+- 8286.762902 km
 - 11846.539684 km
 - 13820.827228 km
 - 9785.876649 km
-- 9166.283728 km
+- 9473.214136 km
 leadScaling:
 - 3.668378e-8
 - 3.649303e-8
@@ -3002,167 +3002,183 @@ arrival:
   - - - '103'
       - Roberto Nichele
     - rank: 2
-      frac: 0.94885597
+      frac: 0.95321325
   - - - '33'
       - Conrad Loten
     - rank: 3
-      frac: 0.89996113
+      frac: 0.90830525
   - - - '66'
       - Jonas Lobitz
     - rank: 4
-      frac: 0.85326421
+      frac: 0.86523698
   - - - '102'
       - Davide Guiducci
     - rank: 5
-      frac: 0.80871396
+      frac: 0.82396943
   - - - '8'
       - Primoz Gricar
     - rank: 6
-      frac: 0.76625911
+      frac: 0.78446356
   - - - '60'
       - Rohan Holtkamp
     - rank: 7
-      frac: 0.7258484
+      frac: 0.74668036
   - - - '7'
       - Shaun O'neill
     - rank: 8
-      frac: 0.68743056
+      frac: 0.71058082
   - - - '68'
       - Grant Heaney
     - rank: 9
-      frac: 0.65095432
+      frac: 0.67612591
   - - - '1'
       - Lukas Bader
     - rank: 10
-      frac: 0.61636844
+      frac: 0.64327662
   - - - '13'
       - John Smith
     - rank: 11
-      frac: 0.58362164
+      frac: 0.61199392
   - - - '95'
       - Anton Struganov
     - rank: 12
-      frac: 0.55266266
+      frac: 0.58223879
   - - - '94'
       - Mitch Shipley
     - rank: 13
-      frac: 0.52344023
+      frac: 0.55397222
   - - - '11'
       - Steve Blenkinsop
     - rank: 14
-      frac: 0.4959031
+      frac: 0.52715518
   - - - '84'
       - Yasuhiro Noma
     - rank: 15
-      frac: 0.47
+      frac: 0.50174866
   - - - '90'
       - Adam Stevens
     - rank: 16
-      frac: 0.44567966
+      frac: 0.47771364
   - - - '36'
       - Franz Herrmann
     - rank: 17
-      frac: 0.42289083
+      frac: 0.4550111
   - - - '61'
       - Jonny Durand
     - rank: 18
-      frac: 0.40158224
+      frac: 0.43360201
   - - - '99'
       - Tullio Gervasoni
     - rank: 19
-      frac: 0.38170262
+      frac: 0.41344736
   - - - '24'
       - Christian Baertschi
     - rank: 20
-      frac: 0.36320072
+      frac: 0.39450813
   - - - '92'
       - Hans Kiefinger
     - rank: 21
-      frac: 0.34602527
+      frac: 0.37674529
   - - - '5'
       - Wolfgang Siess
     - rank: 22
-      frac: 0.330125
+      frac: 0.36011984
   - - - '93'
       - Trent Brown
     - rank: 23
-      frac: 0.31544866
+      frac: 0.34459275
   - - - '59'
       - Artur Dzamikhov
     - rank: 24
-      frac: 0.30194497
+      frac: 0.330125
   - - - '35'
       - Carole Tobler
     - rank: 25
-      frac: 0.28956268
+      frac: 0.31667757
   - - - '49'
       - Tony Giammichele
     - rank: 26
-      frac: 0.27825053
+      frac: 0.30421144
   - - - '41'
       - Curt Warren
     - rank: 27
-      frac: 0.26795724
+      frac: 0.2926876
   - - - '85'
       - Neil Petersen
     - rank: 28
-      frac: 0.25863156
+      frac: 0.28206702
   - - - '56'
       - Cameron Tunbridge
     - rank: 29
-      frac: 0.25022222
+      frac: 0.27231068
   - - - '70'
       - Matthew Barlow
     - rank: 30
-      frac: 0.24267796
+      frac: 0.26337956
   - - - '14'
       - Olav Lien Olsen
     - rank: 31
-      frac: 0.23594752
+      frac: 0.25523465
   - - - '25'
       - Nick Purcell
     - rank: 32
-      frac: 0.22997963
+      frac: 0.24783693
   - - - '3'
       - Rod Flockhart
     - rank: 33
-      frac: 0.22472303
+      frac: 0.24114737
   - - - '34'
       - Jon snr Durand
     - rank: 34
-      frac: 0.22012646
+      frac: 0.23512695
   - - - '69'
       - Jonathan Kinred
     - rank: 35
-      frac: 0.21613865
+      frac: 0.22973666
   - - - '31'
       - Andrew Barnes
     - rank: 36
-      frac: 0.21270833
+      frac: 0.22493748
   - - - '75'
       - Joerg Bajewski
     - rank: 37
-      frac: 0.20978426
+      frac: 0.22069039
   - - - '87'
       - Corinna Schwiegershausen
     - rank: 38
-      frac: 0.20731515
+      frac: 0.21695637
   - - - '105'
       - Chris Lawry
     - rank: 39
-      frac: 0.20524976
+      frac: 0.21369639
   - - - '44'
       - Francoise Dieuzeide-banet
     - rank: 40
-      frac: 0.20353681
+      frac: 0.21087145
   - - - '47'
       - ! 'Miguel De Jong '
     - rank: 41
-      frac: 0.20212504
+      frac: 0.20844251
   - - - '77'
       - Len Paton
     - rank: 42
-      frac: 0.20096319
+      frac: 0.20637056
+  - - - '101'
+      - ! 'Andrew Luton '
+    - rank: 43
+      frac: 0.20461659
+  - - - '78'
+      - Christine Aichner
+    - rank: 43
+      frac: 0.20461659
+  - - - '19'
+      - Mikhail Karmazin
+    - rank: 43
+      frac: 0.20461659
+  - - - '89'
+      - Scott Barrett
+    - rank: 43
+      frac: 0.20461659
 - - - - '100'
       - Attila Bertok
     - rank: 1
@@ -3170,139 +3186,143 @@ arrival:
   - - - '5'
       - Wolfgang Siess
     - rank: 2
-      frac: 0.93889871
+      frac: 0.94055202
   - - - '15'
       - ! 'Jean Souviron '
     - rank: 3
-      frac: 0.88102148
+      frac: 0.88415381
   - - - '44'
       - Francoise Dieuzeide-banet
     - rank: 4
-      frac: 0.82627974
+      frac: 0.83072396
   - - - '34'
       - Jon snr Durand
     - rank: 5
-      frac: 0.77458491
+      frac: 0.78018107
   - - - '24'
       - Christian Baertschi
     - rank: 6
-      frac: 0.7258484
+      frac: 0.73244374
   - - - '6'
       - Phil Schroder
     - rank: 7
-      frac: 0.67998162
+      frac: 0.68743056
   - - - '99'
       - Tullio Gervasoni
     - rank: 8
-      frac: 0.636896
+      frac: 0.64506012
   - - - '68'
       - Grant Heaney
     - rank: 9
-      frac: 0.59650295
+      frac: 0.60525103
   - - - '59'
       - Artur Dzamikhov
     - rank: 10
-      frac: 0.55871389
+      frac: 0.56792188
   - - - '25'
       - Nick Purcell
     - rank: 11
-      frac: 0.52344023
+      frac: 0.53299126
   - - - '55'
       - Kari Suhonen
     - rank: 12
-      frac: 0.4905934
+      frac: 0.50037776
   - - - '78'
       - Christine Aichner
     - rank: 13
-      frac: 0.4600848
+      frac: 0.47
   - - - '92'
       - Hans Kiefinger
     - rank: 14
-      frac: 0.43182587
+      frac: 0.44177656
   - - - '18'
       - Jürgen Pasker
     - rank: 15
-      frac: 0.405728
+      frac: 0.41562603
   - - - '26'
       - Guy Hubbard
     - rank: 16
-      frac: 0.38170262
+      frac: 0.39146701
   - - - '23'
       - Gerolf Heinrichs
     - rank: 17
-      frac: 0.35966115
+      frac: 0.36921811
   - - - '89'
       - Scott Barrett
     - rank: 18
-      frac: 0.33951501
+      frac: 0.3487979
   - - - '60'
       - Rohan Holtkamp
     - rank: 19
-      frac: 0.3211756
+      frac: 0.330125
   - - - '61'
       - Jonny Durand
     - rank: 20
-      frac: 0.30455436
+      frac: 0.31311799
   - - - '36'
       - Franz Herrmann
     - rank: 21
-      frac: 0.28956268
+      frac: 0.29769547
   - - - '42'
       - Suan Selenati
     - rank: 22
-      frac: 0.276112
+      frac: 0.28377604
   - - - '90'
       - Adam Stevens
     - rank: 23
-      frac: 0.26411373
+      frac: 0.27127829
   - - - '13'
       - John Smith
     - rank: 24
-      frac: 0.25347928
+      frac: 0.26012082
   - - - '84'
       - Yasuhiro Noma
     - rank: 25
-      frac: 0.24412007
+      frac: 0.25022222
   - - - '31'
       - Andrew Barnes
     - rank: 26
-      frac: 0.23594752
+      frac: 0.24150109
   - - - '56'
       - Cameron Tunbridge
     - rank: 27
-      frac: 0.22887305
+      frac: 0.23387603
   - - - '75'
       - Joerg Bajewski
     - rank: 28
-      frac: 0.22280807
+      frac: 0.22726562
   - - - '93'
       - Trent Brown
     - rank: 29
-      frac: 0.217664
+      frac: 0.22158848
   - - - '11'
       - Steve Blenkinsop
     - rank: 30
-      frac: 0.21335226
+      frac: 0.21676318
   - - - '45'
       - Roland Wöhrle
     - rank: 31
-      frac: 0.20978426
+      frac: 0.21270833
   - - - '1'
       - Lukas Bader
     - rank: 32
-      frac: 0.20687142
+      frac: 0.20934253
   - - - '14'
       - Olav Lien Olsen
     - rank: 33
-      frac: 0.20452515
+      frac: 0.20658436
   - - - '98'
       - Patrick Collin
     - rank: 34
-      frac: 0.20265689
+      frac: 0.20435243
   - - - '69'
       - Jonathan Kinred
     - rank: 35
-      frac: 0.20117803
+      frac: 0.20256533
+  - - - '67'
+      - ! 'Andy Phillips '
+    - rank: 43
+      frac: 0
 - - - - '89'
       - Scott Barrett
     - rank: 1
@@ -3638,107 +3658,115 @@ arrival:
   - - - '100'
       - Attila Bertok
     - rank: 2
-      frac: 0.92141777
+      frac: 0.92666251
   - - - '66'
       - Jonas Lobitz
     - rank: 3
-      frac: 0.84820911
+      frac: 0.85799451
   - - - '83'
       - Peter Dall
     - rank: 4
-      frac: 0.78018107
+      frac: 0.79384026
   - - - '70'
       - Matthew Barlow
     - rank: 5
-      frac: 0.71714068
+      frac: 0.73404404
   - - - '102'
       - Davide Guiducci
     - rank: 6
-      frac: 0.65889499
+      frac: 0.67845012
   - - - '60'
       - Rohan Holtkamp
     - rank: 7
-      frac: 0.60525103
+      frac: 0.62690278
   - - - '34'
       - Jon snr Durand
     - rank: 8
-      frac: 0.55601585
+      frac: 0.5792463
   - - - '36'
       - Franz Herrmann
     - rank: 9
-      frac: 0.51099649
+      frac: 0.53532494
   - - - '93'
       - Trent Brown
     - rank: 10
-      frac: 0.47
+      frac: 0.49498298
   - - - '5'
       - Wolfgang Siess
     - rank: 11
-      frac: 0.43283341
+      frac: 0.4580647
   - - - '81'
       - Valentino Bau
     - rank: 12
-      frac: 0.39930376
+      frac: 0.42441437
   - - - '31'
       - Andrew Barnes
     - rank: 13
-      frac: 0.36921811
+      frac: 0.39387626
   - - - '45'
       - Roland Wöhrle
     - rank: 14
-      frac: 0.34238348
+      frac: 0.36629464
   - - - '84'
       - Yasuhiro Noma
     - rank: 15
-      frac: 0.31860692
+      frac: 0.3415138
   - - - '1'
       - Lukas Bader
     - rank: 16
-      frac: 0.29769547
+      frac: 0.319378
   - - - '11'
       - Steve Blenkinsop
     - rank: 17
-      frac: 0.27945618
+      frac: 0.29973152
   - - - '92'
       - Hans Kiefinger
     - rank: 18
-      frac: 0.26369608
+      frac: 0.28241863
   - - - '75'
       - Joerg Bajewski
     - rank: 19
-      frac: 0.25022222
+      frac: 0.26728361
   - - - '59'
       - Artur Dzamikhov
     - rank: 20
-      frac: 0.23884164
+      frac: 0.25417073
   - - - '94'
       - Mitch Shipley
     - rank: 21
-      frac: 0.22936138
+      frac: 0.24292427
   - - - '89'
       - Scott Barrett
     - rank: 22
-      frac: 0.22158848
+      frac: 0.23338849
   - - - '99'
       - Tullio Gervasoni
     - rank: 23
-      frac: 0.21532998
+      frac: 0.22540768
   - - - '71'
       - Edoardo Giudiceandrea
     - rank: 24
-      frac: 0.21039293
+      frac: 0.21882611
   - - - '15'
       - ! 'Jean Souviron '
     - rank: 25
-      frac: 0.20658436
+      frac: 0.21348805
   - - - '68'
       - Grant Heaney
     - rank: 26
-      frac: 0.20371132
+      frac: 0.20923777
   - - - '90'
       - Adam Stevens
     - rank: 27
-      frac: 0.20158086
+      frac: 0.20591955
+  - - - '95'
+      - Anton Struganov
+    - rank: 43
+      frac: 0
+  - - - '41'
+      - Curt Warren
+    - rank: 43
+      frac: 0
 ssSpeed:
 - []
 - - - - '89'
@@ -3961,6 +3989,10 @@ ssSpeed:
       - Matthew Barlow
     - time: 3.222778 h
       frac: 0.55653991
+  - - - '101'
+      - ! 'Andrew Luton '
+    - time: 3.228333 h
+      frac: 0.55318288
   - - - '41'
       - Curt Warren
     - time: 3.268611 h
@@ -3977,10 +4009,18 @@ ssSpeed:
       - Shaun O'neill
     - time: 3.291389 h
       frac: 0.5159188
+  - - - '19'
+      - Mikhail Karmazin
+    - time: 3.293889 h
+      frac: 0.51447126
   - - - '85'
       - Neil Petersen
     - time: 3.300833 h
       frac: 0.51046158
+  - - - '78'
+      - Christine Aichner
+    - time: 3.311667 h
+      frac: 0.50423904
   - - - '49'
       - Tony Giammichele
     - time: 3.320278 h
@@ -3989,6 +4029,10 @@ ssSpeed:
       - Jon snr Durand
     - time: 3.322500 h
       frac: 0.4980553
+  - - - '89'
+      - Scott Barrett
+    - time: 3.330278 h
+      frac: 0.4936391
   - - - '69'
       - Jonathan Kinred
     - time: 3.368611 h
@@ -4177,6 +4221,10 @@ ssSpeed:
       - Patrick Collin
     - time: 2.926389 h
       frac: 0.30586918
+  - - - '67'
+      - ! 'Andy Phillips '
+    - time: 2.951667 h
+      frac: 0.29194851
 - - - - '60'
       - Rohan Holtkamp
     - time: 3.886667 h
@@ -4513,10 +4561,18 @@ ssSpeed:
       - Peter Dall
     - time: 3.921389 h
       frac: 0.77658799
+  - - - '41'
+      - Curt Warren
+    - time: 3.947778 h
+      frac: 0.75767917
   - - - '100'
       - Attila Bertok
     - time: 4.002500 h
       frac: 0.72062571
+  - - - '95'
+      - Anton Struganov
+    - time: 4.053889 h
+      frac: 0.68794766
   - - - '66'
       - Jonas Lobitz
     - time: 4.065000 h
@@ -4835,6 +4891,10 @@ gsSpeed:
       - Matthew Barlow
     - time: 3.222778 h
       frac: 0.55653991
+  - - - '101'
+      - ! 'Andrew Luton '
+    - time: 3.228333 h
+      frac: 0.55318288
   - - - '41'
       - Curt Warren
     - time: 3.268611 h
@@ -4851,10 +4911,18 @@ gsSpeed:
       - Shaun O'neill
     - time: 3.291389 h
       frac: 0.5159188
+  - - - '19'
+      - Mikhail Karmazin
+    - time: 3.293889 h
+      frac: 0.51447126
   - - - '85'
       - Neil Petersen
     - time: 3.300833 h
       frac: 0.51046158
+  - - - '78'
+      - Christine Aichner
+    - time: 3.311667 h
+      frac: 0.50423904
   - - - '49'
       - Tony Giammichele
     - time: 3.320278 h
@@ -4863,6 +4931,10 @@ gsSpeed:
       - Jon snr Durand
     - time: 3.322500 h
       frac: 0.4980553
+  - - - '89'
+      - Scott Barrett
+    - time: 3.330278 h
+      frac: 0.4936391
   - - - '69'
       - Jonathan Kinred
     - time: 3.368611 h
@@ -5051,6 +5123,10 @@ gsSpeed:
       - Patrick Collin
     - time: 2.926389 h
       frac: 0.30586918
+  - - - '67'
+      - ! 'Andy Phillips '
+    - time: 2.951667 h
+      frac: 0.29194851
 - - - - '60'
       - Rohan Holtkamp
     - time: 3.886667 h
@@ -5387,10 +5463,18 @@ gsSpeed:
       - Peter Dall
     - time: 3.921389 h
       frac: 0.77658799
+  - - - '41'
+      - Curt Warren
+    - time: 3.947778 h
+      frac: 0.75767917
   - - - '100'
       - Attila Bertok
     - time: 4.002500 h
       frac: 0.72062571
+  - - - '95'
+      - Anton Struganov
+    - time: 4.053889 h
+      frac: 0.68794766
   - - - '66'
       - Jonas Lobitz
     - time: 4.065000 h

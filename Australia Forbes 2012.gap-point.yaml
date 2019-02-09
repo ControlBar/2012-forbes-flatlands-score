@@ -5632,9 +5632,34 @@ score:
       reachDistance: 183.858 km
       landedDistance: 183.858 km
       stoppedAlt: null
+  - - - '101'
+      - ! 'Andrew Luton '
+    - place: '30'
+      total: 663
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 212.254
+        effort: 212.254
+        distance: 424.508
+        leading: 0
+        arrival: 15.2
+        time: 222.8
+      velocity:
+        ss: 2012-01-07T04:00:00Z
+        gs: null
+        es: 2012-01-07T07:13:42Z
+        ssDistance: 158.966 km
+        ssElapsed: 3.228333 h
+        gsElapsed: 3.228333 h
+        ssVelocity: 49.24 km / h
+        gsVelocity: 49.24 km / h
+      reachDistance: 183.859 km
+      landedDistance: 183.859 km
+      stoppedAlt: null
   - - - '59'
       - Artur Dzamikhov
-    - place: '30'
+    - place: '31'
       total: 660
       penalties: []
       penaltyReason: ''
@@ -5659,7 +5684,7 @@ score:
       stoppedAlt: null
   - - - '34'
       - Jon snr Durand
-    - place: '31'
+    - place: '32'
       total: 656
       penalties: []
       penaltyReason: ''
@@ -5684,7 +5709,7 @@ score:
       stoppedAlt: null
   - - - '56'
       - Cameron Tunbridge
-    - place: '32'
+    - place: '33'
       total: 653
       penalties: []
       penaltyReason: ''
@@ -5709,7 +5734,7 @@ score:
       stoppedAlt: null
   - - - '14'
       - Olav Lien Olsen
-    - place: '33'
+    - place: '34'
       total: 650
       penalties: []
       penaltyReason: ''
@@ -5734,7 +5759,7 @@ score:
       stoppedAlt: null
   - - - '25'
       - Nick Purcell
-    - place: '34'
+    - place: '35'
       total: 648
       penalties: []
       penaltyReason: ''
@@ -5757,9 +5782,34 @@ score:
       reachDistance: 183.858 km
       landedDistance: 183.858 km
       stoppedAlt: null
+  - - - '19'
+      - Mikhail Karmazin
+    - place: '36'
+      total: 647
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 212.254
+        effort: 212.254
+        distance: 424.508
+        leading: 0
+        arrival: 14.8
+        time: 207.3
+      velocity:
+        ss: 2012-01-07T04:00:00Z
+        gs: null
+        es: 2012-01-07T07:17:38Z
+        ssDistance: 158.966 km
+        ssElapsed: 3.293889 h
+        gsElapsed: 3.293889 h
+        ssVelocity: 48.26 km / h
+        gsVelocity: 48.26 km / h
+      reachDistance: 183.859 km
+      landedDistance: 183.859 km
+      stoppedAlt: null
   - - - '69'
       - Jonathan Kinred
-    - place: '35'
+    - place: '37'
       total: 644
       penalties: []
       penaltyReason: ''
@@ -5782,9 +5832,59 @@ score:
       reachDistance: 183.858 km
       landedDistance: 183.858 km
       stoppedAlt: null
+  - - - '78'
+      - Christine Aichner
+    - place: '38'
+      total: 642
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 212.254
+        effort: 212.254
+        distance: 424.508
+        leading: 0
+        arrival: 14.7
+        time: 203.1
+      velocity:
+        ss: 2012-01-07T04:00:00Z
+        gs: null
+        es: 2012-01-07T07:18:42Z
+        ssDistance: 158.966 km
+        ssElapsed: 3.311667 h
+        gsElapsed: 3.311667 h
+        ssVelocity: 48.00 km / h
+        gsVelocity: 48.00 km / h
+      reachDistance: 183.859 km
+      landedDistance: 183.859 km
+      stoppedAlt: null
+  - - - '89'
+      - Scott Barrett
+    - place: '39'
+      total: 638
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 212.254
+        effort: 212.254
+        distance: 424.508
+        leading: 0
+        arrival: 14.6
+        time: 198.9
+      velocity:
+        ss: 2012-01-07T04:00:00Z
+        gs: null
+        es: 2012-01-07T07:19:49Z
+        ssDistance: 158.966 km
+        ssElapsed: 3.330278 h
+        gsElapsed: 3.330278 h
+        ssVelocity: 47.73 km / h
+        gsVelocity: 47.73 km / h
+      reachDistance: 183.859 km
+      landedDistance: 183.859 km
+      stoppedAlt: null
   - - - '75'
       - Joerg Bajewski
-    - place: '36'
+    - place: '40'
       total: 636
       penalties: []
       penaltyReason: ''
@@ -5809,7 +5909,7 @@ score:
       stoppedAlt: null
   - - - '31'
       - Andrew Barnes
-    - place: '37'
+    - place: '41'
       total: 617
       penalties: []
       penaltyReason: ''
@@ -5834,7 +5934,7 @@ score:
       stoppedAlt: null
   - - - '105'
       - Chris Lawry
-    - place: '38'
+    - place: '42'
       total: 615
       penalties: []
       penaltyReason: ''
@@ -5859,7 +5959,7 @@ score:
       stoppedAlt: null
   - - - '44'
       - Francoise Dieuzeide-banet
-    - place: '39'
+    - place: '43'
       total: 600
       penalties: []
       penaltyReason: ''
@@ -5868,7 +5968,7 @@ score:
         effort: 212.254
         distance: 424.508
         leading: 0
-        arrival: 15.2
+        arrival: 15
         time: 160.3
       velocity:
         ss: 2012-01-07T03:44:51Z
@@ -5884,7 +5984,7 @@ score:
       stoppedAlt: null
   - - - '87'
       - Corinna Schwiegershausen
-    - place: '40'
+    - place: '44'
       total: 538
       penalties: []
       penaltyReason: ''
@@ -5909,7 +6009,7 @@ score:
       stoppedAlt: null
   - - - '47'
       - ! 'Miguel De Jong '
-    - place: '41'
+    - place: '45'
       total: 535
       penalties: []
       penaltyReason: ''
@@ -5918,7 +6018,7 @@ score:
         effort: 212.254
         distance: 424.508
         leading: 11.5
-        arrival: 15
+        arrival: 14.5
         time: 84.3
       velocity:
         ss: 2012-01-07T03:29:24Z
@@ -5934,7 +6034,7 @@ score:
       stoppedAlt: null
   - - - '77'
       - Len Paton
-    - place: '42'
+    - place: '46'
       total: 490
       penalties:
       - penalty-points: 0.13
@@ -5944,7 +6044,7 @@ score:
         effort: 212.254
         distance: 424.508
         leading: 0
-        arrival: 14.8
+        arrival: 14.5
         time: 51.1
       velocity:
         ss: 2012-01-07T03:39:36Z
@@ -5960,7 +6060,7 @@ score:
       stoppedAlt: null
   - - - '15'
       - ! 'Jean Souviron '
-    - place: '43'
+    - place: '47'
       total: 441
       penalties: []
       penaltyReason: ''
@@ -5985,7 +6085,7 @@ score:
       stoppedAlt: 463.000 m
   - - - '71'
       - Edoardo Giudiceandrea
-    - place: '44'
+    - place: '48'
       total: 431
       penalties: []
       penaltyReason: ''
@@ -6010,7 +6110,7 @@ score:
       stoppedAlt: 496.000 m
   - - - '26'
       - Guy Hubbard
-    - place: '45'
+    - place: '49'
       total: 430
       penalties: []
       penaltyReason: ''
@@ -6033,106 +6133,6 @@ score:
       reachDistance: 179.203 km
       landedDistance: 179.027 km
       stoppedAlt: 659.000 m
-  - - - '101'
-      - ! 'Andrew Luton '
-    - place: 46=
-      total: 425
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 212.254
-        effort: 212.254
-        distance: 424.508
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2012-01-07T04:00:00Z
-        gs: null
-        es: 2012-01-07T07:13:42Z
-        ssDistance: 158.966 km
-        ssElapsed: 3.228333 h
-        gsElapsed: 3.228333 h
-        ssVelocity: 49.24 km / h
-        gsVelocity: 49.24 km / h
-      reachDistance: 183.859 km
-      landedDistance: 183.859 km
-      stoppedAlt: null
-  - - - '78'
-      - Christine Aichner
-    - place: 46=
-      total: 425
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 212.254
-        effort: 212.254
-        distance: 424.508
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2012-01-07T04:00:00Z
-        gs: null
-        es: 2012-01-07T07:18:42Z
-        ssDistance: 158.966 km
-        ssElapsed: 3.311667 h
-        gsElapsed: 3.311667 h
-        ssVelocity: 48.00 km / h
-        gsVelocity: 48.00 km / h
-      reachDistance: 183.859 km
-      landedDistance: 183.859 km
-      stoppedAlt: null
-  - - - '19'
-      - Mikhail Karmazin
-    - place: 46=
-      total: 425
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 212.254
-        effort: 212.254
-        distance: 424.508
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2012-01-07T04:00:00Z
-        gs: null
-        es: 2012-01-07T07:17:38Z
-        ssDistance: 158.966 km
-        ssElapsed: 3.293889 h
-        gsElapsed: 3.293889 h
-        ssVelocity: 48.26 km / h
-        gsVelocity: 48.26 km / h
-      reachDistance: 183.859 km
-      landedDistance: 183.859 km
-      stoppedAlt: null
-  - - - '89'
-      - Scott Barrett
-    - place: 46=
-      total: 425
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 212.254
-        effort: 212.254
-        distance: 424.508
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2012-01-07T04:00:00Z
-        gs: null
-        es: 2012-01-07T07:19:49Z
-        ssDistance: 158.966 km
-        ssElapsed: 3.330278 h
-        gsElapsed: 3.330278 h
-        ssVelocity: 47.73 km / h
-        gsVelocity: 47.73 km / h
-      reachDistance: 183.859 km
-      landedDistance: 183.859 km
-      stoppedAlt: null
   - - - '55'
       - Kari Suhonen
     - place: '50'
@@ -7579,7 +7579,7 @@ score:
   - - - '89'
       - Scott Barrett
     - place: '18'
-      total: 784
+      total: 785
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -7587,7 +7587,7 @@ score:
         effort: 236.532
         distance: 473.065
         leading: 54.6
-        arrival: 23
+        arrival: 23.6
         time: 233.4
       velocity:
         ss: 2012-01-09T03:41:58Z
@@ -7612,7 +7612,7 @@ score:
         effort: 236.532
         distance: 473.065
         leading: 59.1
-        arrival: 24.3
+        arrival: 23.6
         time: 217.8
       velocity:
         ss: 2012-01-09T03:38:32Z
@@ -8001,9 +8001,34 @@ score:
       reachDistance: 140.853 km
       landedDistance: 140.853 km
       stoppedAlt: null
+  - - - '67'
+      - ! 'Andy Phillips '
+    - place: '35'
+      total: 594
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 236.532
+        effort: 236.532
+        distance: 473.065
+        leading: 0
+        arrival: 13.2
+        time: 107.7
+      velocity:
+        ss: 2012-01-09T04:00:00Z
+        gs: null
+        es: 2012-01-09T06:57:06Z
+        ssDistance: 125.953 km
+        ssElapsed: 2.951667 h
+        gsElapsed: 2.951667 h
+        ssVelocity: 42.67 km / h
+        gsVelocity: 42.67 km / h
+      reachDistance: 140.854 km
+      landedDistance: 140.854 km
+      stoppedAlt: null
   - - - '98'
       - Patrick Collin
-    - place: '35'
+    - place: '36'
       total: 556
       penalties:
       - penalty-fraction: 0.1
@@ -8029,7 +8054,7 @@ score:
       stoppedAlt: null
   - - - '21'
       - Gavin Myers
-    - place: '36'
+    - place: '37'
       total: 531
       penalties: []
       penaltyReason: ''
@@ -8054,7 +8079,7 @@ score:
       stoppedAlt: 326.000 m
   - - - '94'
       - Mitch Shipley
-    - place: '37'
+    - place: '38'
       total: 522
       penalties: []
       penaltyReason: ''
@@ -8079,7 +8104,7 @@ score:
       stoppedAlt: 364.000 m
   - - - '106'
       - Adam Parer
-    - place: '38'
+    - place: '39'
       total: 519
       penalties: []
       penaltyReason: ''
@@ -8104,7 +8129,7 @@ score:
       stoppedAlt: 326.000 m
   - - - '33'
       - Conrad Loten
-    - place: '39'
+    - place: '40'
       total: 512
       penalties: []
       penaltyReason: ''
@@ -8129,7 +8154,7 @@ score:
       stoppedAlt: 386.000 m
   - - - '96'
       - Brodrick Osborne
-    - place: '40'
+    - place: '41'
       total: 487
       penalties: []
       penaltyReason: ''
@@ -8154,7 +8179,7 @@ score:
       stoppedAlt: 440.000 m
   - - - '62'
       - Enda Murphy
-    - place: '41'
+    - place: '42'
       total: 486
       penalties: []
       penaltyReason: ''
@@ -8179,7 +8204,7 @@ score:
       stoppedAlt: 363.000 m
   - - - '66'
       - Jonas Lobitz
-    - place: '42'
+    - place: '43'
       total: 483
       penalties: []
       penaltyReason: ''
@@ -8204,7 +8229,7 @@ score:
       stoppedAlt: 420.000 m
   - - - '95'
       - Anton Struganov
-    - place: '43'
+    - place: '44'
       total: 477
       penalties: []
       penaltyReason: ''
@@ -8227,31 +8252,6 @@ score:
       reachDistance: 126.991 km
       landedDistance: 125.882 km
       stoppedAlt: 437.000 m
-  - - - '67'
-      - ! 'Andy Phillips '
-    - place: '44'
-      total: 473
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 236.532
-        effort: 236.532
-        distance: 473.065
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2012-01-09T04:00:00Z
-        gs: null
-        es: 2012-01-09T06:57:06Z
-        ssDistance: 125.953 km
-        ssElapsed: 2.951667 h
-        gsElapsed: 2.951667 h
-        ssVelocity: 42.67 km / h
-        gsVelocity: 42.67 km / h
-      reachDistance: 140.854 km
-      landedDistance: 140.854 km
-      stoppedAlt: null
   - - - '7'
       - Shaun O'neill
     - place: '45'
@@ -16254,7 +16254,7 @@ score:
       stoppedAlt: null
   - - - '60'
       - Rohan Holtkamp
-    - place: '7'
+    - place: 7=
       total: 799
       penalties: []
       penaltyReason: ''
@@ -16277,9 +16277,34 @@ score:
       reachDistance: 158.465 km
       landedDistance: 158.465 km
       stoppedAlt: null
+  - - - '41'
+      - Curt Warren
+    - place: 7=
+      total: 799
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 260.859
+        effort: 260.859
+        distance: 521.718
+        leading: 0
+        arrival: 23.5
+        time: 253.7
+      velocity:
+        ss: 2012-01-14T04:00:00Z
+        gs: null
+        es: 2012-01-14T07:56:52Z
+        ssDistance: 148.569 km
+        ssElapsed: 3.947778 h
+        gsElapsed: 3.947778 h
+        ssVelocity: 37.63 km / h
+        gsVelocity: 37.63 km / h
+      reachDistance: 158.466 km
+      landedDistance: 158.466 km
+      stoppedAlt: null
   - - - '34'
       - Jon snr Durand
-    - place: 8=
+    - place: 9=
       total: 793
       penalties: []
       penaltyReason: ''
@@ -16304,7 +16329,7 @@ score:
       stoppedAlt: null
   - - - '36'
       - Franz Herrmann
-    - place: 8=
+    - place: 9=
       total: 793
       penalties: []
       penaltyReason: ''
@@ -16329,7 +16354,7 @@ score:
       stoppedAlt: null
   - - - '93'
       - Trent Brown
-    - place: '10'
+    - place: '11'
       total: 783
       penalties: []
       penaltyReason: ''
@@ -16354,7 +16379,7 @@ score:
       stoppedAlt: null
   - - - '81'
       - Valentino Bau
-    - place: '11'
+    - place: '12'
       total: 781
       penalties: []
       penaltyReason: ''
@@ -16379,8 +16404,8 @@ score:
       stoppedAlt: null
   - - - '45'
       - Roland Wöhrle
-    - place: '12'
-      total: 770
+    - place: '13'
+      total: 769
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -16388,7 +16413,7 @@ score:
         effort: 260.859
         distance: 521.718
         leading: 53.6
-        arrival: 21.9
+        arrival: 20.4
         time: 172.9
       velocity:
         ss: 2012-01-14T03:35:32Z
@@ -16404,8 +16429,8 @@ score:
       stoppedAlt: null
   - - - '92'
       - Hans Kiefinger
-    - place: '13'
-      total: 766
+    - place: 14=
+      total: 765
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -16413,7 +16438,7 @@ score:
         effort: 260.859
         distance: 521.718
         leading: 56.8
-        arrival: 16.9
+        arrival: 16
         time: 170.4
       velocity:
         ss: 2012-01-14T03:35:33Z
@@ -16429,7 +16454,7 @@ score:
       stoppedAlt: null
   - - - '89'
       - Scott Barrett
-    - place: '14'
+    - place: 14=
       total: 765
       penalties: []
       penaltyReason: ''
@@ -16438,7 +16463,7 @@ score:
         effort: 260.859
         distance: 521.718
         leading: 57.5
-        arrival: 14
+        arrival: 13.5
         time: 171.8
       velocity:
         ss: 2012-01-14T03:39:56Z
@@ -16452,10 +16477,35 @@ score:
       reachDistance: 158.465 km
       landedDistance: 158.465 km
       stoppedAlt: null
+  - - - '95'
+      - Anton Struganov
+    - place: 14=
+      total: 765
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 260.859
+        effort: 260.859
+        distance: 521.718
+        leading: 0
+        arrival: 12.5
+        time: 230.3
+      velocity:
+        ss: 2012-01-14T04:00:00Z
+        gs: null
+        es: 2012-01-14T08:03:14Z
+        ssDistance: 148.569 km
+        ssElapsed: 4.053889 h
+        gsElapsed: 4.053889 h
+        ssVelocity: 36.65 km / h
+        gsVelocity: 36.65 km / h
+      reachDistance: 158.466 km
+      landedDistance: 158.466 km
+      stoppedAlt: null
   - - - '1'
       - Lukas Bader
-    - place: '15'
-      total: 764
+    - place: '17'
+      total: 763
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -16463,7 +16513,7 @@ score:
         effort: 260.859
         distance: 521.718
         leading: 63.5
-        arrival: 19.1
+        arrival: 17.9
         time: 160.1
       velocity:
         ss: 2012-01-14T03:30:56Z
@@ -16479,8 +16529,8 @@ score:
       stoppedAlt: null
   - - - '84'
       - Yasuhiro Noma
-    - place: '16'
-      total: 763
+    - place: '18'
+      total: 762
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -16488,7 +16538,7 @@ score:
         effort: 260.859
         distance: 521.718
         leading: 52.7
-        arrival: 20.4
+        arrival: 19.1
         time: 168.5
       velocity:
         ss: 2012-01-14T03:34:00Z
@@ -16504,8 +16554,8 @@ score:
       stoppedAlt: null
   - - - '31'
       - Andrew Barnes
-    - place: '17'
-      total: 760
+    - place: '19'
+      total: 759
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -16513,7 +16563,7 @@ score:
         effort: 260.859
         distance: 521.718
         leading: 52.4
-        arrival: 23.5
+        arrival: 21.9
         time: 162.7
       velocity:
         ss: 2012-01-14T03:31:32Z
@@ -16529,8 +16579,8 @@ score:
       stoppedAlt: null
   - - - '11'
       - Steve Blenkinsop
-    - place: '18'
-      total: 759
+    - place: '20'
+      total: 758
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -16538,7 +16588,7 @@ score:
         effort: 260.859
         distance: 521.718
         leading: 61.2
-        arrival: 17.9
+        arrival: 16.9
         time: 158.5
       velocity:
         ss: 2012-01-14T03:30:41Z
@@ -16554,7 +16604,7 @@ score:
       stoppedAlt: null
   - - - '5'
       - Wolfgang Siess
-    - place: '19'
+    - place: '21'
       total: 755
       penalties: []
       penaltyReason: ''
@@ -16579,8 +16629,8 @@ score:
       stoppedAlt: null
   - - - '75'
       - Joerg Bajewski
-    - place: 20=
-      total: 752
+    - place: 22=
+      total: 751
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -16588,7 +16638,7 @@ score:
         effort: 260.859
         distance: 521.718
         leading: 56.9
-        arrival: 16
+        arrival: 15.2
         time: 157.6
       velocity:
         ss: 2012-01-14T03:31:02Z
@@ -16604,8 +16654,8 @@ score:
       stoppedAlt: null
   - - - '15'
       - ! 'Jean Souviron '
-    - place: 20=
-      total: 752
+    - place: 22=
+      total: 751
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -16613,7 +16663,7 @@ score:
         effort: 260.859
         distance: 521.718
         leading: 56.4
-        arrival: 12.8
+        arrival: 12.3
         time: 160.8
       velocity:
         ss: 2012-01-14T03:37:00Z
@@ -16629,7 +16679,7 @@ score:
       stoppedAlt: null
   - - - '99'
       - Tullio Gervasoni
-    - place: '22'
+    - place: '24'
       total: 748
       penalties: []
       penaltyReason: ''
@@ -16638,7 +16688,7 @@ score:
         effort: 260.859
         distance: 521.718
         leading: 54.1
-        arrival: 13.5
+        arrival: 13.1
         time: 158.7
       velocity:
         ss: 2012-01-14T03:35:37Z
@@ -16654,7 +16704,7 @@ score:
       stoppedAlt: null
   - - - '59'
       - Artur Dzamikhov
-    - place: '23'
+    - place: '25'
       total: 746
       penalties: []
       penaltyReason: ''
@@ -16663,7 +16713,7 @@ score:
         effort: 260.859
         distance: 521.718
         leading: 50.3
-        arrival: 15.2
+        arrival: 14.5
         time: 159.2
       velocity:
         ss: 2012-01-14T03:31:49Z
@@ -16679,7 +16729,7 @@ score:
       stoppedAlt: null
   - - - '71'
       - Edoardo Giudiceandrea
-    - place: '24'
+    - place: '26'
       total: 742
       penalties: []
       penaltyReason: ''
@@ -16688,7 +16738,7 @@ score:
         effort: 260.859
         distance: 521.718
         leading: 61.2
-        arrival: 13.1
+        arrival: 12.8
         time: 145.9
       velocity:
         ss: 2012-01-14T03:31:02Z
@@ -16704,7 +16754,7 @@ score:
       stoppedAlt: null
   - - - '68'
       - Grant Heaney
-    - place: '25'
+    - place: '27'
       total: 739
       penalties: []
       penaltyReason: ''
@@ -16713,7 +16763,7 @@ score:
         effort: 260.859
         distance: 521.718
         leading: 57.9
-        arrival: 12.5
+        arrival: 12.2
         time: 147.2
       velocity:
         ss: 2012-01-14T03:31:58Z
@@ -16729,7 +16779,7 @@ score:
       stoppedAlt: null
   - - - '94'
       - Mitch Shipley
-    - place: '26'
+    - place: '28'
       total: 737
       penalties: []
       penaltyReason: ''
@@ -16738,7 +16788,7 @@ score:
         effort: 260.859
         distance: 521.718
         leading: 48.1
-        arrival: 14.5
+        arrival: 14
         time: 152.8
       velocity:
         ss: 2012-01-14T03:30:32Z
@@ -16754,7 +16804,7 @@ score:
       stoppedAlt: null
   - - - '90'
       - Adam Stevens
-    - place: '27'
+    - place: '29'
       total: 716
       penalties: []
       penaltyReason: ''
@@ -16763,7 +16813,7 @@ score:
         effort: 260.859
         distance: 521.718
         leading: 60.2
-        arrival: 12.3
+        arrival: 12
         time: 121.7
       velocity:
         ss: 2012-01-14T03:30:47Z
@@ -16779,7 +16829,7 @@ score:
       stoppedAlt: null
   - - - '20'
       - ! 'Luke Browne '
-    - place: '28'
+    - place: '30'
       total: 552
       penalties: []
       penaltyReason: ''
@@ -16804,7 +16854,7 @@ score:
       stoppedAlt: 227.000 m
   - - - '13'
       - John Smith
-    - place: '29'
+    - place: '31'
       total: 540
       penalties: []
       penaltyReason: ''
@@ -16829,7 +16879,7 @@ score:
       stoppedAlt: 232.000 m
   - - - '14'
       - Olav Lien Olsen
-    - place: '30'
+    - place: '32'
       total: 539
       penalties: []
       penaltyReason: ''
@@ -16854,7 +16904,7 @@ score:
       stoppedAlt: 250.000 m
   - - - '103'
       - Roberto Nichele
-    - place: '31'
+    - place: '33'
       total: 536
       penalties: []
       penaltyReason: ''
@@ -16879,7 +16929,7 @@ score:
       stoppedAlt: 238.000 m
   - - - '26'
       - Guy Hubbard
-    - place: 32=
+    - place: 34=
       total: 532
       penalties: []
       penaltyReason: ''
@@ -16904,7 +16954,7 @@ score:
       stoppedAlt: 332.000 m
   - - - '48'
       - Paolo Rosichetti
-    - place: 32=
+    - place: 34=
       total: 532
       penalties: []
       penaltyReason: ''
@@ -16929,7 +16979,7 @@ score:
       stoppedAlt: 231.000 m
   - - - '19'
       - Mikhail Karmazin
-    - place: '34'
+    - place: '36'
       total: 530
       penalties: []
       penaltyReason: ''
@@ -16954,7 +17004,7 @@ score:
       stoppedAlt: 243.000 m
   - - - '25'
       - Nick Purcell
-    - place: '35'
+    - place: '37'
       total: 529
       penalties: []
       penaltyReason: ''
@@ -16977,56 +17027,6 @@ score:
       reachDistance: 150.576 km
       landedDistance: 150.430 km
       stoppedAlt: 270.000 m
-  - - - '95'
-      - Anton Struganov
-    - place: 36=
-      total: 522
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 260.859
-        effort: 260.859
-        distance: 521.718
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2012-01-14T04:00:00Z
-        gs: null
-        es: 2012-01-14T08:03:14Z
-        ssDistance: 148.569 km
-        ssElapsed: 4.053889 h
-        gsElapsed: 4.053889 h
-        ssVelocity: 36.65 km / h
-        gsVelocity: 36.65 km / h
-      reachDistance: 158.466 km
-      landedDistance: 158.466 km
-      stoppedAlt: null
-  - - - '41'
-      - Curt Warren
-    - place: 36=
-      total: 522
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 260.859
-        effort: 260.859
-        distance: 521.718
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2012-01-14T04:00:00Z
-        gs: null
-        es: 2012-01-14T07:56:52Z
-        ssDistance: 148.569 km
-        ssElapsed: 3.947778 h
-        gsElapsed: 3.947778 h
-        ssVelocity: 37.63 km / h
-        gsVelocity: 37.63 km / h
-      reachDistance: 158.466 km
-      landedDistance: 158.466 km
-      stoppedAlt: null
   - - - '30'
       - Fredy Bircher
     - place: '38'
@@ -23816,7 +23816,7 @@ scoreDf:
         effort: 212.254
         distance: 424.508
         leading: 0
-        arrival: 15.2
+        arrival: 15
         time: 160.3
       velocity:
         ss: 2012-01-07T03:44:51Z
@@ -23866,7 +23866,7 @@ scoreDf:
         effort: 212.254
         distance: 424.508
         leading: 11.5
-        arrival: 15
+        arrival: 14.5
         time: 84.3
       velocity:
         ss: 2012-01-07T03:29:24Z
@@ -23892,7 +23892,7 @@ scoreDf:
         effort: 212.254
         distance: 424.508
         leading: 0
-        arrival: 14.8
+        arrival: 14.5
         time: 51.1
       velocity:
         ss: 2012-01-07T03:39:36Z
@@ -25410,7 +25410,7 @@ scoreDf:
   - - - '89'
       - Scott Barrett
     - place: '18'
-      total: 784
+      total: 785
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -25418,7 +25418,7 @@ scoreDf:
         effort: 236.532
         distance: 473.065
         leading: 54.6
-        arrival: 23
+        arrival: 23.6
         time: 233.4
       velocity:
         ss: 2012-01-09T03:41:58Z
@@ -25443,7 +25443,7 @@ scoreDf:
         effort: 236.532
         distance: 473.065
         leading: 59.1
-        arrival: 24.3
+        arrival: 23.6
         time: 217.8
       velocity:
         ss: 2012-01-09T03:38:32Z
@@ -34016,7 +34016,7 @@ scoreDf:
   - - - '45'
       - Roland Wöhrle
     - place: '12'
-      total: 770
+      total: 769
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -34024,7 +34024,7 @@ scoreDf:
         effort: 260.859
         distance: 521.718
         leading: 53.6
-        arrival: 21.9
+        arrival: 20.4
         time: 172.9
       velocity:
         ss: 2012-01-14T03:35:32Z
@@ -34040,8 +34040,8 @@ scoreDf:
       stoppedAlt: null
   - - - '92'
       - Hans Kiefinger
-    - place: '13'
-      total: 766
+    - place: 13=
+      total: 765
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -34049,7 +34049,7 @@ scoreDf:
         effort: 260.859
         distance: 521.718
         leading: 56.8
-        arrival: 16.9
+        arrival: 16
         time: 170.4
       velocity:
         ss: 2012-01-14T03:35:33Z
@@ -34065,7 +34065,7 @@ scoreDf:
       stoppedAlt: null
   - - - '89'
       - Scott Barrett
-    - place: '14'
+    - place: 13=
       total: 765
       penalties: []
       penaltyReason: ''
@@ -34074,7 +34074,7 @@ scoreDf:
         effort: 260.859
         distance: 521.718
         leading: 57.5
-        arrival: 14
+        arrival: 13.5
         time: 171.8
       velocity:
         ss: 2012-01-14T03:39:56Z
@@ -34091,7 +34091,7 @@ scoreDf:
   - - - '1'
       - Lukas Bader
     - place: '15'
-      total: 764
+      total: 763
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -34099,7 +34099,7 @@ scoreDf:
         effort: 260.859
         distance: 521.718
         leading: 63.5
-        arrival: 19.1
+        arrival: 17.9
         time: 160.1
       velocity:
         ss: 2012-01-14T03:30:56Z
@@ -34116,7 +34116,7 @@ scoreDf:
   - - - '84'
       - Yasuhiro Noma
     - place: '16'
-      total: 763
+      total: 762
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -34124,7 +34124,7 @@ scoreDf:
         effort: 260.859
         distance: 521.718
         leading: 52.7
-        arrival: 20.4
+        arrival: 19.1
         time: 168.5
       velocity:
         ss: 2012-01-14T03:34:00Z
@@ -34141,7 +34141,7 @@ scoreDf:
   - - - '31'
       - Andrew Barnes
     - place: '17'
-      total: 760
+      total: 759
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -34149,7 +34149,7 @@ scoreDf:
         effort: 260.859
         distance: 521.718
         leading: 52.4
-        arrival: 23.5
+        arrival: 21.9
         time: 162.7
       velocity:
         ss: 2012-01-14T03:31:32Z
@@ -34166,7 +34166,7 @@ scoreDf:
   - - - '11'
       - Steve Blenkinsop
     - place: '18'
-      total: 759
+      total: 758
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -34174,7 +34174,7 @@ scoreDf:
         effort: 260.859
         distance: 521.718
         leading: 61.2
-        arrival: 17.9
+        arrival: 16.9
         time: 158.5
       velocity:
         ss: 2012-01-14T03:30:41Z
@@ -34216,7 +34216,7 @@ scoreDf:
   - - - '75'
       - Joerg Bajewski
     - place: 20=
-      total: 752
+      total: 751
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -34224,7 +34224,7 @@ scoreDf:
         effort: 260.859
         distance: 521.718
         leading: 56.9
-        arrival: 16
+        arrival: 15.2
         time: 157.6
       velocity:
         ss: 2012-01-14T03:31:02Z
@@ -34241,7 +34241,7 @@ scoreDf:
   - - - '15'
       - ! 'Jean Souviron '
     - place: 20=
-      total: 752
+      total: 751
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -34249,7 +34249,7 @@ scoreDf:
         effort: 260.859
         distance: 521.718
         leading: 56.4
-        arrival: 12.8
+        arrival: 12.3
         time: 160.8
       velocity:
         ss: 2012-01-14T03:37:00Z
@@ -34274,7 +34274,7 @@ scoreDf:
         effort: 260.859
         distance: 521.718
         leading: 54.1
-        arrival: 13.5
+        arrival: 13.1
         time: 158.7
       velocity:
         ss: 2012-01-14T03:35:37Z
@@ -34299,7 +34299,7 @@ scoreDf:
         effort: 260.859
         distance: 521.718
         leading: 50.3
-        arrival: 15.2
+        arrival: 14.5
         time: 159.2
       velocity:
         ss: 2012-01-14T03:31:49Z
@@ -34324,7 +34324,7 @@ scoreDf:
         effort: 260.859
         distance: 521.718
         leading: 61.2
-        arrival: 13.1
+        arrival: 12.8
         time: 145.9
       velocity:
         ss: 2012-01-14T03:31:02Z
@@ -34349,7 +34349,7 @@ scoreDf:
         effort: 260.859
         distance: 521.718
         leading: 57.9
-        arrival: 12.5
+        arrival: 12.2
         time: 147.2
       velocity:
         ss: 2012-01-14T03:31:58Z
@@ -34374,7 +34374,7 @@ scoreDf:
         effort: 260.859
         distance: 521.718
         leading: 48.1
-        arrival: 14.5
+        arrival: 14
         time: 152.8
       velocity:
         ss: 2012-01-14T03:30:32Z
@@ -34399,7 +34399,7 @@ scoreDf:
         effort: 260.859
         distance: 521.718
         leading: 60.2
-        arrival: 12.3
+        arrival: 12
         time: 121.7
       velocity:
         ss: 2012-01-14T03:30:47Z
@@ -35843,8 +35843,8 @@ scoreDfNoTrack:
 - []
 - - - - '101'
       - ! 'Andrew Luton '
-    - place: 1=
-      total: 425
+    - place: '1'
+      total: 663
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -35852,8 +35852,8 @@ scoreDfNoTrack:
         effort: 212.254
         distance: 424.508
         leading: 0
-        arrival: 0
-        time: 0
+        arrival: 15.2
+        time: 222.8
       velocity:
         ss: 2012-01-07T04:00:00Z
         gs: null
@@ -35866,35 +35866,10 @@ scoreDfNoTrack:
       reachDistance: 183.859 km
       landedDistance: 183.859 km
       stoppedAlt: null
-  - - - '78'
-      - Christine Aichner
-    - place: 1=
-      total: 425
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 212.254
-        effort: 212.254
-        distance: 424.508
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2012-01-07T04:00:00Z
-        gs: null
-        es: 2012-01-07T07:18:42Z
-        ssDistance: 158.966 km
-        ssElapsed: 3.311667 h
-        gsElapsed: 3.311667 h
-        ssVelocity: 48.00 km / h
-        gsVelocity: 48.00 km / h
-      reachDistance: 183.859 km
-      landedDistance: 183.859 km
-      stoppedAlt: null
   - - - '19'
       - Mikhail Karmazin
-    - place: 1=
-      total: 425
+    - place: '2'
+      total: 647
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -35902,8 +35877,8 @@ scoreDfNoTrack:
         effort: 212.254
         distance: 424.508
         leading: 0
-        arrival: 0
-        time: 0
+        arrival: 14.8
+        time: 207.3
       velocity:
         ss: 2012-01-07T04:00:00Z
         gs: null
@@ -35916,10 +35891,10 @@ scoreDfNoTrack:
       reachDistance: 183.859 km
       landedDistance: 183.859 km
       stoppedAlt: null
-  - - - '89'
-      - Scott Barrett
-    - place: 1=
-      total: 425
+  - - - '78'
+      - Christine Aichner
+    - place: '3'
+      total: 642
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -35927,8 +35902,33 @@ scoreDfNoTrack:
         effort: 212.254
         distance: 424.508
         leading: 0
-        arrival: 0
-        time: 0
+        arrival: 14.7
+        time: 203.1
+      velocity:
+        ss: 2012-01-07T04:00:00Z
+        gs: null
+        es: 2012-01-07T07:18:42Z
+        ssDistance: 158.966 km
+        ssElapsed: 3.311667 h
+        gsElapsed: 3.311667 h
+        ssVelocity: 48.00 km / h
+        gsVelocity: 48.00 km / h
+      reachDistance: 183.859 km
+      landedDistance: 183.859 km
+      stoppedAlt: null
+  - - - '89'
+      - Scott Barrett
+    - place: '4'
+      total: 638
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 212.254
+        effort: 212.254
+        distance: 424.508
+        leading: 0
+        arrival: 14.6
+        time: 198.9
       velocity:
         ss: 2012-01-07T04:00:00Z
         gs: null
@@ -35961,7 +35961,7 @@ scoreDfNoTrack:
 - - - - '67'
       - ! 'Andy Phillips '
     - place: '1'
-      total: 473
+      total: 594
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -35969,8 +35969,8 @@ scoreDfNoTrack:
         effort: 236.532
         distance: 473.065
         leading: 0
-        arrival: 0
-        time: 0
+        arrival: 13.2
+        time: 107.7
       velocity:
         ss: 2012-01-09T04:00:00Z
         gs: null
@@ -36153,35 +36153,10 @@ scoreDfNoTrack:
       reachDistance: 0.000 km
       landedDistance: 0.000 km
       stoppedAlt: null
-- - - - '95'
-      - Anton Struganov
-    - place: 1=
-      total: 522
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 260.859
-        effort: 260.859
-        distance: 521.718
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2012-01-14T04:00:00Z
-        gs: null
-        es: 2012-01-14T08:03:14Z
-        ssDistance: 148.569 km
-        ssElapsed: 4.053889 h
-        gsElapsed: 4.053889 h
-        ssVelocity: 36.65 km / h
-        gsVelocity: 36.65 km / h
-      reachDistance: 158.466 km
-      landedDistance: 158.466 km
-      stoppedAlt: null
-  - - - '41'
+- - - - '41'
       - Curt Warren
-    - place: 1=
-      total: 522
+    - place: '1'
+      total: 799
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -36189,8 +36164,8 @@ scoreDfNoTrack:
         effort: 260.859
         distance: 521.718
         leading: 0
-        arrival: 0
-        time: 0
+        arrival: 23.5
+        time: 253.7
       velocity:
         ss: 2012-01-14T04:00:00Z
         gs: null
@@ -36200,6 +36175,31 @@ scoreDfNoTrack:
         gsElapsed: 3.947778 h
         ssVelocity: 37.63 km / h
         gsVelocity: 37.63 km / h
+      reachDistance: 158.466 km
+      landedDistance: 158.466 km
+      stoppedAlt: null
+  - - - '95'
+      - Anton Struganov
+    - place: '2'
+      total: 765
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 260.859
+        effort: 260.859
+        distance: 521.718
+        leading: 0
+        arrival: 12.5
+        time: 230.3
+      velocity:
+        ss: 2012-01-14T04:00:00Z
+        gs: null
+        es: 2012-01-14T08:03:14Z
+        ssDistance: 148.569 km
+        ssElapsed: 4.053889 h
+        gsElapsed: 4.053889 h
+        ssVelocity: 36.65 km / h
+        gsVelocity: 36.65 km / h
       reachDistance: 158.466 km
       landedDistance: 158.466 km
       stoppedAlt: null

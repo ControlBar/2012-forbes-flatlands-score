@@ -13,6 +13,7 @@ raceTime:
   firstStart: 2012-01-05T02:49:25Z
   firstLead: 2012-01-05T02:49:25Z
   lastArrival: null
+  leadAllDown: 13535
   leadArrival: null
   leadClose: 22235
   openClose: 28800
@@ -22,6 +23,7 @@ raceTime:
   firstStart: 2012-01-06T02:46:03Z
   firstLead: 2012-01-06T02:46:03Z
   lastArrival: 2012-01-06T08:25:25Z
+  leadAllDown: 21551
   leadArrival: 20362
   leadClose: 22437
   openClose: 28800
@@ -31,6 +33,7 @@ raceTime:
   firstStart: 2012-01-07T03:02:52Z
   firstLead: 2012-01-07T03:02:52Z
   lastArrival: 2012-01-07T07:44:38Z
+  leadAllDown: 26917
   leadArrival: 16906
   leadClose: 21428
   openClose: 28800
@@ -40,6 +43,7 @@ raceTime:
   firstStart: 2012-01-09T02:43:50Z
   firstLead: 2012-01-09T02:43:50Z
   lastArrival: 2012-01-09T06:52:28Z
+  leadAllDown: 24862
   leadArrival: 14918
   leadClose: 22570
   openClose: 28800
@@ -49,6 +53,7 @@ raceTime:
   firstStart: 2012-01-10T02:48:59Z
   firstLead: 2012-01-10T02:48:59Z
   lastArrival: 2012-01-10T08:03:17Z
+  leadAllDown: 19679
   leadArrival: 18858
   leadClose: 22261
   openClose: 28800
@@ -58,6 +63,7 @@ raceTime:
   firstStart: 2012-01-12T02:46:17Z
   firstLead: 2012-01-12T02:46:17Z
   lastArrival: 2012-01-12T08:35:28Z
+  leadAllDown: 21069
   leadArrival: 20951
   leadClose: 22423
   openClose: 28800
@@ -67,6 +73,7 @@ raceTime:
   firstStart: 2012-01-13T03:14:53Z
   firstLead: 2012-01-13T03:14:53Z
   lastArrival: 2012-01-13T08:02:16Z
+  leadAllDown: 17763
   leadArrival: 17243
   leadClose: 20707
   openClose: 28800
@@ -76,6 +83,7 @@ raceTime:
   firstStart: 2012-01-14T02:43:04Z
   firstLead: 2012-01-14T02:43:04Z
   lastArrival: 2012-01-14T08:12:35Z
+  leadAllDown: 21480
   leadArrival: 19771
   leadClose: 22616
   openClose: 28800
@@ -144,7 +152,7 @@ leadScaling:
 - 2.060388e-8
 - 2.51694e-8
 leadCoefMin:
-- 1.798999e-2
+- 3.09925712
 - 3.28265648
 - 1.50864018
 - 2.51239069
@@ -153,317 +161,317 @@ leadCoefMin:
 - 3.07073517
 - 3.62337995
 lead:
-- - - - '29'
-      - Konstantin Lukyanov
-    - coef: 1.798999e-2
+- - - - '71'
+      - Edoardo Giudiceandrea
+    - coef: 3.09925712
       frac: 1
-  - - - '57'
-      - Julia Kucherenko
-    - coef: 2.323431e-2
-      frac: 0.88480083
-  - - - '72'
-      - Tove Heaney
-    - coef: 3.818711e-2
-      frac: 0.71695897
-  - - - '22'
-      - Mark Russell
-    - coef: 5.052044e-2
-      frac: 0.61108939
-  - - - '62'
-      - Enda Murphy
-    - coef: 7.076853e-2
-      frac: 0.46301605
-  - - - '98'
-      - Patrick Collin
-    - coef: 7.849742e-2
-      frac: 0.4117948
-  - - - '5'
-      - Wolfgang Siess
-    - coef: 0.12541667
-      frac: 0.13755546
-  - - - '16'
-      - Grant Edward
-    - coef: 0.17084637
-      frac: 0
-  - - - '27'
-      - ! 'Boris Marold '
-    - coef: 0.17866481
-      frac: 0
-  - - - '105'
-      - Chris Lawry
-    - coef: 0.21963103
-      frac: 0
-  - - - '67'
-      - ! 'Andy Phillips '
-    - coef: 0.23051864
-      frac: 0
-  - - - '34'
-      - Jon snr Durand
-    - coef: 0.23492818
-      frac: 0
-  - - - '55'
-      - Kari Suhonen
-    - coef: 0.28147299
-      frac: 0
-  - - - '33'
-      - Conrad Loten
-    - coef: 0.2815085
-      frac: 0
-  - - - '82'
-      - Alain Le-gac
-    - coef: 0.3754917
-      frac: 0
-  - - - '51'
-      - Rob In 't Groen
-    - coef: 0.43440391
-      frac: 0
-  - - - '83'
-      - Peter Dall
-    - coef: 0.46182834
-      frac: 0
-  - - - '2'
-      - Pablo Gomes
-    - coef: 0.49074673
-      frac: 0
-  - - - '64'
-      - Gustavo Carvalho
-    - coef: 0.52910558
-      frac: 0
-  - - - '45'
-      - Roland Wöhrle
-    - coef: 0.55548894
-      frac: 0
-  - - - '97'
-      - Konrad Schwab
-    - coef: 0.60388526
-      frac: 0
-  - - - '94'
-      - Mitch Shipley
-    - coef: 0.62006058
-      frac: 0
-  - - - '6'
-      - Phil Schroder
-    - coef: 0.63616112
-      frac: 0
-  - - - '20'
-      - ! 'Luke Browne '
-    - coef: 0.63855182
-      frac: 0
-  - - - '24'
-      - Christian Baertschi
-    - coef: 0.64096807
-      frac: 0
-  - - - '96'
-      - Brodrick Osborne
-    - coef: 0.64648813
-      frac: 0
-  - - - '59'
-      - Artur Dzamikhov
-    - coef: 0.69640748
-      frac: 0
-  - - - '92'
-      - Hans Kiefinger
-    - coef: 0.7105602
-      frac: 0
-  - - - '35'
-      - Carole Tobler
-    - coef: 0.77343506
-      frac: 0
-  - - - '13'
-      - John Smith
-    - coef: 0.77539405
-      frac: 0
-  - - - '73'
-      - Gijs Wanders
-    - coef: 0.79006265
-      frac: 0
-  - - - '100'
-      - Attila Bertok
-    - coef: 0.79325096
-      frac: 0
-  - - - '103'
-      - Roberto Nichele
-    - coef: 0.79946828
-      frac: 0
-  - - - '18'
-      - Jürgen Pasker
-    - coef: 0.80034497
-      frac: 0
-  - - - '69'
-      - Jonathan Kinred
-    - coef: 0.83185447
-      frac: 0
-  - - - '48'
-      - Paolo Rosichetti
-    - coef: 0.84208818
-      frac: 0
-  - - - '87'
-      - Corinna Schwiegershausen
-    - coef: 0.89076229
-      frac: 0
-  - - - '10'
-      - Marat Matnurov
-    - coef: 0.89844181
-      frac: 0
-  - - - '99'
-      - Tullio Gervasoni
-    - coef: 0.90998117
-      frac: 0
-  - - - '81'
-      - Valentino Bau
-    - coef: 0.92057485
-      frac: 0
+  - - - '41'
+      - Curt Warren
+    - coef: 3.34600055
+      frac: 0.73017768
+  - - - '36'
+      - Franz Herrmann
+    - coef: 3.37613374
+      frac: 0.70863437
+  - - - '61'
+      - Jonny Durand
+    - coef: 3.46823273
+      frac: 0.64715884
+  - - - '56'
+      - Cameron Tunbridge
+    - coef: 3.58956292
+      frac: 0.5735264
+  - - - '8'
+      - Primoz Gricar
+    - coef: 3.83280328
+      frac: 0.44213074
+  - - - '60'
+      - Rohan Holtkamp
+    - coef: 3.88532071
+      frac: 0.41581206
+  - - - '23'
+      - Gerolf Heinrichs
+    - coef: 4.08464954
+      frac: 0.32081679
+  - - - '15'
+      - ! 'Jean Souviron '
+    - coef: 4.08683449
+      frac: 0.31981317
   - - - '49'
       - Tony Giammichele
-    - coef: 0.92584802
-      frac: 0
-  - - - '68'
-      - Grant Heaney
-    - coef: 0.93399743
-      frac: 0
-  - - - '31'
-      - Andrew Barnes
-    - coef: 0.94115687
-      frac: 0
-  - - - '7'
-      - Shaun O'neill
-    - coef: 0.95802512
-      frac: 0
-  - - - '14'
-      - Olav Lien Olsen
-    - coef: 0.95820501
-      frac: 0
-  - - - '102'
-      - Davide Guiducci
-    - coef: 0.95916142
-      frac: 0
-  - - - '65'
-      - Davis Straub
-    - coef: 0.99592269
-      frac: 0
+    - coef: 4.15123937
+      frac: 0.29055336
+  - - - '92'
+      - Hans Kiefinger
+    - coef: 4.16354359
+      frac: 0.28503218
   - - - '90'
       - Adam Stevens
-    - coef: 1.00190848
-      frac: 0
-  - - - '70'
-      - Matthew Barlow
-    - coef: 1.01252206
-      frac: 0
-  - - - '47'
-      - ! 'Miguel De Jong '
-    - coef: 1.02620332
-      frac: 0
-  - - - '76'
-      - Dmitriy Korchenkov
-    - coef: 1.03478876
-      frac: 0
-  - - - '25'
-      - Nick Purcell
-    - coef: 1.05533969
-      frac: 0
+    - coef: 4.16493502
+      frac: 0.28440917
+  - - - '1'
+      - Lukas Bader
+    - coef: 4.17594443
+      frac: 0.27948915
+  - - - '93'
+      - Trent Brown
+    - coef: 4.1791669
+      frac: 0.27805223
+  - - - '89'
+      - Scott Barrett
+    - coef: 4.21954956
+      frac: 0.26016467
+  - - - '85'
+      - Neil Petersen
+    - coef: 4.23657779
+      frac: 0.25268663
+  - - - '11'
+      - Steve Blenkinsop
+    - coef: 4.25139377
+      frac: 0.24621043
+  - - - '84'
+      - Yasuhiro Noma
+    - coef: 4.25901062
+      frac: 0.24289184
+  - - - '26'
+      - Guy Hubbard
+    - coef: 4.31130298
+      frac: 0.22030126
+  - - - '12'
+      - Glen Mcfarlane
+    - coef: 4.35094934
+      frac: 0.20338986
+  - - - '77'
+      - Len Paton
+    - coef: 4.35562169
+      frac: 0.20140868
+  - - - '45'
+      - Roland Wöhrle
+    - coef: 4.37367038
+      frac: 0.1937786
+  - - - '42'
+      - Suan Selenati
+    - coef: 4.39896489
+      frac: 0.18314568
+  - - - '30'
+      - Fredy Bircher
+    - coef: 4.41883929
+      frac: 0.17483951
+  - - - '95'
+      - Anton Struganov
+    - coef: 4.42825257
+      frac: 0.17091996
+  - - - '59'
+      - Artur Dzamikhov
+    - coef: 4.45462
+      frac: 0.15998987
   - - - '66'
       - Jonas Lobitz
-    - coef: 1.07620465
-      frac: 0
+    - coef: 4.46176527
+      frac: 0.15704019
+  - - - '3'
+      - Rod Flockhart
+    - coef: 4.49988936
+      frac: 0.14138815
+  - - - '81'
+      - Valentino Bau
+    - coef: 4.5828929
+      frac: 0.10779292
+  - - - '102'
+      - Davide Guiducci
+    - coef: 4.59539852
+      frac: 0.10278631
+  - - - '13'
+      - John Smith
+    - coef: 4.60349541
+      frac: 9.955217e-2
+  - - - '48'
+      - Paolo Rosichetti
+    - coef: 4.63725355
+      frac: 8.613015e-2
+  - - - '70'
+      - Matthew Barlow
+    - coef: 4.64412007
+      frac: 8.341214e-2
+  - - - '99'
+      - Tullio Gervasoni
+    - coef: 4.65126086
+      frac: 8.058982e-2
+  - - - '47'
+      - ! 'Miguel De Jong '
+    - coef: 4.73428803
+      frac: 4.808513e-2
+  - - - '7'
+      - Shaun O'neill
+    - coef: 4.7452396
+      frac: 4.38392e-2
+  - - - '14'
+      - Olav Lien Olsen
+    - coef: 4.74806886
+      frac: 4.274382e-2
+  - - - '35'
+      - Carole Tobler
+    - coef: 4.75105684
+      frac: 4.158767e-2
+  - - - '31'
+      - Andrew Barnes
+    - coef: 4.75216851
+      frac: 4.115771e-2
+  - - - '51'
+      - Rob In 't Groen
+    - coef: 4.75285301
+      frac: 4.089301e-2
+  - - - '25'
+      - Nick Purcell
+    - coef: 4.75334405
+      frac: 4.070315e-2
+  - - - '100'
+      - Attila Bertok
+    - coef: 4.75599707
+      frac: 3.967767e-2
+  - - - '33'
+      - Conrad Loten
+    - coef: 4.75981142
+      frac: 3.820425e-2
+  - - - '68'
+      - Grant Heaney
+    - coef: 4.76750774
+      frac: 3.523473e-2
+  - - - '103'
+      - Roberto Nichele
+    - coef: 4.77182698
+      frac: 3.357021e-2
+  - - - '65'
+      - Davis Straub
+    - coef: 4.78819587
+      frac: 2.727503e-2
   - - - '43'
       - Les Bestt
-    - coef: 1.17689776
+    - coef: 4.97238456
       frac: 0
   - - - '106'
       - Adam Parer
-    - coef: 1.17771834
-      frac: 0
-  - - - '77'
-      - Len Paton
-    - coef: 1.29395675
-      frac: 0
-  - - - '3'
-      - Rod Flockhart
-    - coef: 1.36219359
+    - coef: 4.99017951
       frac: 0
   - - - '75'
       - Joerg Bajewski
-    - coef: 1.47413892
+    - coef: 5.01047377
       frac: 0
-  - - - '23'
-      - Gerolf Heinrichs
-    - coef: 1.48225971
+  - - - '24'
+      - Christian Baertschi
+    - coef: 5.07668936
       frac: 0
-  - - - '42'
-      - Suan Selenati
-    - coef: 1.51100876
+  - - - '18'
+      - Jürgen Pasker
+    - coef: 5.08517378
       frac: 0
-  - - - '84'
-      - Yasuhiro Noma
-    - coef: 1.56181913
+  - - - '10'
+      - Marat Matnurov
+    - coef: 5.10212
       frac: 0
-  - - - '30'
-      - Fredy Bircher
-    - coef: 1.76791766
+  - - - '87'
+      - Corinna Schwiegershausen
+    - coef: 5.10527218
       frac: 0
-  - - - '95'
-      - Anton Struganov
-    - coef: 2.2306874
+  - - - '69'
+      - Jonathan Kinred
+    - coef: 5.13172345
       frac: 0
-  - - - '56'
-      - Cameron Tunbridge
-    - coef: 2.49703356
+  - - - '73'
+      - Gijs Wanders
+    - coef: 5.23021547
       frac: 0
-  - - - '11'
-      - Steve Blenkinsop
-    - coef: 2.69499272
+  - - - '34'
+      - Jon snr Durand
+    - coef: 5.25014018
       frac: 0
-  - - - '12'
-      - Glen Mcfarlane
-    - coef: 2.77721036
+  - - - '6'
+      - Phil Schroder
+    - coef: 5.33766488
       frac: 0
-  - - - '36'
-      - Franz Herrmann
-    - coef: 2.98903776
+  - - - '64'
+      - Gustavo Carvalho
+    - coef: 5.34243516
       frac: 0
-  - - - '85'
-      - Neil Petersen
-    - coef: 3.05638976
+  - - - '96'
+      - Brodrick Osborne
+    - coef: 5.38536057
       frac: 0
-  - - - '71'
-      - Edoardo Giudiceandrea
-    - coef: 3.06472115
+  - - - '94'
+      - Mitch Shipley
+    - coef: 5.4297711
       frac: 0
-  - - - '89'
-      - Scott Barrett
-    - coef: 3.07060807
+  - - - '97'
+      - Konrad Schwab
+    - coef: 5.47057185
       frac: 0
-  - - - '26'
-      - Guy Hubbard
-    - coef: 3.12662977
+  - - - '2'
+      - Pablo Gomes
+    - coef: 5.53889685
       frac: 0
-  - - - '15'
-      - ! 'Jean Souviron '
-    - coef: 3.18264521
+  - - - '82'
+      - Alain Le-gac
+    - coef: 5.59842994
       frac: 0
-  - - - '93'
-      - Trent Brown
-    - coef: 3.30415437
+  - - - '76'
+      - Dmitriy Korchenkov
+    - coef: 5.73030224
       frac: 0
-  - - - '41'
-      - Curt Warren
-    - coef: 3.31180104
+  - - - '55'
+      - Kari Suhonen
+    - coef: 5.76994818
       frac: 0
-  - - - '1'
-      - Lukas Bader
-    - coef: 3.31916303
+  - - - '105'
+      - Chris Lawry
+    - coef: 5.82067345
       frac: 0
-  - - - '61'
-      - Jonny Durand
-    - coef: 3.3664951
+  - - - '5'
+      - Wolfgang Siess
+    - coef: 5.90692003
       frac: 0
-  - - - '60'
-      - Rohan Holtkamp
-    - coef: 3.6297456
+  - - - '27'
+      - ! 'Boris Marold '
+    - coef: 5.95560689
       frac: 0
-  - - - '8'
-      - Primoz Gricar
-    - coef: 3.65190713
+  - - - '62'
+      - Enda Murphy
+    - coef: 6.04768869
+      frac: 0
+  - - - '22'
+      - Mark Russell
+    - coef: 6.27386067
+      frac: 0
+  - - - '98'
+      - Patrick Collin
+    - coef: 6.35700952
+      frac: 0
+  - - - '29'
+      - Konstantin Lukyanov
+    - coef: 6.42134637
+      frac: 0
+  - - - '72'
+      - Tove Heaney
+    - coef: 6.56698444
+      frac: 0
+  - - - '67'
+      - ! 'Andy Phillips '
+    - coef: 6.6503769
+      frac: 0
+  - - - '57'
+      - Julia Kucherenko
+    - coef: 6.67815734
+      frac: 0
+  - - - '20'
+      - ! 'Luke Browne '
+    - coef: 6.69915731
+      frac: 0
+  - - - '83'
+      - Peter Dall
+    - coef: 6.78351242
+      frac: 0
+  - - - '16'
+      - Grant Edward
+    - coef: 7.19104432
       frac: 0
 - - - - '23'
       - Gerolf Heinrichs

@@ -160,7 +160,7 @@ leadCoefMin:
 - 2.98849258
 - 3.07073517
 - 3.62337995
-lead:
+leadRank:
 - - - - '71'
       - Edoardo Giudiceandrea
     - coef: 3.09925712
@@ -2873,7 +2873,7 @@ lead:
       - Carole Tobler
     - coef: 9.22867594
       frac: 0
-arrival:
+arrivalRank:
 - []
 - - - - '103'
       - Roberto Nichele
@@ -3775,6 +3775,2831 @@ arrival:
       - Adam Stevens
     - rank: '29'
       frac: 0.20145639
+reachRank:
+- - - - '41'
+      - Curt Warren
+    - frac: 1
+      reach: 123.995773 km
+  - - - '71'
+      - Edoardo Giudiceandrea
+    - frac: 0.99964515
+      reach: 123.951773 km
+  - - - '61'
+      - Jonny Durand
+    - frac: 0.94758692
+      reach: 117.496773 km
+  - - - '8'
+      - Primoz Gricar
+    - frac: 0.9059968
+      reach: 112.339773 km
+  - - - '60'
+      - Rohan Holtkamp
+    - frac: 0.87462476
+      reach: 108.449773 km
+  - - - '36'
+      - Franz Herrmann
+    - frac: 0.82901837
+      reach: 102.794773 km
+  - - - '1'
+      - Lukas Bader
+    - frac: 0.71035303
+      reach: 88.080773 km
+  - - - '93'
+      - Trent Brown
+    - frac: 0.70652225
+      reach: 87.605773 km
+  - - - '15'
+      - ! 'Jean Souviron '
+    - frac: 0.70047366
+      reach: 86.855773 km
+  - - - '56'
+      - Cameron Tunbridge
+    - frac: 0.66357724
+      reach: 82.280773 km
+  - - - '89'
+      - Scott Barrett
+    - frac: 0.65315753
+      reach: 80.988773 km
+  - - - '85'
+      - Neil Petersen
+    - frac: 0.64749605
+      reach: 80.286773 km
+  - - - '26'
+      - Guy Hubbard
+    - frac: 0.64668957
+      reach: 80.186773 km
+  - - - '11'
+      - Steve Blenkinsop
+    - frac: 0.58446164
+      reach: 72.470773 km
+  - - - '12'
+      - Glen Mcfarlane
+    - frac: 0.58175187
+      reach: 72.134773 km
+  - - - '95'
+      - Anton Struganov
+    - frac: 0.4926198
+      reach: 61.082773 km
+  - - - '23'
+      - Gerolf Heinrichs
+    - frac: 0.44148096
+      reach: 54.741773 km
+  - - - '30'
+      - Fredy Bircher
+    - frac: 0.43562592
+      reach: 54.015773 km
+  - - - '84'
+      - Yasuhiro Noma
+    - frac: 0.43009348
+      reach: 53.329773 km
+  - - - '42'
+      - Suan Selenati
+    - frac: 0.40777013
+      reach: 50.561773 km
+  - - - '77'
+      - Len Paton
+    - frac: 0.38807591
+      reach: 48.119773 km
+  - - - '3'
+      - Rod Flockhart
+    - frac: 0.37963208
+      reach: 47.072773 km
+  - - - '90'
+      - Adam Stevens
+    - frac: 0.37684166
+      reach: 46.726773 km
+  - - - '49'
+      - Tony Giammichele
+    - frac: 0.37001885
+      reach: 45.880773 km
+  - - - '66'
+      - Jonas Lobitz
+    - frac: 0.35279245
+      reach: 43.744773 km
+  - - - '92'
+      - Hans Kiefinger
+    - frac: 0.34566318
+      reach: 42.860773 km
+  - - - '75'
+      - Joerg Bajewski
+    - frac: 0.33694514
+      reach: 41.779773 km
+  - - - '70'
+      - Matthew Barlow
+    - frac: 0.32710609
+      reach: 40.559773 km
+  - - - '102'
+      - Davide Guiducci
+    - frac: 0.32663027
+      reach: 40.500773 km
+  - - - '81'
+      - Valentino Bau
+    - frac: 0.32396083
+      reach: 40.169773 km
+  - - - '25'
+      - Nick Purcell
+    - frac: 0.3203236
+      reach: 39.718773 km
+  - - - '47'
+      - ! 'Miguel De Jong '
+    - frac: 0.31929938
+      reach: 39.591773 km
+  - - - '99'
+      - Tullio Gervasoni
+    - frac: 0.31593636
+      reach: 39.174773 km
+  - - - '59'
+      - Artur Dzamikhov
+    - frac: 0.31422662
+      reach: 38.962773 km
+  - - - '7'
+      - Shaun O'neill
+    - frac: 0.31130717
+      reach: 38.600773 km
+  - - - '14'
+      - Olav Lien Olsen
+    - frac: 0.31104103
+      reach: 38.567773 km
+  - - - '65'
+      - Davis Straub
+    - frac: 0.31079909
+      reach: 38.537773 km
+  - - - '48'
+      - Paolo Rosichetti
+    - frac: 0.31050875
+      reach: 38.501773 km
+  - - - '43'
+      - Les Bestt
+    - frac: 0.3104765
+      reach: 38.497773 km
+  - - - '31'
+      - Andrew Barnes
+    - frac: 0.30891999
+      reach: 38.304773 km
+  - - - '106'
+      - Adam Parer
+    - frac: 0.30877482
+      reach: 38.286773 km
+  - - - '45'
+      - Roland Wöhrle
+    - frac: 0.30820222
+      reach: 38.215773 km
+  - - - '13'
+      - John Smith
+    - frac: 0.30721025
+      reach: 38.092773 km
+  - - - '68'
+      - Grant Heaney
+    - frac: 0.30666991
+      reach: 38.025773 km
+  - - - '100'
+      - Attila Bertok
+    - frac: 0.29387109
+      reach: 36.438773 km
+  - - - '103'
+      - Roberto Nichele
+    - frac: 0.29292751
+      reach: 36.321773 km
+  - - - '35'
+      - Carole Tobler
+    - frac: 0.29241136
+      reach: 36.257773 km
+  - - - '10'
+      - Marat Matnurov
+    - frac: 0.27055578
+      reach: 33.547773 km
+  - - - '87'
+      - Corinna Schwiegershausen
+    - frac: 0.26952349
+      reach: 33.419773 km
+  - - - '18'
+      - Jürgen Pasker
+    - frac: 0.2628539
+      reach: 32.592773 km
+  - - - '69'
+      - Jonathan Kinred
+    - frac: 0.2614345
+      reach: 32.416773 km
+  - - - '51'
+      - Rob In 't Groen
+    - frac: 0.25968444
+      reach: 32.199773 km
+  - - - '24'
+      - Christian Baertschi
+    - frac: 0.24872439
+      reach: 30.840773 km
+  - - - '73'
+      - Gijs Wanders
+    - frac: 0.24831309
+      reach: 30.789773 km
+  - - - '33'
+      - Conrad Loten
+    - frac: 0.24478071
+      reach: 30.351773 km
+  - - - '76'
+      - Dmitriy Korchenkov
+    - frac: 0.22494939
+      reach: 27.892773 km
+  - - - '6'
+      - Phil Schroder
+    - frac: 0.22440904
+      reach: 27.825773 km
+  - - - '96'
+      - Brodrick Osborne
+    - frac: 0.22104603
+      reach: 27.408773 km
+  - - - '94'
+      - Mitch Shipley
+    - frac: 0.2147071
+      reach: 26.622773 km
+  - - - '64'
+      - Gustavo Carvalho
+    - frac: 0.21438451
+      reach: 26.582773 km
+  - - - '97'
+      - Konrad Schwab
+    - frac: 0.20964241
+      reach: 25.994773 km
+  - - - '34'
+      - Jon snr Durand
+    - frac: 0.19657745
+      reach: 24.374773 km
+  - - - '2'
+      - Pablo Gomes
+    - frac: 0.19370639
+      reach: 24.018773 km
+  - - - '82'
+      - Alain Le-gac
+    - frac: 0.17862523
+      reach: 22.148773 km
+  - - - '55'
+      - Kari Suhonen
+    - frac: 0.15618898
+      reach: 19.366773 km
+  - - - '105'
+      - Chris Lawry
+    - frac: 0.14684188
+      reach: 18.207773 km
+  - - - '27'
+      - ! 'Boris Marold '
+    - frac: 0.13242204
+      reach: 16.419773 km
+  - - - '5'
+      - Wolfgang Siess
+    - frac: 0.13205106
+      reach: 16.373773 km
+  - - - '62'
+      - Enda Murphy
+    - frac: 0.11629246
+      reach: 14.419773 km
+  - - - '20'
+      - ! 'Luke Browne '
+    - frac: 0.10962287
+      reach: 13.592773 km
+  - - - '22'
+      - Mark Russell
+    - frac: 9.678373e-2
+      reach: 12.000773 km
+  - - - '98'
+      - Patrick Collin
+    - frac: 9.246906e-2
+      reach: 11.465773 km
+  - - - '83'
+      - Peter Dall
+    - frac: 8.910605e-2
+      reach: 11.048773 km
+  - - - '29'
+      - Konstantin Lukyanov
+    - frac: 8.277518e-2
+      reach: 10.263773 km
+  - - - '67'
+      - ! 'Andy Phillips '
+    - frac: 8.150095e-2
+      reach: 10.105773 km
+  - - - '72'
+      - Tove Heaney
+    - frac: 7.312969e-2
+      reach: 9.067773 km
+  - - - '57'
+      - Julia Kucherenko
+    - frac: 6.352453e-2
+      reach: 7.876773 km
+  - - - '44'
+      - Francoise Dieuzeide-banet
+    - frac: 5.395969e-2
+      reach: 6.690773 km
+  - - - '78'
+      - Christine Aichner
+    - frac: 4.729817e-2
+      reach: 5.864773 km
+  - - - '21'
+      - Gavin Myers
+    - frac: 4.461259e-2
+      reach: 5.531773 km
+  - - - '40'
+      - Phil de Joux
+    - frac: 4.358836e-2
+      reach: 5.404773 km
+  - - - '32'
+      - Kathryn O'Riordan
+    - frac: 4.288673e-2
+      reach: 5.317773 km
+  - - - '53'
+      - Hadewych van Kempen
+    - frac: 3.964468e-2
+      reach: 4.915773 km
+  - - - '19'
+      - Mikhail Karmazin
+    - frac: 3.79914e-2
+      reach: 4.710773 km
+  - - - '16'
+      - Grant Edward
+    - frac: 3.620908e-2
+      reach: 4.489773 km
+  - - - '28'
+      - Evgeniya Laritskaya
+    - frac: 1.467609e-2
+      reach: 1.819773 km
+  - - - '50'
+      - Monique Pavy
+    - frac: 1.44983e-3
+      reach: 0.179773 km
+  - - - '46'
+      - Jonathon Foote
+    - frac: -2.438976e-2
+      reach: -3.024227 km
+- - - - '103'
+      - Roberto Nichele
+    - frac: 1
+      reach: 128.283976 km
+  - - - '89'
+      - Scott Barrett
+    - frac: 1
+      reach: 128.283976 km
+  - - - '60'
+      - Rohan Holtkamp
+    - frac: 1
+      reach: 128.283976 km
+  - - - '99'
+      - Tullio Gervasoni
+    - frac: 1
+      reach: 128.283976 km
+  - - - '33'
+      - Conrad Loten
+    - frac: 1
+      reach: 128.283976 km
+  - - - '106'
+      - Adam Parer
+    - frac: 1
+      reach: 128.283976 km
+  - - - '66'
+      - Jonas Lobitz
+    - frac: 1
+      reach: 128.283976 km
+  - - - '95'
+      - Anton Struganov
+    - frac: 1
+      reach: 128.283976 km
+  - - - '23'
+      - Gerolf Heinrichs
+    - frac: 1
+      reach: 128.283976 km
+  - - - '15'
+      - ! 'Jean Souviron '
+    - frac: 1
+      reach: 128.283976 km
+  - - - '1'
+      - Lukas Bader
+    - frac: 1
+      reach: 128.283976 km
+  - - - '90'
+      - Adam Stevens
+    - frac: 1
+      reach: 128.283976 km
+  - - - '45'
+      - Roland Wöhrle
+    - frac: 1
+      reach: 128.283976 km
+  - - - '68'
+      - Grant Heaney
+    - frac: 1
+      reach: 128.283976 km
+  - - - '42'
+      - Suan Selenati
+    - frac: 1
+      reach: 128.283976 km
+  - - - '102'
+      - Davide Guiducci
+    - frac: 1
+      reach: 128.283976 km
+  - - - '92'
+      - Hans Kiefinger
+    - frac: 1
+      reach: 128.283976 km
+  - - - '48'
+      - Paolo Rosichetti
+    - frac: 1
+      reach: 128.283976 km
+  - - - '11'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 128.283976 km
+  - - - '84'
+      - Yasuhiro Noma
+    - frac: 1
+      reach: 128.283976 km
+  - - - '75'
+      - Joerg Bajewski
+    - frac: 1
+      reach: 128.283976 km
+  - - - '87'
+      - Corinna Schwiegershausen
+    - frac: 1
+      reach: 128.283976 km
+  - - - '56'
+      - Cameron Tunbridge
+    - frac: 1
+      reach: 128.283976 km
+  - - - '30'
+      - Fredy Bircher
+    - frac: 1
+      reach: 128.283976 km
+  - - - '13'
+      - John Smith
+    - frac: 1
+      reach: 128.283976 km
+  - - - '59'
+      - Artur Dzamikhov
+    - frac: 1
+      reach: 128.283976 km
+  - - - '94'
+      - Mitch Shipley
+    - frac: 1
+      reach: 128.283976 km
+  - - - '100'
+      - Attila Bertok
+    - frac: 1
+      reach: 128.283976 km
+  - - - '8'
+      - Primoz Gricar
+    - frac: 1
+      reach: 128.283976 km
+  - - - '73'
+      - Gijs Wanders
+    - frac: 1
+      reach: 128.283976 km
+  - - - '77'
+      - Len Paton
+    - frac: 1
+      reach: 128.283976 km
+  - - - '14'
+      - Olav Lien Olsen
+    - frac: 1
+      reach: 128.283976 km
+  - - - '36'
+      - Franz Herrmann
+    - frac: 0.99978173
+      reach: 128.255976 km
+  - - - '12'
+      - Glen Mcfarlane
+    - frac: 0.99841757
+      reach: 128.080976 km
+  - - - '47'
+      - ! 'Miguel De Jong '
+    - frac: 0.99266471
+      reach: 127.342976 km
+  - - - '49'
+      - Tony Giammichele
+    - frac: 0.98773814
+      reach: 126.710976 km
+  - - - '6'
+      - Phil Schroder
+    - frac: 0.9811434
+      reach: 125.864976 km
+  - - - '26'
+      - Guy Hubbard
+    - frac: 0.98069128
+      reach: 125.806976 km
+  - - - '81'
+      - Valentino Bau
+    - frac: 0.94289232
+      reach: 120.957976 km
+  - - - '20'
+      - ! 'Luke Browne '
+    - frac: 0.94176202
+      reach: 120.812976 km
+  - - - '96'
+      - Brodrick Osborne
+    - frac: 0.93258706
+      reach: 119.635976 km
+  - - - '85'
+      - Neil Petersen
+    - frac: 0.91612359
+      reach: 117.523976 km
+  - - - '21'
+      - Gavin Myers
+    - frac: 0.91266251
+      reach: 117.079976 km
+  - - - '35'
+      - Carole Tobler
+    - frac: 0.91153221
+      reach: 116.934976 km
+  - - - '44'
+      - Francoise Dieuzeide-banet
+    - frac: 0.91097875
+      reach: 116.863976 km
+  - - - '5'
+      - Wolfgang Siess
+    - frac: 0.91007451
+      reach: 116.747976 km
+  - - - '22'
+      - Mark Russell
+    - frac: 0.90956782
+      reach: 116.682976 km
+  - - - '16'
+      - Grant Edward
+    - frac: 0.90949766
+      reach: 116.673976 km
+  - - - '69'
+      - Jonathan Kinred
+    - frac: 0.90064231
+      reach: 115.537976 km
+  - - - '51'
+      - Rob In 't Groen
+    - frac: 0.89421126
+      reach: 114.712976 km
+  - - - '55'
+      - Kari Suhonen
+    - frac: 0.89415669
+      reach: 114.705976 km
+  - - - '61'
+      - Jonny Durand
+    - frac: 0.89204419
+      reach: 114.434976 km
+  - - - '25'
+      - Nick Purcell
+    - frac: 0.88923012
+      reach: 114.073976 km
+  - - - '24'
+      - Christian Baertschi
+    - frac: 0.88450623
+      reach: 113.467976 km
+  - - - '18'
+      - Jürgen Pasker
+    - frac: 0.88364096
+      reach: 113.356976 km
+  - - - '105'
+      - Chris Lawry
+    - frac: 0.88317325
+      reach: 113.296976 km
+  - - - '83'
+      - Peter Dall
+    - frac: 0.85748025
+      reach: 110.000976 km
+  - - - '32'
+      - Kathryn O'Riordan
+    - frac: 0.84004238
+      reach: 107.763976 km
+  - - - '29'
+      - Konstantin Lukyanov
+    - frac: 0.83924726
+      reach: 107.661976 km
+  - - - '37'
+      - Peter Ebeling
+    - frac: 0.83599666
+      reach: 107.244976 km
+  - - - '34'
+      - Jon snr Durand
+    - frac: 0.83111687
+      reach: 106.618976 km
+  - - - '27'
+      - ! 'Boris Marold '
+    - frac: 0.82741414
+      reach: 106.143976 km
+  - - - '10'
+      - Marat Matnurov
+    - frac: 0.82626045
+      reach: 105.995976 km
+  - - - '62'
+      - Enda Murphy
+    - frac: 0.7874871
+      reach: 101.021976 km
+  - - - '93'
+      - Trent Brown
+    - frac: 0.77688562
+      reach: 99.661976 km
+  - - - '41'
+      - Curt Warren
+    - frac: 0.76469392
+      reach: 98.097976 km
+  - - - '71'
+      - Edoardo Giudiceandrea
+    - frac: 0.74370922
+      reach: 95.405976 km
+  - - - '82'
+      - Alain Le-gac
+    - frac: 0.73606213
+      reach: 94.424976 km
+  - - - '88'
+      - Martin Sielaff
+    - frac: 0.73065225
+      reach: 93.730976 km
+  - - - '43'
+      - Les Bestt
+    - frac: 0.72856314
+      reach: 93.462976 km
+  - - - '7'
+      - Shaun O'neill
+    - frac: 0.72265437
+      reach: 92.704976 km
+  - - - '2'
+      - Pablo Gomes
+    - frac: 0.71542042
+      reach: 91.776976 km
+  - - - '28'
+      - Evgeniya Laritskaya
+    - frac: 0.70891922
+      reach: 90.942976 km
+  - - - '31'
+      - Andrew Barnes
+    - frac: 0.7066664
+      reach: 90.653976 km
+  - - - '72'
+      - Tove Heaney
+    - frac: 0.70615192
+      reach: 90.587976 km
+  - - - '97'
+      - Konrad Schwab
+    - frac: 0.69485667
+      reach: 89.138976 km
+  - - - '3'
+      - Rod Flockhart
+    - frac: 0.62164409
+      reach: 79.746976 km
+  - - - '17'
+      - John Urlich
+    - frac: 0.6154547
+      reach: 78.952976 km
+  - - - '78'
+      - Christine Aichner
+    - frac: 0.58778951
+      reach: 75.403976 km
+  - - - '79'
+      - David Stevens
+    - frac: 0.48397296
+      reach: 62.085976 km
+  - - - '98'
+      - Patrick Collin
+    - frac: 0.48311549
+      reach: 61.975976 km
+  - - - '91'
+      - Francesco Rinaldi
+    - frac: 0.47715995
+      reach: 61.211976 km
+  - - - '64'
+      - Gustavo Carvalho
+    - frac: 0.41291187
+      reach: 52.969976 km
+  - - - '70'
+      - Matthew Barlow
+    - frac: 0.39656532
+      reach: 50.872976 km
+  - - - '67'
+      - ! 'Andy Phillips '
+    - frac: 0.39128797
+      reach: 50.195976 km
+  - - - '76'
+      - Dmitriy Korchenkov
+    - frac: 0.35160257
+      reach: 45.104976 km
+  - - - '19'
+      - Mikhail Karmazin
+    - frac: 0.30010744
+      reach: 38.498976 km
+  - - - '50'
+      - Monique Pavy
+    - frac: 0.25503556
+      reach: 32.716976 km
+  - - - '52'
+      - Virpi Nieminen
+    - frac: 0.19099015
+      reach: 24.500976 km
+  - - - '40'
+      - Phil de Joux
+    - frac: 0.16524259
+      reach: 21.197976 km
+  - - - '58'
+      - Anna Belova
+    - frac: 0.15889729
+      reach: 20.383976 km
+  - - - '53'
+      - Hadewych van Kempen
+    - frac: 0.13343815
+      reach: 17.117976 km
+  - - - '46'
+      - Jonathon Foote
+    - frac: 8.850658e-2
+      reach: 11.353976 km
+  - - - '57'
+      - Julia Kucherenko
+    - frac: 3.131315e-2
+      reach: 4.016976 km
+- - - - '100'
+      - Attila Bertok
+    - frac: 1
+      reach: 183.858311 km
+  - - - '103'
+      - Roberto Nichele
+    - frac: 1
+      reach: 183.858311 km
+  - - - '33'
+      - Conrad Loten
+    - frac: 1
+      reach: 183.858311 km
+  - - - '66'
+      - Jonas Lobitz
+    - frac: 1
+      reach: 183.858311 km
+  - - - '102'
+      - Davide Guiducci
+    - frac: 1
+      reach: 183.858311 km
+  - - - '8'
+      - Primoz Gricar
+    - frac: 1
+      reach: 183.858311 km
+  - - - '60'
+      - Rohan Holtkamp
+    - frac: 1
+      reach: 183.858311 km
+  - - - '7'
+      - Shaun O'neill
+    - frac: 1
+      reach: 183.858311 km
+  - - - '68'
+      - Grant Heaney
+    - frac: 1
+      reach: 183.858311 km
+  - - - '1'
+      - Lukas Bader
+    - frac: 1
+      reach: 183.858311 km
+  - - - '13'
+      - John Smith
+    - frac: 1
+      reach: 183.858311 km
+  - - - '95'
+      - Anton Struganov
+    - frac: 1
+      reach: 183.858311 km
+  - - - '94'
+      - Mitch Shipley
+    - frac: 1
+      reach: 183.858311 km
+  - - - '11'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 183.858311 km
+  - - - '84'
+      - Yasuhiro Noma
+    - frac: 1
+      reach: 183.858311 km
+  - - - '90'
+      - Adam Stevens
+    - frac: 1
+      reach: 183.858311 km
+  - - - '36'
+      - Franz Herrmann
+    - frac: 1
+      reach: 183.858311 km
+  - - - '61'
+      - Jonny Durand
+    - frac: 1
+      reach: 183.858311 km
+  - - - '99'
+      - Tullio Gervasoni
+    - frac: 1
+      reach: 183.858311 km
+  - - - '24'
+      - Christian Baertschi
+    - frac: 1
+      reach: 183.858311 km
+  - - - '92'
+      - Hans Kiefinger
+    - frac: 1
+      reach: 183.858311 km
+  - - - '5'
+      - Wolfgang Siess
+    - frac: 1
+      reach: 183.858311 km
+  - - - '93'
+      - Trent Brown
+    - frac: 1
+      reach: 183.858311 km
+  - - - '59'
+      - Artur Dzamikhov
+    - frac: 1
+      reach: 183.858311 km
+  - - - '35'
+      - Carole Tobler
+    - frac: 1
+      reach: 183.858311 km
+  - - - '49'
+      - Tony Giammichele
+    - frac: 1
+      reach: 183.858311 km
+  - - - '41'
+      - Curt Warren
+    - frac: 1
+      reach: 183.858311 km
+  - - - '85'
+      - Neil Petersen
+    - frac: 1
+      reach: 183.858311 km
+  - - - '56'
+      - Cameron Tunbridge
+    - frac: 1
+      reach: 183.858311 km
+  - - - '70'
+      - Matthew Barlow
+    - frac: 1
+      reach: 183.858311 km
+  - - - '14'
+      - Olav Lien Olsen
+    - frac: 1
+      reach: 183.858311 km
+  - - - '25'
+      - Nick Purcell
+    - frac: 1
+      reach: 183.858311 km
+  - - - '3'
+      - Rod Flockhart
+    - frac: 1
+      reach: 183.858311 km
+  - - - '34'
+      - Jon snr Durand
+    - frac: 1
+      reach: 183.858311 km
+  - - - '69'
+      - Jonathan Kinred
+    - frac: 1
+      reach: 183.858311 km
+  - - - '31'
+      - Andrew Barnes
+    - frac: 1
+      reach: 183.858311 km
+  - - - '75'
+      - Joerg Bajewski
+    - frac: 1
+      reach: 183.858311 km
+  - - - '87'
+      - Corinna Schwiegershausen
+    - frac: 1
+      reach: 183.858311 km
+  - - - '105'
+      - Chris Lawry
+    - frac: 1
+      reach: 183.858311 km
+  - - - '101'
+      - ! 'Andrew Luton '
+    - frac: 1
+      reach: 183.858311 km
+  - - - '44'
+      - Francoise Dieuzeide-banet
+    - frac: 1
+      reach: 183.858311 km
+  - - - '19'
+      - Mikhail Karmazin
+    - frac: 1
+      reach: 183.858311 km
+  - - - '78'
+      - Christine Aichner
+    - frac: 1
+      reach: 183.858311 km
+  - - - '89'
+      - Scott Barrett
+    - frac: 1
+      reach: 183.858311 km
+  - - - '47'
+      - ! 'Miguel De Jong '
+    - frac: 1
+      reach: 183.858311 km
+  - - - '77'
+      - Len Paton
+    - frac: 1
+      reach: 183.858311 km
+  - - - '15'
+      - ! 'Jean Souviron '
+    - frac: 0.9779341
+      reach: 179.801311 km
+  - - - '26'
+      - Guy Hubbard
+    - frac: 0.97468159
+      reach: 179.203311 km
+  - - - '71'
+      - Edoardo Giudiceandrea
+    - frac: 0.92173865
+      reach: 169.469311 km
+  - - - '30'
+      - Fredy Bircher
+    - frac: 0.91153514
+      reach: 167.593311 km
+  - - - '45'
+      - Roland Wöhrle
+    - frac: 0.90925077
+      reach: 167.173311 km
+  - - - '55'
+      - Kari Suhonen
+    - frac: 0.90916375
+      reach: 167.157311 km
+  - - - '37'
+      - Peter Ebeling
+    - frac: 0.79660968
+      reach: 146.463311 km
+  - - - '6'
+      - Phil Schroder
+    - frac: 0.72626747
+      reach: 133.530311 km
+  - - - '40'
+      - Phil de Joux
+    - frac: 0.72017039
+      reach: 132.409311 km
+  - - - '2'
+      - Pablo Gomes
+    - frac: 0.70571904
+      reach: 129.752311 km
+  - - - '106'
+      - Adam Parer
+    - frac: 0.70164525
+      reach: 129.003311 km
+  - - - '67'
+      - ! 'Andy Phillips '
+    - frac: 0.69315502
+      reach: 127.442311 km
+  - - - '98'
+      - Patrick Collin
+    - frac: 0.66102158
+      reach: 121.534311 km
+  - - - '62'
+      - Enda Murphy
+    - frac: 0.65289032
+      reach: 120.039311 km
+  - - - '51'
+      - Rob In 't Groen
+    - frac: 0.64806595
+      reach: 119.152311 km
+  - - - '12'
+      - Glen Mcfarlane
+    - frac: 0.59420926
+      reach: 109.250311 km
+  - - - '79'
+      - David Stevens
+    - frac: 0.59292022
+      reach: 109.013311 km
+  - - - '72'
+      - Tove Heaney
+    - frac: 0.583538
+      reach: 107.288311 km
+  - - - '32'
+      - Kathryn O'Riordan
+    - frac: 0.52579788
+      reach: 96.672311 km
+  - - - '10'
+      - Marat Matnurov
+    - frac: 0.52474272
+      reach: 96.478311 km
+  - - - '97'
+      - Konrad Schwab
+    - frac: 0.52460131
+      reach: 96.452311 km
+  - - - '52'
+      - Virpi Nieminen
+    - frac: 0.52337754
+      reach: 96.227311 km
+  - - - '48'
+      - Paolo Rosichetti
+    - frac: 0.50312825
+      reach: 92.504311 km
+  - - - '46'
+      - Jonathon Foote
+    - frac: 0.47770107
+      reach: 87.829311 km
+  - - - '43'
+      - Les Bestt
+    - frac: 0.42825538
+      reach: 78.738311 km
+  - - - '96'
+      - Brodrick Osborne
+    - frac: 0.42810853
+      reach: 78.711311 km
+  - - - '83'
+      - Peter Dall
+    - frac: 0.42400754
+      reach: 77.957311 km
+  - - - '18'
+      - Jürgen Pasker
+    - frac: 0.40618404
+      reach: 74.680311 km
+  - - - '58'
+      - Anna Belova
+    - frac: 0.39227659
+      reach: 72.123311 km
+  - - - '29'
+      - Konstantin Lukyanov
+    - frac: 0.37908708
+      reach: 69.698311 km
+  - - - '21'
+      - Gavin Myers
+    - frac: 0.29968355
+      reach: 55.099311 km
+  - - - '28'
+      - Evgeniya Laritskaya
+    - frac: 0.27245062
+      reach: 50.092311 km
+  - - - '23'
+      - Gerolf Heinrichs
+    - frac: 0.26735431
+      reach: 49.155311 km
+  - - - '73'
+      - Gijs Wanders
+    - frac: 0.23442134
+      reach: 43.100311 km
+  - - - '16'
+      - Grant Edward
+    - frac: 0.20001985
+      reach: 36.775311 km
+  - - - '64'
+      - Gustavo Carvalho
+    - frac: 0.15320118
+      reach: 28.167311 km
+  - - - '81'
+      - Valentino Bau
+    - frac: 0.14205129
+      reach: 26.117311 km
+  - - - '22'
+      - Mark Russell
+    - frac: 0.13709095
+      reach: 25.205311 km
+  - - - '82'
+      - Alain Le-gac
+    - frac: 0.12901952
+      reach: 23.721311 km
+  - - - '17'
+      - John Urlich
+    - frac: 0.11971888
+      reach: 22.011311 km
+  - - - '53'
+      - Hadewych van Kempen
+    - frac: 9.832741e-2
+      reach: 18.078311 km
+  - - - '88'
+      - Martin Sielaff
+    - frac: 9.50749e-2
+      reach: 17.480311 km
+  - - - '57'
+      - Julia Kucherenko
+    - frac: 6.721649e-2
+      reach: 12.358311 km
+- - - - '100'
+      - Attila Bertok
+    - frac: 1
+      reach: 140.852794 km
+  - - - '5'
+      - Wolfgang Siess
+    - frac: 1
+      reach: 140.852794 km
+  - - - '15'
+      - ! 'Jean Souviron '
+    - frac: 1
+      reach: 140.852794 km
+  - - - '44'
+      - Francoise Dieuzeide-banet
+    - frac: 1
+      reach: 140.852794 km
+  - - - '34'
+      - Jon snr Durand
+    - frac: 1
+      reach: 140.852794 km
+  - - - '24'
+      - Christian Baertschi
+    - frac: 1
+      reach: 140.852794 km
+  - - - '6'
+      - Phil Schroder
+    - frac: 1
+      reach: 140.852794 km
+  - - - '99'
+      - Tullio Gervasoni
+    - frac: 1
+      reach: 140.852794 km
+  - - - '68'
+      - Grant Heaney
+    - frac: 1
+      reach: 140.852794 km
+  - - - '59'
+      - Artur Dzamikhov
+    - frac: 1
+      reach: 140.852794 km
+  - - - '25'
+      - Nick Purcell
+    - frac: 1
+      reach: 140.852794 km
+  - - - '55'
+      - Kari Suhonen
+    - frac: 1
+      reach: 140.852794 km
+  - - - '78'
+      - Christine Aichner
+    - frac: 1
+      reach: 140.852794 km
+  - - - '92'
+      - Hans Kiefinger
+    - frac: 1
+      reach: 140.852794 km
+  - - - '18'
+      - Jürgen Pasker
+    - frac: 1
+      reach: 140.852794 km
+  - - - '26'
+      - Guy Hubbard
+    - frac: 1
+      reach: 140.852794 km
+  - - - '23'
+      - Gerolf Heinrichs
+    - frac: 1
+      reach: 140.852794 km
+  - - - '89'
+      - Scott Barrett
+    - frac: 1
+      reach: 140.852794 km
+  - - - '60'
+      - Rohan Holtkamp
+    - frac: 1
+      reach: 140.852794 km
+  - - - '61'
+      - Jonny Durand
+    - frac: 1
+      reach: 140.852794 km
+  - - - '36'
+      - Franz Herrmann
+    - frac: 1
+      reach: 140.852794 km
+  - - - '42'
+      - Suan Selenati
+    - frac: 1
+      reach: 140.852794 km
+  - - - '90'
+      - Adam Stevens
+    - frac: 1
+      reach: 140.852794 km
+  - - - '13'
+      - John Smith
+    - frac: 1
+      reach: 140.852794 km
+  - - - '84'
+      - Yasuhiro Noma
+    - frac: 1
+      reach: 140.852794 km
+  - - - '31'
+      - Andrew Barnes
+    - frac: 1
+      reach: 140.852794 km
+  - - - '56'
+      - Cameron Tunbridge
+    - frac: 1
+      reach: 140.852794 km
+  - - - '75'
+      - Joerg Bajewski
+    - frac: 1
+      reach: 140.852794 km
+  - - - '93'
+      - Trent Brown
+    - frac: 1
+      reach: 140.852794 km
+  - - - '11'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 140.852794 km
+  - - - '45'
+      - Roland Wöhrle
+    - frac: 1
+      reach: 140.852794 km
+  - - - '1'
+      - Lukas Bader
+    - frac: 1
+      reach: 140.852794 km
+  - - - '14'
+      - Olav Lien Olsen
+    - frac: 1
+      reach: 140.852794 km
+  - - - '98'
+      - Patrick Collin
+    - frac: 1
+      reach: 140.852794 km
+  - - - '69'
+      - Jonathan Kinred
+    - frac: 1
+      reach: 140.852794 km
+  - - - '67'
+      - ! 'Andy Phillips '
+    - frac: 1
+      reach: 140.852794 km
+  - - - '94'
+      - Mitch Shipley
+    - frac: 0.99482438
+      reach: 140.123794 km
+  - - - '33'
+      - Conrad Loten
+    - frac: 0.98467194
+      reach: 138.693794 km
+  - - - '21'
+      - Gavin Myers
+    - frac: 0.94394857
+      reach: 132.957794 km
+  - - - '62'
+      - Enda Murphy
+    - frac: 0.91138976
+      reach: 128.371794 km
+  - - - '106'
+      - Adam Parer
+    - frac: 0.90717259
+      reach: 127.777794 km
+  - - - '95'
+      - Anton Struganov
+    - frac: 0.9015852
+      reach: 126.990794 km
+  - - - '96'
+      - Brodrick Osborne
+    - frac: 0.89863176
+      reach: 126.574794 km
+  - - - '66'
+      - Jonas Lobitz
+    - frac: 0.89670776
+      reach: 126.303794 km
+  - - - '82'
+      - Alain Le-gac
+    - frac: 0.85215771
+      reach: 120.028794 km
+  - - - '7'
+      - Shaun O'neill
+    - frac: 0.82912657
+      reach: 116.784794 km
+  - - - '101'
+      - ! 'Andrew Luton '
+    - frac: 0.80033055
+      reach: 112.728794 km
+  - - - '71'
+      - Edoardo Giudiceandrea
+    - frac: 0.79837816
+      reach: 112.453794 km
+  - - - '77'
+      - Len Paton
+    - frac: 0.77296155
+      reach: 108.873794 km
+  - - - '43'
+      - Les Bestt
+    - frac: 0.7484253
+      reach: 105.417794 km
+  - - - '16'
+      - Grant Edward
+    - frac: 0.71582388
+      reach: 100.825794 km
+  - - - '29'
+      - Konstantin Lukyanov
+    - frac: 0.7118268
+      reach: 100.262794 km
+  - - - '19'
+      - Mikhail Karmazin
+    - frac: 0.71074056
+      reach: 100.109794 km
+  - - - '87'
+      - Corinna Schwiegershausen
+    - frac: 0.69634255
+      reach: 98.081794 km
+  - - - '12'
+      - Glen Mcfarlane
+    - frac: 0.67871422
+      reach: 95.598794 km
+  - - - '8'
+      - Primoz Gricar
+    - frac: 0.63383758
+      reach: 89.277794 km
+  - - - '46'
+      - Jonathon Foote
+    - frac: 0.62220132
+      reach: 87.638794 km
+  - - - '51'
+      - Rob In 't Groen
+    - frac: 0.59688411
+      reach: 84.072794 km
+  - - - '3'
+      - Rod Flockhart
+    - frac: 0.59023177
+      reach: 83.135794 km
+  - - - '47'
+      - ! 'Miguel De Jong '
+    - frac: 0.55709789
+      reach: 78.468794 km
+  - - - '85'
+      - Neil Petersen
+    - frac: 0.46446927
+      reach: 65.421794 km
+  - - - '70'
+      - Matthew Barlow
+    - frac: 0.46233938
+      reach: 65.121794 km
+  - - - '32'
+      - Kathryn O'Riordan
+    - frac: 0.44460456
+      reach: 62.623794 km
+  - - - '52'
+      - Virpi Nieminen
+    - frac: 0.42815476
+      reach: 60.306794 km
+  - - - '73'
+      - Gijs Wanders
+    - frac: 0.40496743
+      reach: 57.040794 km
+  - - - '49'
+      - Tony Giammichele
+    - frac: 0.39226623
+      reach: 55.251794 km
+  - - - '79'
+      - David Stevens
+    - frac: 0.38809166
+      reach: 54.663794 km
+  - - - '105'
+      - Chris Lawry
+    - frac: 0.38413007
+      reach: 54.105794 km
+  - - - '41'
+      - Curt Warren
+    - frac: 0.38085715
+      reach: 53.644794 km
+  - - - '102'
+      - Davide Guiducci
+    - frac: 0.34455684
+      reach: 48.531794 km
+  - - - '22'
+      - Mark Russell
+    - frac: 0.33403522
+      reach: 47.049794 km
+  - - - '83'
+      - Peter Dall
+    - frac: 0.3252104
+      reach: 45.806794 km
+  - - - '17'
+      - John Urlich
+    - frac: 0.31476688
+      reach: 44.335794 km
+  - - - '27'
+      - ! 'Boris Marold '
+    - frac: 0.31475268
+      reach: 44.333794 km
+  - - - '20'
+      - ! 'Luke Browne '
+    - frac: 0.29405731
+      reach: 41.418794 km
+  - - - '97'
+      - Konrad Schwab
+    - frac: 0.24128591
+      reach: 33.985794 km
+  - - - '76'
+      - Dmitriy Korchenkov
+    - frac: 0.21805598
+      reach: 30.713794 km
+  - - - '64'
+      - Gustavo Carvalho
+    - frac: 0.18433993
+      reach: 25.964794 km
+  - - - '40'
+      - Phil de Joux
+    - frac: 0.18069783
+      reach: 25.451794 km
+  - - - '2'
+      - Pablo Gomes
+    - frac: 0.17088617
+      reach: 24.069794 km
+  - - - '53'
+      - Hadewych van Kempen
+    - frac: 0.16210395
+      reach: 22.832794 km
+  - - - '37'
+      - Peter Ebeling
+    - frac: 0.11611267
+      reach: 16.354794 km
+  - - - '81'
+      - Valentino Bau
+    - frac: 7.437406e-2
+      reach: 10.475794 km
+- - - - '89'
+      - Scott Barrett
+    - frac: 1
+      reach: 217.366732 km
+  - - - '45'
+      - Roland Wöhrle
+    - frac: 1
+      reach: 217.366732 km
+  - - - '60'
+      - Rohan Holtkamp
+    - frac: 1
+      reach: 217.366732 km
+  - - - '11'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 217.366732 km
+  - - - '94'
+      - Mitch Shipley
+    - frac: 1
+      reach: 217.366732 km
+  - - - '33'
+      - Conrad Loten
+    - frac: 1
+      reach: 217.366732 km
+  - - - '48'
+      - Paolo Rosichetti
+    - frac: 1
+      reach: 217.366732 km
+  - - - '56'
+      - Cameron Tunbridge
+    - frac: 1
+      reach: 217.366732 km
+  - - - '92'
+      - Hans Kiefinger
+    - frac: 1
+      reach: 217.366732 km
+  - - - '93'
+      - Trent Brown
+    - frac: 1
+      reach: 217.366732 km
+  - - - '13'
+      - John Smith
+    - frac: 1
+      reach: 217.366732 km
+  - - - '90'
+      - Adam Stevens
+    - frac: 1
+      reach: 217.366732 km
+  - - - '26'
+      - Guy Hubbard
+    - frac: 1
+      reach: 217.366732 km
+  - - - '3'
+      - Rod Flockhart
+    - frac: 1
+      reach: 217.366732 km
+  - - - '6'
+      - Phil Schroder
+    - frac: 1
+      reach: 217.366732 km
+  - - - '49'
+      - Tony Giammichele
+    - frac: 1
+      reach: 217.366732 km
+  - - - '8'
+      - Primoz Gricar
+    - frac: 1
+      reach: 217.366732 km
+  - - - '23'
+      - Gerolf Heinrichs
+    - frac: 1
+      reach: 217.366732 km
+  - - - '87'
+      - Corinna Schwiegershausen
+    - frac: 1
+      reach: 217.366732 km
+  - - - '103'
+      - Roberto Nichele
+    - frac: 1
+      reach: 217.366732 km
+  - - - '77'
+      - Len Paton
+    - frac: 1
+      reach: 217.366732 km
+  - - - '100'
+      - Attila Bertok
+    - frac: 1
+      reach: 217.366732 km
+  - - - '95'
+      - Anton Struganov
+    - frac: 1
+      reach: 217.366732 km
+  - - - '24'
+      - Christian Baertschi
+    - frac: 1
+      reach: 217.366732 km
+  - - - '14'
+      - Olav Lien Olsen
+    - frac: 1
+      reach: 217.366732 km
+  - - - '73'
+      - Gijs Wanders
+    - frac: 1
+      reach: 217.366732 km
+  - - - '75'
+      - Joerg Bajewski
+    - frac: 1
+      reach: 217.366732 km
+  - - - '69'
+      - Jonathan Kinred
+    - frac: 0.92159334
+      reach: 200.323732 km
+  - - - '25'
+      - Nick Purcell
+    - frac: 0.89819969
+      reach: 195.238732 km
+  - - - '5'
+      - Wolfgang Siess
+    - frac: 0.88968873
+      reach: 193.388732 km
+  - - - '71'
+      - Edoardo Giudiceandrea
+    - frac: 0.88486739
+      reach: 192.340732 km
+  - - - '41'
+      - Curt Warren
+    - frac: 0.87906153
+      reach: 191.078732 km
+  - - - '68'
+      - Grant Heaney
+    - frac: 0.8673072
+      reach: 188.523732 km
+  - - - '62'
+      - Enda Murphy
+    - frac: 0.86648371
+      reach: 188.344732 km
+  - - - '22'
+      - Mark Russell
+    - frac: 0.85558968
+      reach: 185.976732 km
+  - - - '78'
+      - Christine Aichner
+    - frac: 0.85279256
+      reach: 185.368732 km
+  - - - '36'
+      - Franz Herrmann
+    - frac: 0.82858462
+      reach: 180.106732 km
+  - - - '102'
+      - Davide Guiducci
+    - frac: 0.8266432
+      reach: 179.684732 km
+  - - - '15'
+      - ! 'Jean Souviron '
+    - frac: 0.82615555
+      reach: 179.578732 km
+  - - - '106'
+      - Adam Parer
+    - frac: 0.81907535
+      reach: 178.039732 km
+  - - - '55'
+      - Kari Suhonen
+    - frac: 0.81827486
+      reach: 177.865732 km
+  - - - '84'
+      - Yasuhiro Noma
+    - frac: 0.81746517
+      reach: 177.689732 km
+  - - - '66'
+      - Jonas Lobitz
+    - frac: 0.81357313
+      reach: 176.843732 km
+  - - - '99'
+      - Tullio Gervasoni
+    - frac: 0.80909682
+      reach: 175.870732 km
+  - - - '72'
+      - Tove Heaney
+    - frac: 0.8000384
+      reach: 173.901732 km
+  - - - '31'
+      - Andrew Barnes
+    - frac: 0.77721522
+      reach: 168.940732 km
+  - - - '42'
+      - Suan Selenati
+    - frac: 0.76122841
+      reach: 165.465732 km
+  - - - '20'
+      - ! 'Luke Browne '
+    - frac: 0.7337403
+      reach: 159.490732 km
+  - - - '79'
+      - David Stevens
+    - frac: 0.72179735
+      reach: 156.894732 km
+  - - - '32'
+      - Kathryn O'Riordan
+    - frac: 0.64272362
+      reach: 139.706732 km
+  - - - '34'
+      - Jon snr Durand
+    - frac: 0.63496254
+      reach: 138.019732 km
+  - - - '1'
+      - Lukas Bader
+    - frac: 0.59914289
+      reach: 130.233732 km
+  - - - '96'
+      - Brodrick Osborne
+    - frac: 0.56270217
+      reach: 122.312732 km
+  - - - '85'
+      - Neil Petersen
+    - frac: 0.51820134
+      reach: 112.639732 km
+  - - - '29'
+      - Konstantin Lukyanov
+    - frac: 0.48991734
+      reach: 106.491732 km
+  - - - '35'
+      - Carole Tobler
+    - frac: 0.43454088
+      reach: 94.454732 km
+  - - - '37'
+      - Peter Ebeling
+    - frac: 0.40873657
+      reach: 88.845732 km
+  - - - '12'
+      - Glen Mcfarlane
+    - frac: 0.40645011
+      reach: 88.348732 km
+  - - - '67'
+      - ! 'Andy Phillips '
+    - frac: 0.37023482
+      reach: 80.476732 km
+  - - - '18'
+      - Jürgen Pasker
+    - frac: 0.35639185
+      reach: 77.467732 km
+  - - - '30'
+      - Fredy Bircher
+    - frac: 0.34925644
+      reach: 75.916732 km
+  - - - '7'
+      - Shaun O'neill
+    - frac: 0.33852343
+      reach: 73.583732 km
+  - - - '101'
+      - ! 'Andrew Luton '
+    - frac: 0.33844982
+      reach: 73.567732 km
+  - - - '16'
+      - Grant Edward
+    - frac: 0.33017809
+      reach: 71.769732 km
+  - - - '21'
+      - Gavin Myers
+    - frac: 0.31662036
+      reach: 68.822732 km
+  - - - '83'
+      - Peter Dall
+    - frac: 0.31222686
+      reach: 67.867732 km
+  - - - '98'
+      - Patrick Collin
+    - frac: 0.30931473
+      reach: 67.234732 km
+  - - - '88'
+      - Martin Sielaff
+    - frac: 0.28645935
+      reach: 62.266732 km
+  - - - '51'
+      - Rob In 't Groen
+    - frac: 0.28030845
+      reach: 60.929732 km
+  - - - '59'
+      - Artur Dzamikhov
+    - frac: 0.27828422
+      reach: 60.489732 km
+  - - - '46'
+      - Jonathon Foote
+    - frac: 0.27675685
+      reach: 60.157732 km
+  - - - '2'
+      - Pablo Gomes
+    - frac: 0.26019958
+      reach: 56.558732 km
+  - - - '76'
+      - Dmitriy Korchenkov
+    - frac: 0.24551012
+      reach: 53.365732 km
+  - - - '44'
+      - Francoise Dieuzeide-banet
+    - frac: 0.23956625
+      reach: 52.073732 km
+  - - - '64'
+      - Gustavo Carvalho
+    - frac: 0.22555766
+      reach: 49.028732 km
+  - - - '19'
+      - Mikhail Karmazin
+    - frac: 0.20473571
+      reach: 44.502732 km
+  - - - '81'
+      - Valentino Bau
+    - frac: 0.2046529
+      reach: 44.484732 km
+  - - - '17'
+      - John Urlich
+    - frac: 0.17766625
+      reach: 38.618732 km
+  - - - '52'
+      - Virpi Nieminen
+    - frac: 0.13880106
+      reach: 30.170732 km
+  - - - '28'
+      - Evgeniya Laritskaya
+    - frac: 0.12301207
+      reach: 26.738732 km
+  - - - '43'
+      - Les Bestt
+    - frac: 0.1055623
+      reach: 22.945732 km
+  - - - '27'
+      - ! 'Boris Marold '
+    - frac: 0.10040052
+      reach: 21.823732 km
+  - - - '82'
+      - Alain Le-gac
+    - frac: 9.119948e-2
+      reach: 19.823732 km
+  - - - '47'
+      - ! 'Miguel De Jong '
+    - frac: 7.868606e-2
+      reach: 17.103732 km
+  - - - '105'
+      - Chris Lawry
+    - frac: 7.525407e-2
+      reach: 16.357732 km
+  - - - '70'
+      - Matthew Barlow
+    - frac: 7.36945e-2
+      reach: 16.018732 km
+  - - - '97'
+      - Konrad Schwab
+    - frac: 4.811561e-2
+      reach: 10.458732 km
+  - - - '86'
+      - Talgat Irgaleev
+    - frac: 4.80631e-3
+      reach: 1.044732 km
+- - - - '57'
+      - Julia Kucherenko
+    - frac: 1
+      reach: 201.407959 km
+  - - - '100'
+      - Attila Bertok
+    - frac: 1
+      reach: 201.407959 km
+  - - - '60'
+      - Rohan Holtkamp
+    - frac: 1
+      reach: 201.407959 km
+  - - - '95'
+      - Anton Struganov
+    - frac: 1
+      reach: 201.407959 km
+  - - - '45'
+      - Roland Wöhrle
+    - frac: 1
+      reach: 201.407959 km
+  - - - '41'
+      - Curt Warren
+    - frac: 1
+      reach: 201.407959 km
+  - - - '1'
+      - Lukas Bader
+    - frac: 1
+      reach: 201.407959 km
+  - - - '75'
+      - Joerg Bajewski
+    - frac: 1
+      reach: 201.407959 km
+  - - - '90'
+      - Adam Stevens
+    - frac: 1
+      reach: 201.407959 km
+  - - - '66'
+      - Jonas Lobitz
+    - frac: 1
+      reach: 201.407959 km
+  - - - '84'
+      - Yasuhiro Noma
+    - frac: 1
+      reach: 201.407959 km
+  - - - '87'
+      - Corinna Schwiegershausen
+    - frac: 1
+      reach: 201.407959 km
+  - - - '24'
+      - Christian Baertschi
+    - frac: 1
+      reach: 201.407959 km
+  - - - '25'
+      - Nick Purcell
+    - frac: 1
+      reach: 201.407959 km
+  - - - '102'
+      - Davide Guiducci
+    - frac: 1
+      reach: 201.407959 km
+  - - - '49'
+      - Tony Giammichele
+    - frac: 1
+      reach: 201.407959 km
+  - - - '94'
+      - Mitch Shipley
+    - frac: 1
+      reach: 201.407959 km
+  - - - '13'
+      - John Smith
+    - frac: 1
+      reach: 201.407959 km
+  - - - '18'
+      - Jürgen Pasker
+    - frac: 1
+      reach: 201.407959 km
+  - - - '8'
+      - Primoz Gricar
+    - frac: 1
+      reach: 201.407959 km
+  - - - '6'
+      - Phil Schroder
+    - frac: 1
+      reach: 201.407959 km
+  - - - '106'
+      - Adam Parer
+    - frac: 1
+      reach: 201.407959 km
+  - - - '30'
+      - Fredy Bircher
+    - frac: 1
+      reach: 201.407959 km
+  - - - '48'
+      - Paolo Rosichetti
+    - frac: 1
+      reach: 201.407959 km
+  - - - '68'
+      - Grant Heaney
+    - frac: 1
+      reach: 201.407959 km
+  - - - '93'
+      - Trent Brown
+    - frac: 1
+      reach: 201.407959 km
+  - - - '31'
+      - Andrew Barnes
+    - frac: 1
+      reach: 201.407959 km
+  - - - '71'
+      - Edoardo Giudiceandrea
+    - frac: 1
+      reach: 201.407959 km
+  - - - '21'
+      - Gavin Myers
+    - frac: 1
+      reach: 201.407959 km
+  - - - '36'
+      - Franz Herrmann
+    - frac: 1
+      reach: 201.407959 km
+  - - - '26'
+      - Guy Hubbard
+    - frac: 1
+      reach: 201.407959 km
+  - - - '33'
+      - Conrad Loten
+    - frac: 1
+      reach: 201.407959 km
+  - - - '99'
+      - Tullio Gervasoni
+    - frac: 1
+      reach: 201.407959 km
+  - - - '35'
+      - Carole Tobler
+    - frac: 1
+      reach: 201.407959 km
+  - - - '92'
+      - Hans Kiefinger
+    - frac: 1
+      reach: 201.407959 km
+  - - - '55'
+      - Kari Suhonen
+    - frac: 1
+      reach: 201.407959 km
+  - - - '72'
+      - Tove Heaney
+    - frac: 1
+      reach: 201.407959 km
+  - - - '43'
+      - Les Bestt
+    - frac: 1
+      reach: 201.407959 km
+  - - - '22'
+      - Mark Russell
+    - frac: 1
+      reach: 201.407959 km
+  - - - '78'
+      - Christine Aichner
+    - frac: 1
+      reach: 201.407959 km
+  - - - '3'
+      - Rod Flockhart
+    - frac: 1
+      reach: 201.407959 km
+  - - - '85'
+      - Neil Petersen
+    - frac: 1
+      reach: 201.407959 km
+  - - - '44'
+      - Francoise Dieuzeide-banet
+    - frac: 1
+      reach: 201.407959 km
+  - - - '96'
+      - Brodrick Osborne
+    - frac: 1
+      reach: 201.407959 km
+  - - - '69'
+      - Jonathan Kinred
+    - frac: 1
+      reach: 201.407959 km
+  - - - '73'
+      - Gijs Wanders
+    - frac: 1
+      reach: 201.407959 km
+  - - - '28'
+      - Evgeniya Laritskaya
+    - frac: 1
+      reach: 201.407959 km
+  - - - '103'
+      - Roberto Nichele
+    - frac: 0.98557654
+      reach: 198.502959 km
+  - - - '42'
+      - Suan Selenati
+    - frac: 0.95815458
+      reach: 192.979959 km
+  - - - '52'
+      - Virpi Nieminen
+    - frac: 0.95262352
+      reach: 191.865959 km
+  - - - '11'
+      - Steve Blenkinsop
+    - frac: 0.94478371
+      reach: 190.286959 km
+  - - - '98'
+      - Patrick Collin
+    - frac: 0.91335993
+      reach: 183.957959 km
+  - - - '89'
+      - Scott Barrett
+    - frac: 0.91178104
+      reach: 183.639959 km
+  - - - '77'
+      - Len Paton
+    - frac: 0.90413487
+      reach: 182.099959 km
+  - - - '20'
+      - ! 'Luke Browne '
+    - frac: 0.88202055
+      reach: 177.645959 km
+  - - - '17'
+      - John Urlich
+    - frac: 0.85133656
+      reach: 171.465959 km
+  - - - '56'
+      - Cameron Tunbridge
+    - frac: 0.78710375
+      reach: 158.528959 km
+  - - - '27'
+      - ! 'Boris Marold '
+    - frac: 0.78587738
+      reach: 158.281959 km
+  - - - '101'
+      - ! 'Andrew Luton '
+    - frac: 0.78392115
+      reach: 157.887959 km
+  - - - '53'
+      - Hadewych van Kempen
+    - frac: 0.71810449
+      reach: 144.631959 km
+  - - - '29'
+      - Konstantin Lukyanov
+    - frac: 0.68020132
+      reach: 136.997959 km
+  - - - '19'
+      - Mikhail Karmazin
+    - frac: 0.67654704
+      reach: 136.261959 km
+  - - - '82'
+      - Alain Le-gac
+    - frac: 0.66240162
+      reach: 133.412959 km
+  - - - '83'
+      - Peter Dall
+    - frac: 0.64187115
+      reach: 129.277959 km
+  - - - '67'
+      - ! 'Andy Phillips '
+    - frac: 0.62315789
+      reach: 125.508959 km
+  - - - '34'
+      - Jon snr Durand
+    - frac: 0.61056653
+      reach: 122.972959 km
+  - - - '76'
+      - Dmitriy Korchenkov
+    - frac: 0.58452982
+      reach: 117.728959 km
+  - - - '7'
+      - Shaun O'neill
+    - frac: 0.54249574
+      reach: 109.262959 km
+  - - - '40'
+      - Phil de Joux
+    - frac: 0.53538579
+      reach: 107.830959 km
+  - - - '105'
+      - Chris Lawry
+    - frac: 0.46977766
+      reach: 94.616959 km
+  - - - '64'
+      - Gustavo Carvalho
+    - frac: 0.46486723
+      reach: 93.627959 km
+  - - - '81'
+      - Valentino Bau
+    - frac: 0.46486226
+      reach: 93.626959 km
+  - - - '16'
+      - Grant Edward
+    - frac: 0.45609895
+      reach: 91.861959 km
+  - - - '12'
+      - Glen Mcfarlane
+    - frac: 0.44818963
+      reach: 90.268959 km
+  - - - '47'
+      - ! 'Miguel De Jong '
+    - frac: 0.44542907
+      reach: 89.712959 km
+  - - - '97'
+      - Konrad Schwab
+    - frac: 0.42982392
+      reach: 86.569959 km
+  - - - '23'
+      - Gerolf Heinrichs
+    - frac: 0.34878442
+      reach: 70.247959 km
+  - - - '32'
+      - Kathryn O'Riordan
+    - frac: 0.34094461
+      reach: 68.668959 km
+  - - - '88'
+      - Martin Sielaff
+    - frac: 0.30515656
+      reach: 61.460959 km
+  - - - '59'
+      - Artur Dzamikhov
+    - frac: 0.30497781
+      reach: 61.424959 km
+  - - - '70'
+      - Matthew Barlow
+    - frac: 0.29339932
+      reach: 59.092959 km
+  - - - '79'
+      - David Stevens
+    - frac: 0.2865277
+      reach: 57.708959 km
+  - - - '50'
+      - Monique Pavy
+    - frac: 0.28228258
+      reach: 56.853959 km
+  - - - '15'
+      - ! 'Jean Souviron '
+    - frac: 0.27884677
+      reach: 56.161959 km
+  - - - '5'
+      - Wolfgang Siess
+    - frac: 0.25624588
+      reach: 51.609959 km
+  - - - '62'
+      - Enda Murphy
+    - frac: 0.23760709
+      reach: 47.855959 km
+  - - - '58'
+      - Anna Belova
+    - frac: 0.21904774
+      reach: 44.117959 km
+  - - - '37'
+      - Peter Ebeling
+    - frac: 0.19437146
+      reach: 39.147959 km
+  - - - '46'
+      - Jonathon Foote
+    - frac: 0.15355381
+      reach: 30.926959 km
+  - - - '2'
+      - Pablo Gomes
+    - frac: 0.11292483
+      reach: 22.743959 km
+  - - - '86'
+      - Talgat Irgaleev
+    - frac: 9.276674e-2
+      reach: 18.683959 km
+  - - - '14'
+      - Olav Lien Olsen
+    - frac: 8.25586e-2
+      reach: 16.627959 km
+- - - - '41'
+      - Curt Warren
+    - frac: 1
+      reach: 174.105927 km
+  - - - '100'
+      - Attila Bertok
+    - frac: 1
+      reach: 174.105927 km
+  - - - '23'
+      - Gerolf Heinrichs
+    - frac: 1
+      reach: 174.105927 km
+  - - - '89'
+      - Scott Barrett
+    - frac: 1
+      reach: 174.105927 km
+  - - - '102'
+      - Davide Guiducci
+    - frac: 1
+      reach: 174.105927 km
+  - - - '60'
+      - Rohan Holtkamp
+    - frac: 1
+      reach: 174.105927 km
+  - - - '45'
+      - Roland Wöhrle
+    - frac: 1
+      reach: 174.105927 km
+  - - - '99'
+      - Tullio Gervasoni
+    - frac: 1
+      reach: 174.105927 km
+  - - - '93'
+      - Trent Brown
+    - frac: 0.99055173
+      reach: 172.460927 km
+  - - - '56'
+      - Cameron Tunbridge
+    - frac: 0.98796135
+      reach: 172.009927 km
+  - - - '92'
+      - Hans Kiefinger
+    - frac: 0.98701365
+      reach: 171.844927 km
+  - - - '84'
+      - Yasuhiro Noma
+    - frac: 0.98578452
+      reach: 171.630927 km
+  - - - '68'
+      - Grant Heaney
+    - frac: 0.98413035
+      reach: 171.342927 km
+  - - - '103'
+      - Roberto Nichele
+    - frac: 0.97873708
+      reach: 170.403927 km
+  - - - '36'
+      - Franz Herrmann
+    - frac: 0.97374587
+      reach: 169.534927 km
+  - - - '8'
+      - Primoz Gricar
+    - frac: 0.97300494
+      reach: 169.405927 km
+  - - - '66'
+      - Jonas Lobitz
+    - frac: 0.96067337
+      reach: 167.258927 km
+  - - - '13'
+      - John Smith
+    - frac: 0.95928915
+      reach: 167.017927 km
+  - - - '11'
+      - Steve Blenkinsop
+    - frac: 0.94691163
+      reach: 164.862927 km
+  - - - '75'
+      - Joerg Bajewski
+    - frac: 0.94309786
+      reach: 164.198927 km
+  - - - '1'
+      - Lukas Bader
+    - frac: 0.94298299
+      reach: 164.178927 km
+  - - - '87'
+      - Corinna Schwiegershausen
+    - frac: 0.93928983
+      reach: 163.535927 km
+  - - - '71'
+      - Edoardo Giudiceandrea
+    - frac: 0.93922091
+      reach: 163.523927 km
+  - - - '106'
+      - Adam Parer
+    - frac: 0.93834788
+      reach: 163.371927 km
+  - - - '97'
+      - Konrad Schwab
+    - frac: 0.93564263
+      reach: 162.900927 km
+  - - - '24'
+      - Christian Baertschi
+    - frac: 0.92711334
+      reach: 161.415927 km
+  - - - '25'
+      - Nick Purcell
+    - frac: 0.92607374
+      reach: 161.234927 km
+  - - - '49'
+      - Tony Giammichele
+    - frac: 0.92583251
+      reach: 161.192927 km
+  - - - '14'
+      - Olav Lien Olsen
+    - frac: 0.92144437
+      reach: 160.428927 km
+  - - - '101'
+      - ! 'Andrew Luton '
+    - frac: 0.92115719
+      reach: 160.378927 km
+  - - - '5'
+      - Wolfgang Siess
+    - frac: 0.92088724
+      reach: 160.331927 km
+  - - - '34'
+      - Jon snr Durand
+    - frac: 0.9206058
+      reach: 160.282927 km
+  - - - '59'
+      - Artur Dzamikhov
+    - frac: 0.92053114
+      reach: 160.269927 km
+  - - - '12'
+      - Glen Mcfarlane
+    - frac: 0.92045647
+      reach: 160.256927 km
+  - - - '31'
+      - Andrew Barnes
+    - frac: 0.9204335
+      reach: 160.252927 km
+  - - - '26'
+      - Guy Hubbard
+    - frac: 0.92011185
+      reach: 160.196927 km
+  - - - '15'
+      - ! 'Jean Souviron '
+    - frac: 0.92001421
+      reach: 160.179927 km
+  - - - '81'
+      - Valentino Bau
+    - frac: 0.91457499
+      reach: 159.232927 km
+  - - - '33'
+      - Conrad Loten
+    - frac: 0.91226605
+      reach: 158.830927 km
+  - - - '77'
+      - Len Paton
+    - frac: 0.9040182
+      reach: 157.394927 km
+  - - - '94'
+      - Mitch Shipley
+    - frac: 0.9040182
+      reach: 157.394927 km
+  - - - '90'
+      - Adam Stevens
+    - frac: 0.88649439
+      reach: 154.343927 km
+  - - - '44'
+      - Francoise Dieuzeide-banet
+    - frac: 0.87846479
+      reach: 152.945927 km
+  - - - '35'
+      - Carole Tobler
+    - frac: 0.87708632
+      reach: 152.705927 km
+  - - - '79'
+      - David Stevens
+    - frac: 0.81510681
+      reach: 141.914927 km
+  - - - '70'
+      - Matthew Barlow
+    - frac: 0.80595721
+      reach: 140.321927 km
+  - - - '55'
+      - Kari Suhonen
+    - frac: 0.76010581
+      reach: 132.338927 km
+  - - - '85'
+      - Neil Petersen
+    - frac: 0.74938245
+      reach: 130.471927 km
+  - - - '3'
+      - Rod Flockhart
+    - frac: 0.71432908
+      reach: 124.368927 km
+  - - - '48'
+      - Paolo Rosichetti
+    - frac: 0.70717252
+      reach: 123.122927 km
+  - - - '95'
+      - Anton Struganov
+    - frac: 0.69963113
+      reach: 121.809927 km
+  - - - '6'
+      - Phil Schroder
+    - frac: 0.69682824
+      reach: 121.321927 km
+  - - - '22'
+      - Mark Russell
+    - frac: 0.69627685
+      reach: 121.225927 km
+  - - - '73'
+      - Gijs Wanders
+    - frac: 0.6666627
+      reach: 116.069927 km
+  - - - '21'
+      - Gavin Myers
+    - frac: 0.65427369
+      reach: 113.912927 km
+  - - - '32'
+      - Kathryn O'Riordan
+    - frac: 0.65172926
+      reach: 113.469927 km
+  - - - '43'
+      - Les Bestt
+    - frac: 0.62587144
+      reach: 108.967927 km
+  - - - '69'
+      - Jonathan Kinred
+    - frac: 0.62339593
+      reach: 108.536927 km
+  - - - '18'
+      - Jürgen Pasker
+    - frac: 0.54027987
+      reach: 94.065927 km
+  - - - '29'
+      - Konstantin Lukyanov
+    - frac: 0.45513055
+      reach: 79.240927 km
+  - - - '7'
+      - Shaun O'neill
+    - frac: 0.42711887
+      reach: 74.363927 km
+  - - - '91'
+      - Francesco Rinaldi
+    - frac: 0.42278817
+      reach: 73.609927 km
+  - - - '30'
+      - Fredy Bircher
+    - frac: 0.41657931
+      reach: 72.528927 km
+  - - - '37'
+      - Peter Ebeling
+    - frac: 0.39391495
+      reach: 68.582927 km
+  - - - '16'
+      - Grant Edward
+    - frac: 0.37999239
+      reach: 66.158927 km
+  - - - '19'
+      - Mikhail Karmazin
+    - frac: 0.36324396
+      reach: 63.242927 km
+  - - - '96'
+      - Brodrick Osborne
+    - frac: 0.30544582
+      reach: 53.179927 km
+  - - - '2'
+      - Pablo Gomes
+    - frac: 0.29907039
+      reach: 52.069927 km
+  - - - '42'
+      - Suan Selenati
+    - frac: 0.29168982
+      reach: 50.784927 km
+  - - - '67'
+      - ! 'Andy Phillips '
+    - frac: 0.25584957
+      reach: 44.544927 km
+  - - - '64'
+      - Gustavo Carvalho
+    - frac: 0.23907243
+      reach: 41.623927 km
+  - - - '83'
+      - Peter Dall
+    - frac: 0.23704493
+      reach: 41.270927 km
+  - - - '105'
+      - Chris Lawry
+    - frac: 0.22558639
+      reach: 39.275927 km
+  - - - '27'
+      - ! 'Boris Marold '
+    - frac: 0.20174458
+      reach: 35.124927 km
+  - - - '72'
+      - Tove Heaney
+    - frac: 0.19632259
+      reach: 34.180927 km
+  - - - '98'
+      - Patrick Collin
+    - frac: 0.1857658
+      reach: 32.342927 km
+  - - - '82'
+      - Alain Le-gac
+    - frac: 0.17549045
+      reach: 30.553927 km
+  - - - '78'
+      - Christine Aichner
+    - frac: 0.15169459
+      reach: 26.410927 km
+  - - - '58'
+      - Anna Belova
+    - frac: 0.12455019
+      reach: 21.684927 km
+  - - - '17'
+      - John Urlich
+    - frac: 0.11883528
+      reach: 20.689927 km
+  - - - '53'
+      - Hadewych van Kempen
+    - frac: 0.1127298
+      reach: 19.626927 km
+  - - - '40'
+      - Phil de Joux
+    - frac: 0.10718146
+      reach: 18.660927 km
+  - - - '51'
+      - Rob In 't Groen
+    - frac: 0.10694022
+      reach: 18.618927 km
+  - - - '76'
+      - Dmitriy Korchenkov
+    - frac: 0.10392482
+      reach: 18.093927 km
+  - - - '88'
+      - Martin Sielaff
+    - frac: 8.733722e-2
+      reach: 15.205927 km
+  - - - '46'
+      - Jonathon Foote
+    - frac: 8.644121e-2
+      reach: 15.049927 km
+  - - - '52'
+      - Virpi Nieminen
+    - frac: 7.856095e-2
+      reach: 13.677927 km
+  - - - '86'
+      - Talgat Irgaleev
+    - frac: 2.71057e-3
+      reach: 0.471927 km
+- - - - '23'
+      - Gerolf Heinrichs
+    - frac: 1
+      reach: 158.465204 km
+  - - - '100'
+      - Attila Bertok
+    - frac: 1
+      reach: 158.465204 km
+  - - - '66'
+      - Jonas Lobitz
+    - frac: 1
+      reach: 158.465204 km
+  - - - '83'
+      - Peter Dall
+    - frac: 1
+      reach: 158.465204 km
+  - - - '70'
+      - Matthew Barlow
+    - frac: 1
+      reach: 158.465204 km
+  - - - '102'
+      - Davide Guiducci
+    - frac: 1
+      reach: 158.465204 km
+  - - - '60'
+      - Rohan Holtkamp
+    - frac: 1
+      reach: 158.465204 km
+  - - - '34'
+      - Jon snr Durand
+    - frac: 1
+      reach: 158.465204 km
+  - - - '36'
+      - Franz Herrmann
+    - frac: 1
+      reach: 158.465204 km
+  - - - '93'
+      - Trent Brown
+    - frac: 1
+      reach: 158.465204 km
+  - - - '5'
+      - Wolfgang Siess
+    - frac: 1
+      reach: 158.465204 km
+  - - - '81'
+      - Valentino Bau
+    - frac: 1
+      reach: 158.465204 km
+  - - - '41'
+      - Curt Warren
+    - frac: 1
+      reach: 158.465204 km
+  - - - '31'
+      - Andrew Barnes
+    - frac: 1
+      reach: 158.465204 km
+  - - - '45'
+      - Roland Wöhrle
+    - frac: 1
+      reach: 158.465204 km
+  - - - '84'
+      - Yasuhiro Noma
+    - frac: 1
+      reach: 158.465204 km
+  - - - '1'
+      - Lukas Bader
+    - frac: 1
+      reach: 158.465204 km
+  - - - '11'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 158.465204 km
+  - - - '92'
+      - Hans Kiefinger
+    - frac: 1
+      reach: 158.465204 km
+  - - - '75'
+      - Joerg Bajewski
+    - frac: 1
+      reach: 158.465204 km
+  - - - '59'
+      - Artur Dzamikhov
+    - frac: 1
+      reach: 158.465204 km
+  - - - '94'
+      - Mitch Shipley
+    - frac: 1
+      reach: 158.465204 km
+  - - - '89'
+      - Scott Barrett
+    - frac: 1
+      reach: 158.465204 km
+  - - - '99'
+      - Tullio Gervasoni
+    - frac: 1
+      reach: 158.465204 km
+  - - - '71'
+      - Edoardo Giudiceandrea
+    - frac: 1
+      reach: 158.465204 km
+  - - - '95'
+      - Anton Struganov
+    - frac: 1
+      reach: 158.465204 km
+  - - - '15'
+      - ! 'Jean Souviron '
+    - frac: 1
+      reach: 158.465204 km
+  - - - '68'
+      - Grant Heaney
+    - frac: 1
+      reach: 158.465204 km
+  - - - '90'
+      - Adam Stevens
+    - frac: 1
+      reach: 158.465204 km
+  - - - '20'
+      - ! 'Luke Browne '
+    - frac: 0.97397536
+      reach: 154.341204 km
+  - - - '103'
+      - Roberto Nichele
+    - frac: 0.96955168
+      reach: 153.640204 km
+  - - - '14'
+      - Olav Lien Olsen
+    - frac: 0.96674349
+      reach: 153.195204 km
+  - - - '19'
+      - Mikhail Karmazin
+    - frac: 0.96276785
+      reach: 152.565204 km
+  - - - '13'
+      - John Smith
+    - frac: 0.96214942
+      reach: 152.467204 km
+  - - - '25'
+      - Nick Purcell
+    - frac: 0.9502162
+      reach: 150.576204 km
+  - - - '26'
+      - Guy Hubbard
+    - frac: 0.94990067
+      reach: 150.526204 km
+  - - - '48'
+      - Paolo Rosichetti
+    - frac: 0.94676434
+      reach: 150.029204 km
+  - - - '77'
+      - Len Paton
+    - frac: 0.94672016
+      reach: 150.022204 km
+  - - - '73'
+      - Gijs Wanders
+    - frac: 0.94186736
+      reach: 149.253204 km
+  - - - '105'
+      - Chris Lawry
+    - frac: 0.9395514
+      reach: 148.886204 km
+  - - - '33'
+      - Conrad Loten
+    - frac: 0.93580294
+      reach: 148.292204 km
+  - - - '8'
+      - Primoz Gricar
+    - frac: 0.92888029
+      reach: 147.195204 km
+  - - - '6'
+      - Phil Schroder
+    - frac: 0.92395807
+      reach: 146.415204 km
+  - - - '56'
+      - Cameron Tunbridge
+    - frac: 0.92366147
+      reach: 146.368204 km
+  - - - '97'
+      - Konrad Schwab
+    - frac: 0.89574367
+      reach: 141.944204 km
+  - - - '51'
+      - Rob In 't Groen
+    - frac: 0.89080253
+      reach: 141.161204 km
+  - - - '3'
+      - Rod Flockhart
+    - frac: 0.85803824
+      reach: 135.969204 km
+  - - - '21'
+      - Gavin Myers
+    - frac: 0.85719262
+      reach: 135.835204 km
+  - - - '12'
+      - Glen Mcfarlane
+    - frac: 0.85020055
+      reach: 134.727204 km
+  - - - '29'
+      - Konstantin Lukyanov
+    - frac: 0.85015638
+      reach: 134.720204 km
+  - - - '43'
+      - Les Bestt
+    - frac: 0.83816005
+      reach: 132.819204 km
+  - - - '69'
+      - Jonathan Kinred
+    - frac: 0.8257851
+      reach: 130.858204 km
+  - - - '55'
+      - Kari Suhonen
+    - frac: 0.81703239
+      reach: 129.471204 km
+  - - - '27'
+      - ! 'Boris Marold '
+    - frac: 0.79923668
+      reach: 126.651204 km
+  - - - '47'
+      - ! 'Miguel De Jong '
+    - frac: 0.79567123
+      reach: 126.086204 km
+  - - - '91'
+      - Francesco Rinaldi
+    - frac: 0.75145332
+      reach: 119.079204 km
+  - - - '98'
+      - Patrick Collin
+    - frac: 0.66730236
+      reach: 105.744204 km
+  - - - '96'
+      - Brodrick Osborne
+    - frac: 0.61332836
+      reach: 97.191204 km
+  - - - '44'
+      - Francoise Dieuzeide-banet
+    - frac: 0.51643012
+      reach: 81.836204 km
+  - - - '67'
+      - ! 'Andy Phillips '
+    - frac: 0.49316318
+      reach: 78.149204 km
+  - - - '16'
+      - Grant Edward
+    - frac: 0.44171971
+      reach: 69.997204 km
+  - - - '49'
+      - Tony Giammichele
+    - frac: 0.41336017
+      reach: 65.503204 km
+  - - - '7'
+      - Shaun O'neill
+    - frac: 0.41064664
+      reach: 65.073204 km
+  - - - '2'
+      - Pablo Gomes
+    - frac: 0.4095423
+      reach: 64.898204 km
+  - - - '37'
+      - Peter Ebeling
+    - frac: 0.40769962
+      reach: 64.606204 km
+  - - - '87'
+      - Corinna Schwiegershausen
+    - frac: 0.36535594
+      reach: 57.896204 km
+  - - - '82'
+      - Alain Le-gac
+    - frac: 0.3642516
+      reach: 57.721204 km
+  - - - '24'
+      - Christian Baertschi
+    - frac: 0.3635953
+      reach: 57.617204 km
+  - - - '78'
+      - Christine Aichner
+    - frac: 0.36165166
+      reach: 57.309204 km
+  - - - '62'
+      - Enda Murphy
+    - frac: 0.36031383
+      reach: 57.097204 km
+  - - - '42'
+      - Suan Selenati
+    - frac: 0.33384745
+      reach: 52.903204 km
+  - - - '79'
+      - David Stevens
+    - frac: 0.33265476
+      reach: 52.714204 km
+  - - - '18'
+      - Jürgen Pasker
+    - frac: 0.33232661
+      reach: 52.662204 km
+  - - - '76'
+      - Dmitriy Korchenkov
+    - frac: 0.32706994
+      reach: 51.829204 km
+  - - - '52'
+      - Virpi Nieminen
+    - frac: 0.31752841
+      reach: 50.317204 km
+  - - - '40'
+      - Phil de Joux
+    - frac: 0.29115669
+      reach: 46.138204 km
+  - - - '53'
+      - Hadewych van Kempen
+    - frac: 0.22547665
+      reach: 35.730204 km
+  - - - '101'
+      - ! 'Andrew Luton '
+    - frac: 0.1609199
+      reach: 25.500204 km
+  - - - '88'
+      - Martin Sielaff
+    - frac: 0.1509177
+      reach: 23.915204 km
+  - - - '17'
+      - John Urlich
+    - frac: 0.14133831
+      reach: 22.397204 km
+  - - - '85'
+      - Neil Petersen
+    - frac: 0.13541903
+      reach: 21.459204 km
+  - - - '46'
+      - Jonathon Foote
+    - frac: 0.10935652
+      reach: 17.329204 km
+  - - - '35'
+      - Carole Tobler
+    - frac: 9.063948e-2
+      reach: 14.363204 km
+  - - - '50'
+      - Monique Pavy
+    - frac: 4.246487e-2
+      reach: 6.729204 km
 ssSpeed:
 - []
 - - - - '89'

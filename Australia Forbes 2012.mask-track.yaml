@@ -2,10 +2,10 @@ pilotsAtEss:
 - 0
 - 32
 - 46
-- 34
+- 36
 - 27
-- 44
-- 8
+- 46
+- 7
 - 29
 raceTime:
 - openTask: 2012-01-05T01:00:00Z
@@ -62,9 +62,9 @@ raceTime:
   closeTask: 2012-01-12T09:00:00Z
   firstStart: 2012-01-12T02:46:24.41954782513Z
   firstLead: 2012-01-12T02:46:24.41954782513Z
-  lastArrival: 2012-01-12T08:35:40.293168305494Z
+  lastArrival: 2012-01-12T08:35:41.791004970118Z
   leadAllDown: 21061.58
-  leadArrival: 20955.874
+  leadArrival: 20957.371
   leadClose: 22415.58
   openClose: 28800
   tickClose: 22415.58
@@ -72,9 +72,9 @@ raceTime:
   closeTask: 2012-01-13T09:00:00Z
   firstStart: 2012-01-13T03:14:59.874534731668Z
   firstLead: 2012-01-13T03:14:59.874534731668Z
-  lastArrival: 2012-01-13T08:02:48.14359670677Z
+  lastArrival: 2012-01-13T08:02:33.727923291475Z
   leadAllDown: 17756.125
-  leadArrival: 17268.269
+  leadArrival: 17253.853
   leadClose: 20700.125
   openClose: 28800
   tickClose: 20700.125
@@ -82,9 +82,9 @@ raceTime:
   closeTask: 2012-01-14T09:00:00Z
   firstStart: 2012-01-14T02:43:11.03560045651Z
   firstLead: 2012-01-14T02:43:11.03560045651Z
-  lastArrival: 2012-01-14T08:12:54.73997973521Z
+  lastArrival: 2012-01-14T08:12:57.60359403562Z
   leadAllDown: 21472.964
-  leadArrival: 19783.704
+  leadArrival: 19786.568
   leadClose: 22608.964
   openClose: 28800
   tickClose: 22608.964
@@ -92,20 +92,20 @@ ssBestTime:
 - null
 - 3.201648 h
 - 2.732265 h
-- 2.088386 h
+- 2.088394 h
 - 3.884692 h
 - 3.297327 h
-- 3.608202 h
-- 3.719040 h
+- 3.608141 h
+- 3.719213 h
 gsBestTime:
 - null
 - 3.201648 h
 - 2.732265 h
-- 2.088386 h
+- 2.088394 h
 - 3.884692 h
 - 3.297327 h
-- 3.608202 h
-- 3.719040 h
+- 3.608141 h
+- 3.719213 h
 taskDistance:
 - 133.361879 km
 - 128.283964 km
@@ -137,10 +137,10 @@ sumDistance:
 - 3058.597078 km
 - 9252.763652 km
 - 11952.899182 km
-- 8296.486234 km
+- 8296.507234 km
 - 11845.790699 km
-- 13837.938752 km
-- 9789.936536 km
+- 13837.967752 km
+- 9789.924536 km
 - 9486.622084 km
 leadAreaToCoef:
 - 0.00000003644700 km^-2 s^-1
@@ -157,9 +157,9 @@ leadCoefMin:
 - 2.01352818
 - 3.12941495
 - 4.28780676
-- 3.4869832
-- 3.45597001
-- 4.12428995
+- 3.48698317
+- 3.45596998
+- 4.12428993
 leadRank:
 - - - - '71'
       - Edoardo Giudiceandrea
@@ -1423,7 +1423,7 @@ leadRank:
       frac: 0
 - - - - '100'
       - Attila Bertok
-    - area: 89789294.8252 km^2 s
+    - area: 89789294.8219 km^2 s
       coef: 3.12941495
       frac: 1
   - - - '106'
@@ -1433,9 +1433,9 @@ leadRank:
       frac: 0.90034368
   - - - '15'
       - ! 'Jean Souviron '
-    - area: 92073650.7454 km^2 s
-      coef: 3.20903132
-      frac: 0.87347378
+    - area: 92073650.5414 km^2 s
+      coef: 3.20903131
+      frac: 0.87347379
   - - - '21'
       - Gavin Myers
     - area: 92668634.6639 km^2 s
@@ -1443,27 +1443,27 @@ leadRank:
       frac: 0.85236139
   - - - '13'
       - John Smith
-    - area: 101116021.3126 km^2 s
+    - area: 101116021.3125 km^2 s
       coef: 3.52418391
       frac: 0.63209054
   - - - '1'
       - Lukas Bader
-    - area: 101319596.3129 km^2 s
+    - area: 101319596.3046 km^2 s
       coef: 3.53127909
       frac: 0.62769536
   - - - '60'
       - Rohan Holtkamp
-    - area: 101444147.3948 km^2 s
+    - area: 101444147.3912 km^2 s
       coef: 3.53562005
       frac: 0.62501905
   - - - '61'
       - Jonny Durand
-    - area: 101730323.1749 km^2 s
+    - area: 101730323.1729 km^2 s
       coef: 3.5455941
       frac: 0.61890566
   - - - '42'
       - Suan Selenati
-    - area: 102168633.3162 km^2 s
+    - area: 102168633.3152 km^2 s
       coef: 3.56087047
       frac: 0.60963611
   - - - '23'
@@ -1483,8 +1483,8 @@ leadRank:
       frac: 0.60910183
   - - - '56'
       - Cameron Tunbridge
-    - area: 102236417.9157 km^2 s
-      coef: 3.56323296
+    - area: 102236417.8825 km^2 s
+      coef: 3.56323295
       frac: 0.60821242
   - - - '90'
       - Adam Stevens
@@ -1508,7 +1508,7 @@ leadRank:
       frac: 0.57294293
   - - - '59'
       - Artur Dzamikhov
-    - area: 105957564.9478 km^2 s
+    - area: 105957564.9467 km^2 s
       coef: 3.69292562
       frac: 0.53357655
   - - - '7'
@@ -1523,9 +1523,9 @@ leadRank:
       frac: 0.52497661
   - - - '34'
       - Jon snr Durand
-    - area: 106590209.7852 km^2 s
-      coef: 3.71497511
-      frac: 0.52148749
+    - area: 106590208.7618 km^2 s
+      coef: 3.71497508
+      frac: 0.52148751
   - - - '45'
       - Roland Wöhrle
     - area: 106649886.4090 km^2 s
@@ -1533,14 +1533,14 @@ leadRank:
       frac: 0.52035504
   - - - '92'
       - Hans Kiefinger
-    - area: 106816177.2198 km^2 s
-      coef: 3.72285073
-      frac: 0.51720648
+    - area: 106816176.3540 km^2 s
+      coef: 3.7228507
+      frac: 0.51720649
   - - - '31'
       - Andrew Barnes
-    - area: 107494381.8340 km^2 s
-      coef: 3.74648811
-      frac: 0.50446988
+    - area: 107494380.9232 km^2 s
+      coef: 3.74648808
+      frac: 0.5044699
   - - - '26'
       - Guy Hubbard
     - area: 107548728.4729 km^2 s
@@ -1548,13 +1548,13 @@ leadRank:
       frac: 0.50345637
   - - - '25'
       - Nick Purcell
-    - area: 107844591.6570 km^2 s
+    - area: 107844591.6303 km^2 s
       coef: 3.75869393
       frac: 0.49795679
   - - - '93'
       - Trent Brown
-    - area: 107885032.8033 km^2 s
-      coef: 3.76010342
+    - area: 107885032.6977 km^2 s
+      coef: 3.76010341
       frac: 0.4972074
   - - - '62'
       - Enda Murphy
@@ -1563,32 +1563,32 @@ leadRank:
       frac: 0.49320126
   - - - '18'
       - Jürgen Pasker
-    - area: 108369599.3656 km^2 s
+    - area: 108369599.2835 km^2 s
       coef: 3.77699195
       frac: 0.48827116
   - - - '44'
       - Francoise Dieuzeide-banet
-    - area: 108617913.2932 km^2 s
-      coef: 3.78564641
-      frac: 0.48372197
+    - area: 108617912.2964 km^2 s
+      coef: 3.78564637
+      frac: 0.48372198
   - - - '99'
       - Tullio Gervasoni
-    - area: 108879656.6546 km^2 s
-      coef: 3.79476892
+    - area: 108879656.4302 km^2 s
+      coef: 3.79476891
       frac: 0.47894834
   - - - '5'
       - Wolfgang Siess
-    - area: 109239943.7848 km^2 s
-      coef: 3.80732596
-      frac: 0.47241301
+    - area: 109239943.6808 km^2 s
+      coef: 3.80732595
+      frac: 0.47241302
   - - - '55'
       - Kari Suhonen
-    - area: 109330884.7740 km^2 s
+    - area: 109330884.7648 km^2 s
       coef: 3.81049551
       frac: 0.47076981
   - - - '6'
       - Phil Schroder
-    - area: 109389020.2287 km^2 s
+    - area: 109389020.2286 km^2 s
       coef: 3.8125217
       frac: 0.46972071
   - - - '33'
@@ -1598,14 +1598,14 @@ leadRank:
       frac: 0.4641343
   - - - '24'
       - Christian Baertschi
-    - area: 109753507.8479 km^2 s
+    - area: 109753507.7726 km^2 s
       coef: 3.82522514
       frac: 0.46316667
   - - - '78'
       - Christine Aichner
-    - area: 110455042.7750 km^2 s
-      coef: 3.84967565
-      frac: 0.45066311
+    - area: 110455041.4028 km^2 s
+      coef: 3.8496756
+      frac: 0.45066314
   - - - '71'
       - Edoardo Giudiceandrea
     - area: 112534578.5708 km^2 s
@@ -1623,12 +1623,12 @@ leadRank:
       frac: 0.39960269
   - - - '84'
       - Yasuhiro Noma
-    - area: 113726405.9352 km^2 s
-      coef: 3.96369206
-      frac: 0.39412109
+    - area: 113726404.1190 km^2 s
+      coef: 3.96369199
+      frac: 0.39412112
   - - - '14'
       - Olav Lien Olsen
-    - area: 114558319.9798 km^2 s
+    - area: 114558319.9793 km^2 s
       coef: 3.99268665
       frac: 0.3801633
   - - - '19'
@@ -1645,7 +1645,7 @@ leadRank:
       - Glen Mcfarlane
     - area: 117182239.4724 km^2 s
       coef: 4.08413779
-      frac: 0.33712676
+      frac: 0.33712675
   - - - '32'
       - Kathryn O'Riordan
     - area: 118083512.7421 km^2 s
@@ -1668,9 +1668,9 @@ leadRank:
       frac: 0.283292
   - - - '36'
       - Franz Herrmann
-    - area: 124561081.3635 km^2 s
+    - area: 124561081.2425 km^2 s
       coef: 4.34131163
-      frac: 0.22287774
+      frac: 0.22287775
   - - - '3'
       - Rod Flockhart
     - area: 124713401.8687 km^2 s
@@ -1683,9 +1683,9 @@ leadRank:
       frac: 0.19200542
   - - - '98'
       - Patrick Collin
-    - area: 130243367.2038 km^2 s
-      coef: 4.53935562
-      frac: 0.14036747
+    - area: 130243366.2773 km^2 s
+      coef: 4.53935559
+      frac: 0.14036748
   - - - '47'
       - ! 'Miguel De Jong '
     - area: 132026352.0638 km^2 s
@@ -2253,1069 +2253,1069 @@ leadRank:
       frac: 0
 - - - - '57'
       - Julia Kucherenko
-    - area: 219213398.5846 km^2 s
-      coef: 3.4869832
+    - area: 219213396.6754 km^2 s
+      coef: 3.48698317
       frac: 1
   - - - '95'
       - Anton Struganov
-    - area: 225249091.0587 km^2 s
+    - area: 225249091.0385 km^2 s
       coef: 3.58299174
-      frac: 0.86173149
+      frac: 0.86173146
   - - - '60'
       - Rohan Holtkamp
-    - area: 226175267.8480 km^2 s
+    - area: 226175267.6197 km^2 s
       coef: 3.59772425
-      frac: 0.84792571
+      frac: 0.84792569
   - - - '45'
       - Roland Wöhrle
     - area: 226604029.5695 km^2 s
       coef: 3.60454448
-      frac: 0.84174422
+      frac: 0.8417442
   - - - '90'
       - Adam Stevens
-    - area: 227013205.4602 km^2 s
+    - area: 227013205.4627 km^2 s
       coef: 3.61105315
-      frac: 0.83595571
+      frac: 0.83595568
   - - - '75'
       - Joerg Bajewski
-    - area: 227050489.8997 km^2 s
+    - area: 227050489.6913 km^2 s
       coef: 3.61164623
-      frac: 0.83543335
+      frac: 0.83543333
   - - - '49'
       - Tony Giammichele
-    - area: 227065432.4104 km^2 s
-      coef: 3.61188392
-      frac: 0.83522424
+    - area: 227065431.0461 km^2 s
+      coef: 3.6118839
+      frac: 0.83522423
   - - - '24'
       - Christian Baertschi
-    - area: 227661833.2180 km^2 s
-      coef: 3.62137074
-      frac: 0.82698276
+    - area: 227661829.8122 km^2 s
+      coef: 3.62137069
+      frac: 0.82698278
   - - - '13'
       - John Smith
-    - area: 228067836.5112 km^2 s
-      coef: 3.62782896
-      frac: 0.82148315
+    - area: 228067834.9481 km^2 s
+      coef: 3.62782893
+      frac: 0.82148314
   - - - '84'
       - Yasuhiro Noma
     - area: 228457911.0481 km^2 s
       coef: 3.63403379
-      frac: 0.81627797
+      frac: 0.81627795
   - - - '87'
       - Corinna Schwiegershausen
-    - area: 228499121.3535 km^2 s
-      coef: 3.63468932
-      frac: 0.81573238
+    - area: 228499119.8429 km^2 s
+      coef: 3.63468929
+      frac: 0.81573237
   - - - '25'
       - Nick Purcell
-    - area: 228953715.9307 km^2 s
-      coef: 3.64192046
-      frac: 0.80976637
+    - area: 228953714.7037 km^2 s
+      coef: 3.64192044
+      frac: 0.80976636
   - - - '1'
       - Lukas Bader
-    - area: 229303714.7455 km^2 s
+    - area: 229303714.4325 km^2 s
       coef: 3.64748782
-      frac: 0.80523613
+      frac: 0.8052361
   - - - '6'
       - Phil Schroder
-    - area: 229352466.7192 km^2 s
-      coef: 3.64826331
+    - area: 229352464.3468 km^2 s
+      coef: 3.64826327
       frac: 0.80460929
   - - - '68'
       - Grant Heaney
-    - area: 237004218.2516 km^2 s
+    - area: 237004217.8413 km^2 s
       coef: 3.76997817
-      frac: 0.71574866
+      frac: 0.71574864
   - - - '21'
       - Gavin Myers
-    - area: 237401826.3026 km^2 s
-      coef: 3.77630285
-      frac: 0.71152911
+    - area: 237401825.4944 km^2 s
+      coef: 3.77630283
+      frac: 0.7115291
   - - - '18'
       - Jürgen Pasker
-    - area: 242754420.0415 km^2 s
-      coef: 3.86144547
+    - area: 242754417.7635 km^2 s
+      coef: 3.86144544
       frac: 0.6573989
   - - - '55'
       - Kari Suhonen
-    - area: 244099515.4089 km^2 s
+    - area: 244099515.3191 km^2 s
       coef: 3.88284163
-      frac: 0.64446968
+      frac: 0.64446966
   - - - '33'
       - Conrad Loten
-    - area: 249694477.0606 km^2 s
-      coef: 3.97183956
-      frac: 0.59300216
+    - area: 249694473.6014 km^2 s
+      coef: 3.9718395
+      frac: 0.59300217
   - - - '41'
       - Curt Warren
-    - area: 252144851.5377 km^2 s
-      coef: 4.01081717
-      frac: 0.57147205
+    - area: 252144851.2062 km^2 s
+      coef: 4.01081716
+      frac: 0.57147204
   - - - '43'
       - Les Bestt
-    - area: 253474101.3417 km^2 s
-      coef: 4.03196127
-      frac: 0.56001683
+    - area: 253474100.3105 km^2 s
+      coef: 4.03196126
+      frac: 0.56001682
   - - - '66'
       - Jonas Lobitz
-    - area: 254954528.1953 km^2 s
+    - area: 254954528.1732 km^2 s
       coef: 4.05551012
-      frac: 0.54743176
+      frac: 0.54743174
   - - - '100'
       - Attila Bertok
     - area: 255138198.8392 km^2 s
       coef: 4.05843174
-      frac: 0.54588261
+      frac: 0.5458826
   - - - '48'
       - Paolo Rosichetti
-    - area: 256104478.0104 km^2 s
+    - area: 256104478.0091 km^2 s
       coef: 4.07380214
-      frac: 0.53777568
+      frac: 0.53777566
   - - - '102'
       - Davide Guiducci
-    - area: 257299778.9521 km^2 s
+    - area: 257299778.3739 km^2 s
       coef: 4.09281555
-      frac: 0.52784453
+      frac: 0.52784452
   - - - '27'
       - ! 'Boris Marold '
-    - area: 257371599.8880 km^2 s
-      coef: 4.093958
-      frac: 0.52725115
+    - area: 257374436.7762 km^2 s
+      coef: 4.09400312
+      frac: 0.5272277
   - - - '53'
       - Hadewych van Kempen
-    - area: 260099897.1253 km^2 s
-      coef: 4.13735647
-      frac: 0.50497724
+    - area: 260104792.1542 km^2 s
+      coef: 4.13743433
+      frac: 0.50493771
   - - - '103'
       - Roberto Nichele
-    - area: 260248158.4930 km^2 s
-      coef: 4.13971483
-      frac: 0.50378127
+    - area: 260248173.4214 km^2 s
+      coef: 4.13971507
+      frac: 0.50378113
   - - - '96'
       - Brodrick Osborne
-    - area: 260715977.2816 km^2 s
-      coef: 4.14715633
+    - area: 260715975.0814 km^2 s
+      coef: 4.1471563
       frac: 0.50001696
   - - - '31'
       - Andrew Barnes
-    - area: 263849938.3998 km^2 s
-      coef: 4.19700762
+    - area: 263849937.2965 km^2 s
+      coef: 4.1970076
       frac: 0.47515358
   - - - '85'
       - Neil Petersen
-    - area: 263986340.1250 km^2 s
+    - area: 263986340.0752 km^2 s
       coef: 4.19917733
-      frac: 0.4740849
+      frac: 0.47408488
   - - - '22'
       - Mark Russell
-    - area: 265425256.2774 km^2 s
-      coef: 4.22206588
-      frac: 0.46287648
+    - area: 265425255.9580 km^2 s
+      coef: 4.22206587
+      frac: 0.46287646
   - - - '11'
       - Steve Blenkinsop
-    - area: 266092656.2448 km^2 s
-      coef: 4.23268208
-      frac: 0.45771736
+    - area: 266092853.6109 km^2 s
+      coef: 4.23268521
+      frac: 0.45771582
   - - - '89'
       - Scott Barrett
-    - area: 266321207.6714 km^2 s
-      coef: 4.2363176
-      frac: 0.45595625
+    - area: 266321699.4084 km^2 s
+      coef: 4.23632542
+      frac: 0.45595245
   - - - '92'
       - Hans Kiefinger
-    - area: 266346629.2568 km^2 s
-      coef: 4.23672197
-      frac: 0.45576054
+    - area: 266346627.7783 km^2 s
+      coef: 4.23672195
+      frac: 0.45576053
   - - - '71'
       - Edoardo Giudiceandrea
-    - area: 266685567.3311 km^2 s
-      coef: 4.24211339
+    - area: 266685565.5878 km^2 s
+      coef: 4.24211336
       frac: 0.45315455
   - - - '44'
       - Francoise Dieuzeide-banet
-    - area: 268380177.0271 km^2 s
-      coef: 4.26906921
-      frac: 0.44021698
+    - area: 268380175.8031 km^2 s
+      coef: 4.26906919
+      frac: 0.44021697
   - - - '26'
       - Guy Hubbard
-    - area: 270012039.1115 km^2 s
-      coef: 4.29502691
+    - area: 270012038.0271 km^2 s
+      coef: 4.29502689
       frac: 0.42789824
   - - - '101'
       - ! 'Andrew Luton '
-    - area: 270550569.4626 km^2 s
-      coef: 4.3035932
-      frac: 0.42386201
+    - area: 270553456.1084 km^2 s
+      coef: 4.30363912
+      frac: 0.4238404
   - - - '78'
       - Christine Aichner
-    - area: 272040380.3079 km^2 s
-      coef: 4.32729132
+    - area: 272040377.3596 km^2 s
+      coef: 4.32729127
       frac: 0.41276885
   - - - '93'
       - Trent Brown
-    - area: 272993670.6490 km^2 s
-      coef: 4.34245512
-      frac: 0.40572533
+    - area: 272993666.5824 km^2 s
+      coef: 4.34245505
+      frac: 0.40572535
   - - - '106'
       - Adam Parer
     - area: 273523087.1715 km^2 s
       coef: 4.35087644
-      frac: 0.40183165
+      frac: 0.40183163
   - - - '20'
       - ! 'Luke Browne '
-    - area: 274080926.5347 km^2 s
-      coef: 4.35974988
-      frac: 0.39774259
+    - area: 274081801.0475 km^2 s
+      coef: 4.35976379
+      frac: 0.39773618
   - - - '99'
       - Tullio Gervasoni
-    - area: 274086216.0551 km^2 s
-      coef: 4.35983401
-      frac: 0.39770389
+    - area: 274086215.3561 km^2 s
+      coef: 4.359834
+      frac: 0.39770387
   - - - '83'
       - Peter Dall
-    - area: 274462465.7620 km^2 s
-      coef: 4.36581894
-      frac: 0.39495382
+    - area: 274470354.1938 km^2 s
+      coef: 4.36594442
+      frac: 0.39489622
   - - - '8'
       - Primoz Gricar
     - area: 275022281.2978 km^2 s
       coef: 4.37472382
-      frac: 0.39087358
+      frac: 0.39087356
   - - - '94'
       - Mitch Shipley
-    - area: 275116782.7828 km^2 s
-      coef: 4.37622703
+    - area: 275116781.0849 km^2 s
+      coef: 4.376227
       frac: 0.39018614
   - - - '30'
       - Fredy Bircher
     - area: 275449122.4943 km^2 s
       coef: 4.38151349
-      frac: 0.38777168
+      frac: 0.38777166
   - - - '35'
       - Carole Tobler
     - area: 276248899.9793 km^2 s
       coef: 4.39423539
-      frac: 0.38198066
+      frac: 0.38198065
   - - - '36'
       - Franz Herrmann
-    - area: 278133434.6816 km^2 s
-      coef: 4.4242123
+    - area: 278133432.8296 km^2 s
+      coef: 4.42421227
       frac: 0.36844105
   - - - '52'
       - Virpi Nieminen
-    - area: 281108284.2255 km^2 s
-      coef: 4.47153263
-      frac: 0.34735793
+    - area: 281108430.7913 km^2 s
+      coef: 4.47153496
+      frac: 0.34735689
   - - - '3'
       - Rod Flockhart
-    - area: 281529616.8677 km^2 s
-      coef: 4.47823469
+    - area: 281529615.5571 km^2 s
+      coef: 4.47823467
       frac: 0.34439949
   - - - '56'
       - Cameron Tunbridge
-    - area: 286536127.2836 km^2 s
-      coef: 4.55787224
-      frac: 0.30973949
+    - area: 286538932.3207 km^2 s
+      coef: 4.55791685
+      frac: 0.3097203
   - - - '72'
       - Tove Heaney
-    - area: 294851061.3048 km^2 s
-      coef: 4.69013621
+    - area: 294851060.1444 km^2 s
+      coef: 4.69013619
       frac: 0.25401409
   - - - '98'
       - Patrick Collin
-    - area: 297553996.6602 km^2 s
-      coef: 4.73313126
-      frac: 0.23634627
+    - area: 297554473.2632 km^2 s
+      coef: 4.73313884
+      frac: 0.23634316
   - - - '42'
       - Suan Selenati
-    - area: 300475431.8616 km^2 s
-      coef: 4.77960193
-      frac: 0.21747718
+    - area: 300475546.1469 km^2 s
+      coef: 4.77960375
+      frac: 0.21747643
   - - - '77'
       - Len Paton
-    - area: 303234653.2442 km^2 s
-      coef: 4.82349231
-      frac: 0.19986243
+    - area: 303235230.3571 km^2 s
+      coef: 4.82350149
+      frac: 0.19985875
   - - - '7'
       - Shaun O'neill
-    - area: 308432752.9701 km^2 s
-      coef: 4.90617743
-      frac: 0.16719254
+    - area: 308445579.6442 km^2 s
+      coef: 4.90638146
+      frac: 0.16711271
   - - - '34'
       - Jon snr Durand
-    - area: 313589791.6921 km^2 s
-      coef: 4.9882094
-      frac: 0.13540218
+    - area: 313599101.1552 km^2 s
+      coef: 4.98835749
+      frac: 0.1353453
   - - - '69'
       - Jonathan Kinred
-    - area: 313785790.1145 km^2 s
+    - area: 313785789.9239 km^2 s
       coef: 4.99132711
-      frac: 0.13420554
+      frac: 0.13420553
   - - - '73'
       - Gijs Wanders
-    - area: 315098733.6176 km^2 s
+    - area: 315098733.5387 km^2 s
       coef: 5.01221184
-      frac: 0.12621078
+      frac: 0.12621077
   - - - '67'
       - ! 'Andy Phillips '
-    - area: 321888193.8411 km^2 s
-      coef: 5.12021041
-      frac: 8.543526e-2
+    - area: 321896918.5825 km^2 s
+      coef: 5.12034919
+      frac: 8.538344e-2
   - - - '19'
       - Mikhail Karmazin
-    - area: 329808829.3072 km^2 s
-      coef: 5.24620236
-      frac: 3.898534e-2
+    - area: 329815263.0557 km^2 s
+      coef: 5.2463047
+      frac: 3.894806e-2
   - - - '28'
       - Evgeniya Laritskaya
-    - area: 334489647.3406 km^2 s
-      coef: 5.32065918
-      frac: 1.205725e-2
+    - area: 334489645.8118 km^2 s
+      coef: 5.32065916
+      frac: 1.205724e-2
   - - - '29'
       - Konstantin Lukyanov
-    - area: 336524885.0215 km^2 s
-      coef: 5.3530333
-      frac: 4.6291e-4
+    - area: 336531175.4682 km^2 s
+      coef: 5.35313336
+      frac: 4.2717e-4
   - - - '82'
       - Alain Le-gac
-    - area: 346074983.0459 km^2 s
-      coef: 5.50494477
+    - area: 346081982.1613 km^2 s
+      coef: 5.50505611
       frac: 0
   - - - '17'
       - John Urlich
-    - area: 350107798.3595 km^2 s
-      coef: 5.56909395
+    - area: 350109172.6009 km^2 s
+      coef: 5.56911581
       frac: 0
   - - - '76'
       - Dmitriy Korchenkov
-    - area: 371746422.4563 km^2 s
-      coef: 5.91329517
+    - area: 371757019.1419 km^2 s
+      coef: 5.91346373
       frac: 0
   - - - '16'
       - Grant Edward
-    - area: 375427544.8793 km^2 s
-      coef: 5.97185004
+    - area: 375445650.2543 km^2 s
+      coef: 5.97213804
       frac: 0
   - - - '105'
       - Chris Lawry
-    - area: 397379426.8639 km^2 s
-      coef: 6.32103419
+    - area: 397396638.1575 km^2 s
+      coef: 6.32130796
       frac: 0
   - - - '12'
       - Glen Mcfarlane
-    - area: 397382184.0086 km^2 s
-      coef: 6.32107805
+    - area: 397400816.5127 km^2 s
+      coef: 6.32137443
       frac: 0
   - - - '81'
       - Valentino Bau
-    - area: 402604490.5899 km^2 s
-      coef: 6.40414822
+    - area: 402622018.9931 km^2 s
+      coef: 6.40442704
       frac: 0
   - - - '64'
       - Gustavo Carvalho
-    - area: 409188408.5989 km^2 s
-      coef: 6.50887727
+    - area: 409205932.4654 km^2 s
+      coef: 6.50915602
       frac: 0
   - - - '40'
       - Phil de Joux
-    - area: 410145072.0469 km^2 s
-      coef: 6.52409472
+    - area: 410158303.5528 km^2 s
+      coef: 6.5243052
       frac: 0
   - - - '97'
       - Konrad Schwab
-    - area: 415183555.2505 km^2 s
-      coef: 6.60424086
+    - area: 415203445.8716 km^2 s
+      coef: 6.60455725
       frac: 0
   - - - '47'
       - ! 'Miguel De Jong '
-    - area: 419266524.7683 km^2 s
-      coef: 6.66918783
+    - area: 419285347.1979 km^2 s
+      coef: 6.66948723
       frac: 0
   - - - '23'
       - Gerolf Heinrichs
-    - area: 427163439.8362 km^2 s
-      coef: 6.79480246
+    - area: 427189364.4435 km^2 s
+      coef: 6.79521484
       frac: 0
   - - - '32'
       - Kathryn O'Riordan
-    - area: 440066517.2600 km^2 s
-      coef: 7.0000491
+    - area: 440093069.0992 km^2 s
+      coef: 7.00047146
       frac: 0
   - - - '88'
       - Martin Sielaff
-    - area: 474797796.9138 km^2 s
-      coef: 7.55251255
+    - area: 474827301.0634 km^2 s
+      coef: 7.55298186
       frac: 0
   - - - '59'
       - Artur Dzamikhov
-    - area: 478508827.0326 km^2 s
-      coef: 7.61154315
+    - area: 478538346.7406 km^2 s
+      coef: 7.61201271
       frac: 0
   - - - '15'
       - ! 'Jean Souviron '
-    - area: 488140021.1167 km^2 s
-      coef: 7.76474461
+    - area: 488171794.3623 km^2 s
+      coef: 7.76525002
       frac: 0
   - - - '70'
       - Matthew Barlow
-    - area: 492628933.5421 km^2 s
-      coef: 7.83614883
+    - area: 492659439.9820 km^2 s
+      coef: 7.83663409
       frac: 0
   - - - '50'
       - Monique Pavy
-    - area: 493540093.5928 km^2 s
-      coef: 7.85064247
+    - area: 493571563.8938 km^2 s
+      coef: 7.85114306
       frac: 0
   - - - '79'
       - David Stevens
-    - area: 495776153.4453 km^2 s
-      coef: 7.88621102
+    - area: 495807254.4440 km^2 s
+      coef: 7.88670574
       frac: 0
   - - - '5'
       - Wolfgang Siess
-    - area: 529417590.5001 km^2 s
-      coef: 8.42133856
+    - area: 529451380.8553 km^2 s
+      coef: 8.42187605
       frac: 0
   - - - '62'
       - Enda Murphy
-    - area: 547557446.3752 km^2 s
-      coef: 8.70988558
+    - area: 547592946.9289 km^2 s
+      coef: 8.71045028
       frac: 0
   - - - '58'
       - Anna Belova
-    - area: 569445948.1643 km^2 s
-      coef: 9.05806155
+    - area: 569483193.5747 km^2 s
+      coef: 9.058654
       frac: 0
   - - - '37'
       - Peter Ebeling
-    - area: 579094584.9750 km^2 s
-      coef: 9.21154046
+    - area: 579134213.6884 km^2 s
+      coef: 9.21217083
       frac: 0
   - - - '46'
       - Jonathon Foote
-    - area: 631126372.4042 km^2 s
-      coef: 10.03919958
+    - area: 631170109.1964 km^2 s
+      coef: 10.0398953
       frac: 0
   - - - '2'
       - Pablo Gomes
-    - area: 673855780.0459 km^2 s
-      coef: 10.71888763
+    - area: 673903804.9458 km^2 s
+      coef: 10.71965155
       frac: 0
   - - - '86'
       - Talgat Irgaleev
-    - area: 710373447.2325 km^2 s
-      coef: 11.29976678
+    - area: 710423674.0911 km^2 s
+      coef: 11.30056573
       frac: 0
   - - - '14'
       - Olav Lien Olsen
-    - area: 718734274.1958 km^2 s
-      coef: 11.43276076
+    - area: 718785636.3507 km^2 s
+      coef: 11.43357777
       frac: 0
 - - - - '100'
       - Attila Bertok
-    - area: 168544434.7049 km^2 s
-      coef: 3.45597001
+    - area: 168544432.9690 km^2 s
+      coef: 3.45596998
       frac: 1
   - - - '23'
       - Gerolf Heinrichs
-    - area: 169437069.7082 km^2 s
-      coef: 3.47427331
-      frac: 0.95406296
+    - area: 169437065.7198 km^2 s
+      coef: 3.47427323
+      frac: 0.95406304
   - - - '41'
       - Curt Warren
-    - area: 171789135.8786 km^2 s
-      coef: 3.52250196
+    - area: 171789134.1456 km^2 s
+      coef: 3.52250193
       frac: 0.89139991
   - - - '8'
       - Primoz Gricar
-    - area: 176674679.5589 km^2 s
-      coef: 3.62267906
-      frac: 0.79965302
+    - area: 176674318.5902 km^2 s
+      coef: 3.62267166
+      frac: 0.79965892
   - - - '93'
       - Trent Brown
     - area: 178744048.8840 km^2 s
       coef: 3.66511106
-      frac: 0.76695692
+      frac: 0.7669569
   - - - '45'
       - Roland Wöhrle
-    - area: 180454735.6496 km^2 s
-      coef: 3.70018836
-      frac: 0.74157837
+    - area: 180454735.6038 km^2 s
+      coef: 3.70018835
+      frac: 0.74157834
   - - - '103'
       - Roberto Nichele
-    - area: 181086897.8904 km^2 s
-      coef: 3.71315072
-      frac: 0.73251325
+    - area: 181086681.6535 km^2 s
+      coef: 3.71314628
+      frac: 0.7325163
   - - - '92'
       - Hans Kiefinger
-    - area: 181143273.3458 km^2 s
-      coef: 3.71430668
-      frac: 0.73171233
+    - area: 181143182.2359 km^2 s
+      coef: 3.71430482
+      frac: 0.73171359
   - - - '106'
       - Adam Parer
-    - area: 182821682.8010 km^2 s
-      coef: 3.74872214
-      frac: 0.70838487
+    - area: 182819907.2859 km^2 s
+      coef: 3.74868573
+      frac: 0.70840903
   - - - '13'
       - John Smith
-    - area: 182954261.0576 km^2 s
-      coef: 3.75144063
-      frac: 0.70658237
+    - area: 182953474.8524 km^2 s
+      coef: 3.7514245
+      frac: 0.70659302
   - - - '36'
       - Franz Herrmann
-    - area: 183033734.8287 km^2 s
-      coef: 3.75307022
-      frac: 0.70550451
+    - area: 183033400.0569 km^2 s
+      coef: 3.75306336
+      frac: 0.70550902
   - - - '99'
       - Tullio Gervasoni
-    - area: 183157673.1737 km^2 s
+    - area: 183157673.1524 km^2 s
       coef: 3.75561155
-      frac: 0.70382753
+      frac: 0.7038275
   - - - '24'
       - Christian Baertschi
-    - area: 183697753.3068 km^2 s
-      coef: 3.76668579
-      frac: 0.6965744
+    - area: 183695309.5561 km^2 s
+      coef: 3.76663568
+      frac: 0.696607
   - - - '71'
       - Edoardo Giudiceandrea
-    - area: 183893454.3997 km^2 s
-      coef: 3.7706986
-      frac: 0.69396755
+    - area: 183891727.8181 km^2 s
+      coef: 3.77066319
+      frac: 0.69399048
   - - - '84'
       - Yasuhiro Noma
     - area: 183979065.7596 km^2 s
       coef: 3.77245404
-      frac: 0.69283065
+      frac: 0.69283063
   - - - '66'
       - Jonas Lobitz
-    - area: 184052149.7844 km^2 s
-      coef: 3.77395262
-      frac: 0.69186177
+    - area: 184051413.2314 km^2 s
+      coef: 3.77393751
+      frac: 0.6918715
   - - - '60'
       - Rohan Holtkamp
-    - area: 184343202.1159 km^2 s
-      coef: 3.77992059
-      frac: 0.68801826
+    - area: 184343200.9227 km^2 s
+      coef: 3.77992056
+      frac: 0.68801825
   - - - '90'
       - Adam Stevens
-    - area: 184984425.8025 km^2 s
-      coef: 3.79306875
-      frac: 0.67963276
+    - area: 184978570.9718 km^2 s
+      coef: 3.7929487
+      frac: 0.67970881
   - - - '56'
       - Cameron Tunbridge
-    - area: 185247383.0164 km^2 s
-      coef: 3.79846063
-      frac: 0.67622563
+    - area: 185247303.2703 km^2 s
+      coef: 3.798459
+      frac: 0.67622664
   - - - '1'
       - Lukas Bader
-    - area: 185432050.5871 km^2 s
-      coef: 3.80224721
-      frac: 0.67384357
+    - area: 185430525.3830 km^2 s
+      coef: 3.80221593
+      frac: 0.67386319
   - - - '87'
       - Corinna Schwiegershausen
-    - area: 185491594.3705 km^2 s
-      coef: 3.80346814
-      frac: 0.67307736
+    - area: 185489889.1783 km^2 s
+      coef: 3.80343317
+      frac: 0.67309927
   - - - '102'
       - Davide Guiducci
-    - area: 185598183.9111 km^2 s
-      coef: 3.80565374
+    - area: 185598181.8663 km^2 s
+      coef: 3.80565369
       frac: 0.67170801
   - - - '68'
       - Grant Heaney
     - area: 185842290.5207 km^2 s
       coef: 3.81065909
-      frac: 0.66858266
+      frac: 0.66858264
   - - - '81'
       - Valentino Bau
-    - area: 185957965.1022 km^2 s
-      coef: 3.81303098
-      frac: 0.6671068
+    - area: 185954620.0275 km^2 s
+      coef: 3.81296239
+      frac: 0.66714941
   - - - '89'
       - Scott Barrett
-    - area: 186135126.8190 km^2 s
-      coef: 3.81666364
-      frac: 0.66485275
+    - area: 186135125.9291 km^2 s
+      coef: 3.81666363
+      frac: 0.66485274
   - - - '26'
       - Guy Hubbard
-    - area: 187335809.2588 km^2 s
-      coef: 3.8412834
-      frac: 0.64977048
+    - area: 187332865.5191 km^2 s
+      coef: 3.84122304
+      frac: 0.64980704
   - - - '77'
       - Len Paton
-    - area: 188174472.3082 km^2 s
-      coef: 3.85848002
-      frac: 0.63942595
+    - area: 188170268.8452 km^2 s
+      coef: 3.85839382
+      frac: 0.63947741
   - - - '59'
       - Artur Dzamikhov
-    - area: 189565783.5980 km^2 s
-      coef: 3.88700858
-      frac: 0.6225836
+    - area: 189562872.7261 km^2 s
+      coef: 3.88694889
+      frac: 0.62261842
   - - - '34'
       - Jon snr Durand
-    - area: 195020748.2158 km^2 s
-      coef: 3.99886154
-      frac: 0.55983174
+    - area: 195017841.4394 km^2 s
+      coef: 3.99880193
+      frac: 0.55986394
   - - - '11'
       - Steve Blenkinsop
-    - area: 196813333.7230 km^2 s
-      coef: 4.03561815
-      frac: 0.54018164
+    - area: 196812006.5581 km^2 s
+      coef: 4.03559093
+      frac: 0.54019601
   - - - '97'
       - Konrad Schwab
     - area: 199502605.3532 km^2 s
       coef: 4.09076112
-      frac: 0.51146325
+      frac: 0.51146323
   - - - '12'
       - Glen Mcfarlane
-    - area: 201361110.1547 km^2 s
-      coef: 4.12886939
-      frac: 0.49210169
+    - area: 201358193.1342 km^2 s
+      coef: 4.12880958
+      frac: 0.49213177
   - - - '5'
       - Wolfgang Siess
-    - area: 202407152.4149 km^2 s
-      coef: 4.15031828
-      frac: 0.48136528
+    - area: 202404266.4807 km^2 s
+      coef: 4.15025911
+      frac: 0.48139473
   - - - '94'
       - Mitch Shipley
-    - area: 205441090.2483 km^2 s
-      coef: 4.21252857
-      frac: 0.45083222
+    - area: 205436887.2776 km^2 s
+      coef: 4.21244239
+      frac: 0.45087391
   - - - '15'
       - ! 'Jean Souviron '
-    - area: 206298244.9350 km^2 s
-      coef: 4.23010436
-      frac: 0.44235959
+    - area: 206295296.6617 km^2 s
+      coef: 4.2300439
+      frac: 0.4423886
   - - - '21'
       - Gavin Myers
-    - area: 212716625.4305 km^2 s
-      coef: 4.36171197
-      frac: 0.38082558
+    - area: 212663694.6236 km^2 s
+      coef: 4.36062663
+      frac: 0.3813203
   - - - '33'
       - Conrad Loten
-    - area: 213315328.9193 km^2 s
-      coef: 4.37398827
-      frac: 0.37524335
+    - area: 213311797.2940 km^2 s
+      coef: 4.37391585
+      frac: 0.37527618
   - - - '101'
       - ! 'Andrew Luton '
-    - area: 214192952.8442 km^2 s
-      coef: 4.39198377
-      frac: 0.36710524
+    - area: 214190086.8642 km^2 s
+      coef: 4.391925
+      frac: 0.36713171
   - - - '75'
       - Joerg Bajewski
     - area: 216563350.5538 km^2 s
       coef: 4.4405883
-      frac: 0.34538099
+      frac: 0.34538098
   - - - '49'
       - Tony Giammichele
-    - area: 217011040.5897 km^2 s
-      coef: 4.4497681
-      frac: 0.34131853
+    - area: 217008497.1158 km^2 s
+      coef: 4.44971594
+      frac: 0.34134155
   - - - '3'
       - Rod Flockhart
-    - area: 217150665.1333 km^2 s
-      coef: 4.45263107
-      frac: 0.3400541
+    - area: 217114423.8477 km^2 s
+      coef: 4.45188795
+      frac: 0.34038216
   - - - '25'
       - Nick Purcell
-    - area: 217815862.6554 km^2 s
-      coef: 4.46627081
-      frac: 0.33404665
+    - area: 217813335.2407 km^2 s
+      coef: 4.46621899
+      frac: 0.3340694
   - - - '79'
       - David Stevens
-    - area: 217906633.0405 km^2 s
-      coef: 4.46813204
-      frac: 0.333229
+    - area: 217891320.1577 km^2 s
+      coef: 4.46781805
+      frac: 0.33336688
   - - - '14'
       - Olav Lien Olsen
-    - area: 219188034.6031 km^2 s
-      coef: 4.49440692
-      frac: 0.32173914
+    - area: 219185188.5080 km^2 s
+      coef: 4.49434857
+      frac: 0.32176453
   - - - '31'
       - Andrew Barnes
     - area: 220589804.5572 km^2 s
       coef: 4.52314994
-      frac: 0.30928041
+      frac: 0.30928039
   - - - '6'
       - Phil Schroder
-    - area: 221322614.0754 km^2 s
-      coef: 4.53817605
-      frac: 0.30281188
+    - area: 221281835.7306 km^2 s
+      coef: 4.5373399
+      frac: 0.30317102
   - - - '44'
       - Francoise Dieuzeide-banet
-    - area: 221635065.6698 km^2 s
-      coef: 4.54458281
-      frac: 0.30006297
+    - area: 221628365.4020 km^2 s
+      coef: 4.54444542
+      frac: 0.30012185
   - - - '22'
       - Mark Russell
-    - area: 222876157.8741 km^2 s
-      coef: 4.57003116
-      frac: 0.28919682
+    - area: 222835232.1878 km^2 s
+      coef: 4.56919198
+      frac: 0.28955379
   - - - '48'
       - Paolo Rosichetti
-    - area: 223049735.6696 km^2 s
-      coef: 4.57359033
-      frac: 0.28768372
+    - area: 223011672.2628 km^2 s
+      coef: 4.57280985
+      frac: 0.28801537
   - - - '18'
       - Jürgen Pasker
-    - area: 223382074.3599 km^2 s
-      coef: 4.58040487
-      frac: 0.28479115
+    - area: 223288791.7573 km^2 s
+      coef: 4.57849213
+      frac: 0.28560244
   - - - '35'
       - Carole Tobler
-    - area: 224912877.1879 km^2 s
-      coef: 4.61179368
-      frac: 0.2715422
+    - area: 224906025.0262 km^2 s
+      coef: 4.61165318
+      frac: 0.27160121
   - - - '70'
       - Matthew Barlow
     - area: 245750614.4013 km^2 s
       coef: 5.03906732
-      frac: 0.10157516
+      frac: 0.10157514
   - - - '85'
       - Neil Petersen
-    - area: 247164124.6935 km^2 s
-      coef: 5.06805107
-      frac: 9.064262e-2
+    - area: 247136170.2622 km^2 s
+      coef: 5.06747787
+      frac: 9.085817e-2
   - - - '69'
       - Jonathan Kinred
-    - area: 247755719.6940 km^2 s
-      coef: 5.08018161
-      frac: 8.608652e-2
+    - area: 247692980.1917 km^2 s
+      coef: 5.07889515
+      frac: 8.656915e-2
   - - - '55'
       - Kari Suhonen
-    - area: 249721578.8197 km^2 s
-      coef: 5.12049116
-      frac: 7.102743e-2
+    - area: 249695943.2994 km^2 s
+      coef: 5.11996551
+      frac: 7.1223e-2
   - - - '32'
       - Kathryn O'Riordan
-    - area: 252163117.7450 km^2 s
-      coef: 5.17055443
-      frac: 5.249264e-2
+    - area: 252109410.1723 km^2 s
+      coef: 5.16945316
+      frac: 5.289838e-2
   - - - '43'
       - Les Bestt
-    - area: 258581533.9964 km^2 s
-      coef: 5.30216277
-      frac: 4.60671e-3
+    - area: 258519611.5923 km^2 s
+      coef: 5.30089306
+      frac: 5.06313e-3
   - - - '7'
       - Shaun O'neill
-    - area: 262436626.6454 km^2 s
-      coef: 5.38121068
+    - area: 262292054.4409 km^2 s
+      coef: 5.37824625
       frac: 0
   - - - '73'
       - Gijs Wanders
-    - area: 272845577.9245 km^2 s
-      coef: 5.59464415
+    - area: 272796346.7172 km^2 s
+      coef: 5.59363467
       frac: 0
   - - - '95'
       - Anton Struganov
-    - area: 276371445.7367 km^2 s
-      coef: 5.66694136
+    - area: 276331412.2698 km^2 s
+      coef: 5.66612048
       frac: 0
   - - - '30'
       - Fredy Bircher
-    - area: 278084937.3123 km^2 s
-      coef: 5.70207616
+    - area: 277935018.3965 km^2 s
+      coef: 5.69900211
       frac: 0
   - - - '16'
       - Grant Edward
-    - area: 288417593.7277 km^2 s
-      coef: 5.91394522
+    - area: 288248360.8461 km^2 s
+      coef: 5.91047514
       frac: 0
   - - - '42'
       - Suan Selenati
-    - area: 292441352.9959 km^2 s
-      coef: 5.9964516
+    - area: 292220522.6773 km^2 s
+      coef: 5.99192352
       frac: 0
   - - - '91'
       - Francesco Rinaldi
-    - area: 293621506.7453 km^2 s
-      coef: 6.02065042
+    - area: 293474749.3314 km^2 s
+      coef: 6.01764119
       frac: 0
   - - - '29'
       - Konstantin Lukyanov
-    - area: 303899626.6737 km^2 s
-      coef: 6.23140122
+    - area: 303768792.8863 km^2 s
+      coef: 6.2287185
       frac: 0
   - - - '96'
       - Brodrick Osborne
-    - area: 308599280.5223 km^2 s
-      coef: 6.32776669
+    - area: 308386952.3890 km^2 s
+      coef: 6.32341294
       frac: 0
   - - - '19'
       - Mikhail Karmazin
-    - area: 311598187.6286 km^2 s
-      coef: 6.38925868
+    - area: 311419723.0301 km^2 s
+      coef: 6.3855993
       frac: 0
   - - - '2'
       - Pablo Gomes
-    - area: 313898871.6514 km^2 s
-      coef: 6.43643374
+    - area: 313682613.5520 km^2 s
+      coef: 6.43199941
       frac: 0
   - - - '83'
       - Peter Dall
-    - area: 321964062.2816 km^2 s
-      coef: 6.60180887
+    - area: 321733998.6732 km^2 s
+      coef: 6.59709146
       frac: 0
   - - - '37'
       - Peter Ebeling
-    - area: 332466651.3096 km^2 s
-      coef: 6.81716236
+    - area: 332304905.9312 km^2 s
+      coef: 6.81384581
       frac: 0
   - - - '64'
       - Gustavo Carvalho
-    - area: 345108161.6317 km^2 s
-      coef: 7.07637401
+    - area: 344853457.9610 km^2 s
+      coef: 7.07115136
       frac: 0
   - - - '105'
       - Chris Lawry
-    - area: 352251562.2444 km^2 s
-      coef: 7.22284801
+    - area: 351987769.0426 km^2 s
+      coef: 7.21743899
       frac: 0
   - - - '67'
       - ! 'Andy Phillips '
-    - area: 352778886.9841 km^2 s
-      coef: 7.2336607
+    - area: 352535213.3760 km^2 s
+      coef: 7.22866422
       frac: 0
   - - - '72'
       - Tove Heaney
-    - area: 361655718.2431 km^2 s
-      coef: 7.41567836
+    - area: 361371687.7479 km^2 s
+      coef: 7.40985437
       frac: 0
   - - - '27'
       - ! 'Boris Marold '
-    - area: 372070070.9129 km^2 s
-      coef: 7.62922258
+    - area: 371789831.8315 km^2 s
+      coef: 7.62347633
       frac: 0
   - - - '98'
       - Patrick Collin
-    - area: 376201523.5100 km^2 s
-      coef: 7.71393719
+    - area: 375909997.7850 km^2 s
+      coef: 7.70795951
       frac: 0
   - - - '82'
       - Alain Le-gac
-    - area: 387760965.3688 km^2 s
-      coef: 7.95096124
+    - area: 387462066.8747 km^2 s
+      coef: 7.94483239
       frac: 0
   - - - '78'
       - Christine Aichner
-    - area: 396196931.0451 km^2 s
-      coef: 8.12393903
+    - area: 395880572.4665 km^2 s
+      coef: 8.11745216
       frac: 0
   - - - '58'
       - Anna Belova
-    - area: 417623574.4912 km^2 s
-      coef: 8.56328808
+    - area: 417286713.2409 km^2 s
+      coef: 8.55638081
       frac: 0
   - - - '53'
       - Hadewych van Kempen
-    - area: 419373475.8793 km^2 s
-      coef: 8.59916946
+    - area: 419027492.2753 km^2 s
+      coef: 8.59207514
       frac: 0
   - - - '17'
       - John Urlich
-    - area: 421346659.7156 km^2 s
-      coef: 8.6396292
+    - area: 421005390.0541 km^2 s
+      coef: 8.63263154
       frac: 0
   - - - '40'
       - Phil de Joux
-    - area: 425367632.7397 km^2 s
-      coef: 8.72207845
+    - area: 425017307.4829 km^2 s
+      coef: 8.7148951
       frac: 0
   - - - '51'
       - Rob In 't Groen
-    - area: 428298025.4261 km^2 s
-      coef: 8.78216557
+    - area: 427947515.8699 km^2 s
+      coef: 8.77497844
       frac: 0
   - - - '76'
       - Dmitriy Korchenkov
-    - area: 435657321.5390 km^2 s
-      coef: 8.93306647
+    - area: 435304452.2774 km^2 s
+      coef: 8.92583096
       frac: 0
   - - - '88'
       - Martin Sielaff
-    - area: 443534162.9864 km^2 s
-      coef: 9.09457953
+    - area: 443168137.0875 km^2 s
+      coef: 9.08707424
       frac: 0
   - - - '46'
       - Jonathon Foote
-    - area: 445366159.0033 km^2 s
-      coef: 9.13214424
+    - area: 444999416.0691 km^2 s
+      coef: 9.12462425
       frac: 0
   - - - '52'
       - Virpi Nieminen
-    - area: 450319844.2652 km^2 s
-      coef: 9.23371857
+    - area: 449946764.8766 km^2 s
+      coef: 9.22606865
       frac: 0
 - - - - '23'
       - Gerolf Heinrichs
-    - area: 164736078.9576 km^2 s
-      coef: 4.12428995
+    - area: 164736078.4532 km^2 s
+      coef: 4.12428993
       frac: 1
   - - - '66'
       - Jonas Lobitz
-    - area: 166917443.8961 km^2 s
+    - area: 166917443.8758 km^2 s
       coef: 4.17890204
-      frac: 0.91024139
+      frac: 0.91024137
   - - - '51'
       - Rob In 't Groen
-    - area: 170138765.4757 km^2 s
-      coef: 4.25955021
-      frac: 0.83569009
+    - area: 170139661.7053 km^2 s
+      coef: 4.25957265
+      frac: 0.83567191
   - - - '100'
       - Attila Bertok
-    - area: 170944569.4001 km^2 s
+    - area: 170944569.1945 km^2 s
       coef: 4.27972411
-      frac: 0.81973368
+      frac: 0.81973367
   - - - '1'
       - Lukas Bader
-    - area: 175039019.6798 km^2 s
-      coef: 4.38223171
-      frac: 0.74732358
+    - area: 175039017.8919 km^2 s
+      coef: 4.38223167
+      frac: 0.7473236
   - - - '71'
       - Edoardo Giudiceandrea
-    - area: 176843095.7243 km^2 s
-      coef: 4.42739809
-      frac: 0.71862727
+    - area: 176843091.9712 km^2 s
+      coef: 4.427398
+      frac: 0.71862732
   - - - '11'
       - Steve Blenkinsop
-    - area: 176954386.5766 km^2 s
-      coef: 4.43018434
-      frac: 0.7169056
+    - area: 176954384.7180 km^2 s
+      coef: 4.4301843
+      frac: 0.71690562
   - - - '90'
       - Adam Stevens
-    - area: 177776678.1427 km^2 s
-      coef: 4.45077102
-      frac: 0.70434247
+    - area: 177776675.5101 km^2 s
+      coef: 4.45077096
+      frac: 0.7043425
   - - - '34'
       - Jon snr Durand
-    - area: 177926650.3388 km^2 s
-      coef: 4.45452569
-      frac: 0.70208
+    - area: 177926649.5434 km^2 s
+      coef: 4.45452567
+      frac: 0.70208001
   - - - '48'
       - Paolo Rosichetti
     - area: 178894404.8017 km^2 s
       coef: 4.47875414
-      frac: 0.68768092
+      frac: 0.68768091
   - - - '36'
       - Franz Herrmann
-    - area: 178946837.3330 km^2 s
-      coef: 4.48006683
-      frac: 0.68691032
+    - area: 178946835.6182 km^2 s
+      coef: 4.48006678
+      frac: 0.68691034
   - - - '8'
       - Primoz Gricar
-    - area: 178959627.3329 km^2 s
-      coef: 4.48038703
-      frac: 0.68672249
+    - area: 178960003.8755 km^2 s
+      coef: 4.48039646
+      frac: 0.68671695
   - - - '68'
       - Grant Heaney
-    - area: 179534063.0306 km^2 s
-      coef: 4.49476846
-      frac: 0.67834354
+    - area: 179534061.5025 km^2 s
+      coef: 4.49476842
+      frac: 0.67834355
   - - - '89'
       - Scott Barrett
-    - area: 180041942.3097 km^2 s
-      coef: 4.50748359
-      frac: 0.67102532
+    - area: 180041941.0980 km^2 s
+      coef: 4.50748356
+      frac: 0.67102533
   - - - '75'
       - Joerg Bajewski
-    - area: 180442809.0813 km^2 s
-      coef: 4.51751959
+    - area: 180442808.5341 km^2 s
+      coef: 4.51751957
       frac: 0.66530612
   - - - '81'
       - Valentino Bau
-    - area: 180489377.2126 km^2 s
-      coef: 4.51868546
-      frac: 0.6646449
+    - area: 180489375.1524 km^2 s
+      coef: 4.5186854
+      frac: 0.66464493
   - - - '92'
       - Hans Kiefinger
-    - area: 180643256.0386 km^2 s
-      coef: 4.52253793
+    - area: 180643255.3532 km^2 s
+      coef: 4.52253791
       frac: 0.6624646
   - - - '70'
       - Matthew Barlow
-    - area: 180843697.6179 km^2 s
-      coef: 4.52755613
-      frac: 0.65963507
+    - area: 180843695.3617 km^2 s
+      coef: 4.52755607
+      frac: 0.65963509
   - - - '15'
       - ! 'Jean Souviron '
-    - area: 181005662.0547 km^2 s
-      coef: 4.53161103
-      frac: 0.65735726
+    - area: 181005660.5804 km^2 s
+      coef: 4.53161099
+      frac: 0.65735728
   - - - '93'
       - Trent Brown
-    - area: 182575523.6642 km^2 s
-      coef: 4.57091368
-      frac: 0.63565613
+    - area: 182575521.2869 km^2 s
+      coef: 4.57091362
+      frac: 0.63565615
   - - - '99'
       - Tullio Gervasoni
-    - area: 183011612.2121 km^2 s
-      coef: 4.58183148
-      frac: 0.62974243
+    - area: 183011610.5898 km^2 s
+      coef: 4.58183144
+      frac: 0.62974244
   - - - '45'
       - Roland Wöhrle
-    - area: 183533572.9913 km^2 s
-      coef: 4.59489916
-      frac: 0.6227257
+    - area: 183533571.9528 km^2 s
+      coef: 4.59489913
+      frac: 0.62272571
   - - - '84'
       - Yasuhiro Noma
-    - area: 184420459.2193 km^2 s
-      coef: 4.61710301
-      frac: 0.61095031
+    - area: 184420329.2664 km^2 s
+      coef: 4.61709976
+      frac: 0.61095201
   - - - '31'
       - Andrew Barnes
-    - area: 184526913.0343 km^2 s
-      coef: 4.61976816
-      frac: 0.6095489
+    - area: 184526910.5524 km^2 s
+      coef: 4.6197681
+      frac: 0.60954893
   - - - '60'
       - Rohan Holtkamp
-    - area: 185274673.1465 km^2 s
-      coef: 4.63848889
-      frac: 0.59977484
+    - area: 185274671.5320 km^2 s
+      coef: 4.63848885
+      frac: 0.59977485
   - - - '102'
       - Davide Guiducci
-    - area: 185319902.8115 km^2 s
-      coef: 4.63962125
-      frac: 0.59918747
+    - area: 185319900.9847 km^2 s
+      coef: 4.6396212
+      frac: 0.59918749
   - - - '26'
       - Guy Hubbard
     - area: 185533728.1088 km^2 s
       coef: 4.64497452
-      frac: 0.59641649
+      frac: 0.59641648
   - - - '59'
       - Artur Dzamikhov
-    - area: 186638682.0265 km^2 s
-      coef: 4.67263786
-      frac: 0.58224557
+    - area: 186638680.4622 km^2 s
+      coef: 4.67263782
+      frac: 0.58224558
   - - - '25'
       - Nick Purcell
-    - area: 188879408.9195 km^2 s
-      coef: 4.72873612
-      frac: 0.55421852
+    - area: 188879602.0329 km^2 s
+      coef: 4.72874096
+      frac: 0.55421613
   - - - '94'
       - Mitch Shipley
-    - area: 188966098.6276 km^2 s
+    - area: 188966098.6271 km^2 s
       coef: 4.73090646
       frac: 0.55315206
   - - - '6'
       - Phil Schroder
-    - area: 189617523.4059 km^2 s
-      coef: 4.74721537
-      frac: 0.54517851
+    - area: 189617961.5872 km^2 s
+      coef: 4.74722634
+      frac: 0.54517317
   - - - '3'
       - Rod Flockhart
-    - area: 190091741.5769 km^2 s
-      coef: 4.75908777
-      frac: 0.53941772
+    - area: 190093230.4593 km^2 s
+      coef: 4.75912505
+      frac: 0.53939969
   - - - '83'
       - Peter Dall
-    - area: 191858788.0228 km^2 s
-      coef: 4.80332709
-      frac: 0.51826009
+    - area: 191858786.3350 km^2 s
+      coef: 4.80332705
+      frac: 0.51826011
   - - - '56'
       - Cameron Tunbridge
-    - area: 193003053.3609 km^2 s
-      coef: 4.83197462
-      frac: 0.50480438
+    - area: 193003490.9049 km^2 s
+      coef: 4.83198558
+      frac: 0.50479926
   - - - '13'
       - John Smith
     - area: 193459856.4082 km^2 s
@@ -3323,24 +3323,24 @@ leadRank:
       frac: 0.49948363
   - - - '5'
       - Wolfgang Siess
-    - area: 193650700.5628 km^2 s
+    - area: 193650700.5626 km^2 s
       coef: 4.84818895
-      frac: 0.49726909
+      frac: 0.49726908
   - - - '69'
       - Jonathan Kinred
-    - area: 196996999.5444 km^2 s
-      coef: 4.93196603
-      frac: 0.45919369
+    - area: 196999244.1370 km^2 s
+      coef: 4.93202222
+      frac: 0.4591686
   - - - '77'
       - Len Paton
     - area: 197647168.8865 km^2 s
       coef: 4.9482435
-      frac: 0.4519518
+      frac: 0.45195179
   - - - '20'
       - ! 'Luke Browne '
     - area: 197687569.7231 km^2 s
       coef: 4.94925496
-      frac: 0.45150338
+      frac: 0.45150337
   - - - '19'
       - Mikhail Karmazin
     - area: 198902919.5415 km^2 s
@@ -3353,69 +3353,69 @@ leadRank:
       frac: 0.40795236
   - - - '43'
       - Les Bestt
-    - area: 201824678.7101 km^2 s
-      coef: 5.05283056
-      frac: 0.40650435
+    - area: 201826615.8538 km^2 s
+      coef: 5.05287905
+      frac: 0.40648368
   - - - '14'
       - Olav Lien Olsen
     - area: 202428766.7369 km^2 s
       coef: 5.06795435
-      frac: 0.40007727
+      frac: 0.40007726
   - - - '105'
       - Chris Lawry
     - area: 205358289.1952 km^2 s
       coef: 5.14129712
-      frac: 0.36938212
+      frac: 0.36938211
   - - - '33'
       - Conrad Loten
-    - area: 207026232.0291 km^2 s
-      coef: 5.1830553
-      frac: 0.35223608
+    - area: 207026546.6611 km^2 s
+      coef: 5.18306318
+      frac: 0.35223287
   - - - '91'
       - Francesco Rinaldi
-    - area: 208316460.8614 km^2 s
-      coef: 5.21535714
-      frac: 0.33912711
+    - area: 208320990.5608 km^2 s
+      coef: 5.21547054
+      frac: 0.33908131
   - - - '55'
       - Kari Suhonen
-    - area: 210920879.8710 km^2 s
-      coef: 5.2805607
-      frac: 0.3130529
+    - area: 210923343.6280 km^2 s
+      coef: 5.28062238
+      frac: 0.31302846
   - - - '12'
       - Glen Mcfarlane
-    - area: 211261203.3408 km^2 s
-      coef: 5.28908095
-      frac: 0.30968241
+    - area: 211262870.1472 km^2 s
+      coef: 5.28912268
+      frac: 0.30966591
   - - - '103'
       - Roberto Nichele
-    - area: 211282599.8809 km^2 s
-      coef: 5.28961663
-      frac: 0.30947077
+    - area: 211282670.6148 km^2 s
+      coef: 5.2896184
+      frac: 0.30947007
   - - - '21'
       - Gavin Myers
-    - area: 212686924.4400 km^2 s
-      coef: 5.32477494
-      frac: 0.29565069
+    - area: 212688429.5599 km^2 s
+      coef: 5.32481262
+      frac: 0.29563595
   - - - '29'
       - Konstantin Lukyanov
-    - area: 217795755.0077 km^2 s
-      coef: 5.4526783
-      frac: 0.24647041
+    - area: 217797416.1538 km^2 s
+      coef: 5.45271989
+      frac: 0.24645468
   - - - '47'
       - ! 'Miguel De Jong '
-    - area: 220676312.3339 km^2 s
-      coef: 5.52479519
-      frac: 0.21943915
+    - area: 220679379.6142 km^2 s
+      coef: 5.52487198
+      frac: 0.21941062
   - - - '97'
       - Konrad Schwab
     - area: 222999093.8592 km^2 s
       coef: 5.58294775
-      frac: 0.19797874
+      frac: 0.19797873
   - - - '67'
       - ! 'Andy Phillips '
-    - area: 243850673.3046 km^2 s
-      coef: 6.10498251
-      frac: 1.652879e-2
+    - area: 243869332.7336 km^2 s
+      coef: 6.10544966
+      frac: 1.637416e-2
   - - - '27'
       - ! 'Boris Marold '
     - area: 249806942.8276 km^2 s
@@ -3423,133 +3423,133 @@ leadRank:
       frac: 0
   - - - '98'
       - Patrick Collin
-    - area: 252806499.7386 km^2 s
-      coef: 6.32919827
+    - area: 252814581.9231 km^2 s
+      coef: 6.32940061
       frac: 0
   - - - '96'
       - Brodrick Osborne
-    - area: 254676138.8654 km^2 s
-      coef: 6.37600607
+    - area: 254687032.9106 km^2 s
+      coef: 6.37627881
       frac: 0
   - - - '37'
       - Peter Ebeling
-    - area: 257287110.4738 km^2 s
-      coef: 6.44137368
+    - area: 257312555.6963 km^2 s
+      coef: 6.44201072
       frac: 0
   - - - '2'
       - Pablo Gomes
-    - area: 257287558.6292 km^2 s
-      coef: 6.4413849
+    - area: 257312846.4534 km^2 s
+      coef: 6.442018
       frac: 0
   - - - '7'
       - Shaun O'neill
-    - area: 261874549.5667 km^2 s
-      coef: 6.55622362
+    - area: 261899743.8309 km^2 s
+      coef: 6.55685438
       frac: 0
   - - - '49'
       - Tony Giammichele
-    - area: 264143385.2603 km^2 s
-      coef: 6.61302561
+    - area: 264168348.5221 km^2 s
+      coef: 6.61365058
       frac: 0
   - - - '24'
       - Christian Baertschi
-    - area: 265894374.0784 km^2 s
-      coef: 6.65686291
+    - area: 265923732.3391 km^2 s
+      coef: 6.65759792
       frac: 0
   - - - '87'
       - Corinna Schwiegershausen
-    - area: 265967074.8937 km^2 s
-      coef: 6.65868303
+    - area: 265996272.1637 km^2 s
+      coef: 6.659414
       frac: 0
   - - - '62'
       - Enda Murphy
-    - area: 266800964.0135 km^2 s
-      coef: 6.67956006
+    - area: 266830624.5959 km^2 s
+      coef: 6.68030264
       frac: 0
   - - - '16'
       - Grant Edward
-    - area: 268876379.3082 km^2 s
-      coef: 6.73151962
+    - area: 268898997.3084 km^2 s
+      coef: 6.73208588
       frac: 0
   - - - '78'
       - Christine Aichner
-    - area: 269310170.9500 km^2 s
-      coef: 6.74237992
+    - area: 269339708.6729 km^2 s
+      coef: 6.74311942
       frac: 0
   - - - '42'
       - Suan Selenati
-    - area: 278881029.3401 km^2 s
-      coef: 6.98199346
+    - area: 278913204.3033 km^2 s
+      coef: 6.98279898
       frac: 0
   - - - '18'
       - Jürgen Pasker
-    - area: 279552809.0507 km^2 s
-      coef: 6.99881196
+    - area: 279585111.0188 km^2 s
+      coef: 6.99962067
       frac: 0
   - - - '79'
       - David Stevens
-    - area: 280200286.2205 km^2 s
-      coef: 7.01502203
+    - area: 280232573.5916 km^2 s
+      coef: 7.01583037
       frac: 0
   - - - '52'
       - Virpi Nieminen
-    - area: 283479203.6837 km^2 s
-      coef: 7.09711216
+    - area: 283512948.4313 km^2 s
+      coef: 7.09795699
       frac: 0
   - - - '82'
       - Alain Le-gac
-    - area: 295380614.8438 km^2 s
-      coef: 7.39507282
+    - area: 295409912.8259 km^2 s
+      coef: 7.39580632
       frac: 0
   - - - '76'
       - Dmitriy Korchenkov
-    - area: 295804179.6206 km^2 s
-      coef: 7.40567708
+    - area: 295836990.2709 km^2 s
+      coef: 7.40649852
       frac: 0
   - - - '53'
       - Hadewych van Kempen
-    - area: 320975408.6864 km^2 s
-      coef: 8.03585747
+    - area: 321018864.8448 km^2 s
+      coef: 8.03694543
       frac: 0
   - - - '44'
       - Francoise Dieuzeide-banet
-    - area: 324254001.1533 km^2 s
-      coef: 8.11793947
+    - area: 324270994.5197 km^2 s
+      coef: 8.11836491
       frac: 0
   - - - '40'
       - Phil de Joux
-    - area: 328465267.0019 km^2 s
-      coef: 8.22337163
+    - area: 328501690.8985 km^2 s
+      coef: 8.22428353
       frac: 0
   - - - '88'
       - Martin Sielaff
-    - area: 364943621.5322 km^2 s
-      coef: 9.1366343
+    - area: 364995813.2224 km^2 s
+      coef: 9.13794096
       frac: 0
   - - - '101'
       - ! 'Andrew Luton '
-    - area: 370224319.3944 km^2 s
-      coef: 9.26884049
+    - area: 370275292.0036 km^2 s
+      coef: 9.27011663
       frac: 0
   - - - '17'
       - John Urlich
-    - area: 377666666.3061 km^2 s
-      coef: 9.45516517
+    - area: 377720036.7383 km^2 s
+      coef: 9.45650133
       frac: 0
   - - - '85'
       - Neil Petersen
-    - area: 392057595.8302 km^2 s
-      coef: 9.81545276
+    - area: 392111704.5429 km^2 s
+      coef: 9.81680741
       frac: 0
   - - - '46'
       - Jonathon Foote
-    - area: 399429412.6814 km^2 s
-      coef: 10.00001167
+    - area: 399486820.0205 km^2 s
+      coef: 10.0014489
       frac: 0
   - - - '35'
       - Carole Tobler
-    - area: 419705195.6686 km^2 s
-      coef: 10.50763093
+    - area: 419765034.1769 km^2 s
+      coef: 10.50912904
       frac: 0
 arrivalRank:
 - []
@@ -3872,135 +3872,143 @@ arrivalRank:
   - - - '5'
       - Wolfgang Siess
     - rank: '2'
-      frac: 0.93715085
+      frac: 0.94055202
   - - - '15'
       - ! 'Jean Souviron '
     - rank: '3'
-      frac: 0.87771545
+      frac: 0.88415381
   - - - '44'
       - Francoise Dieuzeide-banet
     - rank: '4'
-      frac: 0.82159717
+      frac: 0.83072396
   - - - '34'
       - Jon snr Durand
     - rank: '5'
-      frac: 0.76869937
+      frac: 0.78018107
   - - - '24'
       - Christian Baertschi
     - rank: '6'
-      frac: 0.71892543
+      frac: 0.73244374
   - - - '6'
       - Phil Schroder
     - rank: '7'
-      frac: 0.67217871
+      frac: 0.68743056
   - - - '99'
       - Tullio Gervasoni
     - rank: '8'
-      frac: 0.62836258
+      frac: 0.64506012
   - - - '68'
       - Grant Heaney
     - rank: '9'
-      frac: 0.58738042
+      frac: 0.60525103
   - - - '59'
       - Artur Dzamikhov
     - rank: '10'
-      frac: 0.54913558
+      frac: 0.56792188
   - - - '25'
       - Nick Purcell
     - rank: '11'
-      frac: 0.51353145
-  - - - '78'
-      - Christine Aichner
-    - rank: '12'
-      frac: 0.48047138
-  - - - '26'
-      - Guy Hubbard
-    - rank: '13'
-      frac: 0.44985874
+      frac: 0.53299126
   - - - '55'
       - Kari Suhonen
+    - rank: '12'
+      frac: 0.50037776
+  - - - '78'
+      - Christine Aichner
+    - rank: '13'
+      frac: 0.47
+  - - - '92'
+      - Hans Kiefinger
     - rank: '14'
-      frac: 0.42159691
+      frac: 0.44177656
+  - - - '18'
+      - Jürgen Pasker
+    - rank: '15'
+      frac: 0.41562603
+  - - - '26'
+      - Guy Hubbard
+    - rank: '16'
+      frac: 0.39146701
   - - - '89'
       - Scott Barrett
-    - rank: '15'
-      frac: 0.39558925
+    - rank: '17'
+      frac: 0.36921811
   - - - '23'
       - Gerolf Heinrichs
-    - rank: '16'
-      frac: 0.37173914
+    - rank: '18'
+      frac: 0.3487979
   - - - '60'
       - Rohan Holtkamp
-    - rank: '17'
-      frac: 0.34994993
+    - rank: '19'
+      frac: 0.330125
   - - - '61'
       - Jonny Durand
-    - rank: '18'
-      frac: 0.330125
+    - rank: '20'
+      frac: 0.31311799
   - - - '36'
       - Franz Herrmann
-    - rank: '19'
-      frac: 0.31216772
-  - - - '90'
-      - Adam Stevens
-    - rank: '20'
-      frac: 0.29598145
+    - rank: '21'
+      frac: 0.29769547
   - - - '42'
       - Suan Selenati
-    - rank: '21'
-      frac: 0.28146957
+    - rank: '22'
+      frac: 0.28377604
+  - - - '90'
+      - Adam Stevens
+    - rank: '23'
+      frac: 0.27127829
   - - - '13'
       - John Smith
-    - rank: '22'
-      frac: 0.26853544
+    - rank: '24'
+      frac: 0.26012082
   - - - '84'
       - Yasuhiro Noma
-    - rank: '23'
-      frac: 0.25708243
+    - rank: '25'
+      frac: 0.25022222
   - - - '31'
       - Andrew Barnes
-    - rank: '24'
-      frac: 0.24701392
+    - rank: '26'
+      frac: 0.24150109
   - - - '56'
       - Cameron Tunbridge
-    - rank: '25'
-      frac: 0.23823326
+    - rank: '27'
+      frac: 0.23387603
   - - - '75'
       - Joerg Bajewski
-    - rank: '26'
-      frac: 0.23064383
+    - rank: '28'
+      frac: 0.22726562
   - - - '93'
       - Trent Brown
-    - rank: '27'
-      frac: 0.22414899
+    - rank: '29'
+      frac: 0.22158848
   - - - '11'
       - Steve Blenkinsop
-    - rank: '28'
-      frac: 0.21865212
+    - rank: '30'
+      frac: 0.21676318
   - - - '45'
       - Roland Wöhrle
-    - rank: '29'
-      frac: 0.21405658
+    - rank: '31'
+      frac: 0.21270833
   - - - '1'
       - Lukas Bader
-    - rank: '30'
-      frac: 0.21026575
+    - rank: '32'
+      frac: 0.20934253
   - - - '14'
       - Olav Lien Olsen
-    - rank: '31'
-      frac: 0.20718298
+    - rank: '33'
+      frac: 0.20658436
   - - - '98'
       - Patrick Collin
-    - rank: '32'
-      frac: 0.20471166
+    - rank: '34'
+      frac: 0.20435243
   - - - '69'
       - Jonathan Kinred
-    - rank: '33'
-      frac: 0.20275514
+    - rank: '35'
+      frac: 0.20256533
   - - - '67'
       - ! 'Andy Phillips '
-    - rank: '34'
-      frac: 0.2012168
+    - rank: '36'
+      frac: 0.20114165
 - - - - '89'
       - Scott Barrett
     - rank: '1'
@@ -4116,175 +4124,183 @@ arrivalRank:
   - - - '100'
       - Attila Bertok
     - rank: '2'
-      frac: 0.95113152
+      frac: 0.95321325
   - - - '60'
       - Rohan Holtkamp
     - rank: '3'
-      frac: 0.90431452
+      frac: 0.90830525
+  - - - '95'
+      - Anton Struganov
+    - rank: '4'
+      frac: 0.86523698
   - - - '45'
       - Roland Wöhrle
-    - rank: '4'
-      frac: 0.85950443
+    - rank: '5'
+      frac: 0.82396943
   - - - '41'
       - Curt Warren
-    - rank: '5'
-      frac: 0.81665665
+    - rank: '6'
+      frac: 0.78446356
+  - - - '1'
+      - Lukas Bader
+    - rank: '7'
+      frac: 0.74668036
   - - - '75'
       - Joerg Bajewski
-    - rank: '6'
-      frac: 0.7757266
+    - rank: '8'
+      frac: 0.71058082
   - - - '90'
       - Adam Stevens
-    - rank: '7'
-      frac: 0.7366697
+    - rank: '9'
+      frac: 0.67612591
   - - - '66'
       - Jonas Lobitz
-    - rank: '8'
-      frac: 0.69944136
+    - rank: '10'
+      frac: 0.64327662
   - - - '84'
       - Yasuhiro Noma
-    - rank: '9'
-      frac: 0.66399699
+    - rank: '11'
+      frac: 0.61199392
   - - - '87'
       - Corinna Schwiegershausen
-    - rank: '10'
-      frac: 0.63029201
+    - rank: '12'
+      frac: 0.58223879
   - - - '24'
       - Christian Baertschi
-    - rank: '11'
-      frac: 0.59828184
+    - rank: '13'
+      frac: 0.55397222
   - - - '25'
       - Nick Purcell
-    - rank: '12'
-      frac: 0.56792188
+    - rank: '14'
+      frac: 0.52715518
   - - - '102'
       - Davide Guiducci
-    - rank: '13'
-      frac: 0.53916754
+    - rank: '15'
+      frac: 0.50174866
   - - - '49'
       - Tony Giammichele
-    - rank: '14'
-      frac: 0.51197426
+    - rank: '16'
+      frac: 0.47771364
   - - - '94'
       - Mitch Shipley
-    - rank: '15'
-      frac: 0.48629743
+    - rank: '17'
+      frac: 0.4550111
   - - - '13'
       - John Smith
-    - rank: '16'
-      frac: 0.46209247
+    - rank: '18'
+      frac: 0.43360201
   - - - '8'
       - Primoz Gricar
-    - rank: '17'
-      frac: 0.4393148
+    - rank: '19'
+      frac: 0.41344736
   - - - '18'
       - Jürgen Pasker
-    - rank: '18'
-      frac: 0.41791983
+    - rank: '20'
+      frac: 0.39450813
   - - - '6'
       - Phil Schroder
-    - rank: '19'
-      frac: 0.39786298
+    - rank: '21'
+      frac: 0.37674529
   - - - '106'
       - Adam Parer
-    - rank: '20'
-      frac: 0.37909965
+    - rank: '22'
+      frac: 0.36011984
   - - - '30'
       - Fredy Bircher
-    - rank: '21'
-      frac: 0.36158527
+    - rank: '23'
+      frac: 0.34459275
   - - - '48'
       - Paolo Rosichetti
-    - rank: '22'
-      frac: 0.34527525
+    - rank: '24'
+      frac: 0.330125
   - - - '68'
       - Grant Heaney
-    - rank: '23'
-      frac: 0.330125
+    - rank: '25'
+      frac: 0.31667757
+  - - - '93'
+      - Trent Brown
+    - rank: '26'
+      frac: 0.30421144
   - - - '31'
       - Andrew Barnes
-    - rank: '24'
-      frac: 0.31608993
+    - rank: '27'
+      frac: 0.2926876
   - - - '71'
       - Edoardo Giudiceandrea
-    - rank: '25'
-      frac: 0.30312547
+    - rank: '28'
+      frac: 0.28206702
   - - - '21'
       - Gavin Myers
-    - rank: '26'
-      frac: 0.29118702
+    - rank: '29'
+      frac: 0.27231068
   - - - '36'
       - Franz Herrmann
-    - rank: '27'
-      frac: 0.28023
+    - rank: '30'
+      frac: 0.26337956
   - - - '26'
       - Guy Hubbard
-    - rank: '28'
-      frac: 0.27020982
+    - rank: '31'
+      frac: 0.25523465
   - - - '99'
       - Tullio Gervasoni
-    - rank: '29'
-      frac: 0.26108189
+    - rank: '32'
+      frac: 0.24783693
   - - - '33'
       - Conrad Loten
-    - rank: '30'
-      frac: 0.25280164
+    - rank: '33'
+      frac: 0.24114737
   - - - '35'
       - Carole Tobler
-    - rank: '31'
-      frac: 0.24532447
+    - rank: '34'
+      frac: 0.23512695
   - - - '92'
       - Hans Kiefinger
-    - rank: '32'
-      frac: 0.23860581
+    - rank: '35'
+      frac: 0.22973666
   - - - '55'
       - Kari Suhonen
-    - rank: '33'
-      frac: 0.23260105
+    - rank: '36'
+      frac: 0.22493748
   - - - '72'
       - Tove Heaney
-    - rank: '34'
-      frac: 0.22726562
+    - rank: '37'
+      frac: 0.22069039
   - - - '43'
       - Les Bestt
-    - rank: '35'
-      frac: 0.22255494
+    - rank: '38'
+      frac: 0.21695637
   - - - '22'
       - Mark Russell
-    - rank: '36'
-      frac: 0.21842441
+    - rank: '39'
+      frac: 0.21369639
   - - - '78'
       - Christine Aichner
-    - rank: '37'
-      frac: 0.21482945
+    - rank: '40'
+      frac: 0.21087145
   - - - '3'
       - Rod Flockhart
-    - rank: '38'
-      frac: 0.21172548
-  - - - '44'
-      - Francoise Dieuzeide-banet
-    - rank: '39'
-      frac: 0.2090679
+    - rank: '41'
+      frac: 0.20844251
   - - - '85'
       - Neil Petersen
-    - rank: '40'
-      frac: 0.20681214
+    - rank: '42'
+      frac: 0.20637056
+  - - - '44'
+      - Francoise Dieuzeide-banet
+    - rank: '43'
+      frac: 0.20461659
   - - - '96'
       - Brodrick Osborne
-    - rank: '41'
-      frac: 0.2049136
-  - - - '69'
-      - Jonathan Kinred
-    - rank: '42'
-      frac: 0.2033277
+    - rank: '44'
+      frac: 0.20314156
   - - - '73'
       - Gijs Wanders
-    - rank: '43'
-      frac: 0.20200986
+    - rank: '45'
+      frac: 0.20190647
   - - - '28'
       - Evgeniya Laritskaya
-    - rank: '44'
-      frac: 0.20091549
+    - rank: '46'
+      frac: 0.20087229
 - - - - '41'
       - Curt Warren
     - rank: '1'
@@ -4292,31 +4308,27 @@ arrivalRank:
   - - - '100'
       - Attila Bertok
     - rank: '2'
-      frac: 0.7559668
+      frac: 0.7258484
   - - - '23'
       - Gerolf Heinrichs
     - rank: '3'
-      frac: 0.56792188
-  - - - '89'
-      - Scott Barrett
-    - rank: '4'
-      frac: 0.42844727
+      frac: 0.52344023
   - - - '102'
       - Davide Guiducci
-    - rank: '5'
-      frac: 0.330125
+    - rank: '4'
+      frac: 0.38170262
   - - - '60'
       - Rohan Holtkamp
-    - rank: '6'
-      frac: 0.26553711
+    - rank: '5'
+      frac: 0.28956268
   - - - '45'
       - Roland Wöhrle
-    - rank: '7'
-      frac: 0.22726562
+    - rank: '6'
+      frac: 0.23594752
   - - - '99'
       - Tullio Gervasoni
-    - rank: '8'
-      frac: 0.20789258
+    - rank: '7'
+      frac: 0.20978426
 - - - - '23'
       - Gerolf Heinrichs
     - rank: '1'
@@ -5562,16 +5574,24 @@ reachRank:
       - Nick Purcell
     - frac: 1
       reach: 141.153798 km
+  - - - '55'
+      - Kari Suhonen
+    - frac: 1
+      reach: 141.153798 km
   - - - '78'
       - Christine Aichner
     - frac: 1
       reach: 141.153798 km
-  - - - '26'
-      - Guy Hubbard
+  - - - '92'
+      - Hans Kiefinger
     - frac: 1
       reach: 141.153798 km
-  - - - '55'
-      - Kari Suhonen
+  - - - '18'
+      - Jürgen Pasker
+    - frac: 1
+      reach: 141.153798 km
+  - - - '26'
+      - Guy Hubbard
     - frac: 1
       reach: 141.153798 km
   - - - '89'
@@ -5594,12 +5614,12 @@ reachRank:
       - Franz Herrmann
     - frac: 1
       reach: 141.153798 km
-  - - - '90'
-      - Adam Stevens
-    - frac: 1
-      reach: 141.153798 km
   - - - '42'
       - Suan Selenati
+    - frac: 1
+      reach: 141.153798 km
+  - - - '90'
+      - Adam Stevens
     - frac: 1
       reach: 141.153798 km
   - - - '13'
@@ -5654,14 +5674,6 @@ reachRank:
       - ! 'Andy Phillips '
     - frac: 1
       reach: 141.153798 km
-  - - - '18'
-      - Jürgen Pasker
-    - frac: 0.99997166
-      reach: 141.149798 km
-  - - - '92'
-      - Hans Kiefinger
-    - frac: 0.99987956
-      reach: 141.136798 km
   - - - '94'
       - Mitch Shipley
     - frac: 0.99199455
@@ -6214,12 +6226,20 @@ reachRank:
       - Rohan Holtkamp
     - frac: 1
       reach: 201.784106 km
+  - - - '95'
+      - Anton Struganov
+    - frac: 1
+      reach: 201.784106 km
   - - - '45'
       - Roland Wöhrle
     - frac: 1
       reach: 201.784106 km
   - - - '41'
       - Curt Warren
+    - frac: 1
+      reach: 201.784106 km
+  - - - '1'
+      - Lukas Bader
     - frac: 1
       reach: 201.784106 km
   - - - '75'
@@ -6294,6 +6314,10 @@ reachRank:
       - Grant Heaney
     - frac: 1
       reach: 201.784106 km
+  - - - '93'
+      - Trent Brown
+    - frac: 1
+      reach: 201.784106 km
   - - - '31'
       - Andrew Barnes
     - frac: 1
@@ -6354,20 +6378,16 @@ reachRank:
       - Rod Flockhart
     - frac: 1
       reach: 201.784106 km
-  - - - '44'
-      - Francoise Dieuzeide-banet
-    - frac: 1
-      reach: 201.784106 km
   - - - '85'
       - Neil Petersen
     - frac: 1
       reach: 201.784106 km
-  - - - '96'
-      - Brodrick Osborne
+  - - - '44'
+      - Francoise Dieuzeide-banet
     - frac: 1
       reach: 201.784106 km
-  - - - '69'
-      - Jonathan Kinred
+  - - - '96'
+      - Brodrick Osborne
     - frac: 1
       reach: 201.784106 km
   - - - '73'
@@ -6378,18 +6398,10 @@ reachRank:
       - Evgeniya Laritskaya
     - frac: 1
       reach: 201.784106 km
-  - - - '95'
-      - Anton Struganov
-    - frac: 0.99999504
-      reach: 201.783106 km
-  - - - '1'
-      - Lukas Bader
-    - frac: 0.99997522
-      reach: 201.779106 km
-  - - - '93'
-      - Trent Brown
-    - frac: 0.99985133
-      reach: 201.754106 km
+  - - - '69'
+      - Jonathan Kinred
+    - frac: 0.99996531
+      reach: 201.777106 km
   - - - '103'
       - Roberto Nichele
     - frac: 0.98435457
@@ -6582,10 +6594,6 @@ reachRank:
       - Gerolf Heinrichs
     - frac: 1
       reach: 174.502328 km
-  - - - '89'
-      - Scott Barrett
-    - frac: 1
-      reach: 174.502328 km
   - - - '102'
       - Davide Guiducci
     - frac: 1
@@ -6602,6 +6610,10 @@ reachRank:
       - Tullio Gervasoni
     - frac: 1
       reach: 174.502328 km
+  - - - '89'
+      - Scott Barrett
+    - frac: 0.99993123
+      reach: 174.490328 km
   - - - '93'
       - Trent Brown
     - frac: 0.98879671
@@ -7574,140 +7586,148 @@ ssSpeed:
       frac: 0.13727124
 - - - - '5'
       - Wolfgang Siess
-    - time: 2.088386 h
+    - time: 2.088394 h
       frac: 1
-  - - - '34'
-      - Jon snr Durand
-    - time: 2.191455 h
-      frac: 0.82801832
   - - - '100'
       - Attila Bertok
-    - time: 2.191727 h
-      frac: 0.82771632
+    - time: 2.177496 h
+      frac: 0.84393016
+  - - - '34'
+      - Jon snr Durand
+    - time: 2.191367 h
+      frac: 0.82812606
   - - - '44'
       - Francoise Dieuzeide-banet
-    - time: 2.207948 h
-      frac: 0.81012914
+    - time: 2.208249 h
+      frac: 0.809819
   - - - '24'
       - Christian Baertschi
-    - time: 2.214346 h
-      frac: 0.80341474
+    - time: 2.214332 h
+      frac: 0.80343827
   - - - '6'
       - Phil Schroder
-    - time: 2.259931 h
-      frac: 0.75846443
+    - time: 2.259838 h
+      frac: 0.75855938
   - - - '26'
       - Guy Hubbard
     - time: 2.263934 h
-      frac: 0.75472164
+      frac: 0.7547294
   - - - '78'
       - Christine Aichner
-    - time: 2.271502 h
-      frac: 0.74772125
+    - time: 2.271596 h
+      frac: 0.74764289
   - - - '59'
       - Artur Dzamikhov
-    - time: 2.284807 h
-      frac: 0.73564425
+    - time: 2.283256 h
+      frac: 0.73704536
   - - - '68'
       - Grant Heaney
     - time: 2.285711 h
-      frac: 0.73483457
-  - - - '15'
-      - ! 'Jean Souviron '
-    - time: 2.318732 h
-      frac: 0.70602098
+      frac: 0.73484208
   - - - '55'
       - Kari Suhonen
-    - time: 2.319555 h
-      frac: 0.70532092
+    - time: 2.287931 h
+      frac: 0.73285677
+  - - - '18'
+      - Jürgen Pasker
+    - time: 2.297045 h
+      frac: 0.72478221
+  - - - '15'
+      - ! 'Jean Souviron '
+    - time: 2.318820 h
+      frac: 0.70595281
   - - - '25'
       - Nick Purcell
-    - time: 2.323896 h
-      frac: 0.7016434
+    - time: 2.323920 h
+      frac: 0.70162988
   - - - '89'
       - Scott Barrett
     - time: 2.326532 h
-      frac: 0.69942134
+      frac: 0.69942846
   - - - '42'
       - Suan Selenati
-    - time: 2.377644 h
-      frac: 0.65782102
+    - time: 2.373874 h
+      frac: 0.66080778
   - - - '99'
       - Tullio Gervasoni
-    - time: 2.393109 h
-      frac: 0.64573142
+    - time: 2.393194 h
+      frac: 0.64567166
   - - - '61'
       - Jonny Durand
-    - time: 2.402906 h
-      frac: 0.63817764
-  - - - '60'
-      - Rohan Holtkamp
-    - time: 2.420368 h
-      frac: 0.6249068
+    - time: 2.402916 h
+      frac: 0.6381768
   - - - '93'
       - Trent Brown
-    - time: 2.425376 h
-      frac: 0.62114401
+    - time: 2.419995 h
+      frac: 0.62519402
+  - - - '60'
+      - Rohan Holtkamp
+    - time: 2.420393 h
+      frac: 0.6248941
   - - - '13'
       - John Smith
-    - time: 2.465785 h
-      frac: 0.59143306
+    - time: 2.465787 h
+      frac: 0.59143762
   - - - '23'
       - Gerolf Heinrichs
     - time: 2.470086 h
-      frac: 0.58833469
+      frac: 0.58834097
+  - - - '92'
+      - Hans Kiefinger
+    - time: 2.474093 h
+      frac: 0.58546491
   - - - '45'
       - Roland Wöhrle
     - time: 2.534085 h
-      frac: 0.54351782
-  - - - '1'
-      - Lukas Bader
-    - time: 2.537638 h
-      frac: 0.54109495
+      frac: 0.54352387
   - - - '56'
       - Cameron Tunbridge
-    - time: 2.537682 h
-      frac: 0.54106485
+    - time: 2.535988 h
+      frac: 0.54222502
+  - - - '1'
+      - Lukas Bader
+    - time: 2.537152 h
+      frac: 0.54143174
   - - - '31'
       - Andrew Barnes
-    - time: 2.538199 h
-      frac: 0.54071318
+    - time: 2.538324 h
+      frac: 0.54063363
   - - - '90'
       - Adam Stevens
     - time: 2.576033 h
-      frac: 0.51530698
+      frac: 0.5153129
   - - - '84'
       - Yasuhiro Noma
-    - time: 2.648598 h
-      frac: 0.46834345
+    - time: 2.648684 h
+      frac: 0.46829475
   - - - '75'
       - Joerg Bajewski
     - time: 2.652022 h
-      frac: 0.46617931
+      frac: 0.46618504
   - - - '11'
       - Steve Blenkinsop
     - time: 2.693993 h
-      frac: 0.43999695
+      frac: 0.44000259
   - - - '36'
       - Franz Herrmann
-    - time: 2.751638 h
-      frac: 0.40500222
+    - time: 2.751681 h
+      frac: 0.40498177
   - - - '14'
       - Olav Lien Olsen
-    - time: 2.788577 h
-      frac: 0.3831103
+    - time: 2.786938 h
+      frac: 0.38407914
   - - - '69'
       - Jonathan Kinred
     - time: 2.891503 h
-      frac: 0.32404871
+      frac: 0.32405406
   - - - '98'
       - Patrick Collin
-    - time: 2.927536 h
-      frac: 0.30397856
+    - time: 2.928887 h
+      frac: 0.30323678
   - - - '67'
       - ! 'Andy Phillips '
     - time: 2.951667 h
-      frac: 0.29069829
+      frac: 0.29070358
 - - - - '60'
       - Rohan Holtkamp
     - time: 3.884692 h
@@ -7822,16 +7842,16 @@ ssSpeed:
       frac: 1
   - - - '41'
       - Curt Warren
-    - time: 3.311568 h
-      frac: 0.96052672
+    - time: 3.304587 h
+      frac: 0.97481113
   - - - '66'
       - Jonas Lobitz
-    - time: 3.366522 h
-      frac: 0.88676125
+    - time: 3.362871 h
+      frac: 0.89078088
   - - - '94'
       - Mitch Shipley
-    - time: 3.374488 h
-      frac: 0.87822955
+    - time: 3.374747 h
+      frac: 0.87795681
   - - - '8'
       - Primoz Gricar
     - time: 3.487728 h
@@ -7842,304 +7862,308 @@ ssSpeed:
       frac: 0.76086322
   - - - '102'
       - Davide Guiducci
-    - time: 3.521673 h
-      frac: 0.75193954
+    - time: 3.522381 h
+      frac: 0.75141752
   - - - '57'
       - Julia Kucherenko
-    - time: 3.623624 h
-      frac: 0.68156496
+    - time: 3.624015 h
+      frac: 0.68131051
   - - - '106'
       - Adam Parer
     - time: 3.643844 h
       frac: 0.66854199
   - - - '36'
       - Franz Herrmann
-    - time: 3.645589 h
-      frac: 0.66742992
+    - time: 3.645559 h
+      frac: 0.66744907
   - - - '60'
       - Rohan Holtkamp
-    - time: 3.646290 h
-      frac: 0.66698409
+    - time: 3.646289 h
+      frac: 0.66698468
+  - - - '93'
+      - Trent Brown
+    - time: 3.673081 h
+      frac: 0.65015067
   - - - '45'
       - Roland Wöhrle
     - time: 3.688080 h
       frac: 0.6409013
+  - - - '95'
+      - Anton Struganov
+    - time: 3.688128 h
+      frac: 0.64087192
+  - - - '1'
+      - Lukas Bader
+    - time: 3.705459 h
+      frac: 0.63033141
   - - - '75'
       - Joerg Bajewski
-    - time: 3.711675 h
-      frac: 0.62658696
+    - time: 3.709931 h
+      frac: 0.62763575
   - - - '90'
       - Adam Stevens
-    - time: 3.729708 h
-      frac: 0.61583028
+    - time: 3.732097 h
+      frac: 0.61441612
   - - - '99'
       - Tullio Gervasoni
-    - time: 3.756841 h
-      frac: 0.59992159
+    - time: 3.757150 h
+      frac: 0.59974269
   - - - '84'
       - Yasuhiro Noma
     - time: 3.771177 h
       frac: 0.59164329
   - - - '24'
       - Christian Baertschi
-    - time: 3.842416 h
-      frac: 0.55167748
+    - time: 3.842515 h
+      frac: 0.55162326
   - - - '87'
       - Corinna Schwiegershausen
-    - time: 3.853266 h
-      frac: 0.54574738
+    - time: 3.853354 h
+      frac: 0.54569966
   - - - '18'
       - Jürgen Pasker
-    - time: 3.893994 h
-      frac: 0.52382423
+    - time: 3.893931 h
+      frac: 0.52385803
   - - - '25'
       - Nick Purcell
-    - time: 3.905575 h
-      frac: 0.51768236
+    - time: 3.905662 h
+      frac: 0.51763684
   - - - '49'
       - Tony Giammichele
-    - time: 3.905926 h
-      frac: 0.51749706
+    - time: 3.906141 h
+      frac: 0.51738321
   - - - '26'
       - Guy Hubbard
-    - time: 3.924152 h
-      frac: 0.50791142
+    - time: 3.924602 h
+      frac: 0.50767573
   - - - '48'
       - Paolo Rosichetti
-    - time: 3.930141 h
-      frac: 0.50478169
+    - time: 3.929858 h
+      frac: 0.50492944
   - - - '13'
       - John Smith
-    - time: 3.937043 h
-      frac: 0.50118767
+    - time: 3.937392 h
+      frac: 0.50100601
   - - - '31'
       - Andrew Barnes
-    - time: 3.958325 h
-      frac: 0.49018502
+    - time: 3.958698 h
+      frac: 0.48999341
   - - - '6'
       - Phil Schroder
-    - time: 3.988131 h
-      frac: 0.47497235
+    - time: 3.989102 h
+      frac: 0.47448033
   - - - '3'
       - Rod Flockhart
-    - time: 4.024150 h
-      frac: 0.45687685
+    - time: 4.024281 h
+      frac: 0.45681154
   - - - '33'
       - Conrad Loten
-    - time: 4.034660 h
-      frac: 0.45165386
+    - time: 4.035350 h
+      frac: 0.45131158
   - - - '71'
       - Edoardo Giudiceandrea
-    - time: 4.039730 h
-      frac: 0.44914286
+    - time: 4.040214 h
+      frac: 0.44890365
   - - - '72'
       - Tove Heaney
-    - time: 4.064536 h
-      frac: 0.43693946
+    - time: 4.064814 h
+      frac: 0.43680344
   - - - '68'
       - Grant Heaney
-    - time: 4.068216 h
-      frac: 0.43514059
+    - time: 4.069609 h
+      frac: 0.43446039
   - - - '35'
       - Carole Tobler
     - time: 4.072938 h
       frac: 0.43283625
   - - - '21'
       - Gavin Myers
-    - time: 4.134101 h
-      frac: 0.40339825
+    - time: 4.134059 h
+      frac: 0.40341788
   - - - '22'
       - Mark Russell
-    - time: 4.296883 h
-      frac: 0.32833825
+    - time: 4.297599 h
+      frac: 0.32801762
   - - - '92'
       - Hans Kiefinger
-    - time: 4.297774 h
-      frac: 0.3279393
+    - time: 4.297858 h
+      frac: 0.32790156
   - - - '78'
       - Christine Aichner
-    - time: 4.310189 h
-      frac: 0.32239087
-  - - - '44'
-      - Francoise Dieuzeide-banet
-    - time: 4.369050 h
-      frac: 0.29638631
-  - - - '43'
-      - Les Bestt
-    - time: 4.390472 h
-      frac: 0.28704136
+    - time: 4.309963 h
+      frac: 0.32249161
   - - - '55'
       - Kari Suhonen
-    - time: 4.391438 h
-      frac: 0.28662141
+    - time: 4.327163 h
+      frac: 0.31484125
+  - - - '44'
+      - Francoise Dieuzeide-banet
+    - time: 4.369419 h
+      frac: 0.29622476
+  - - - '43'
+      - Les Bestt
+    - time: 4.391001 h
+      frac: 0.28681146
   - - - '85'
       - Neil Petersen
-    - time: 4.536307 h
-      frac: 0.22496373
+    - time: 4.504966 h
+      frac: 0.23808935
   - - - '96'
       - Brodrick Osborne
-    - time: 4.601824 h
-      frac: 0.19787645
-  - - - '69'
-      - Jonathan Kinred
-    - time: 4.721871 h
-      frac: 0.14939137
+    - time: 4.600610 h
+      frac: 0.19837432
   - - - '73'
       - Gijs Wanders
-    - time: 4.749144 h
-      frac: 0.13856914
+    - time: 4.752120 h
+      frac: 0.13739204
   - - - '28'
       - Evgeniya Laritskaya
-    - time: 4.859475 h
-      frac: 9.546104e-2
+    - time: 4.859891 h
+      frac: 9.530044e-2
 - - - - '41'
       - Curt Warren
-    - time: 3.608202 h
+    - time: 3.608141 h
       frac: 1
   - - - '23'
       - Gerolf Heinrichs
-    - time: 3.929791 h
-      frac: 0.69396543
+    - time: 3.927665 h
+      frac: 0.69527528
   - - - '100'
       - Attila Bertok
-    - time: 3.933262 h
-      frac: 0.69176725
-  - - - '89'
-      - Scott Barrett
-    - time: 4.332950 h
-      frac: 0.47394947
+    - time: 3.933437 h
+      frac: 0.69161686
   - - - '102'
       - Davide Guiducci
-    - time: 4.376739 h
-      frac: 0.45296787
+    - time: 4.376594 h
+      frac: 0.45300478
   - - - '60'
       - Rohan Holtkamp
-    - time: 4.396188 h
-      frac: 0.44377745
+    - time: 4.396054 h
+      frac: 0.44380858
   - - - '99'
       - Tullio Gervasoni
-    - time: 4.601261 h
-      frac: 0.35103727
+    - time: 4.597257 h
+      frac: 0.35275275
   - - - '45'
       - Roland Wöhrle
-    - time: 4.614546 h
-      frac: 0.34526235
+    - time: 4.614630 h
+      frac: 0.34519571
 - - - - '23'
       - Gerolf Heinrichs
-    - time: 3.719040 h
+    - time: 3.719213 h
       frac: 1
   - - - '83'
       - Peter Dall
-    - time: 3.924013 h
-      frac: 0.77561801
+    - time: 3.924142 h
+      frac: 0.77565394
   - - - '41'
       - Curt Warren
     - time: 3.947778 h
-      frac: 0.75859379
+      frac: 0.75871917
   - - - '100'
       - Attila Bertok
-    - time: 4.004049 h
-      frac: 0.72046941
+    - time: 4.004040 h
+      frac: 0.72059329
   - - - '95'
       - Anton Struganov
     - time: 4.053889 h
-      frac: 0.68876456
+      frac: 0.68887651
   - - - '66'
       - Jonas Lobitz
-    - time: 4.067836 h
-      frac: 0.68018122
+    - time: 4.067857 h
+      frac: 0.68027893
   - - - '93'
       - Trent Brown
-    - time: 4.216094 h
-      frac: 0.5949964
+    - time: 4.216535 h
+      frac: 0.59485699
   - - - '102'
       - Davide Guiducci
-    - time: 4.243112 h
-      frac: 0.58044983
+    - time: 4.242844 h
+      frac: 0.58069203
   - - - '60'
       - Rohan Holtkamp
-    - time: 4.278071 h
-      frac: 0.56199345
+    - time: 4.278268 h
+      frac: 0.56198809
   - - - '70'
       - Matthew Barlow
-    - time: 4.314958 h
-      frac: 0.5429319
+    - time: 4.315429 h
+      frac: 0.54278688
   - - - '36'
       - Franz Herrmann
-    - time: 4.324851 h
-      frac: 0.5378875
+    - time: 4.324786 h
+      frac: 0.53801538
   - - - '34'
       - Jon snr Durand
-    - time: 4.342508 h
-      frac: 0.52895105
+    - time: 4.343558 h
+      frac: 0.52851674
   - - - '81'
       - Valentino Bau
-    - time: 4.348848 h
-      frac: 0.52576333
+    - time: 4.348846 h
+      frac: 0.52585847
   - - - '45'
       - Roland Wöhrle
-    - time: 4.365672 h
-      frac: 0.51735483
+    - time: 4.365771 h
+      frac: 0.51739897
   - - - '84'
       - Yasuhiro Noma
-    - time: 4.369193 h
-      frac: 0.5156046
+    - time: 4.369922 h
+      frac: 0.51533562
   - - - '89'
       - Scott Barrett
-    - time: 4.374079 h
-      frac: 0.5131808
+    - time: 4.374516 h
+      frac: 0.51305722
   - - - '92'
       - Hans Kiefinger
-    - time: 4.380880 h
-      frac: 0.50981702
+    - time: 4.381268 h
+      frac: 0.50971832
   - - - '5'
       - Wolfgang Siess
-    - time: 4.428000 h
-      frac: 0.48681878
+    - time: 4.427698 h
+      frac: 0.48705557
   - - - '31'
       - Andrew Barnes
-    - time: 4.429878 h
-      frac: 0.48591256
+    - time: 4.429880 h
+      frac: 0.48600289
   - - - '15'
       - ! 'Jean Souviron '
-    - time: 4.443093 h
-      frac: 0.47956089
+    - time: 4.443369 h
+      frac: 0.47951934
   - - - '1'
       - Lukas Bader
-    - time: 4.446549 h
-      frac: 0.47790592
+    - time: 4.446550 h
+      frac: 0.47799634
   - - - '59'
       - Artur Dzamikhov
-    - time: 4.453012 h
-      frac: 0.47481873
+    - time: 4.454423 h
+      frac: 0.47423631
   - - - '99'
       - Tullio Gervasoni
-    - time: 4.455616 h
-      frac: 0.47357702
+    - time: 4.456240 h
+      frac: 0.47337051
   - - - '11'
       - Steve Blenkinsop
-    - time: 4.457671 h
-      frac: 0.47259848
+    - time: 4.457575 h
+      frac: 0.47273467
   - - - '75'
       - Joerg Bajewski
-    - time: 4.460299 h
-      frac: 0.47134796
+    - time: 4.460551 h
+      frac: 0.47131876
   - - - '94'
       - Mitch Shipley
-    - time: 4.496169 h
-      frac: 0.45442834
+    - time: 4.495265 h
+      frac: 0.45494073
   - - - '68'
       - Grant Heaney
-    - time: 4.528183 h
-      frac: 0.43954607
+    - time: 4.528657 h
+      frac: 0.4394159
   - - - '71'
       - Edoardo Giudiceandrea
-    - time: 4.538264 h
-      frac: 0.43490078
+    - time: 4.538581 h
+      frac: 0.43484295
   - - - '90'
       - Adam Stevens
-    - time: 4.701148 h
-      frac: 0.36228133
+    - time: 4.701943 h
+      frac: 0.36202174
 gsSpeed:
 - []
 - - - - '89'
@@ -8456,140 +8480,148 @@ gsSpeed:
       frac: 0.13727124
 - - - - '5'
       - Wolfgang Siess
-    - time: 2.088386 h
+    - time: 2.088394 h
       frac: 1
-  - - - '34'
-      - Jon snr Durand
-    - time: 2.191455 h
-      frac: 0.82801832
   - - - '100'
       - Attila Bertok
-    - time: 2.191727 h
-      frac: 0.82771632
+    - time: 2.177496 h
+      frac: 0.84393016
+  - - - '34'
+      - Jon snr Durand
+    - time: 2.191367 h
+      frac: 0.82812606
   - - - '44'
       - Francoise Dieuzeide-banet
-    - time: 2.207948 h
-      frac: 0.81012914
+    - time: 2.208249 h
+      frac: 0.809819
   - - - '24'
       - Christian Baertschi
-    - time: 2.214346 h
-      frac: 0.80341474
+    - time: 2.214332 h
+      frac: 0.80343827
   - - - '6'
       - Phil Schroder
-    - time: 2.259931 h
-      frac: 0.75846443
+    - time: 2.259838 h
+      frac: 0.75855938
   - - - '26'
       - Guy Hubbard
     - time: 2.263934 h
-      frac: 0.75472164
+      frac: 0.7547294
   - - - '78'
       - Christine Aichner
-    - time: 2.271502 h
-      frac: 0.74772125
+    - time: 2.271596 h
+      frac: 0.74764289
   - - - '59'
       - Artur Dzamikhov
-    - time: 2.284807 h
-      frac: 0.73564425
+    - time: 2.283256 h
+      frac: 0.73704536
   - - - '68'
       - Grant Heaney
     - time: 2.285711 h
-      frac: 0.73483457
-  - - - '15'
-      - ! 'Jean Souviron '
-    - time: 2.318732 h
-      frac: 0.70602098
+      frac: 0.73484208
   - - - '55'
       - Kari Suhonen
-    - time: 2.319555 h
-      frac: 0.70532092
+    - time: 2.287931 h
+      frac: 0.73285677
+  - - - '18'
+      - Jürgen Pasker
+    - time: 2.297045 h
+      frac: 0.72478221
+  - - - '15'
+      - ! 'Jean Souviron '
+    - time: 2.318820 h
+      frac: 0.70595281
   - - - '25'
       - Nick Purcell
-    - time: 2.323896 h
-      frac: 0.7016434
+    - time: 2.323920 h
+      frac: 0.70162988
   - - - '89'
       - Scott Barrett
     - time: 2.326532 h
-      frac: 0.69942134
+      frac: 0.69942846
   - - - '42'
       - Suan Selenati
-    - time: 2.377644 h
-      frac: 0.65782102
+    - time: 2.373874 h
+      frac: 0.66080778
   - - - '99'
       - Tullio Gervasoni
-    - time: 2.393109 h
-      frac: 0.64573142
+    - time: 2.393194 h
+      frac: 0.64567166
   - - - '61'
       - Jonny Durand
-    - time: 2.402906 h
-      frac: 0.63817764
-  - - - '60'
-      - Rohan Holtkamp
-    - time: 2.420368 h
-      frac: 0.6249068
+    - time: 2.402916 h
+      frac: 0.6381768
   - - - '93'
       - Trent Brown
-    - time: 2.425376 h
-      frac: 0.62114401
+    - time: 2.419995 h
+      frac: 0.62519402
+  - - - '60'
+      - Rohan Holtkamp
+    - time: 2.420393 h
+      frac: 0.6248941
   - - - '13'
       - John Smith
-    - time: 2.465785 h
-      frac: 0.59143306
+    - time: 2.465787 h
+      frac: 0.59143762
   - - - '23'
       - Gerolf Heinrichs
     - time: 2.470086 h
-      frac: 0.58833469
+      frac: 0.58834097
+  - - - '92'
+      - Hans Kiefinger
+    - time: 2.474093 h
+      frac: 0.58546491
   - - - '45'
       - Roland Wöhrle
     - time: 2.534085 h
-      frac: 0.54351782
-  - - - '1'
-      - Lukas Bader
-    - time: 2.537638 h
-      frac: 0.54109495
+      frac: 0.54352387
   - - - '56'
       - Cameron Tunbridge
-    - time: 2.537682 h
-      frac: 0.54106485
+    - time: 2.535988 h
+      frac: 0.54222502
+  - - - '1'
+      - Lukas Bader
+    - time: 2.537152 h
+      frac: 0.54143174
   - - - '31'
       - Andrew Barnes
-    - time: 2.538199 h
-      frac: 0.54071318
+    - time: 2.538324 h
+      frac: 0.54063363
   - - - '90'
       - Adam Stevens
     - time: 2.576033 h
-      frac: 0.51530698
+      frac: 0.5153129
   - - - '84'
       - Yasuhiro Noma
-    - time: 2.648598 h
-      frac: 0.46834345
+    - time: 2.648684 h
+      frac: 0.46829475
   - - - '75'
       - Joerg Bajewski
     - time: 2.652022 h
-      frac: 0.46617931
+      frac: 0.46618504
   - - - '11'
       - Steve Blenkinsop
     - time: 2.693993 h
-      frac: 0.43999695
+      frac: 0.44000259
   - - - '36'
       - Franz Herrmann
-    - time: 2.751638 h
-      frac: 0.40500222
+    - time: 2.751681 h
+      frac: 0.40498177
   - - - '14'
       - Olav Lien Olsen
-    - time: 2.788577 h
-      frac: 0.3831103
+    - time: 2.786938 h
+      frac: 0.38407914
   - - - '69'
       - Jonathan Kinred
     - time: 2.891503 h
-      frac: 0.32404871
+      frac: 0.32405406
   - - - '98'
       - Patrick Collin
-    - time: 2.927536 h
-      frac: 0.30397856
+    - time: 2.928887 h
+      frac: 0.30323678
   - - - '67'
       - ! 'Andy Phillips '
     - time: 2.951667 h
-      frac: 0.29069829
+      frac: 0.29070358
 - - - - '60'
       - Rohan Holtkamp
     - time: 3.884692 h
@@ -8704,16 +8736,16 @@ gsSpeed:
       frac: 1
   - - - '41'
       - Curt Warren
-    - time: 3.311568 h
-      frac: 0.96052672
+    - time: 3.304587 h
+      frac: 0.97481113
   - - - '66'
       - Jonas Lobitz
-    - time: 3.366522 h
-      frac: 0.88676125
+    - time: 3.362871 h
+      frac: 0.89078088
   - - - '94'
       - Mitch Shipley
-    - time: 3.374488 h
-      frac: 0.87822955
+    - time: 3.374747 h
+      frac: 0.87795681
   - - - '8'
       - Primoz Gricar
     - time: 3.487728 h
@@ -8724,304 +8756,308 @@ gsSpeed:
       frac: 0.76086322
   - - - '102'
       - Davide Guiducci
-    - time: 3.521673 h
-      frac: 0.75193954
+    - time: 3.522381 h
+      frac: 0.75141752
   - - - '57'
       - Julia Kucherenko
-    - time: 3.623624 h
-      frac: 0.68156496
+    - time: 3.624015 h
+      frac: 0.68131051
   - - - '106'
       - Adam Parer
     - time: 3.643844 h
       frac: 0.66854199
   - - - '36'
       - Franz Herrmann
-    - time: 3.645589 h
-      frac: 0.66742992
+    - time: 3.645559 h
+      frac: 0.66744907
   - - - '60'
       - Rohan Holtkamp
-    - time: 3.646290 h
-      frac: 0.66698409
+    - time: 3.646289 h
+      frac: 0.66698468
+  - - - '93'
+      - Trent Brown
+    - time: 3.673081 h
+      frac: 0.65015067
   - - - '45'
       - Roland Wöhrle
     - time: 3.688080 h
       frac: 0.6409013
+  - - - '95'
+      - Anton Struganov
+    - time: 3.688128 h
+      frac: 0.64087192
+  - - - '1'
+      - Lukas Bader
+    - time: 3.705459 h
+      frac: 0.63033141
   - - - '75'
       - Joerg Bajewski
-    - time: 3.711675 h
-      frac: 0.62658696
+    - time: 3.709931 h
+      frac: 0.62763575
   - - - '90'
       - Adam Stevens
-    - time: 3.729708 h
-      frac: 0.61583028
+    - time: 3.732097 h
+      frac: 0.61441612
   - - - '99'
       - Tullio Gervasoni
-    - time: 3.756841 h
-      frac: 0.59992159
+    - time: 3.757150 h
+      frac: 0.59974269
   - - - '84'
       - Yasuhiro Noma
     - time: 3.771177 h
       frac: 0.59164329
   - - - '24'
       - Christian Baertschi
-    - time: 3.842416 h
-      frac: 0.55167748
+    - time: 3.842515 h
+      frac: 0.55162326
   - - - '87'
       - Corinna Schwiegershausen
-    - time: 3.853266 h
-      frac: 0.54574738
+    - time: 3.853354 h
+      frac: 0.54569966
   - - - '18'
       - Jürgen Pasker
-    - time: 3.893994 h
-      frac: 0.52382423
+    - time: 3.893931 h
+      frac: 0.52385803
   - - - '25'
       - Nick Purcell
-    - time: 3.905575 h
-      frac: 0.51768236
+    - time: 3.905662 h
+      frac: 0.51763684
   - - - '49'
       - Tony Giammichele
-    - time: 3.905926 h
-      frac: 0.51749706
+    - time: 3.906141 h
+      frac: 0.51738321
   - - - '26'
       - Guy Hubbard
-    - time: 3.924152 h
-      frac: 0.50791142
+    - time: 3.924602 h
+      frac: 0.50767573
   - - - '48'
       - Paolo Rosichetti
-    - time: 3.930141 h
-      frac: 0.50478169
+    - time: 3.929858 h
+      frac: 0.50492944
   - - - '13'
       - John Smith
-    - time: 3.937043 h
-      frac: 0.50118767
+    - time: 3.937392 h
+      frac: 0.50100601
   - - - '31'
       - Andrew Barnes
-    - time: 3.958325 h
-      frac: 0.49018502
+    - time: 3.958698 h
+      frac: 0.48999341
   - - - '6'
       - Phil Schroder
-    - time: 3.988131 h
-      frac: 0.47497235
+    - time: 3.989102 h
+      frac: 0.47448033
   - - - '3'
       - Rod Flockhart
-    - time: 4.024150 h
-      frac: 0.45687685
+    - time: 4.024281 h
+      frac: 0.45681154
   - - - '33'
       - Conrad Loten
-    - time: 4.034660 h
-      frac: 0.45165386
+    - time: 4.035350 h
+      frac: 0.45131158
   - - - '71'
       - Edoardo Giudiceandrea
-    - time: 4.039730 h
-      frac: 0.44914286
+    - time: 4.040214 h
+      frac: 0.44890365
   - - - '72'
       - Tove Heaney
-    - time: 4.064536 h
-      frac: 0.43693946
+    - time: 4.064814 h
+      frac: 0.43680344
   - - - '68'
       - Grant Heaney
-    - time: 4.068216 h
-      frac: 0.43514059
+    - time: 4.069609 h
+      frac: 0.43446039
   - - - '35'
       - Carole Tobler
     - time: 4.072938 h
       frac: 0.43283625
   - - - '21'
       - Gavin Myers
-    - time: 4.134101 h
-      frac: 0.40339825
+    - time: 4.134059 h
+      frac: 0.40341788
   - - - '22'
       - Mark Russell
-    - time: 4.296883 h
-      frac: 0.32833825
+    - time: 4.297599 h
+      frac: 0.32801762
   - - - '92'
       - Hans Kiefinger
-    - time: 4.297774 h
-      frac: 0.3279393
+    - time: 4.297858 h
+      frac: 0.32790156
   - - - '78'
       - Christine Aichner
-    - time: 4.310189 h
-      frac: 0.32239087
-  - - - '44'
-      - Francoise Dieuzeide-banet
-    - time: 4.369050 h
-      frac: 0.29638631
-  - - - '43'
-      - Les Bestt
-    - time: 4.390472 h
-      frac: 0.28704136
+    - time: 4.309963 h
+      frac: 0.32249161
   - - - '55'
       - Kari Suhonen
-    - time: 4.391438 h
-      frac: 0.28662141
+    - time: 4.327163 h
+      frac: 0.31484125
+  - - - '44'
+      - Francoise Dieuzeide-banet
+    - time: 4.369419 h
+      frac: 0.29622476
+  - - - '43'
+      - Les Bestt
+    - time: 4.391001 h
+      frac: 0.28681146
   - - - '85'
       - Neil Petersen
-    - time: 4.536307 h
-      frac: 0.22496373
+    - time: 4.504966 h
+      frac: 0.23808935
   - - - '96'
       - Brodrick Osborne
-    - time: 4.601824 h
-      frac: 0.19787645
-  - - - '69'
-      - Jonathan Kinred
-    - time: 4.721871 h
-      frac: 0.14939137
+    - time: 4.600610 h
+      frac: 0.19837432
   - - - '73'
       - Gijs Wanders
-    - time: 4.749144 h
-      frac: 0.13856914
+    - time: 4.752120 h
+      frac: 0.13739204
   - - - '28'
       - Evgeniya Laritskaya
-    - time: 4.859475 h
-      frac: 9.546104e-2
+    - time: 4.859891 h
+      frac: 9.530044e-2
 - - - - '41'
       - Curt Warren
-    - time: 3.608202 h
+    - time: 3.608141 h
       frac: 1
   - - - '23'
       - Gerolf Heinrichs
-    - time: 3.929791 h
-      frac: 0.69396543
+    - time: 3.927665 h
+      frac: 0.69527528
   - - - '100'
       - Attila Bertok
-    - time: 3.933262 h
-      frac: 0.69176725
-  - - - '89'
-      - Scott Barrett
-    - time: 4.332950 h
-      frac: 0.47394947
+    - time: 3.933437 h
+      frac: 0.69161686
   - - - '102'
       - Davide Guiducci
-    - time: 4.376739 h
-      frac: 0.45296787
+    - time: 4.376594 h
+      frac: 0.45300478
   - - - '60'
       - Rohan Holtkamp
-    - time: 4.396188 h
-      frac: 0.44377745
+    - time: 4.396054 h
+      frac: 0.44380858
   - - - '99'
       - Tullio Gervasoni
-    - time: 4.601261 h
-      frac: 0.35103727
+    - time: 4.597257 h
+      frac: 0.35275275
   - - - '45'
       - Roland Wöhrle
-    - time: 4.614546 h
-      frac: 0.34526235
+    - time: 4.614630 h
+      frac: 0.34519571
 - - - - '23'
       - Gerolf Heinrichs
-    - time: 3.719040 h
+    - time: 3.719213 h
       frac: 1
   - - - '83'
       - Peter Dall
-    - time: 3.924013 h
-      frac: 0.77561801
+    - time: 3.924142 h
+      frac: 0.77565394
   - - - '41'
       - Curt Warren
     - time: 3.947778 h
-      frac: 0.75859379
+      frac: 0.75871917
   - - - '100'
       - Attila Bertok
-    - time: 4.004049 h
-      frac: 0.72046941
+    - time: 4.004040 h
+      frac: 0.72059329
   - - - '95'
       - Anton Struganov
     - time: 4.053889 h
-      frac: 0.68876456
+      frac: 0.68887651
   - - - '66'
       - Jonas Lobitz
-    - time: 4.067836 h
-      frac: 0.68018122
+    - time: 4.067857 h
+      frac: 0.68027893
   - - - '93'
       - Trent Brown
-    - time: 4.216094 h
-      frac: 0.5949964
+    - time: 4.216535 h
+      frac: 0.59485699
   - - - '102'
       - Davide Guiducci
-    - time: 4.243112 h
-      frac: 0.58044983
+    - time: 4.242844 h
+      frac: 0.58069203
   - - - '60'
       - Rohan Holtkamp
-    - time: 4.278071 h
-      frac: 0.56199345
+    - time: 4.278268 h
+      frac: 0.56198809
   - - - '70'
       - Matthew Barlow
-    - time: 4.314958 h
-      frac: 0.5429319
+    - time: 4.315429 h
+      frac: 0.54278688
   - - - '36'
       - Franz Herrmann
-    - time: 4.324851 h
-      frac: 0.5378875
+    - time: 4.324786 h
+      frac: 0.53801538
   - - - '34'
       - Jon snr Durand
-    - time: 4.342508 h
-      frac: 0.52895105
+    - time: 4.343558 h
+      frac: 0.52851674
   - - - '81'
       - Valentino Bau
-    - time: 4.348848 h
-      frac: 0.52576333
+    - time: 4.348846 h
+      frac: 0.52585847
   - - - '45'
       - Roland Wöhrle
-    - time: 4.365672 h
-      frac: 0.51735483
+    - time: 4.365771 h
+      frac: 0.51739897
   - - - '84'
       - Yasuhiro Noma
-    - time: 4.369193 h
-      frac: 0.5156046
+    - time: 4.369922 h
+      frac: 0.51533562
   - - - '89'
       - Scott Barrett
-    - time: 4.374079 h
-      frac: 0.5131808
+    - time: 4.374516 h
+      frac: 0.51305722
   - - - '92'
       - Hans Kiefinger
-    - time: 4.380880 h
-      frac: 0.50981702
+    - time: 4.381268 h
+      frac: 0.50971832
   - - - '5'
       - Wolfgang Siess
-    - time: 4.428000 h
-      frac: 0.48681878
+    - time: 4.427698 h
+      frac: 0.48705557
   - - - '31'
       - Andrew Barnes
-    - time: 4.429878 h
-      frac: 0.48591256
+    - time: 4.429880 h
+      frac: 0.48600289
   - - - '15'
       - ! 'Jean Souviron '
-    - time: 4.443093 h
-      frac: 0.47956089
+    - time: 4.443369 h
+      frac: 0.47951934
   - - - '1'
       - Lukas Bader
-    - time: 4.446549 h
-      frac: 0.47790592
+    - time: 4.446550 h
+      frac: 0.47799634
   - - - '59'
       - Artur Dzamikhov
-    - time: 4.453012 h
-      frac: 0.47481873
+    - time: 4.454423 h
+      frac: 0.47423631
   - - - '99'
       - Tullio Gervasoni
-    - time: 4.455616 h
-      frac: 0.47357702
+    - time: 4.456240 h
+      frac: 0.47337051
   - - - '11'
       - Steve Blenkinsop
-    - time: 4.457671 h
-      frac: 0.47259848
+    - time: 4.457575 h
+      frac: 0.47273467
   - - - '75'
       - Joerg Bajewski
-    - time: 4.460299 h
-      frac: 0.47134796
+    - time: 4.460551 h
+      frac: 0.47131876
   - - - '94'
       - Mitch Shipley
-    - time: 4.496169 h
-      frac: 0.45442834
+    - time: 4.495265 h
+      frac: 0.45494073
   - - - '68'
       - Grant Heaney
-    - time: 4.528183 h
-      frac: 0.43954607
+    - time: 4.528657 h
+      frac: 0.4394159
   - - - '71'
       - Edoardo Giudiceandrea
-    - time: 4.538264 h
-      frac: 0.43490078
+    - time: 4.538581 h
+      frac: 0.43484295
   - - - '90'
       - Adam Stevens
-    - time: 4.701148 h
-      frac: 0.36228133
+    - time: 4.701943 h
+      frac: 0.36202174
 nigh:
 - - - - '71'
       - Edoardo Giudiceandrea
@@ -13256,39 +13292,7 @@ nigh:
         - lat: -34.81314957
           lng: 148.66329303
       made: 77.947238 km
-- - - - '92'
-      - Hans Kiefinger
-    - togo:
-        distance: 0.017356 km
-        flipSum:
-        - 0.017356 km
-        legs:
-        - 0.017356 km
-        legsSum:
-        - 0.017356 km
-        waypoints:
-        - lat: -32.46369
-          lng: 148.989236
-        - lat: -32.4637162
-          lng: 148.98905363
-      made: 141.136798 km
-  - - - '18'
-      - Jürgen Pasker
-    - togo:
-        distance: 0.003783 km
-        flipSum:
-        - 0.003783 km
-        legs:
-        - 0.003783 km
-        legsSum:
-        - 0.003783 km
-        waypoints:
-        - lat: -32.463483
-          lng: 148.9933
-        - lat: -32.4634887
-          lng: 148.99326025
-      made: 141.149798 km
-  - - - '94'
+- - - - '94'
       - Mitch Shipley
     - togo:
         distance: 1.130133 km
@@ -15216,54 +15220,22 @@ nigh:
         - lat: -32.01827953
           lng: 149.43001251
       made: 1.025077 km
-- - - - '95'
-      - Anton Struganov
+- - - - '69'
+      - Jonathan Kinred
     - togo:
-        distance: 0.001222 km
+        distance: 0.006787 km
         flipSum:
-        - 0.001222 km
+        - 0.006787 km
         legs:
-        - 0.001222 km
+        - 0.006787 km
         legsSum:
-        - 0.001222 km
+        - 0.006787 km
         waypoints:
-        - lat: -31.69395
-          lng: 148.297167
-        - lat: -31.69394093
-          lng: 148.29715969
-      made: 201.783106 km
-  - - - '1'
-      - Lukas Bader
-    - togo:
-        distance: 0.004894 km
-        flipSum:
-        - 0.004894 km
-        legs:
-        - 0.004894 km
-        legsSum:
-        - 0.004894 km
-        waypoints:
-        - lat: -31.694913
-          lng: 148.298371
-        - lat: -31.69490629
-          lng: 148.29842212
-      made: 201.779106 km
-  - - - '93'
-      - Trent Brown
-    - togo:
-        distance: 0.030444 km
-        flipSum:
-        - 0.030444 km
-        legs:
-        - 0.030444 km
-        legsSum:
-        - 0.030444 km
-        waypoints:
-        - lat: -31.69375
-          lng: 148.296433
-        - lat: -31.69357284
-          lng: 148.29667833
-      made: 201.754106 km
+        - lat: -31.693159
+          lng: 148.296088
+        - lat: -31.69310194
+          lng: 148.29606253
+      made: 201.777106 km
   - - - '103'
       - Roberto Nichele
     - togo:
@@ -16129,7 +16101,23 @@ nigh:
         - lat: -31.69563455
           lng: 148.29937453
       made: 16.606106 km
-- - - - '93'
+- - - - '89'
+      - Scott Barrett
+    - togo:
+        distance: 0.012394 km
+        flipSum:
+        - 0.012394 km
+        legs:
+        - 0.012394 km
+        legsSum:
+        - 0.012394 km
+        waypoints:
+        - lat: -32.935067
+          lng: 148.75115
+        - lat: -32.93517817
+          lng: 148.75114038
+      made: 174.490328 km
+  - - - '93'
       - Trent Brown
     - togo:
         distance: 1.955162 km
@@ -19632,14 +19620,6 @@ land:
       - ! 'Andy Phillips '
     - togo: 0.000000 km
       made: 141.153798 km
-  - - - '92'
-      - Hans Kiefinger
-    - togo: 0.070061 km
-      made: 141.083737 km
-  - - - '18'
-      - Jürgen Pasker
-    - togo: 0.191697 km
-      made: 140.962101 km
   - - - '94'
       - Mitch Shipley
     - togo: 1.586193 km
@@ -20120,18 +20100,10 @@ land:
       - Monique Pavy
     - togo: 216.950048 km
       made: 0.416029 km
-- - - - '95'
-      - Anton Struganov
-    - togo: 0.005740 km
-      made: 201.778366 km
-  - - - '1'
-      - Lukas Bader
-    - togo: 0.031169 km
-      made: 201.752937 km
-  - - - '93'
-      - Trent Brown
-    - togo: 0.054141 km
-      made: 201.729965 km
+- - - - '69'
+      - Jonathan Kinred
+    - togo: 0.006787 km
+      made: 201.777319 km
   - - - '103'
       - Roberto Nichele
     - togo: 3.439501 km
@@ -20320,7 +20292,11 @@ land:
       - Francesco Rinaldi
     - togo: 196.784106 km
       made: 5.000000 km
-- - - - '93'
+- - - - '89'
+      - Scott Barrett
+    - togo: 0.012394 km
+      made: 174.489934 km
+  - - - '93'
       - Trent Brown
     - togo: 2.036519 km
       made: 172.465809 km
@@ -21578,9 +21554,6 @@ altStopped:
   - - - '53'
       - Hadewych van Kempen
     - 274.000 m
-  - - - '92'
-      - Hans Kiefinger
-    - 396.000 m
   - - - '17'
       - John Urlich
     - 408.000 m
@@ -21590,9 +21563,6 @@ altStopped:
   - - - '46'
       - Jonathon Foote
     - 409.000 m
-  - - - '18'
-      - Jürgen Pasker
-    - 407.000 m
   - - - '32'
       - Kathryn O'Riordan
     - 364.000 m
@@ -21866,9 +21836,6 @@ altStopped:
   - - - '58'
       - Anna Belova
     - 321.000 m
-  - - - '95'
-      - Anton Struganov
-    - 245.000 m
   - - - '59'
       - Artur Dzamikhov
     - 1382.000 m
@@ -21914,6 +21881,9 @@ altStopped:
   - - - '34'
       - Jon snr Durand
     - 214.000 m
+  - - - '69'
+      - Jonathan Kinred
+    - 484.000 m
   - - - '46'
       - Jonathon Foote
     - 304.000 m
@@ -21929,9 +21899,6 @@ altStopped:
   - - - '77'
       - Len Paton
     - 215.000 m
-  - - - '1'
-      - Lukas Bader
-    - 266.000 m
   - - - '20'
       - ! 'Luke Browne '
     - 207.000 m
@@ -21989,9 +21956,6 @@ altStopped:
   - - - '86'
       - Talgat Irgaleev
     - 242.000 m
-  - - - '93'
-      - Trent Brown
-    - 240.000 m
   - - - '81'
       - Valentino Bau
     - 220.000 m
@@ -22211,6 +22175,9 @@ altStopped:
   - - - '3'
       - Rod Flockhart
     - 442.000 m
+  - - - '89'
+      - Scott Barrett
+    - 526.000 m
   - - - '7'
       - Shaun O'neill
     - 290.000 m

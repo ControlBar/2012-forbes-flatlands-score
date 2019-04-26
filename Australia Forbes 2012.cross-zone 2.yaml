@@ -1,0 +1,245 @@
+flying:
+- []
+- []
+- []
+- []
+- []
+- - - - '69'
+      - Jonathan Kinred
+    - loggedFixes: 2341
+      flyingFixes:
+      - 0
+      - 2340
+      scoredFixes:
+      - 0
+      - 2340
+      loggedSeconds: 18713
+      flyingSeconds:
+      - 0
+      - 18713
+      scoredSeconds:
+      - 0
+      - 18713
+      loggedTimes:
+      - 2012-01-12T02:59:00Z
+      - 2012-01-12T08:10:53Z
+      flyingTimes:
+      - 2012-01-12T02:59:00Z
+      - 2012-01-12T08:10:53Z
+      scoredTimes:
+      - 2012-01-12T02:59:00Z
+      - 2012-01-12T08:10:53Z
+- []
+- []
+crossing:
+- []
+- []
+- []
+- []
+- []
+- - - - '69'
+      - Jonathan Kinred
+    - zonesCrossSelected:
+      - null
+      - crossingPair:
+        - fix: 212
+          time: 2012-01-12T03:27:16Z
+          lat: -33.227809
+          lng: 147.950454
+        - fix: 213
+          time: 2012-01-12T03:27:24Z
+          lat: -33.226412
+          lng: 147.949615
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 1569
+          time: 2012-01-12T06:28:12Z
+          lat: -32.228259
+          lng: 147.799384
+        - fix: 1570
+          time: 2012-01-12T06:28:20Z
+          lat: -32.227237
+          lng: 147.798044
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 2336
+          time: 2012-01-12T08:10:21Z
+          lat: -31.692998
+          lng: 148.291912
+        - fix: 2337
+          time: 2012-01-12T08:10:29Z
+          lat: -31.692832
+          lng: 148.293221
+        inZone:
+        - false
+        - true
+      zonesCrossNominees:
+      - []
+      - - crossingPair:
+          - fix: 212
+            time: 2012-01-12T03:27:16Z
+            lat: -33.227809
+            lng: 147.950454
+          - fix: 213
+            time: 2012-01-12T03:27:24Z
+            lat: -33.226412
+            lng: 147.949615
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1569
+            time: 2012-01-12T06:28:12Z
+            lat: -32.228259
+            lng: 147.799384
+          - fix: 1570
+            time: 2012-01-12T06:28:20Z
+            lat: -32.227237
+            lng: 147.798044
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1580
+            time: 2012-01-12T06:29:40Z
+            lat: -32.219222
+            lng: 147.806253
+          - fix: 1581
+            time: 2012-01-12T06:29:48Z
+            lat: -32.218988
+            lng: 147.807277
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1581
+            time: 2012-01-12T06:29:48Z
+            lat: -32.218988
+            lng: 147.807277
+          - fix: 1582
+            time: 2012-01-12T06:29:56Z
+            lat: -32.218765
+            lng: 147.806714
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1584
+            time: 2012-01-12T06:30:12Z
+            lat: -32.216518
+            lng: 147.808268
+          - fix: 1585
+            time: 2012-01-12T06:30:20Z
+            lat: -32.216582
+            lng: 147.809347
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1586
+            time: 2012-01-12T06:30:28Z
+            lat: -32.216953
+            lng: 147.80908
+          - fix: 1587
+            time: 2012-01-12T06:30:36Z
+            lat: -32.216379
+            lng: 147.808367
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1588
+            time: 2012-01-12T06:30:44Z
+            lat: -32.215147
+            lng: 147.808957
+          - fix: 1589
+            time: 2012-01-12T06:30:52Z
+            lat: -32.214815
+            lng: 147.810076
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1590
+            time: 2012-01-12T06:31:00Z
+            lat: -32.215071
+            lng: 147.809927
+          - fix: 1591
+            time: 2012-01-12T06:31:08Z
+            lat: -32.213787
+            lng: 147.809637
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1593
+            time: 2012-01-12T06:31:24Z
+            lat: -32.211065
+            lng: 147.811554
+          - fix: 1594
+            time: 2012-01-12T06:31:32Z
+            lat: -32.209769
+            lng: 147.812709
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 2336
+            time: 2012-01-12T08:10:21Z
+            lat: -31.692998
+            lng: 148.291912
+          - fix: 2337
+            time: 2012-01-12T08:10:29Z
+            lat: -31.692832
+            lng: 148.293221
+          inZone:
+          - false
+          - true
+- []
+- []
+suspectDnf:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+trackLogError:
+- fileUnset: []
+  dirMissing: []
+  fileMissing: []
+  fileUnread: []
+- fileUnset: []
+  dirMissing: []
+  fileMissing: []
+  fileUnread: []
+- fileUnset: []
+  dirMissing: []
+  fileMissing: []
+  fileUnread: []
+- fileUnset: []
+  dirMissing: []
+  fileMissing: []
+  fileUnread: []
+- fileUnset: []
+  dirMissing: []
+  fileMissing: []
+  fileUnread: []
+- fileUnset: []
+  dirMissing: []
+  fileMissing: []
+  fileUnread: []
+- fileUnset: []
+  dirMissing: []
+  fileMissing: []
+  fileUnread: []
+- fileUnset: []
+  dirMissing: []
+  fileMissing: []
+  fileUnread: []

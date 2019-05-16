@@ -1,3 +1,12 @@
+suspectDnf:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 flying:
 - - - - '106'
       - Adam Parer
@@ -23637,17 +23646,17 @@ crossing:
     - zonesCrossSelected:
       - null
       - crossingPair:
-        - fix: 116
-          time: 2012-01-05T04:23:58Z
-          lat: -33.312983
-          lng: 148.0234
-        - fix: 117
-          time: 2012-01-05T04:24:18Z
-          lat: -33.3136
-          lng: 148.02215
+        - fix: 112
+          time: 2012-01-05T04:22:38Z
+          lat: -33.31315
+          lng: 148.022783
+        - fix: 113
+          time: 2012-01-05T04:22:58Z
+          lat: -33.3129
+          lng: 148.0233
         inZone:
-        - false
         - true
+        - false
       - null
       - null
       - null
@@ -72232,17 +72241,17 @@ crossing:
     - zonesCrossSelected:
       - null
       - crossingPair:
-        - fix: 1461
-          time: 2012-01-10T03:56:40Z
-          lat: -33.246433
-          lng: 148.0176
-        - fix: 1462
-          time: 2012-01-10T03:56:44Z
-          lat: -33.247
-          lng: 148.017617
+        - fix: 1391
+          time: 2012-01-10T03:51:59Z
+          lat: -33.24565
+          lng: 148.01345
+        - fix: 1392
+          time: 2012-01-10T03:52:03Z
+          lat: -33.244917
+          lng: 148.013683
         inZone:
-        - false
         - true
+        - false
       - null
       - null
       zonesCrossNominees:
@@ -115948,15 +115957,6 @@ crossing:
           inZone:
           - false
           - true
-suspectDnf:
-- []
-- []
-- []
-- []
-- []
-- []
-- []
-- []
 trackLogError:
 - fileUnset:
   - - '58'

@@ -19,7 +19,7 @@ nominal:
   launch: 0.96
   goal: 0.2
   distance: 80.0 km
-  free: 5.0 km
+  free: 5.000 km
   time: 2.000000 h
 compTweak:
   arrivalWeightScaling: null

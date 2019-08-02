@@ -2,588 +2,103 @@
   <FsCompetition id="7592" name="2012 Hang Gliding Pre-World Forbes" location="Forbes, Australia" from="2012-01-05" to="2012-01-14" utc_offset="11">
     <FsScoreFormula id="GAP2011" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2"/>
     <FsParticipants>
-      <FsParticipant id="1" name="Lukas Bader">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="117"/>
-          <FsCustomAttribute name="Team" value="Fiona&apos;s Team"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="2" name="Pablo Gomes">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="999"/>
-          <FsCustomAttribute name="Team" value="Talento"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="3" name="Rod Flockhart">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="88"/>
-          <FsCustomAttribute name="Team" value="Team Hangar Door"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="5" name="Wolfgang Siess">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Warren Windsports"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="6" name="Phil Schroder">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Brian&apos;s team"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="7" name="Shaun O&apos;neill">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Holokynkolokyn"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="8" name="Primoz Gricar">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Esther"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="10" name="Marat Matnurov">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Russia 1"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="11" name="Steve Blenkinsop">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="AKSTC"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="12" name="Glen Mcfarlane">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Mongolians"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="13" name="John Smith">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Team Jesus"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="14" name="Olav Lien Olsen">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Locals"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="15" name="Jean Souviron ">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="French Team"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="16" name="Grant Edward">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Mel&apos;s Taxi"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="17" name="John Urlich">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Team Casual"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="18" name="Jürgen Pasker">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Talento"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="19" name="Mikhail Karmazin">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Russia 2"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="20" name="Luke Browne ">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Richard&apos;s Team"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="21" name="Gavin Myers">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Mongolians"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="22" name="Mark Russell">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Manilla"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="23" name="Gerolf Heinrichs">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Fiona&apos;s Team"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="24" name="Christian Baertschi">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Esther"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="25" name="Nick Purcell">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Team Hangar Door"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="26" name="Guy Hubbard">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Locals"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="27" name="Boris Marold ">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Team Casual"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="28" name="Evgeniya Laritskaya">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Fiona&apos;s Team"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="29" name="Konstantin Lukyanov">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Russia 2"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="30" name="Fredy Bircher">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Ashanta"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="31" name="Andrew Barnes">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Dusty Demons"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="32" name="Kathryn O&apos;Riordan">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="AKSTC"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="33" name="Conrad Loten">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Team Kiwi"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="34" name="Jon snr Durand">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="TATS"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="35" name="Carole Tobler">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Italy"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="36" name="Franz Herrmann">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Esther"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="37" name="Peter Ebeling">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Brian&apos;s team"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="40" name="Phil de Joux">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Manilla"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="41" name="Curt Warren">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Warren Windsports"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="42" name="Suan Selenati">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Italy"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="43" name="Les Bestt">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Brian&apos;s team"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="44" name="Francoise Dieuzeide-banet">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="French Team"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="45" name="Roland Wöhrle">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Time Zone"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="46" name="Jonathon Foote">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Team Casual"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="47" name="Miguel De Jong ">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Mongolians"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="48" name="Paolo Rosichetti">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Italy"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="49" name="Tony Giammichele">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="AKSTC"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="50" name="Monique Pavy">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="French 2"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="51" name="Rob In &apos;t Groen">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Dusty Demons"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="52" name="Virpi Nieminen">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Holokynkolokyn"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="53" name="Hadewych van Kempen">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Team Camo"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="55" name="Kari Suhonen">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Holokynkolokyn"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="56" name="Cameron Tunbridge">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Team Camo"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="57" name="Julia Kucherenko">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Russia 1"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="58" name="Anna Belova">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Russia 2"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="59" name="Artur Dzamikhov">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Russia 1"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="60" name="Rohan Holtkamp">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Mel&apos;s Taxi"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="61" name="Jonny Durand">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="TATS"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="62" name="Enda Murphy">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="TATS"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="64" name="Gustavo Carvalho">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Talento"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="65" name="Davis Straub">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Davis Straub"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="66" name="Jonas Lobitz">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Warren Windsports"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="67" name="Andy Phillips ">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Richard&apos;s Team"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="68" name="Grant Heaney">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Heaney Family"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="69" name="Jonathan Kinred">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Richard&apos;s Team"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="70" name="Matthew Barlow">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Team Hangar Door"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="71" name="Edoardo Giudiceandrea">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Italy"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="72" name="Tove Heaney">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Heaney Family"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="73" name="Gijs Wanders">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Foxcy"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="75" name="Joerg Bajewski">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Time Zone"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="76" name="Dmitriy Korchenkov">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Russia 2"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="77" name="Len Paton">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Locals"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="78" name="Christine Aichner">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Team Camo"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="79" name="David Stevens">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Locals"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="81" name="Valentino Bau">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Italy"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="82" name="Alain Le-gac">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="French Team"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="83" name="Peter Dall">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Dusty Demons"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="84" name="Yasuhiro Noma">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Team Hangar Door"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="85" name="Neil Petersen">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Foxcy"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="86" name="Talgat Irgaleev">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Russia 1"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="87" name="Corinna Schwiegershausen">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="AKSTC"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="88" name="Martin Sielaff">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Team Casual"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="89" name="Scott Barrett">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Mel&apos;s Taxi"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="90" name="Adam Stevens">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Mongolians"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="91" name="Francesco Rinaldi">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Rinaldi"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="92" name="Hans Kiefinger">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Team Camo"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="93" name="Trent Brown">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Dusty Demons"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="94" name="Mitch Shipley">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Ashanta"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="95" name="Anton Struganov">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Russia 1"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="96" name="Brodrick Osborne">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Mongolians"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="97" name="Konrad Schwab">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Time Zone"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="98" name="Patrick Collin">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="French 2"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="99" name="Tullio Gervasoni">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Mel&apos;s Taxi"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="100" name="Attila Bertok">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Fiona&apos;s Team"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="101" name="Andrew Luton ">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value="A-Grade"/>
-          <FsCustomAttribute name="Team" value="Tea Bags"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="102" name="Davide Guiducci">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Italy"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="103" name="Roberto Nichele">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Holokynkolokyn"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="105" name="Chris Lawry">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Team Kiwi"/>
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="106" name="Adam Parer">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="Grade" value=""/>
-          <FsCustomAttribute name="Team" value="Brian&apos;s team"/>
-        </FsCustomAttributes>
-      </FsParticipant>
+      <FsParticipant id="1" name="Lukas Bader"/>
+      <FsParticipant id="2" name="Pablo Gomes"/>
+      <FsParticipant id="3" name="Rod Flockhart"/>
+      <FsParticipant id="5" name="Wolfgang Siess"/>
+      <FsParticipant id="6" name="Phil Schroder"/>
+      <FsParticipant id="7" name="Shaun O&apos;neill"/>
+      <FsParticipant id="8" name="Primoz Gricar"/>
+      <FsParticipant id="10" name="Marat Matnurov"/>
+      <FsParticipant id="11" name="Steve Blenkinsop"/>
+      <FsParticipant id="12" name="Glen Mcfarlane"/>
+      <FsParticipant id="13" name="John Smith"/>
+      <FsParticipant id="14" name="Olav Lien Olsen"/>
+      <FsParticipant id="15" name="Jean Souviron "/>
+      <FsParticipant id="16" name="Grant Edward"/>
+      <FsParticipant id="17" name="John Urlich"/>
+      <FsParticipant id="18" name="Jürgen Pasker"/>
+      <FsParticipant id="19" name="Mikhail Karmazin"/>
+      <FsParticipant id="20" name="Luke Browne "/>
+      <FsParticipant id="21" name="Gavin Myers"/>
+      <FsParticipant id="22" name="Mark Russell"/>
+      <FsParticipant id="23" name="Gerolf Heinrichs"/>
+      <FsParticipant id="24" name="Christian Baertschi"/>
+      <FsParticipant id="25" name="Nick Purcell"/>
+      <FsParticipant id="26" name="Guy Hubbard"/>
+      <FsParticipant id="27" name="Boris Marold "/>
+      <FsParticipant id="28" name="Evgeniya Laritskaya"/>
+      <FsParticipant id="29" name="Konstantin Lukyanov"/>
+      <FsParticipant id="30" name="Fredy Bircher"/>
+      <FsParticipant id="31" name="Andrew Barnes"/>
+      <FsParticipant id="32" name="Kathryn O&apos;Riordan"/>
+      <FsParticipant id="33" name="Conrad Loten"/>
+      <FsParticipant id="34" name="Jon snr Durand"/>
+      <FsParticipant id="35" name="Carole Tobler"/>
+      <FsParticipant id="36" name="Franz Herrmann"/>
+      <FsParticipant id="37" name="Peter Ebeling"/>
+      <FsParticipant id="40" name="Phil de Joux"/>
+      <FsParticipant id="41" name="Curt Warren"/>
+      <FsParticipant id="42" name="Suan Selenati"/>
+      <FsParticipant id="43" name="Les Bestt"/>
+      <FsParticipant id="44" name="Francoise Dieuzeide-banet"/>
+      <FsParticipant id="45" name="Roland Wöhrle"/>
+      <FsParticipant id="46" name="Jonathon Foote"/>
+      <FsParticipant id="47" name="Miguel De Jong "/>
+      <FsParticipant id="48" name="Paolo Rosichetti"/>
+      <FsParticipant id="49" name="Tony Giammichele"/>
+      <FsParticipant id="50" name="Monique Pavy"/>
+      <FsParticipant id="51" name="Rob In &apos;t Groen"/>
+      <FsParticipant id="52" name="Virpi Nieminen"/>
+      <FsParticipant id="53" name="Hadewych van Kempen"/>
+      <FsParticipant id="55" name="Kari Suhonen"/>
+      <FsParticipant id="56" name="Cameron Tunbridge"/>
+      <FsParticipant id="57" name="Julia Kucherenko"/>
+      <FsParticipant id="58" name="Anna Belova"/>
+      <FsParticipant id="59" name="Artur Dzamikhov"/>
+      <FsParticipant id="60" name="Rohan Holtkamp"/>
+      <FsParticipant id="61" name="Jonny Durand"/>
+      <FsParticipant id="62" name="Enda Murphy"/>
+      <FsParticipant id="64" name="Gustavo Carvalho"/>
+      <FsParticipant id="65" name="Davis Straub"/>
+      <FsParticipant id="66" name="Jonas Lobitz"/>
+      <FsParticipant id="67" name="Andy Phillips "/>
+      <FsParticipant id="68" name="Grant Heaney"/>
+      <FsParticipant id="69" name="Jonathan Kinred"/>
+      <FsParticipant id="70" name="Matthew Barlow"/>
+      <FsParticipant id="71" name="Edoardo Giudiceandrea"/>
+      <FsParticipant id="72" name="Tove Heaney"/>
+      <FsParticipant id="73" name="Gijs Wanders"/>
+      <FsParticipant id="75" name="Joerg Bajewski"/>
+      <FsParticipant id="76" name="Dmitriy Korchenkov"/>
+      <FsParticipant id="77" name="Len Paton"/>
+      <FsParticipant id="78" name="Christine Aichner"/>
+      <FsParticipant id="79" name="David Stevens"/>
+      <FsParticipant id="81" name="Valentino Bau"/>
+      <FsParticipant id="82" name="Alain Le-gac"/>
+      <FsParticipant id="83" name="Peter Dall"/>
+      <FsParticipant id="84" name="Yasuhiro Noma"/>
+      <FsParticipant id="85" name="Neil Petersen"/>
+      <FsParticipant id="86" name="Talgat Irgaleev"/>
+      <FsParticipant id="87" name="Corinna Schwiegershausen"/>
+      <FsParticipant id="88" name="Martin Sielaff"/>
+      <FsParticipant id="89" name="Scott Barrett"/>
+      <FsParticipant id="90" name="Adam Stevens"/>
+      <FsParticipant id="91" name="Francesco Rinaldi"/>
+      <FsParticipant id="92" name="Hans Kiefinger"/>
+      <FsParticipant id="93" name="Trent Brown"/>
+      <FsParticipant id="94" name="Mitch Shipley"/>
+      <FsParticipant id="95" name="Anton Struganov"/>
+      <FsParticipant id="96" name="Brodrick Osborne"/>
+      <FsParticipant id="97" name="Konrad Schwab"/>
+      <FsParticipant id="98" name="Patrick Collin"/>
+      <FsParticipant id="99" name="Tullio Gervasoni"/>
+      <FsParticipant id="100" name="Attila Bertok"/>
+      <FsParticipant id="101" name="Andrew Luton "/>
+      <FsParticipant id="102" name="Davide Guiducci"/>
+      <FsParticipant id="103" name="Roberto Nichele"/>
+      <FsParticipant id="105" name="Chris Lawry"/>
+      <FsParticipant id="106" name="Adam Parer"/>
     </FsParticipants>
     <FsTasks>
       <FsTask id="2" name="Day 1" tracklog_folder="Tracklogs\day 1">

@@ -1,6 +1,4 @@
-#!/bin/sh
-
-#set +v
+#!/bin/sh -x
 
 COMP="--file=Australia Forbes 2012"
 
@@ -10,6 +8,7 @@ fs-effort "$COMP"
 fs-score "$COMP"
 
 extract-input "$COMP" --give-fraction=0.005 --haversines
+task-length "$COMP"
 cross-zone "$COMP"
 tag-zone "$COMP"
 peg-frame "$COMP"

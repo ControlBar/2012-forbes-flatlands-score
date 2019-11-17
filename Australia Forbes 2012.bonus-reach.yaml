@@ -1,53 +1,53 @@
 bolster:
 - max: 124.023879 km
-  mean: 37.538267 km
-  stdDev: 29.697240 km
+  mean: 37.538309 km
+  stdDev: 29.697228 km
 - max: 128.283964 km
-  mean: 103.433656 km
-  stdDev: 32.790405 km
+  mean: 103.433667 km
+  stdDev: 32.790374 km
 - max: 183.858238 km
-  mean: 128.441587 km
-  stdDev: 65.830670 km
+  mean: 128.441597 km
+  stdDev: 65.830671 km
 - max: 141.153798 km
-  mean: 95.357713 km
-  stdDev: 49.795674 km
+  mean: 95.357931 km
+  stdDev: 49.795443 km
 - max: 217.366077 km
-  mean: 133.781324 km
-  stdDev: 77.407318 km
+  mean: 133.781421 km
+  stdDev: 77.407197 km
 - max: 201.784106 km
-  mean: 152.304062 km
-  stdDev: 63.621501 km
+  mean: 152.304190 km
+  stdDev: 63.621446 km
 - max: 174.502328 km
-  mean: 111.412223 km
-  stdDev: 60.834625 km
+  mean: 111.412354 km
+  stdDev: 60.834484 km
 - max: 158.864751 km
-  mean: 108.115457 km
-  stdDev: 56.969356 km
+  mean: 108.115512 km
+  stdDev: 56.969284 km
 reach:
 - max: 124.023879 km
-  mean: 37.073819 km
-  stdDev: 30.237482 km
+  mean: 37.073862 km
+  stdDev: 30.237471 km
 - max: 128.283964 km
-  mean: 103.423102 km
-  stdDev: 32.822229 km
+  mean: 103.423113 km
+  stdDev: 32.822198 km
 - max: 183.858238 km
-  mean: 128.191436 km
-  stdDev: 66.306762 km
+  mean: 128.191447 km
+  stdDev: 66.306763 km
 - max: 141.153798 km
-  mean: 95.077006 km
-  stdDev: 50.315128 km
+  mean: 95.077224 km
+  stdDev: 50.314901 km
 - max: 217.366077 km
-  mean: 133.585912 km
-  stdDev: 77.737216 km
+  mean: 133.586010 km
+  stdDev: 77.737096 km
 - max: 201.784106 km
-  mean: 152.250871 km
-  stdDev: 63.746602 km
+  mean: 152.250998 km
+  stdDev: 63.746547 km
 - max: 174.502328 km
-  mean: 111.154850 km
-  stdDev: 61.292630 km
+  mean: 111.155013 km
+  stdDev: 61.292431 km
 - max: 158.864751 km
-  mean: 107.686542 km
-  stdDev: 57.757209 km
+  mean: 107.686596 km
+  stdDev: 57.757139 km
 reachRank:
 - - - - '41'
       - Curt Warren
@@ -143,8 +143,8 @@ reachRank:
       reach: 46.717879 km
   - - - '49'
       - Tony Giammichele
-    - frac: 0.36985522
-      reach: 45.870879 km
+    - frac: 0.36986328
+      reach: 45.871879 km
   - - - '66'
       - Jonas Lobitz
     - frac: 0.35264079
@@ -159,8 +159,8 @@ reachRank:
       reach: 41.769879 km
   - - - '70'
       - Matthew Barlow
-    - frac: 0.32695219
-      reach: 40.549879 km
+    - frac: 0.32696025
+      reach: 40.550879 km
   - - - '102'
       - Davide Guiducci
     - frac: 0.32647648
@@ -311,8 +311,8 @@ reachRank:
       reach: 19.356879 km
   - - - '105'
       - Chris Lawry
-    - frac: 0.14672883
-      reach: 18.197879 km
+    - frac: 0.1467369
+      reach: 18.198879 km
   - - - '27'
       - ! 'Boris Marold '
     - frac: 0.13232032
@@ -331,8 +331,8 @@ reachRank:
       reach: 13.582879 km
   - - - '22'
       - Mark Russell
-    - frac: 9.668202e-2
-      reach: 11.990879 km
+    - frac: 9.669008e-2
+      reach: 11.991879 km
   - - - '98'
       - Patrick Collin
     - frac: 9.236833e-2
@@ -559,8 +559,8 @@ reachRank:
       reach: 128.253964 km
   - - - '12'
       - Glen Mcfarlane
-    - frac: 0.99840198
-      reach: 128.078964 km
+    - frac: 0.99839419
+      reach: 128.077964 km
   - - - '47'
       - ! 'Miguel De Jong '
     - frac: 0.99264912
@@ -619,8 +619,8 @@ reachRank:
       reach: 116.671964 km
   - - - '69'
       - Jonathan Kinred
-    - frac: 0.90062671
-      reach: 115.535964 km
+    - frac: 0.9006345
+      reach: 115.536964 km
   - - - '51'
       - Rob In 't Groen
     - frac: 0.89419566
@@ -787,8 +787,8 @@ reachRank:
       reach: 21.188964 km
   - - - '58'
       - Anna Belova
-    - frac: 0.15882705
-      reach: 20.374964 km
+    - frac: 0.15883485
+      reach: 20.375964 km
   - - - '53'
       - Hadewych van Kempen
     - frac: 0.13336791
@@ -1035,8 +1035,8 @@ reachRank:
       reach: 133.525238 km
   - - - '40'
       - Phil de Joux
-    - frac: 0.72014308
-      reach: 132.404238 km
+    - frac: 0.72014852
+      reach: 132.405238 km
   - - - '2'
       - Pablo Gomes
     - frac: 0.70569173
@@ -1483,12 +1483,12 @@ reachRank:
       reach: 45.813798 km
   - - - '17'
       - John Urlich
-    - frac: 0.31250167
-      reach: 44.110798 km
+    - frac: 0.3125796
+      reach: 44.121798 km
   - - - '27'
       - ! 'Boris Marold '
-    - frac: 0.31249459
-      reach: 44.109798 km
+    - frac: 0.31254418
+      reach: 44.116798 km
   - - - '20'
       - ! 'Luke Browne '
     - frac: 0.29336652
@@ -1499,16 +1499,16 @@ reachRank:
       reach: 33.948798 km
   - - - '76'
       - Dmitriy Korchenkov
-    - frac: 0.21730055
-      reach: 30.672798 km
+    - frac: 0.21730763
+      reach: 30.673798 km
   - - - '64'
       - Gustavo Carvalho
     - frac: 0.18370599
       reach: 25.930798 km
   - - - '40'
       - Phil de Joux
-    - frac: 0.18002206
-      reach: 25.410798 km
+    - frac: 0.18002915
+      reach: 25.411798 km
   - - - '2'
       - Pablo Gomes
     - frac: 0.17045094
@@ -1791,8 +1791,8 @@ reachRank:
       reach: 88.303077 km
   - - - '67'
       - ! 'Andy Phillips '
-    - frac: 0.37013171
-      reach: 80.454077 km
+    - frac: 0.37013631
+      reach: 80.455077 km
   - - - '18'
       - Jürgen Pasker
     - frac: 0.35635771
@@ -1807,8 +1807,8 @@ reachRank:
       reach: 73.570077 km
   - - - '101'
       - ! 'Andrew Luton '
-    - frac: 0.33836502
-      reach: 73.549077 km
+    - frac: 0.33836962
+      reach: 73.550077 km
   - - - '16'
       - Grant Edward
     - frac: 0.33005646
@@ -1851,16 +1851,16 @@ reachRank:
       reach: 53.338077 km
   - - - '44'
       - Francoise Dieuzeide-banet
-    - frac: 0.23948114
-      reach: 52.055077 km
+    - frac: 0.23948575
+      reach: 52.056077 km
   - - - '64'
       - Gustavo Carvalho
     - frac: 0.22547252
       reach: 49.010077 km
   - - - '19'
       - Mikhail Karmazin
-    - frac: 0.2046321
-      reach: 44.480077 km
+    - frac: 0.2046367
+      reach: 44.481077 km
   - - - '81'
       - Valentino Bau
     - frac: 0.20456309
@@ -1871,8 +1871,8 @@ reachRank:
       reach: 38.591077 km
   - - - '52'
       - Virpi Nieminen
-    - frac: 0.13870645
-      reach: 30.150077 km
+    - frac: 0.13871105
+      reach: 30.151077 km
   - - - '28'
       - Evgeniya Laritskaya
     - frac: 0.12291742
@@ -1883,28 +1883,28 @@ reachRank:
       reach: 22.926077 km
   - - - '27'
       - ! 'Boris Marold '
-    - frac: 0.10030119
-      reach: 21.802077 km
+    - frac: 0.10030579
+      reach: 21.803077 km
   - - - '82'
       - Alain Le-gac
     - frac: 9.110933e-2
       reach: 19.804077 km
   - - - '47'
       - ! 'Miguel De Jong '
-    - frac: 7.859127e-2
-      reach: 17.083077 km
+    - frac: 7.859587e-2
+      reach: 17.084077 km
   - - - '105'
       - Chris Lawry
     - frac: 7.515928e-2
       reach: 16.337077 km
   - - - '70'
       - Matthew Barlow
-    - frac: 7.35997e-2
-      reach: 15.998077 km
+    - frac: 7.36043e-2
+      reach: 15.999077 km
   - - - '97'
       - Konrad Schwab
-    - frac: 4.802073e-2
-      reach: 10.438077 km
+    - frac: 4.802533e-2
+      reach: 10.439077 km
   - - - '58'
       - Anna Belova
     - frac: 3.262274e-2
@@ -2111,8 +2111,8 @@ reachRank:
       reach: 201.784106 km
   - - - '69'
       - Jonathan Kinred
-    - frac: 0.99996531
-      reach: 201.777106 km
+    - frac: 0.99998513
+      reach: 201.781106 km
   - - - '103'
       - Roberto Nichele
     - frac: 0.98435457
@@ -2179,12 +2179,12 @@ reachRank:
       reach: 133.426106 km
   - - - '83'
       - Peter Dall
-    - frac: 0.64035324
-      reach: 129.213106 km
+    - frac: 0.64037306
+      reach: 129.217106 km
   - - - '67'
       - ! 'Andy Phillips '
-    - frac: 0.62176902
-      reach: 125.463106 km
+    - frac: 0.62176407
+      reach: 125.462106 km
   - - - '34'
       - Jon snr Durand
     - frac: 0.60930025
@@ -2227,12 +2227,12 @@ reachRank:
       reach: 89.684106 km
   - - - '97'
       - Konrad Schwab
-    - frac: 0.42890943
-      reach: 86.547106 km
+    - frac: 0.42891439
+      reach: 86.548106 km
   - - - '23'
       - Gerolf Heinrichs
-    - frac: 0.34801604
-      reach: 70.224106 km
+    - frac: 0.348021
+      reach: 70.225106 km
   - - - '32'
       - Kathryn O'Riordan
     - frac: 0.34017598
@@ -2247,8 +2247,8 @@ reachRank:
       reach: 61.398106 km
   - - - '70'
       - Matthew Barlow
-    - frac: 0.2927441
-      reach: 59.071106 km
+    - frac: 0.29274905
+      reach: 59.072106 km
   - - - '79'
       - David Stevens
     - frac: 0.28588528
@@ -2271,12 +2271,12 @@ reachRank:
       reach: 47.832106 km
   - - - '58'
       - Anna Belova
-    - frac: 0.21852121
-      reach: 44.094106 km
+    - frac: 0.21852616
+      reach: 44.095106 km
   - - - '37'
       - Peter Ebeling
-    - frac: 0.19390579
-      reach: 39.127106 km
+    - frac: 0.19391074
+      reach: 39.128106 km
   - - - '46'
       - Jonathon Foote
     - frac: 0.15315431
@@ -2331,8 +2331,8 @@ reachRank:
       reach: 174.502328 km
   - - - '89'
       - Scott Barrett
-    - frac: 0.99993123
-      reach: 174.490328 km
+    - frac: 0.99993696
+      reach: 174.491328 km
   - - - '93'
       - Trent Brown
     - frac: 0.98879671
@@ -2571,12 +2571,12 @@ reachRank:
       reach: 53.139328 km
   - - - '2'
       - Pablo Gomes
-    - frac: 0.29811252
-      reach: 52.021328 km
+    - frac: 0.29812398
+      reach: 52.023328 km
   - - - '42'
       - Suan Selenati
-    - frac: 0.29073153
-      reach: 50.733328 km
+    - frac: 0.29074299
+      reach: 50.735328 km
   - - - '83'
       - Peter Dall
     - frac: 0.2760555
@@ -2587,8 +2587,8 @@ reachRank:
       reach: 44.489328 km
   - - - '64'
       - Gustavo Carvalho
-    - frac: 0.23827377
-      reach: 41.579328 km
+    - frac: 0.2382795
+      reach: 41.580328 km
   - - - '105'
       - Chris Lawry
     - frac: 0.22480117
@@ -2603,8 +2603,8 @@ reachRank:
       reach: 34.135328 km
   - - - '98'
       - Patrick Collin
-    - frac: 0.18507104
-      reach: 32.295328 km
+    - frac: 0.18507677
+      reach: 32.296328 km
   - - - '82'
       - Alain Le-gac
     - frac: 0.17483049
@@ -2615,16 +2615,16 @@ reachRank:
       reach: 26.362328 km
   - - - '58'
       - Anna Belova
-    - frac: 0.12399449
-      reach: 21.637328 km
+    - frac: 0.12400023
+      reach: 21.638328 km
   - - - '17'
       - John Urlich
-    - frac: 0.1182811
-      reach: 20.640328 km
+    - frac: 0.11828683
+      reach: 20.641328 km
   - - - '53'
       - Hadewych van Kempen
-    - frac: 0.11221242
-      reach: 19.581328 km
+    - frac: 0.11221815
+      reach: 19.582328 km
   - - - '40'
       - Phil de Joux
     - frac: 0.10665948
@@ -2635,8 +2635,8 @@ reachRank:
       reach: 18.571328 km
   - - - '76'
       - Dmitriy Korchenkov
-    - frac: 0.1034217
-      reach: 18.047328 km
+    - frac: 0.10342743
+      reach: 18.048328 km
   - - - '88'
       - Martin Sielaff
     - frac: 8.686032e-2
@@ -2647,16 +2647,16 @@ reachRank:
       reach: 15.001328 km
   - - - '52'
       - Virpi Nieminen
-    - frac: 7.810399e-2
-      reach: 13.629328 km
+    - frac: 7.810972e-2
+      reach: 13.630328 km
   - - - '50'
       - Monique Pavy
-    - frac: 5.14221e-3
-      reach: 0.897328 km
+    - frac: 5.15367e-3
+      reach: 0.899328 km
   - - - '86'
       - Talgat Irgaleev
-    - frac: 2.43165e-3
-      reach: 0.424328 km
+    - frac: 2.43738e-3
+      reach: 0.425328 km
   - - - '62'
       - Enda Murphy
     - frac: 0
@@ -2983,12 +2983,12 @@ reachRank:
       reach: 51.823751 km
   - - - '52'
       - Virpi Nieminen
-    - frac: 0.3166892
-      reach: 50.310751 km
+    - frac: 0.3166955
+      reach: 50.311751 km
   - - - '40'
       - Phil de Joux
-    - frac: 0.29008166
-      reach: 46.083751 km
+    - frac: 0.29008796
+      reach: 46.084751 km
   - - - '53'
       - Hadewych van Kempen
     - frac: 0.22457311
@@ -2999,16 +2999,16 @@ reachRank:
       reach: 25.447751 km
   - - - '88'
       - Martin Sielaff
-    - frac: 0.15020167
-      reach: 23.861751 km
+    - frac: 0.15021426
+      reach: 23.863751 km
   - - - '17'
       - John Urlich
     - frac: 0.14065896
       reach: 22.345751 km
   - - - '85'
       - Neil Petersen
-    - frac: 0.13473568
-      reach: 21.404751 km
+    - frac: 0.13474198
+      reach: 21.405751 km
   - - - '46'
       - Jonathon Foote
     - frac: 0.10875132
@@ -3239,12 +3239,12 @@ nigh:
   - - - '49'
       - Tony Giammichele
     - togo:
-        distance: 87.491000 km
+        distance: 87.490000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 45.870879 km
+      made: 45.871879 km
   - - - '66'
       - Jonas Lobitz
     - togo:
@@ -3266,12 +3266,12 @@ nigh:
   - - - '70'
       - Matthew Barlow
     - togo:
-        distance: 92.812000 km
+        distance: 92.811000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 40.549879 km
+      made: 40.550879 km
   - - - '102'
       - Davide Guiducci
     - togo:
@@ -3617,12 +3617,12 @@ nigh:
   - - - '105'
       - Chris Lawry
     - togo:
-        distance: 115.164000 km
+        distance: 115.163000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 18.197879 km
+      made: 18.198879 km
   - - - '5'
       - Wolfgang Siess
     - togo:
@@ -3671,12 +3671,12 @@ nigh:
   - - - '22'
       - Mark Russell
     - togo:
-        distance: 121.371000 km
+        distance: 121.370000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 11.990879 km
+      made: 11.991879 km
   - - - '98'
       - Patrick Collin
     - togo:
@@ -3869,12 +3869,12 @@ nigh:
   - - - '12'
       - Glen Mcfarlane
     - togo:
-        distance: 0.205000 km
+        distance: 0.206000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 128.078964 km
+      made: 128.077964 km
   - - - '47'
       - ! 'Miguel De Jong '
     - togo:
@@ -4004,12 +4004,12 @@ nigh:
   - - - '69'
       - Jonathan Kinred
     - togo:
-        distance: 12.748000 km
+        distance: 12.747000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 115.535964 km
+      made: 115.536964 km
   - - - '61'
       - Jonny Durand
     - togo:
@@ -4364,12 +4364,12 @@ nigh:
   - - - '58'
       - Anna Belova
     - togo:
-        distance: 107.909000 km
+        distance: 107.908000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 20.374964 km
+      made: 20.375964 km
   - - - '70'
       - Matthew Barlow
     - togo:
@@ -4490,12 +4490,12 @@ nigh:
   - - - '40'
       - Phil de Joux
     - togo:
-        distance: 51.454000 km
+        distance: 51.453000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 132.404238 km
+      made: 132.405238 km
   - - - '2'
       - Pablo Gomes
     - togo:
@@ -5156,12 +5156,12 @@ nigh:
   - - - '17'
       - John Urlich
     - togo:
-        distance: 97.043000 km
+        distance: 97.032000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 44.110798 km
+      made: 44.121798 km
   - - - '20'
       - ! 'Luke Browne '
     - togo:
@@ -5174,12 +5174,12 @@ nigh:
   - - - '27'
       - ! 'Boris Marold '
     - togo:
-        distance: 97.044000 km
+        distance: 97.037000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 44.109798 km
+      made: 44.116798 km
   - - - '97'
       - Konrad Schwab
     - togo:
@@ -5192,12 +5192,12 @@ nigh:
   - - - '76'
       - Dmitriy Korchenkov
     - togo:
-        distance: 110.481000 km
+        distance: 110.480000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 30.672798 km
+      made: 30.673798 km
   - - - '64'
       - Gustavo Carvalho
     - togo:
@@ -5210,12 +5210,12 @@ nigh:
   - - - '40'
       - Phil de Joux
     - togo:
-        distance: 115.743000 km
+        distance: 115.742000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 25.410798 km
+      made: 25.411798 km
   - - - '2'
       - Pablo Gomes
     - togo:
@@ -5561,12 +5561,12 @@ nigh:
   - - - '67'
       - ! 'Andy Phillips '
     - togo:
-        distance: 136.912000 km
+        distance: 136.911000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 80.454077 km
+      made: 80.455077 km
   - - - '18'
       - Jürgen Pasker
     - togo:
@@ -5597,12 +5597,12 @@ nigh:
   - - - '101'
       - ! 'Andrew Luton '
     - togo:
-        distance: 143.817000 km
+        distance: 143.816000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 73.549077 km
+      made: 73.550077 km
   - - - '16'
       - Grant Edward
     - togo:
@@ -5705,12 +5705,12 @@ nigh:
   - - - '44'
       - Francoise Dieuzeide-banet
     - togo:
-        distance: 165.311000 km
+        distance: 165.310000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 52.055077 km
+      made: 52.056077 km
   - - - '64'
       - Gustavo Carvalho
     - togo:
@@ -5732,12 +5732,12 @@ nigh:
   - - - '19'
       - Mikhail Karmazin
     - togo:
-        distance: 172.886000 km
+        distance: 172.885000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 44.480077 km
+      made: 44.481077 km
   - - - '17'
       - John Urlich
     - togo:
@@ -5750,12 +5750,12 @@ nigh:
   - - - '52'
       - Virpi Nieminen
     - togo:
-        distance: 187.216000 km
+        distance: 187.215000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 30.150077 km
+      made: 30.151077 km
   - - - '28'
       - Evgeniya Laritskaya
     - togo:
@@ -5777,12 +5777,12 @@ nigh:
   - - - '27'
       - ! 'Boris Marold '
     - togo:
-        distance: 195.564000 km
+        distance: 195.563000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 21.802077 km
+      made: 21.803077 km
   - - - '82'
       - Alain Le-gac
     - togo:
@@ -5795,12 +5795,12 @@ nigh:
   - - - '47'
       - ! 'Miguel De Jong '
     - togo:
-        distance: 200.283000 km
+        distance: 200.282000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 17.083077 km
+      made: 17.084077 km
   - - - '105'
       - Chris Lawry
     - togo:
@@ -5813,21 +5813,21 @@ nigh:
   - - - '70'
       - Matthew Barlow
     - togo:
-        distance: 201.368000 km
+        distance: 201.367000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 15.998077 km
+      made: 15.999077 km
   - - - '97'
       - Konrad Schwab
     - togo:
-        distance: 206.928000 km
+        distance: 206.927000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 10.438077 km
+      made: 10.439077 km
   - - - '58'
       - Anna Belova
     - togo:
@@ -5858,12 +5858,12 @@ nigh:
 - - - - '69'
       - Jonathan Kinred
     - togo:
-        distance: 0.007000 km
+        distance: 0.003000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 201.777106 km
+      made: 201.781106 km
   - - - '103'
       - Roberto Nichele
     - togo:
@@ -6011,21 +6011,21 @@ nigh:
   - - - '83'
       - Peter Dall
     - togo:
-        distance: 72.571000 km
+        distance: 72.567000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 129.213106 km
+      made: 129.217106 km
   - - - '67'
       - ! 'Andy Phillips '
     - togo:
-        distance: 76.321000 km
+        distance: 76.322000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 125.463106 km
+      made: 125.462106 km
   - - - '34'
       - Jon snr Durand
     - togo:
@@ -6119,21 +6119,21 @@ nigh:
   - - - '97'
       - Konrad Schwab
     - togo:
-        distance: 115.237000 km
+        distance: 115.236000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 86.547106 km
+      made: 86.548106 km
   - - - '23'
       - Gerolf Heinrichs
     - togo:
-        distance: 131.560000 km
+        distance: 131.559000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 70.224106 km
+      made: 70.225106 km
   - - - '32'
       - Kathryn O'Riordan
     - togo:
@@ -6164,12 +6164,12 @@ nigh:
   - - - '70'
       - Matthew Barlow
     - togo:
-        distance: 142.713000 km
+        distance: 142.712000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 59.071106 km
+      made: 59.072106 km
   - - - '79'
       - David Stevens
     - togo:
@@ -6218,21 +6218,21 @@ nigh:
   - - - '58'
       - Anna Belova
     - togo:
-        distance: 157.690000 km
+        distance: 157.689000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 44.094106 km
+      made: 44.095106 km
   - - - '37'
       - Peter Ebeling
     - togo:
-        distance: 162.657000 km
+        distance: 162.656000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 39.127106 km
+      made: 39.128106 km
   - - - '46'
       - Jonathon Foote
     - togo:
@@ -6281,12 +6281,12 @@ nigh:
 - - - - '89'
       - Scott Barrett
     - togo:
-        distance: 0.012000 km
+        distance: 0.011000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 174.490328 km
+      made: 174.491328 km
   - - - '93'
       - Trent Brown
     - togo:
@@ -6821,12 +6821,12 @@ nigh:
   - - - '2'
       - Pablo Gomes
     - togo:
-        distance: 122.481000 km
+        distance: 122.479000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 52.021328 km
+      made: 52.023328 km
   - - - '83'
       - Peter Dall
     - togo:
@@ -6839,12 +6839,12 @@ nigh:
   - - - '42'
       - Suan Selenati
     - togo:
-        distance: 123.769000 km
+        distance: 123.767000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 50.733328 km
+      made: 50.735328 km
   - - - '67'
       - ! 'Andy Phillips '
     - togo:
@@ -6857,12 +6857,12 @@ nigh:
   - - - '64'
       - Gustavo Carvalho
     - togo:
-        distance: 132.923000 km
+        distance: 132.922000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 41.579328 km
+      made: 41.580328 km
   - - - '105'
       - Chris Lawry
     - togo:
@@ -6893,12 +6893,12 @@ nigh:
   - - - '98'
       - Patrick Collin
     - togo:
-        distance: 142.207000 km
+        distance: 142.206000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 32.295328 km
+      made: 32.296328 km
   - - - '82'
       - Alain Le-gac
     - togo:
@@ -6920,30 +6920,30 @@ nigh:
   - - - '58'
       - Anna Belova
     - togo:
-        distance: 152.865000 km
+        distance: 152.864000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 21.637328 km
+      made: 21.638328 km
   - - - '17'
       - John Urlich
     - togo:
-        distance: 153.862000 km
+        distance: 153.861000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 20.640328 km
+      made: 20.641328 km
   - - - '53'
       - Hadewych van Kempen
     - togo:
-        distance: 154.921000 km
+        distance: 154.920000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 19.581328 km
+      made: 19.582328 km
   - - - '40'
       - Phil de Joux
     - togo:
@@ -6965,12 +6965,12 @@ nigh:
   - - - '76'
       - Dmitriy Korchenkov
     - togo:
-        distance: 156.455000 km
+        distance: 156.454000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 18.047328 km
+      made: 18.048328 km
   - - - '88'
       - Martin Sielaff
     - togo:
@@ -6992,30 +6992,30 @@ nigh:
   - - - '52'
       - Virpi Nieminen
     - togo:
-        distance: 160.873000 km
+        distance: 160.872000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 13.629328 km
+      made: 13.630328 km
   - - - '86'
       - Talgat Irgaleev
     - togo:
-        distance: 174.078000 km
+        distance: 174.077000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 0.424328 km
+      made: 0.425328 km
   - - - '50'
       - Monique Pavy
     - togo:
-        distance: 173.605000 km
+        distance: 173.603000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 0.897328 km
+      made: 0.899328 km
 - - - - '20'
       - ! 'Luke Browne '
     - togo:
@@ -7415,12 +7415,12 @@ nigh:
   - - - '52'
       - Virpi Nieminen
     - togo:
-        distance: 108.554000 km
+        distance: 108.553000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 50.310751 km
+      made: 50.311751 km
   - - - '76'
       - Dmitriy Korchenkov
     - togo:
@@ -7433,12 +7433,12 @@ nigh:
   - - - '40'
       - Phil de Joux
     - togo:
-        distance: 112.781000 km
+        distance: 112.780000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 46.083751 km
+      made: 46.084751 km
   - - - '53'
       - Hadewych van Kempen
     - togo:
@@ -7460,12 +7460,12 @@ nigh:
   - - - '88'
       - Martin Sielaff
     - togo:
-        distance: 135.003000 km
+        distance: 135.001000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 23.861751 km
+      made: 23.863751 km
   - - - '17'
       - John Urlich
     - togo:
@@ -7478,12 +7478,12 @@ nigh:
   - - - '85'
       - Neil Petersen
     - togo:
-        distance: 137.460000 km
+        distance: 137.459000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 21.404751 km
+      made: 21.405751 km
   - - - '46'
       - Jonathon Foote
     - togo:

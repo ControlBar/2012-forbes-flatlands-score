@@ -1,6 +1,6 @@
 <Fs version="3.4">
   <FsCompetition id="7592" name="2012 Hang Gliding Pre-World Forbes" location="Forbes, Australia" from="2012-01-05" to="2012-01-14" utc_offset="11">
-    <FsScoreFormula id="GAP2011" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2"/>
+    <FsScoreFormula id="GAP2011" use_leading_points="1" use_arrival_position_points="1" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2"/>
     <FsParticipants>
       <FsParticipant id="1" name="Lukas Bader"/>
       <FsParticipant id="2" name="Pablo Gomes"/>
@@ -102,7 +102,7 @@
     </FsParticipants>
     <FsTasks>
       <FsTask id="2" name="Day 1" tracklog_folder="Tracklogs\day 1">
-        <FsScoreFormula id="GAP2011" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2"/>
+        <FsScoreFormula id="GAP2011" use_leading_points="1" use_arrival_position_points="1" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2"/>
         <FsTaskDefinition ss="2" es="5" goal="LINE" groundstart="0">
           <FsTurnpoint id="FORBES" lat="-33.36137" lon="147.93207" radius="100" open="2012-01-05T12:00:00+11:00" close="2012-01-05T20:00:00+11:00"/>
           <FsTurnpoint id="FORBES" lat="-33.36137" lon="147.93207" radius="10000" open="2012-01-05T12:00:00+11:00" close="2012-01-05T20:00:00+11:00"/>
@@ -504,7 +504,7 @@
         </FsTaskScoreParams>
       </FsTask>
       <FsTask id="3" name="day 2" tracklog_folder="Tracklogs\day 2">
-        <FsScoreFormula id="GAP2011" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2"/>
+        <FsScoreFormula id="GAP2011" use_leading_points="1" use_arrival_position_points="1" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2"/>
         <FsTaskDefinition ss="2" es="5" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="FORBES" lat="-33.36137" lon="147.93207" radius="100" open="2012-01-06T12:00:00+11:00" close="2012-01-06T20:00:00+11:00"/>
           <FsTurnpoint id="FORBES" lat="-33.36137" lon="147.93207" radius="5000" open="2012-01-06T12:00:00+11:00" close="2012-01-06T20:00:00+11:00"/>
@@ -903,7 +903,7 @@
         </FsTaskScoreParams>
       </FsTask>
       <FsTask id="4" name="Day 3" tracklog_folder="Tracklogs\day 3">
-        <FsScoreFormula id="GAP2011" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2"/>
+        <FsScoreFormula id="GAP2011" use_leading_points="1" use_arrival_position_points="1" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2"/>
         <FsTaskDefinition ss="2" es="5" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="FORBES" lat="-33.36137" lon="147.93207" radius="100" open="2012-01-07T12:00:00+11:00" close="2012-01-07T20:00:00+11:00"/>
           <FsTurnpoint id="FORBES" lat="-33.36137" lon="147.93207" radius="25000" open="2012-01-07T12:00:00+11:00" close="2012-01-07T20:00:00+11:00"/>
@@ -1301,7 +1301,7 @@
         </FsTaskScoreParams>
       </FsTask>
       <FsTask id="5" name="Day 4" tracklog_folder="Tracklogs\day 4">
-        <FsScoreFormula id="GAP2011" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2"/>
+        <FsScoreFormula id="GAP2011" use_leading_points="1" use_arrival_position_points="1" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2"/>
         <FsTaskDefinition ss="2" es="4" goal="LINE" groundstart="0">
           <FsTurnpoint id="FORBES" lat="-33.36137" lon="147.93207" radius="100" open="2012-01-09T12:00:00+11:00" close="2012-01-09T20:00:00+11:00"/>
           <FsTurnpoint id="FORBES" lat="-33.36137" lon="147.93207" radius="15000" open="2012-01-09T12:00:00+11:00" close="2012-01-09T20:00:00+11:00"/>
@@ -1694,7 +1694,7 @@
         </FsTaskScoreParams>
       </FsTask>
       <FsTask id="6" name="Day 5" tracklog_folder="Tracklogs\day 5">
-        <FsScoreFormula id="GAP2011" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2"/>
+        <FsScoreFormula id="GAP2011" use_leading_points="1" use_arrival_position_points="1" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2"/>
         <FsTaskDefinition ss="2" es="4" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="FORBES" lat="-33.36137" lon="147.93207" radius="100" open="2012-01-10T12:00:00+11:00" close="2012-01-10T20:00:00+11:00"/>
           <FsTurnpoint id="FORBES" lat="-33.36137" lon="147.93207" radius="15000" open="2012-01-10T12:00:00+11:00" close="2012-01-10T20:00:00+11:00"/>
@@ -2093,7 +2093,7 @@
         </FsTaskScoreParams>
       </FsTask>
       <FsTask id="7" name="Day 6" tracklog_folder="Tracklogs\day 6">
-        <FsScoreFormula id="GAP2011" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2"/>
+        <FsScoreFormula id="GAP2011" use_leading_points="1" use_arrival_position_points="1" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2"/>
         <FsTaskDefinition ss="2" es="4" goal="LINE" groundstart="0">
           <FsTurnpoint id="FORBES" lat="-33.36137" lon="147.93207" radius="100" open="2012-01-12T12:00:00+11:00" close="2012-01-12T20:00:00+11:00"/>
           <FsTurnpoint id="FORBES" lat="-33.36137" lon="147.93207" radius="15000" open="2012-01-12T12:00:00+11:00" close="2012-01-12T20:00:00+11:00"/>
@@ -2491,7 +2491,7 @@
         </FsTaskScoreParams>
       </FsTask>
       <FsTask id="8" name="Day 7" tracklog_folder="Tracklogs\day 7">
-        <FsScoreFormula id="GAP2011" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2"/>
+        <FsScoreFormula id="GAP2011" use_leading_points="1" use_arrival_position_points="1" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2"/>
         <FsTaskDefinition ss="2" es="5" goal="LINE" groundstart="0">
           <FsTurnpoint id="FORBES" lat="-33.36137" lon="147.93207" radius="100" open="2012-01-13T12:00:00+11:00" close="2012-01-13T20:00:00+11:00"/>
           <FsTurnpoint id="FORBES" lat="-33.36137" lon="147.93207" radius="10000" open="2012-01-13T12:00:00+11:00" close="2012-01-13T20:00:00+11:00"/>
@@ -2884,7 +2884,7 @@
         </FsTaskScoreParams>
       </FsTask>
       <FsTask id="9" name="Day 8" tracklog_folder="Tracklogs\day 8">
-        <FsScoreFormula id="GAP2011" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2"/>
+        <FsScoreFormula id="GAP2011" use_leading_points="1" use_arrival_position_points="1" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2"/>
         <FsTaskDefinition ss="2" es="5" goal="LINE" groundstart="0">
           <FsTurnpoint id="FORBES" lat="-33.36137" lon="147.93207" radius="100" open="2012-01-14T12:00:00+11:00" close="2012-01-14T20:00:00+11:00"/>
           <FsTurnpoint id="FORBES" lat="-33.36137" lon="147.93207" radius="10000" open="2012-01-14T12:00:00+11:00" close="2012-01-14T20:00:00+11:00"/>

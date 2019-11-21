@@ -104,6 +104,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 0 s
+    earlyPenalty: 0 s
   penals: []
 - taskName: day 2
   zones:
@@ -184,6 +187,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 0 s
+    earlyPenalty: 0 s
   penals: []
 - taskName: Day 3
   zones:
@@ -264,6 +270,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 0 s
+    earlyPenalty: 0 s
   penals:
   - - - '67'
       - ! 'Andy Phillips '
@@ -340,6 +349,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 0 s
+    earlyPenalty: 0 s
   penals:
   - - - '76'
       - Dmitriy Korchenkov
@@ -420,6 +432,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 0 s
+    earlyPenalty: 0 s
   penals:
   - - - '76'
       - Dmitriy Korchenkov
@@ -496,6 +511,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 0 s
+    earlyPenalty: 0 s
   penals:
   - - - '96'
       - Brodrick Osborne
@@ -580,6 +598,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 0 s
+    earlyPenalty: 0 s
   penals: []
 - taskName: Day 8
   zones:
@@ -660,6 +681,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 0 s
+    earlyPenalty: 0 s
   penals: []
 taskFolders:
 - - Tracklogs

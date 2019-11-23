@@ -17,7 +17,7 @@
       <FsParticipant id="15" name="Jean Souviron "/>
       <FsParticipant id="16" name="Grant Edward"/>
       <FsParticipant id="17" name="John Urlich"/>
-      <FsParticipant id="18" name="Jürgen Pasker"/>
+      <FsParticipant id="18" name="J├╝rgen Pasker"/>
       <FsParticipant id="19" name="Mikhail Karmazin"/>
       <FsParticipant id="20" name="Luke Browne "/>
       <FsParticipant id="21" name="Gavin Myers"/>
@@ -42,7 +42,7 @@
       <FsParticipant id="42" name="Suan Selenati"/>
       <FsParticipant id="43" name="Les Bestt"/>
       <FsParticipant id="44" name="Francoise Dieuzeide-banet"/>
-      <FsParticipant id="45" name="Roland Wöhrle"/>
+      <FsParticipant id="45" name="Roland W├Âhrle"/>
       <FsParticipant id="46" name="Jonathon Foote"/>
       <FsParticipant id="47" name="Miguel De Jong "/>
       <FsParticipant id="48" name="Paolo Rosichetti"/>
@@ -291,7 +291,7 @@
             <FsResult rank="78" points="74" distance="6.679" ss_time="00:00:00" finished_ss_rank="1" distance_points="74.3" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" got_time_but_not_goal_penalty="False" ss_time_dec_hours="0" real_distance="6.679" last_distance="6.319" last_altitude_above_goal="0"/>
           </FsParticipant>
           <FsParticipant id="45">
-            <FsFlightData distance="38.204" started_ss="2012-01-05T13:51:00+11:00" finished_ss="" finished_task="2012-01-05T15:25:02+11:00" tracklog_filename="Roland Wöhrle.20120105-090915.7547.45.kml" lc="9.81963182462081" iv="2182457" alt="653" baro_alt="651" last_tracklog_point_distance="37.968" last_tracklog_point_time="2012-01-05T15:33:32+11:00" last_tracklog_point_alt="288" last_tracklog_point_baro_alt="314" landed_before_deadline="1"/>
+            <FsFlightData distance="38.204" started_ss="2012-01-05T13:51:00+11:00" finished_ss="" finished_task="2012-01-05T15:25:02+11:00" tracklog_filename="Roland W├Âhrle.20120105-090915.7547.45.kml" lc="9.81963182462081" iv="2182457" alt="653" baro_alt="651" last_tracklog_point_distance="37.968" last_tracklog_point_time="2012-01-05T15:33:32+11:00" last_tracklog_point_alt="288" last_tracklog_point_baro_alt="314" landed_before_deadline="1"/>
             <FsResult rank="41" points="297" distance="38.204" ss_time="00:00:00" finished_ss_rank="1" distance_points="293" time_points="0" arrival_points="0" departure_points="0" leading_points="4.3" penalty="0" penalty_points="0" penalty_reason="" got_time_but_not_goal_penalty="False" started_ss="2012-01-05T13:51:00+11:00" ss_time_dec_hours="0" real_distance="38.204" last_distance="37.968" last_altitude_above_goal="0"/>
           </FsParticipant>
           <FsParticipant id="46">
@@ -2935,7 +2935,7 @@
             <FsResult rank="6" points="801" distance="158.847" ss_time="03:56:52" finished_ss_rank="12" distance_points="521.7" time_points="253.9" arrival_points="25.4" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2012-01-14T15:00:00+11:00" finished_ss="2012-01-14T18:56:52+11:00" ss_time_dec_hours="3.94777777777778" real_distance="158.847" last_distance="-1.79769313486232E+305" last_altitude_above_goal="0"/>
           </FsParticipant>
           <FsParticipant id="45">
-            <FsFlightData distance="158.848" started_ss="2012-01-14T14:35:42+11:00" finished_ss="2012-01-14T18:57:37+11:00" finished_task="2012-01-14T18:57:37+11:00" tracklog_filename="Roland Wöhrle.20120114-083537.7547.45.kml" lc="6.06531831658416" iv="1626348" alt="0" baro_alt="" last_tracklog_point_distance="158.848" last_tracklog_point_time="2012-01-14T18:57:37+11:00" last_tracklog_point_alt="0" last_tracklog_point_baro_alt="" landed_before_deadline="1"/>
+            <FsFlightData distance="158.848" started_ss="2012-01-14T14:35:42+11:00" finished_ss="2012-01-14T18:57:37+11:00" finished_task="2012-01-14T18:57:37+11:00" tracklog_filename="Roland W├Âhrle.20120114-083537.7547.45.kml" lc="6.06531831658416" iv="1626348" alt="0" baro_alt="" last_tracklog_point_distance="158.848" last_tracklog_point_time="2012-01-14T18:57:37+11:00" last_tracklog_point_alt="0" last_tracklog_point_baro_alt="" landed_before_deadline="1"/>
             <FsResult rank="14" points="763" distance="158.847" ss_time="04:21:55" finished_ss_rank="15" distance_points="521.7" time_points="173.2" arrival_points="20.4" departure_points="0" leading_points="48" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2012-01-14T14:35:42+11:00" finished_ss="2012-01-14T18:57:37+11:00" ss_time_dec_hours="4.36527777777778" real_distance="158.847" last_distance="158.847" last_altitude_above_goal="0"/>
           </FsParticipant>
           <FsParticipant id="49">

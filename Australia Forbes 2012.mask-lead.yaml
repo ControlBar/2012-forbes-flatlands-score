@@ -43,7 +43,7 @@ raceTime:
   closeTask: 2012-01-10T09:00:00Z
   firstStart: 2012-01-10T02:49:23.066248749617Z
   firstLead: 2012-01-10T02:49:23.066248749617Z
-  lastArrival: 2012-01-10T08:03:08.50240803405Z
+  lastArrival: 2012-01-10T08:03:08.50240803407Z
   leadAllDown: 19654.934
   leadArrival: 18825.436
   leadClose: 22236.934
@@ -53,7 +53,7 @@ raceTime:
   closeTask: 2012-01-12T09:00:00Z
   firstStart: 2012-01-12T02:46:24.418985366415Z
   firstLead: 2012-01-12T02:46:24.418985366415Z
-  lastArrival: 2012-01-12T08:35:41.791006027003Z
+  lastArrival: 2012-01-12T08:35:41.791006027018Z
   leadAllDown: 21061.581
   leadArrival: 20957.372
   leadClose: 22415.581
@@ -61,8 +61,8 @@ raceTime:
   tickClose: 22415.581
 - openTask: 2012-01-13T01:00:00Z
   closeTask: 2012-01-13T09:00:00Z
-  firstStart: 2012-01-13T03:14:59.87434236828Z
-  firstLead: 2012-01-13T03:14:59.87434236828Z
+  firstStart: 2012-01-13T03:14:59.87434236826Z
+  firstLead: 2012-01-13T03:14:59.87434236826Z
   lastArrival: 2012-01-13T08:02:33.727924924805Z
   leadAllDown: 17756.126
   leadArrival: 17253.854
@@ -80,14 +80,14 @@ raceTime:
   openClose: 28800
   tickClose: 22608.964
 sumDistance:
-- 3025.767360 km
+- 2992.962993 km
 - 9252.706060 km
 - 11973.826792 km
 - 8307.760344 km
 - 11847.854728 km
 - 13846.416892 km
 - 9755.076704 km
-- 9453.003244 km
+- 9299.538503 km
 leadAreaToCoef:
 - 0.00000003668522 km^-2 s^-1
 - 0.00000003649336 km^-2 s^-1
@@ -212,11 +212,6 @@ leadRank:
     - area: 136388399.9107 km^2 s
       coef: 5.00343794
       frac: 0.14865377
-  - - - '45'
-      - Roland Wöhrle
-    - area: 136989013.5039 km^2 s
-      coef: 5.02547158
-      frac: 0.14019898
   - - - '42'
       - Suan Selenati
     - area: 137832846.3269 km^2 s
@@ -358,7 +353,7 @@ leadRank:
       coef: 5.85086645
       frac: 0
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - area: 159589033.1577 km^2 s
       coef: 5.85455819
       frac: 0
@@ -618,7 +613,7 @@ leadRank:
       coef: 3.79105485
       frac: 0.74442796
   - - - '45'
-      - Roland Wöhrle
+      - Roland WÔö£├éhrle
     - area: 103891796.6125 km^2 s
       coef: 3.79136104
       frac: 0.74421363
@@ -703,7 +698,7 @@ leadRank:
       coef: 4.16138143
       frac: 0.52650655
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - area: 114179504.8742 km^2 s
       coef: 4.16679412
       frac: 0.52372648
@@ -1218,7 +1213,7 @@ leadRank:
       coef: 3.93824102
       frac: 0
   - - - '45'
-      - Roland Wöhrle
+      - Roland WÔö£├éhrle
     - area: 187403656.1344 km^2 s
       coef: 4.12040153
       frac: 0
@@ -1303,7 +1298,7 @@ leadRank:
       coef: 5.36946463
       frac: 0
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - area: 252275057.7762 km^2 s
       coef: 5.54671427
       frac: 0
@@ -1473,7 +1468,7 @@ leadRank:
       coef: 3.71847174
       frac: 0.52133584
   - - - '45'
-      - Roland Wöhrle
+      - Roland WÔö£├éhrle
     - area: 106651029.1458 km^2 s
       coef: 3.72058871
       frac: 0.52018396
@@ -1508,7 +1503,7 @@ leadRank:
       coef: 3.77124058
       frac: 0.49302058
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - area: 108370739.0574 km^2 s
       coef: 3.78058188
       frac: 0.48809075
@@ -1838,7 +1833,7 @@ leadRank:
       coef: 4.42139532
       frac: 0.83913598
   - - - '45'
-      - Roland Wöhrle
+      - Roland WÔö£├éhrle
     - area: 326334408.6167 km^2 s
       coef: 4.42268516
       frac: 0.83810226
@@ -2043,7 +2038,7 @@ leadRank:
       coef: 5.8337641
       frac: 0.17702042
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - area: 450776109.6883 km^2 s
       coef: 6.10919584
       frac: 8.196573e-2
@@ -2179,7 +2174,7 @@ leadRank:
       frac: 0
   - - - '27'
       - ! 'Boris Marold '
-    - area: 732281709.6370 km^2 s
+    - area: 732281709.6371 km^2 s
       coef: 9.92433334
       frac: 0
   - - - '82'
@@ -2213,7 +2208,7 @@ leadRank:
       coef: 3.59781177
       frac: 0.84790921
   - - - '45'
-      - Roland Wöhrle
+      - Roland WÔö£├éhrle
     - area: 226604989.3249 km^2 s
       coef: 3.60461614
       frac: 0.84174235
@@ -2278,7 +2273,7 @@ leadRank:
       coef: 3.77636926
       frac: 0.71153233
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - area: 242754952.8454 km^2 s
       coef: 3.86151436
       frac: 0.65740085
@@ -2683,7 +2678,7 @@ leadRank:
       coef: 3.683061
       frac: 0.76657289
   - - - '45'
-      - Roland Wöhrle
+      - Roland WÔö£├éhrle
     - area: 180458366.8809 km^2 s
       coef: 3.71831875
       frac: 0.74114706
@@ -2903,7 +2898,7 @@ leadRank:
       coef: 4.59523541
       frac: 0.28683947
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - area: 223290563.6856 km^2 s
       coef: 4.60087002
       frac: 0.28445456
@@ -3197,11 +3192,6 @@ leadRank:
     - area: 183017050.4059 km^2 s
       coef: 4.60667471
       frac: 0.62906065
-  - - - '45'
-      - Roland Wöhrle
-    - area: 183539026.3563 km^2 s
-      coef: 4.61981323
-      frac: 0.62203138
   - - - '84'
       - Yasuhiro Noma
     - area: 184423891.7612 km^2 s
@@ -3428,7 +3418,7 @@ leadRank:
       coef: 7.02052397
       frac: 0
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - area: 279586800.3028 km^2 s
       coef: 7.03740683
       frac: 0

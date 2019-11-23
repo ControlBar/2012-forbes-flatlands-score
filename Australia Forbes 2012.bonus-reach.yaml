@@ -1,7 +1,7 @@
 bolster:
 - max: 123.622367 km
-  mean: 37.189014 km
-  stdDev: 29.640172 km
+  mean: 37.182398 km
+  stdDev: 29.799033 km
 - max: 128.283420 km
   mean: 103.433043 km
   stdDev: 32.790428 km
@@ -21,12 +21,12 @@ bolster:
   mean: 111.033442 km
   stdDev: 60.797128 km
 - max: 158.464741 km
-  mean: 107.750035 km
-  stdDev: 56.906765 km
+  mean: 107.192731 km
+  stdDev: 56.968346 km
 reach:
 - max: 123.622367 km
-  mean: 36.685068 km
-  stdDev: 30.221841 km
+  mean: 36.673033 km
+  stdDev: 30.383665 km
 - max: 128.283420 km
   mean: 103.422484 km
   stdDev: 32.822269 km
@@ -46,8 +46,8 @@ reach:
   mean: 110.767349 km
   stdDev: 61.269524 km
 - max: 158.464741 km
-  mean: 107.321105 km
-  stdDev: 57.692785 km
+  mean: 106.759087 km
+  stdDev: 57.757894 km
 reachRank:
 - - - - '41'
       - Curt Warren
@@ -213,10 +213,6 @@ reachRank:
       - Adam Parer
     - frac: 0.30638765
       reach: 37.876367 km
-  - - - '45'
-      - Roland Wöhrle
-    - frac: 0.30580524
-      reach: 37.804367 km
   - - - '13'
       - John Smith
     - frac: 0.30481027
@@ -246,7 +242,7 @@ reachRank:
     - frac: 0.26701776
       reach: 33.009367 km
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - frac: 0.26032803
       reach: 32.182367 km
   - - - '69'
@@ -474,7 +470,7 @@ reachRank:
     - frac: 1
       reach: 128.283420 km
   - - - '45'
-      - Roland Wöhrle
+      - Roland WÔö£├éhrle
     - frac: 1
       reach: 128.283420 km
   - - - '68'
@@ -642,7 +638,7 @@ reachRank:
     - frac: 0.88449014
       reach: 113.465420 km
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - frac: 0.88362487
       reach: 113.354420 km
   - - - '105'
@@ -1018,7 +1014,7 @@ reachRank:
     - frac: 0.9115079
       reach: 167.588226 km
   - - - '45'
-      - Roland Wöhrle
+      - Roland WÔö£├éhrle
     - frac: 0.90922353
       reach: 167.168226 km
   - - - '55'
@@ -1110,7 +1106,7 @@ reachRank:
     - frac: 0.42394745
       reach: 77.946226 km
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - frac: 0.40614569
       reach: 74.673226 km
   - - - '58'
@@ -1250,7 +1246,7 @@ reachRank:
     - frac: 1
       reach: 141.094504 km
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - frac: 1
       reach: 141.094504 km
   - - - '26'
@@ -1314,7 +1310,7 @@ reachRank:
     - frac: 1
       reach: 141.094504 km
   - - - '45'
-      - Roland Wöhrle
+      - Roland WÔö£├éhrle
     - frac: 1
       reach: 141.094504 km
   - - - '1'
@@ -1562,7 +1558,7 @@ reachRank:
     - frac: 1
       reach: 217.366031 km
   - - - '45'
-      - Roland Wöhrle
+      - Roland WÔö£├éhrle
     - frac: 1
       reach: 217.366031 km
   - - - '60'
@@ -1794,7 +1790,7 @@ reachRank:
     - frac: 0.37013617
       reach: 80.455031 km
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - frac: 0.35635297
       reach: 77.459031 km
   - - - '30'
@@ -1942,7 +1938,7 @@ reachRank:
     - frac: 1
       reach: 201.782644 km
   - - - '45'
-      - Roland Wöhrle
+      - Roland WÔö£├éhrle
     - frac: 1
       reach: 201.782644 km
   - - - '41'
@@ -2002,7 +1998,7 @@ reachRank:
     - frac: 1
       reach: 201.782644 km
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - frac: 1
       reach: 201.782644 km
   - - - '6'
@@ -2322,7 +2318,7 @@ reachRank:
     - frac: 1
       reach: 174.102192 km
   - - - '45'
-      - Roland Wöhrle
+      - Roland WÔö£├éhrle
     - frac: 1
       reach: 174.102192 km
   - - - '99'
@@ -2534,7 +2530,7 @@ reachRank:
     - frac: 0.62107887
       reach: 108.131192 km
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - frac: 0.53796102
       reach: 93.660192 km
   - - - '29'
@@ -2731,10 +2727,6 @@ reachRank:
       reach: 158.464741 km
   - - - '31'
       - Andrew Barnes
-    - frac: 1
-      reach: 158.464741 km
-  - - - '45'
-      - Roland Wöhrle
     - frac: 1
       reach: 158.464741 km
   - - - '84'
@@ -2970,7 +2962,7 @@ reachRank:
     - frac: 0.32991403
       reach: 52.279741 km
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - frac: 0.32976889
       reach: 52.256741 km
   - - - '22'
@@ -3407,15 +3399,6 @@ nigh:
         legsSum: []
         waypoints: []
       made: 37.614367 km
-  - - - '45'
-      - Roland Wöhrle
-    - togo:
-        distance: 95.156000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 37.804367 km
   - - - '31'
       - Andrew Barnes
     - togo:
@@ -3480,7 +3463,7 @@ nigh:
         waypoints: []
       made: 31.788367 km
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - togo:
         distance: 100.778000 km
         flipSum: []
@@ -4065,7 +4048,7 @@ nigh:
         waypoints: []
       made: 113.294420 km
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - togo:
         distance: 14.929000 km
         flipSum: []
@@ -4452,7 +4435,7 @@ nigh:
         waypoints: []
       made: 167.588226 km
   - - - '45'
-      - Roland Wöhrle
+      - Roland WÔö£├éhrle
     - togo:
         distance: 16.690000 km
         flipSum: []
@@ -4650,7 +4633,7 @@ nigh:
         waypoints: []
       made: 78.731226 km
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - togo:
         distance: 109.185000 km
         flipSum: []
@@ -5568,7 +5551,7 @@ nigh:
         waypoints: []
       made: 80.455031 km
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - togo:
         distance: 139.907000 km
         flipSum: []
@@ -6738,7 +6721,7 @@ nigh:
         waypoints: []
       made: 108.131192 km
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - togo:
         distance: 80.442000 km
         flipSum: []
@@ -7404,7 +7387,7 @@ nigh:
         waypoints: []
       made: 52.465741 km
   - - - '18'
-      - Jürgen Pasker
+      - JÔö£ÔòØrgen Pasker
     - togo:
         distance: 106.208000 km
         flipSum: []

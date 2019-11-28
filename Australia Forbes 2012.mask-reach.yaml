@@ -34,8 +34,8 @@ reach:
   mean: 128.194580 km
   stdDev: 66.304264 km
 - max: 141.152306 km
-  mean: 95.082661 km
-  stdDev: 50.306273 km
+  mean: 95.082692 km
+  stdDev: 50.306214 km
 - max: 217.366031 km
   mean: 133.593759 km
   stdDev: 77.729358 km
@@ -803,20 +803,20 @@ reachRank:
       reach: 4.016420 km
 - - - - '101'
       - ! 'Andrew Luton '
-    - frac: 1.00000544
-      reach: 0.183859 km
+    - frac: 1.00001088
+      reach: 0.183860 km
   - - - '78'
       - Christine Aichner
-    - frac: 1.00000544
-      reach: 0.183859 km
+    - frac: 1.00001088
+      reach: 0.183860 km
   - - - '19'
       - Mikhail Karmazin
-    - frac: 1.00000544
-      reach: 0.183859 km
+    - frac: 1.00001088
+      reach: 0.183860 km
   - - - '89'
       - Scott Barrett
-    - frac: 1.00000544
-      reach: 0.183859 km
+    - frac: 1.00001088
+      reach: 0.183860 km
   - - - '100'
       - Attila Bertok
     - frac: 1
@@ -1191,8 +1191,8 @@ reachRank:
       reach: 0.000000 km
 - - - - '67'
       - ! 'Andy Phillips '
-    - frac: 1.00000694
-      reach: 0.141153 km
+    - frac: 1.02042537
+      reach: 0.144035 km
   - - - '100'
       - Attila Bertok
     - frac: 1
@@ -2671,12 +2671,12 @@ reachRank:
       reach: 0.000000 km
 - - - - '95'
       - Anton Struganov
-    - frac: 1.0000063
-      reach: 0.158865 km
+    - frac: 1.00003777
+      reach: 0.158870 km
   - - - '41'
       - Curt Warren
-    - frac: 1.0000063
-      reach: 0.158865 km
+    - frac: 1.00003777
+      reach: 0.158870 km
   - - - '23'
       - Gerolf Heinrichs
     - frac: 1
@@ -2795,8 +2795,8 @@ reachRank:
       reach: 158.864345 km
   - - - '30'
       - Fredy Bircher
-    - frac: 0.99479373
-      reach: 0.158037 km
+    - frac: 0.99482505
+      reach: 0.158042 km
   - - - '20'
       - ! 'Luke Browne '
     - frac: 0.97199497
@@ -2975,8 +2975,8 @@ reachRank:
       reach: 52.660345 km
   - - - '22'
       - Mark Russell
-    - frac: 0.32735903
-      reach: 0.052006 km
+    - frac: 0.32736934
+      reach: 0.052007 km
   - - - '76'
       - Dmitriy Korchenkov
     - frac: 0.32623019
@@ -3019,8 +3019,8 @@ reachRank:
       reach: 14.359345 km
   - - - '58'
       - Anna Belova
-    - frac: 7.554439e-2
-      reach: 0.012001 km
+    - frac: 7.554677e-2
+      reach: 0.012002 km
   - - - '50'
       - Monique Pavy
     - frac: 4.2315e-2

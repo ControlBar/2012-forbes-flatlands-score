@@ -107,6 +107,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+  penalsAuto: []
   penals: []
 - taskName: day 2
   zones:
@@ -190,6 +191,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+  penalsAuto: []
   penals: []
 - taskName: Day 3
   zones:
@@ -273,6 +275,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+  penalsAuto: []
   penals:
   - - - '67'
       - ! 'Andy Phillips '
@@ -352,6 +355,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+  penalsAuto: []
   penals:
   - - - '76'
       - Dmitriy Korchenkov
@@ -435,6 +439,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+  penalsAuto: []
   penals:
   - - - '76'
       - Dmitriy Korchenkov
@@ -514,6 +519,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+  penalsAuto: []
   penals:
   - - - '96'
       - Brodrick Osborne
@@ -601,6 +607,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+  penalsAuto: []
   penals: []
 - taskName: Day 8
   zones:
@@ -684,6 +691,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+  penalsAuto: []
   penals: []
 taskFolders:
 - - Tracklogs

@@ -22,7 +22,8 @@ nominal:
   free: 5.000 km
   time: 2.000000 h
 compTweak:
-  arrivalWeightScaling: null
+  arrivalRank: true
+  arrivalTime: false
   leadingWeightScaling: null
 tasks:
 - taskName: Day 1
@@ -102,7 +103,8 @@ tasks:
   startGates: []
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -186,7 +188,8 @@ tasks:
   startGates: []
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -270,7 +273,8 @@ tasks:
   startGates: []
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -350,7 +354,8 @@ tasks:
   startGates: []
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -434,7 +439,8 @@ tasks:
   startGates: []
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -514,7 +520,8 @@ tasks:
   startGates: []
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -602,7 +609,8 @@ tasks:
   startGates: []
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -686,7 +694,8 @@ tasks:
   startGates: []
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s

@@ -2,6 +2,7 @@ SET COMP="Australia Forbes 2012"
 
 fs-filter --file=%COMP%
 fs-route --file=%COMP%
+fs-arrival --file=%COMP%
 fs-effort --file=%COMP%
 fs-score --file=%COMP%
 

@@ -4,6 +4,7 @@ COMP="--file=Australia Forbes 2012"
 
 fs-filter "$COMP"
 fs-route "$COMP"
+fs-arrival "$COMP"
 fs-effort "$COMP"
 fs-score "$COMP"
 

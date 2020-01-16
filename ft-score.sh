@@ -12,6 +12,7 @@ extract-input "$COMP" --give-fraction=0.005 --haversines
 task-length "$COMP"
 cross-zone "$COMP"
 tag-zone "$COMP"
+unpack-track "$COMP"
 peg-frame "$COMP"
 align-time "$COMP"
 discard-further "$COMP"

@@ -190,12 +190,12 @@ difficulty:
     - 5.000 km
     - 5.000 km
     downers:
-    - - '52'
-      - Virpi Nieminen
-    - - '79'
-      - David Stevens
     - - '58'
       - Anna Belova
+    - - '79'
+      - David Stevens
+    - - '52'
+      - Virpi Nieminen
     downward: 7
     rel: 9.8287e-4
     frac: 6.711598e-2
@@ -2524,14 +2524,14 @@ difficulty:
     - 183.858 km
     - 183.858 km
     downers:
-    - - '89'
-      - Scott Barrett
+    - - '101'
+      - ! 'Andrew Luton '
     - - '78'
       - Christine Aichner
     - - '19'
       - Mikhail Karmazin
-    - - '101'
-      - ! 'Andrew Luton '
+    - - '89'
+      - Scott Barrett
     downward: 4
     rel: 3.7622e-4
     frac: 0.5
@@ -2559,14 +2559,14 @@ difficulty:
     - 5.000 km
     - 5.000 km
     downers:
-    - - '103'
-      - Roberto Nichele
-    - - '88'
-      - Martin Sielaff
-    - - '57'
-      - Julia Kucherenko
     - - '28'
       - Evgeniya Laritskaya
+    - - '57'
+      - Julia Kucherenko
+    - - '88'
+      - Martin Sielaff
+    - - '103'
+      - Roberto Nichele
     downward: 7
     rel: 8.5533e-4
     frac: 3.910068e-2
@@ -3248,10 +3248,10 @@ difficulty:
     - 5.000 km
     - 5.000 km
     downers:
-    - - '40'
-      - Phil de Joux
     - - '53'
       - Hadewych van Kempen
+    - - '40'
+      - Phil de Joux
     downward: 5
     rel: 4.044e-4
     frac: 1.860239e-2
@@ -4668,12 +4668,12 @@ difficulty:
     - 5.000 km
     - 5.000 km
     downers:
-    - - '47'
-      - ! 'Miguel De Jong '
-    - - '28'
-      - Evgeniya Laritskaya
     - - '62'
       - Enda Murphy
+    - - '28'
+      - Evgeniya Laritskaya
+    - - '47'
+      - ! 'Miguel De Jong '
     downward: 3
     rel: 2.9285e-4
     frac: 1.581414e-2
@@ -5577,12 +5577,12 @@ difficulty:
     - 5.000 km
     - 5.000 km
     downers:
-    - - '32'
-      - Kathryn O'Riordan
-    - - '64'
-      - Gustavo Carvalho
     - - '28'
       - Evgeniya Laritskaya
+    - - '64'
+      - Gustavo Carvalho
+    - - '32'
+      - Kathryn O'Riordan
     downward: 5
     rel: 5.3135e-4
     frac: 2.231668e-2

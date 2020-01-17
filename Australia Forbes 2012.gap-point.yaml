@@ -2732,9 +2732,72 @@ score:
         flown: 5.314 km
       landedMade: 4.979 km
       stoppedAlt: 235.000 m
+  - - - '58'
+      - Anna Belova
+    - place: 80=
+      total: 52
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 39.789
+        arrival: 0
+        time: 0
+        reach: 11.95
+        distance: 51.739
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
+  - - - '79'
+      - David Stevens
+    - place: 80=
+      total: 52
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 39.789
+        arrival: 0
+        time: 0
+        reach: 11.95
+        distance: 51.739
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
+  - - - '52'
+      - Virpi Nieminen
+    - place: 80=
+      total: 52
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 39.789
+        arrival: 0
+        time: 0
+        reach: 11.95
+        distance: 51.739
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
   - - - '53'
       - Hadewych van Kempen
-    - place: '83'
+    - place: '86'
       total: 51
       jump: null
       penaltiesJump: []
@@ -2763,7 +2826,7 @@ score:
       stoppedAlt: 240.000 m
   - - - '16'
       - Grant Edward
-    - place: '84'
+    - place: '87'
       total: 47
       jump: null
       penaltiesJump: []
@@ -2792,7 +2855,7 @@ score:
       stoppedAlt: 360.000 m
   - - - '19'
       - Mikhail Karmazin
-    - place: '85'
+    - place: '88'
       total: 46
       jump: null
       penaltiesJump: []
@@ -2821,7 +2884,7 @@ score:
       stoppedAlt: 251.000 m
   - - - '37'
       - Peter Ebeling
-    - place: '86'
+    - place: '89'
       total: 23
       jump: null
       penaltiesJump: []
@@ -2850,7 +2913,7 @@ score:
       stoppedAlt: 276.000 m
   - - - '28'
       - Evgeniya Laritskaya
-    - place: '87'
+    - place: '90'
       total: 22
       jump: null
       penaltiesJump: []
@@ -2879,7 +2942,7 @@ score:
       stoppedAlt: 254.000 m
   - - - '17'
       - John Urlich
-    - place: 88=
+    - place: 91=
       total: 12
       jump: null
       penaltiesJump: []
@@ -2908,7 +2971,7 @@ score:
       stoppedAlt: 246.000 m
   - - - '46'
       - Jonathon Foote
-    - place: 88=
+    - place: 91=
       total: 12
       jump: null
       penaltiesJump: []
@@ -2937,7 +3000,7 @@ score:
       stoppedAlt: 268.000 m
   - - - '88'
       - Martin Sielaff
-    - place: 88=
+    - place: 91=
       total: 12
       jump: null
       penaltiesJump: []
@@ -2966,7 +3029,7 @@ score:
       stoppedAlt: 274.000 m
   - - - '50'
       - Monique Pavy
-    - place: 88=
+    - place: 91=
       total: 12
       jump: null
       penaltiesJump: []
@@ -2993,69 +3056,6 @@ score:
         flown: 0.176 km
       landedMade: -0.015 km
       stoppedAlt: 0.000 m
-  - - - '58'
-      - Anna Belova
-    - place: 88=
-      total: 12
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0.499
-        arrival: 0
-        time: 0
-        reach: 11.95
-        distance: 12.45
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
-  - - - '79'
-      - David Stevens
-    - place: 88=
-      total: 12
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0.499
-        arrival: 0
-        time: 0
-        reach: 11.95
-        distance: 12.45
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
-  - - - '52'
-      - Virpi Nieminen
-    - place: 88=
-      total: 12
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0.499
-        arrival: 0
-        time: 0
-        reach: 11.95
-        distance: 12.45
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
 - - - - '89'
       - Scott Barrett
     - place: '1'
@@ -8455,17 +8455,17 @@ score:
   - - - '42'
       - Suan Selenati
     - place: '93'
-      total: 6
+      total: 13
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0.12
+        effort: 7.506
         arrival: 0
         time: 0
         reach: 5.772
-        distance: 5.892
+        distance: 13.279
         leading: 0
       velocity: null
       reach:
@@ -10970,9 +10970,93 @@ score:
         flown: 5.366 km
       landedMade: 5.247 km
       stoppedAlt: 246.000 m
+  - - - '28'
+      - Evgeniya Laritskaya
+    - place: 87=
+      total: 27
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 18.497
+        arrival: 0
+        time: 0
+        reach: 8.379
+        distance: 26.876
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
+  - - - '57'
+      - Julia Kucherenko
+    - place: 87=
+      total: 27
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 18.497
+        arrival: 0
+        time: 0
+        reach: 8.379
+        distance: 26.876
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
+  - - - '88'
+      - Martin Sielaff
+    - place: 87=
+      total: 27
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 18.497
+        arrival: 0
+        time: 0
+        reach: 8.379
+        distance: 26.876
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
+  - - - '103'
+      - Roberto Nichele
+    - place: 87=
+      total: 27
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 18.497
+        arrival: 0
+        time: 0
+        reach: 8.379
+        distance: 26.876
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
   - - - '58'
       - Anna Belova
-    - place: '87'
+    - place: '91'
       total: 21
       jump: null
       penaltiesJump: []
@@ -10999,90 +11083,6 @@ score:
         flown: 4.070 km
       landedMade: 3.428 km
       stoppedAlt: 239.000 m
-  - - - '28'
-      - Evgeniya Laritskaya
-    - place: 88=
-      total: 8
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 8.379
-        distance: 8.379
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
-  - - - '57'
-      - Julia Kucherenko
-    - place: 88=
-      total: 8
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 8.379
-        distance: 8.379
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
-  - - - '88'
-      - Martin Sielaff
-    - place: 88=
-      total: 8
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 8.379
-        distance: 8.379
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
-  - - - '103'
-      - Roberto Nichele
-    - place: 88=
-      total: 8
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 8.379
-        distance: 8.379
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
 - - - - '60'
       - Rohan Holtkamp
     - place: '1'
@@ -13637,9 +13637,51 @@ score:
         flown: 7.110 km
       landedMade: 6.803 km
       stoppedAlt: 267.000 m
+  - - - '53'
+      - Hadewych van Kempen
+    - place: 89=
+      total: 16
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 10.121
+        arrival: 0
+        time: 0
+        reach: 6.257
+        distance: 16.378
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
+  - - - '40'
+      - Phil de Joux
+    - place: 89=
+      total: 16
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 10.121
+        arrival: 0
+        time: 0
+        reach: 6.257
+        distance: 16.378
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
   - - - '86'
       - Talgat Irgaleev
-    - place: '89'
+    - place: '91'
       total: 8
       jump: null
       penaltiesJump: []
@@ -13668,7 +13710,7 @@ score:
       stoppedAlt: 229.000 m
   - - - '50'
       - Monique Pavy
-    - place: '90'
+    - place: '92'
       total: 7
       jump: null
       penaltiesJump: []
@@ -13695,48 +13737,6 @@ score:
         flown: 1.015 km
       landedMade: 0.435 km
       stoppedAlt: 0.000 m
-  - - - '53'
-      - Hadewych van Kempen
-    - place: 91=
-      total: 6
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 6.257
-        distance: 6.257
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
-  - - - '40'
-      - Phil de Joux
-    - place: 91=
-      total: 6
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 6.257
-        distance: 6.257
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
 - - - - '100'
       - Attila Bertok
     - place: '1'
@@ -16438,17 +16438,17 @@ score:
   - - - '91'
       - Francesco Rinaldi
     - place: '94'
-      total: 5
+      total: 9
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 3.75
         arrival: 0
         time: 0
         reach: 5.286
-        distance: 5.286
+        distance: 9.036
         leading: 0
       velocity: null
       reach:
@@ -18979,9 +18979,72 @@ score:
         flown: 13.668 km
       landedMade: 12.874 km
       stoppedAlt: 248.000 m
+  - - - '62'
+      - Enda Murphy
+    - place: 88=
+      total: 24
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 12.382
+        arrival: 0
+        time: 0
+        reach: 11.217
+        distance: 23.599
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
+  - - - '28'
+      - Evgeniya Laritskaya
+    - place: 88=
+      total: 24
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 12.382
+        arrival: 0
+        time: 0
+        reach: 11.217
+        distance: 23.599
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
+  - - - '47'
+      - ! 'Miguel De Jong '
+    - place: 88=
+      total: 24
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 12.382
+        arrival: 0
+        time: 0
+        reach: 11.217
+        distance: 23.599
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
   - - - '86'
       - Talgat Irgaleev
-    - place: 88=
+    - place: 91=
       total: 13
       jump: null
       penaltiesJump: []
@@ -19010,7 +19073,7 @@ score:
       stoppedAlt: 229.000 m
   - - - '50'
       - Monique Pavy
-    - place: 88=
+    - place: 91=
       total: 13
       jump: null
       penaltiesJump: []
@@ -19037,69 +19100,6 @@ score:
         flown: 0.938 km
       landedMade: 0.378 km
       stoppedAlt: 0.000 m
-  - - - '62'
-      - Enda Murphy
-    - place: 90=
-      total: 11
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 11.217
-        distance: 11.217
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
-  - - - '28'
-      - Evgeniya Laritskaya
-    - place: 90=
-      total: 11
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 11.217
-        distance: 11.217
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
-  - - - '47'
-      - ! 'Miguel De Jong '
-    - place: 90=
-      total: 11
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 11.217
-        distance: 11.217
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
 - - - - '23'
       - Gerolf Heinrichs
     - place: '1'
@@ -21602,17 +21602,17 @@ score:
   - - - '28'
       - Evgeniya Laritskaya
     - place: 88=
-      total: 8
+      total: 20
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 11.643
         arrival: 0
         time: 0
         reach: 8.21
-        distance: 8.21
+        distance: 19.853
         leading: 0
       velocity: null
       reach:
@@ -21623,17 +21623,17 @@ score:
   - - - '64'
       - Gustavo Carvalho
     - place: 88=
-      total: 8
+      total: 20
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 11.643
         arrival: 0
         time: 0
         reach: 8.21
-        distance: 8.21
+        distance: 19.853
         leading: 0
       velocity: null
       reach:
@@ -21644,17 +21644,17 @@ score:
   - - - '32'
       - Kathryn O'Riordan
     - place: 88=
-      total: 8
+      total: 20
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 11.643
         arrival: 0
         time: 0
         reach: 8.21
-        distance: 8.21
+        distance: 19.853
         leading: 0
       velocity: null
       reach:
@@ -42352,17 +42352,17 @@ scoreDfNoTrack:
 - - - - '58'
       - Anna Belova
     - place: 1=
-      total: 12
+      total: 52
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0.499
+        effort: 39.789
         arrival: 0
         time: 0
         reach: 11.95
-        distance: 12.45
+        distance: 51.739
         leading: 0
       velocity: null
       reach:
@@ -42373,17 +42373,17 @@ scoreDfNoTrack:
   - - - '79'
       - David Stevens
     - place: 1=
-      total: 12
+      total: 52
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0.499
+        effort: 39.789
         arrival: 0
         time: 0
         reach: 11.95
-        distance: 12.45
+        distance: 51.739
         leading: 0
       velocity: null
       reach:
@@ -42394,17 +42394,17 @@ scoreDfNoTrack:
   - - - '52'
       - Virpi Nieminen
     - place: 1=
-      total: 12
+      total: 52
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0.499
+        effort: 39.789
         arrival: 0
         time: 0
         reach: 11.95
-        distance: 12.45
+        distance: 51.739
         leading: 0
       velocity: null
       reach:
@@ -42532,17 +42532,17 @@ scoreDfNoTrack:
   - - - '42'
       - Suan Selenati
     - place: '5'
-      total: 6
+      total: 13
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0.12
+        effort: 7.506
         arrival: 0
         time: 0
         reach: 5.772
-        distance: 5.892
+        distance: 13.279
         leading: 0
       velocity: null
       reach:
@@ -42582,17 +42582,17 @@ scoreDfNoTrack:
   - - - '28'
       - Evgeniya Laritskaya
     - place: 2=
-      total: 8
+      total: 27
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 18.497
         arrival: 0
         time: 0
         reach: 8.379
-        distance: 8.379
+        distance: 26.876
         leading: 0
       velocity: null
       reach:
@@ -42603,17 +42603,17 @@ scoreDfNoTrack:
   - - - '57'
       - Julia Kucherenko
     - place: 2=
-      total: 8
+      total: 27
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 18.497
         arrival: 0
         time: 0
         reach: 8.379
-        distance: 8.379
+        distance: 26.876
         leading: 0
       velocity: null
       reach:
@@ -42624,17 +42624,17 @@ scoreDfNoTrack:
   - - - '88'
       - Martin Sielaff
     - place: 2=
-      total: 8
+      total: 27
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 18.497
         arrival: 0
         time: 0
         reach: 8.379
-        distance: 8.379
+        distance: 26.876
         leading: 0
       velocity: null
       reach:
@@ -42645,17 +42645,17 @@ scoreDfNoTrack:
   - - - '103'
       - Roberto Nichele
     - place: 2=
-      total: 8
+      total: 27
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 18.497
         arrival: 0
         time: 0
         reach: 8.379
-        distance: 8.379
+        distance: 26.876
         leading: 0
       velocity: null
       reach:
@@ -42666,17 +42666,17 @@ scoreDfNoTrack:
 - - - - '53'
       - Hadewych van Kempen
     - place: 1=
-      total: 6
+      total: 16
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 10.121
         arrival: 0
         time: 0
         reach: 6.257
-        distance: 6.257
+        distance: 16.378
         leading: 0
       velocity: null
       reach:
@@ -42687,17 +42687,17 @@ scoreDfNoTrack:
   - - - '40'
       - Phil de Joux
     - place: 1=
-      total: 6
+      total: 16
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 10.121
         arrival: 0
         time: 0
         reach: 6.257
-        distance: 6.257
+        distance: 16.378
         leading: 0
       velocity: null
       reach:
@@ -42708,17 +42708,17 @@ scoreDfNoTrack:
 - - - - '91'
       - Francesco Rinaldi
     - place: '1'
-      total: 5
+      total: 9
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 3.75
         arrival: 0
         time: 0
         reach: 5.286
-        distance: 5.286
+        distance: 9.036
         leading: 0
       velocity: null
       reach:
@@ -42729,17 +42729,17 @@ scoreDfNoTrack:
 - - - - '62'
       - Enda Murphy
     - place: 1=
-      total: 11
+      total: 24
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 12.382
         arrival: 0
         time: 0
         reach: 11.217
-        distance: 11.217
+        distance: 23.599
         leading: 0
       velocity: null
       reach:
@@ -42750,17 +42750,17 @@ scoreDfNoTrack:
   - - - '28'
       - Evgeniya Laritskaya
     - place: 1=
-      total: 11
+      total: 24
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 12.382
         arrival: 0
         time: 0
         reach: 11.217
-        distance: 11.217
+        distance: 23.599
         leading: 0
       velocity: null
       reach:
@@ -42771,17 +42771,17 @@ scoreDfNoTrack:
   - - - '47'
       - ! 'Miguel De Jong '
     - place: 1=
-      total: 11
+      total: 24
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 12.382
         arrival: 0
         time: 0
         reach: 11.217
-        distance: 11.217
+        distance: 23.599
         leading: 0
       velocity: null
       reach:
@@ -42913,17 +42913,17 @@ scoreDfNoTrack:
   - - - '28'
       - Evgeniya Laritskaya
     - place: 6=
-      total: 8
+      total: 20
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 11.643
         arrival: 0
         time: 0
         reach: 8.21
-        distance: 8.21
+        distance: 19.853
         leading: 0
       velocity: null
       reach:
@@ -42934,17 +42934,17 @@ scoreDfNoTrack:
   - - - '64'
       - Gustavo Carvalho
     - place: 6=
-      total: 8
+      total: 20
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 11.643
         arrival: 0
         time: 0
         reach: 8.21
-        distance: 8.21
+        distance: 19.853
         leading: 0
       velocity: null
       reach:
@@ -42955,17 +42955,17 @@ scoreDfNoTrack:
   - - - '32'
       - Kathryn O'Riordan
     - place: 6=
-      total: 8
+      total: 20
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 11.643
         arrival: 0
         time: 0
         reach: 8.21
-        distance: 8.21
+        distance: 19.853
         leading: 0
       velocity: null
       reach:

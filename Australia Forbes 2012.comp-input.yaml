@@ -109,6 +109,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: day 2
@@ -194,6 +195,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: Day 3
@@ -279,6 +281,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals:
   - - - '67'
@@ -360,6 +363,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals:
   - - - '76'
@@ -445,6 +449,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals:
   - - - '76'
@@ -526,6 +531,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals:
   - - - '96'
@@ -615,6 +621,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: Day 8
@@ -700,6 +707,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 taskFolders:

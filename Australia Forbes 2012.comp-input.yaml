@@ -24,6 +24,7 @@ nominal:
 compTweak:
   arrivalRank: true
   arrivalTime: false
+  leadingAreaDistanceSquared: false
   leadingWeightScaling: null
 tasks:
 - taskName: Day 1
@@ -105,6 +106,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -191,6 +193,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -277,6 +280,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -359,6 +363,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -445,6 +450,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -527,6 +533,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -617,6 +624,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -703,6 +711,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s

@@ -290,11 +290,17 @@ tasks:
   penals:
   - - - '67'
       - ! 'Andy Phillips '
-    - - penalty-points: 0.16
+    - adds:
+      - penalty-points: 0.16
+      muls: []
+      resets: []
     - CTAF infringement of 218m
   - - - '77'
       - Len Paton
-    - - penalty-points: 0.13
+    - adds:
+      - penalty-points: 0.13
+      muls: []
+      resets: []
     - CTAF infringement of 201m
 - taskName: Day 4
   zones:
@@ -373,15 +379,24 @@ tasks:
   penals:
   - - - '76'
       - Dmitriy Korchenkov
-    - - penalty-fraction: 0.1
+    - adds: []
+      muls:
+      - penalty-fraction: 0.1
+      resets: []
     - Restricted Airspace infringement > 100m
   - - - '17'
       - John Urlich
-    - - penalty-points: 9.0e-2
+    - adds:
+      - penalty-points: 9.0e-2
+      muls: []
+      resets: []
     - CTAF infringement of 177m
   - - - '98'
       - Patrick Collin
-    - - penalty-fraction: 0.1
+    - adds: []
+      muls:
+      - penalty-fraction: 0.1
+      resets: []
     - Restricted Airspace infringement > 100m
 - taskName: Day 5
   zones:
@@ -460,11 +475,17 @@ tasks:
   penals:
   - - - '76'
       - Dmitriy Korchenkov
-    - - penalty-fraction: 0.1
+    - adds: []
+      muls:
+      - penalty-fraction: 0.1
+      resets: []
     - Restricted Airspace infringement > 100m
   - - - '17'
       - John Urlich
-    - - penalty-points: 0.43
+    - adds:
+      - penalty-points: 0.43
+      muls: []
+      resets: []
     - CTAF infringment of 302m
 - taskName: Day 6
   zones:
@@ -543,7 +564,10 @@ tasks:
   penals:
   - - - '96'
       - Brodrick Osborne
-    - - penalty-points: 6
+    - adds:
+      - penalty-points: 6
+      muls: []
+      resets: []
     - Jump the gun adjustment
 - taskName: Day 7
   zones:

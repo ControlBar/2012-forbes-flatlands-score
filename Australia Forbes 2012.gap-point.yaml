@@ -12648,9 +12648,49 @@ score:
       subtotal: 593.135
       landedMade: 144.035 km
       stoppedAlt: null
+  - - - '98'
+      - Patrick Collin
+    - place: '36'
+      total: 547.246
+      jump: null
+      penalties:
+        adds: []
+        muls:
+        - penalty-fraction: 0.9
+        resets: []
+      breakdown:
+        effort: 236.532
+        arrival: 13.5
+        time: 111.7
+        reach: 236.532
+        distance: 473.065
+        leading: 9.9
+      demeritFrac: 60.805
+      demeritPoint: 0
+      velocity:
+        ss: 2012-01-09T03:50:43.01086803838Z
+        gs: null
+        es: 2012-01-09T06:46:23.14806081849Z
+        ssDistance: 126.252 km
+        ssElapsed: 2.927816 h
+        gsElapsed: 2.927816 h
+        ssVelocity: 43.12 km / h
+        gsVelocity: 43.12 km / h
+      reach:
+        extra: 141.152 km
+        flown: 141.152 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: Restricted Airspace infringement > 100m
+      subtotal: 608.051
+      landedMade: 141.152 km
+      stoppedAlt: null
   - - - '94'
       - Mitch Shipley
-    - place: '36'
+    - place: '37'
       total: 516.646
       jump: null
       penalties:
@@ -12689,7 +12729,7 @@ score:
       stoppedAlt: 364.000 m
   - - - '33'
       - Conrad Loten
-    - place: '37'
+    - place: '38'
       total: 509.034
       jump: null
       penalties:
@@ -12728,7 +12768,7 @@ score:
       stoppedAlt: 386.000 m
   - - - '21'
       - Gavin Myers
-    - place: '38'
+    - place: '39'
       total: 494.996
       jump: null
       penalties:
@@ -12767,7 +12807,7 @@ score:
       stoppedAlt: 326.000 m
   - - - '106'
       - Adam Parer
-    - place: '39'
+    - place: '40'
       total: 472.734
       jump: null
       penalties:
@@ -12806,7 +12846,7 @@ score:
       stoppedAlt: 326.000 m
   - - - '62'
       - Enda Murphy
-    - place: '40'
+    - place: '41'
       total: 454.814
       jump: null
       penalties:
@@ -12845,7 +12885,7 @@ score:
       stoppedAlt: 363.000 m
   - - - '95'
       - Anton Struganov
-    - place: '41'
+    - place: '42'
       total: 451.729
       jump: null
       penalties:
@@ -12884,7 +12924,7 @@ score:
       stoppedAlt: 437.000 m
   - - - '96'
       - Brodrick Osborne
-    - place: '42'
+    - place: '43'
       total: 451.121
       jump: null
       penalties:
@@ -12923,7 +12963,7 @@ score:
       stoppedAlt: 440.000 m
   - - - '66'
       - Jonas Lobitz
-    - place: '43'
+    - place: '44'
       total: 449.898
       jump: null
       penalties:
@@ -12962,7 +13002,7 @@ score:
       stoppedAlt: 420.000 m
   - - - '82'
       - Alain Le-gac
-    - place: '44'
+    - place: '45'
       total: 400.223
       jump: null
       penalties:
@@ -13001,7 +13041,7 @@ score:
       stoppedAlt: 428.000 m
   - - - '7'
       - Shaun O'neill
-    - place: '45'
+    - place: '46'
       total: 390.715
       jump: null
       penalties:
@@ -13040,7 +13080,7 @@ score:
       stoppedAlt: 403.000 m
   - - - '101'
       - ! 'Andrew Luton '
-    - place: '46'
+    - place: '47'
       total: 379.767
       jump: null
       penalties:
@@ -13079,7 +13119,7 @@ score:
       stoppedAlt: 457.000 m
   - - - '71'
       - Edoardo Giudiceandrea
-    - place: '47'
+    - place: '48'
       total: 379.306
       jump: null
       penalties:
@@ -13118,7 +13158,7 @@ score:
       stoppedAlt: 429.000 m
   - - - '77'
       - Len Paton
-    - place: '48'
+    - place: '49'
       total: 365.541
       jump: null
       penalties:
@@ -13157,7 +13197,7 @@ score:
       stoppedAlt: 461.000 m
   - - - '43'
       - Les Bestt
-    - place: '49'
+    - place: '50'
       total: 355.252
       jump: null
       penalties:
@@ -13196,7 +13236,7 @@ score:
       stoppedAlt: 459.000 m
   - - - '16'
       - Grant Edward
-    - place: '50'
+    - place: '51'
       total: 341.573
       jump: null
       penalties:
@@ -13235,7 +13275,7 @@ score:
       stoppedAlt: 467.000 m
   - - - '29'
       - Konstantin Lukyanov
-    - place: '51'
+    - place: '52'
       total: 339.561
       jump: null
       penalties:
@@ -13274,7 +13314,7 @@ score:
       stoppedAlt: 427.000 m
   - - - '19'
       - Mikhail Karmazin
-    - place: '52'
+    - place: '53'
       total: 338.455
       jump: null
       penalties:
@@ -13313,7 +13353,7 @@ score:
       stoppedAlt: 397.000 m
   - - - '87'
       - Corinna Schwiegershausen
-    - place: '53'
+    - place: '54'
       total: 331.583
       jump: null
       penalties:
@@ -13352,7 +13392,7 @@ score:
       stoppedAlt: 385.000 m
   - - - '12'
       - Glen Mcfarlane
-    - place: '54'
+    - place: '55'
       total: 321.228
       jump: null
       penalties:
@@ -13391,7 +13431,7 @@ score:
       stoppedAlt: 384.000 m
   - - - '8'
       - Primoz Gricar
-    - place: '55'
+    - place: '56'
       total: 298.709
       jump: null
       penalties:
@@ -13430,7 +13470,7 @@ score:
       stoppedAlt: 462.000 m
   - - - '46'
       - Jonathon Foote
-    - place: '56'
+    - place: '57'
       total: 294.57
       jump: null
       penalties:
@@ -13469,7 +13509,7 @@ score:
       stoppedAlt: 409.000 m
   - - - '51'
       - Rob In 't Groen
-    - place: '57'
+    - place: '58'
       total: 284.507
       jump: null
       penalties:
@@ -13508,7 +13548,7 @@ score:
       stoppedAlt: 457.000 m
   - - - '3'
       - Rod Flockhart
-    - place: '58'
+    - place: '59'
       total: 281.546
       jump: null
       penalties:
@@ -13547,7 +13587,7 @@ score:
       stoppedAlt: 465.000 m
   - - - '47'
       - ! 'Miguel De Jong '
-    - place: '59'
+    - place: '60'
       total: 265.314
       jump: null
       penalties:
@@ -13586,7 +13626,7 @@ score:
       stoppedAlt: 514.000 m
   - - - '85'
       - Neil Petersen
-    - place: 60=
+    - place: 61=
       total: 236.269
       jump: null
       penalties:
@@ -13625,7 +13665,7 @@ score:
       stoppedAlt: 419.000 m
   - - - '70'
       - Matthew Barlow
-    - place: 60=
+    - place: 61=
       total: 235.756
       jump: null
       penalties:
@@ -13664,7 +13704,7 @@ score:
       stoppedAlt: 1327.000 m
   - - - '32'
       - Kathryn O'Riordan
-    - place: '62'
+    - place: '63'
       total: 228.448
       jump: null
       penalties:
@@ -13703,7 +13743,7 @@ score:
       stoppedAlt: 364.000 m
   - - - '52'
       - Virpi Nieminen
-    - place: '63'
+    - place: '64'
       total: 216.121
       jump: null
       penalties:
@@ -13742,7 +13782,7 @@ score:
       stoppedAlt: 435.000 m
   - - - '73'
       - Gijs Wanders
-    - place: '64'
+    - place: '65'
       total: 208.74
       jump: null
       penalties:
@@ -13781,7 +13821,7 @@ score:
       stoppedAlt: 380.000 m
   - - - '49'
       - Tony Giammichele
-    - place: '65'
+    - place: '66'
       total: 204.328
       jump: null
       penalties:
@@ -13820,7 +13860,7 @@ score:
       stoppedAlt: 374.000 m
   - - - '79'
       - David Stevens
-    - place: '66'
+    - place: '67'
       total: 202.187
       jump: null
       penalties:
@@ -13859,7 +13899,7 @@ score:
       stoppedAlt: 352.000 m
   - - - '105'
       - Chris Lawry
-    - place: '67'
+    - place: '68'
       total: 199.866
       jump: null
       penalties:
@@ -13898,7 +13938,7 @@ score:
       stoppedAlt: 367.000 m
   - - - '41'
       - Curt Warren
-    - place: '68'
+    - place: '69'
       total: 197.961
       jump: null
       penalties:
@@ -13937,7 +13977,7 @@ score:
       stoppedAlt: 353.000 m
   - - - '102'
       - Davide Guiducci
-    - place: '69'
+    - place: '70'
       total: 171.612
       jump: null
       penalties:
@@ -13976,7 +14016,7 @@ score:
       stoppedAlt: 371.000 m
   - - - '22'
       - Mark Russell
-    - place: '70'
+    - place: '71'
       total: 166.699
       jump: null
       penalties:
@@ -14015,7 +14055,7 @@ score:
       stoppedAlt: 246.000 m
   - - - '83'
       - Peter Dall
-    - place: '71'
+    - place: '72'
       total: 161.426
       jump: null
       penalties:
@@ -14054,7 +14094,7 @@ score:
       stoppedAlt: 343.000 m
   - - - '17'
       - John Urlich
-    - place: '72'
+    - place: '73'
       total: 156.735
       jump: null
       penalties:
@@ -14094,7 +14134,7 @@ score:
       stoppedAlt: 408.000 m
   - - - '20'
       - ! 'Luke Browne '
-    - place: '73'
+    - place: '74'
       total: 144.693
       jump: null
       penalties:
@@ -14133,7 +14173,7 @@ score:
       stoppedAlt: 369.000 m
   - - - '27'
       - ! 'Boris Marold '
-    - place: '74'
+    - place: '75'
       total: 139.911
       jump: null
       penalties:
@@ -14172,7 +14212,7 @@ score:
       stoppedAlt: 238.000 m
   - - - '97'
       - Konrad Schwab
-    - place: '75'
+    - place: '76'
       total: 122.072
       jump: null
       penalties:
@@ -14209,9 +14249,49 @@ score:
       subtotal: 122.072
       landedMade: 33.760 km
       stoppedAlt: 332.000 m
+  - - - '76'
+      - Dmitriy Korchenkov
+    - place: '77'
+      total: 100.881
+      jump: null
+      penalties:
+        adds: []
+        muls:
+        - penalty-fraction: 0.9
+        resets: []
+      breakdown:
+        effort: 60.635
+        arrival: 0
+        time: 0
+        reach: 51.455
+        distance: 112.09
+        leading: 0
+      demeritFrac: 11.209
+      demeritPoint: 0
+      velocity:
+        ss: 2012-01-09T04:11:39.39831433248Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 30.706 km
+        flown: 30.706 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: Restricted Airspace infringement > 100m
+      subtotal: 112.09
+      landedMade: 30.053 km
+      stoppedAlt: 296.000 m
   - - - '64'
       - Gustavo Carvalho
-    - place: '76'
+    - place: '78'
       total: 97.271
       jump: null
       penalties:
@@ -14250,7 +14330,7 @@ score:
       stoppedAlt: 345.000 m
   - - - '40'
       - Phil de Joux
-    - place: '77'
+    - place: '79'
       total: 95.763
       jump: null
       penalties:
@@ -14289,7 +14369,7 @@ score:
       stoppedAlt: 287.000 m
   - - - '2'
       - Pablo Gomes
-    - place: '78'
+    - place: '80'
       total: 89.864
       jump: null
       penalties:
@@ -14328,7 +14408,7 @@ score:
       stoppedAlt: 288.000 m
   - - - '53'
       - Hadewych van Kempen
-    - place: '79'
+    - place: '81'
       total: 86.869
       jump: null
       penalties:
@@ -14367,7 +14447,7 @@ score:
       stoppedAlt: 274.000 m
   - - - '37'
       - Peter Ebeling
-    - place: '80'
+    - place: '82'
       total: 62.042
       jump: null
       penalties:
@@ -14404,49 +14484,9 @@ score:
       subtotal: 62.042
       landedMade: 15.292 km
       stoppedAlt: 293.000 m
-  - - - '98'
-      - Patrick Collin
-    - place: '81'
-      total: 60.805
-      jump: null
-      penalties:
-        adds: []
-        muls:
-        - penalty-fraction: 0.1
-        resets: []
-      breakdown:
-        effort: 236.532
-        arrival: 13.5
-        time: 111.7
-        reach: 236.532
-        distance: 473.065
-        leading: 9.9
-      demeritFrac: 547.246
-      demeritPoint: 0
-      velocity:
-        ss: 2012-01-09T03:50:43.01086803838Z
-        gs: null
-        es: 2012-01-09T06:46:23.14806081849Z
-        ssDistance: 126.252 km
-        ssElapsed: 2.927816 h
-        gsElapsed: 2.927816 h
-        ssVelocity: 43.12 km / h
-        gsVelocity: 43.12 km / h
-      reach:
-        extra: 141.152 km
-        flown: 141.152 km
-      demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: Restricted Airspace infringement > 100m
-      subtotal: 608.051
-      landedMade: 141.152 km
-      stoppedAlt: null
   - - - '30'
       - Fredy Bircher
-    - place: '82'
+    - place: '83'
       total: 55.495
       jump: null
       penalties:
@@ -14485,7 +14525,7 @@ score:
       stoppedAlt: 257.000 m
   - - - '48'
       - Paolo Rosichetti
-    - place: '83'
+    - place: '84'
       total: 53.614
       jump: null
       penalties:
@@ -14524,7 +14564,7 @@ score:
       stoppedAlt: 245.000 m
   - - - '81'
       - Valentino Bau
-    - place: '84'
+    - place: '85'
       total: 46.181
       jump: null
       penalties:
@@ -14563,7 +14603,7 @@ score:
       stoppedAlt: 265.000 m
   - - - '35'
       - Carole Tobler
-    - place: '85'
+    - place: '86'
       total: 27.818
       jump: null
       penalties:
@@ -14602,7 +14642,7 @@ score:
       stoppedAlt: 246.000 m
   - - - '28'
       - Evgeniya Laritskaya
-    - place: 86=
+    - place: 87=
       total: 26.858
       jump: null
       penalties:
@@ -14633,7 +14673,7 @@ score:
       stoppedAlt: null
   - - - '57'
       - Julia Kucherenko
-    - place: 86=
+    - place: 87=
       total: 26.858
       jump: null
       penalties:
@@ -14664,7 +14704,7 @@ score:
       stoppedAlt: null
   - - - '88'
       - Martin Sielaff
-    - place: 86=
+    - place: 87=
       total: 26.858
       jump: null
       penalties:
@@ -14695,7 +14735,7 @@ score:
       stoppedAlt: null
   - - - '103'
       - Roberto Nichele
-    - place: 86=
+    - place: 87=
       total: 26.858
       jump: null
       penalties:
@@ -14726,7 +14766,7 @@ score:
       stoppedAlt: null
   - - - '58'
       - Anna Belova
-    - place: '90'
+    - place: '91'
       total: 21.083
       jump: null
       penalties:
@@ -14763,46 +14803,6 @@ score:
       subtotal: 21.083
       landedMade: 3.428 km
       stoppedAlt: 239.000 m
-  - - - '76'
-      - Dmitriy Korchenkov
-    - place: '91'
-      total: 11.209
-      jump: null
-      penalties:
-        adds: []
-        muls:
-        - penalty-fraction: 0.1
-        resets: []
-      breakdown:
-        effort: 60.635
-        arrival: 0
-        time: 0
-        reach: 51.455
-        distance: 112.09
-        leading: 0
-      demeritFrac: 100.881
-      demeritPoint: 0
-      velocity:
-        ss: 2012-01-09T04:11:39.39831433248Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 30.706 km
-        flown: 30.706 km
-      demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: Restricted Airspace infringement > 100m
-      subtotal: 112.09
-      landedMade: 30.053 km
-      stoppedAlt: 296.000 m
 - - - - '60'
       - Rohan Holtkamp
     - place: '1'
@@ -17650,9 +17650,49 @@ score:
       subtotal: 141.412
       landedMade: 51.092 km
       stoppedAlt: 296.000 m
+  - - - '76'
+      - Dmitriy Korchenkov
+    - place: '74'
+      total: 133.627
+      jump: null
+      penalties:
+        adds: []
+        muls:
+        - penalty-fraction: 0.9
+        resets: []
+      breakdown:
+        effort: 81.689
+        arrival: 0
+        time: 0
+        reach: 66.786
+        distance: 148.474
+        leading: 0
+      demeritFrac: 14.847
+      demeritPoint: 0
+      velocity:
+        ss: 2012-01-10T04:03:13.341953034975Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 53.365 km
+        flown: 53.365 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: Restricted Airspace infringement > 100m
+      subtotal: 148.474
+      landedMade: 53.087 km
+      stoppedAlt: 355.000 m
   - - - '64'
       - Gustavo Carvalho
-    - place: '74'
+    - place: '75'
       total: 133.483
       jump: null
       penalties:
@@ -17691,7 +17731,7 @@ score:
       stoppedAlt: 331.000 m
   - - - '81'
       - Valentino Bau
-    - place: '75'
+    - place: '76'
       total: 120.755
       jump: null
       penalties:
@@ -17730,7 +17770,7 @@ score:
       stoppedAlt: 303.000 m
   - - - '19'
       - Mikhail Karmazin
-    - place: '76'
+    - place: '77'
       total: 119.982
       jump: null
       penalties:
@@ -17769,7 +17809,7 @@ score:
       stoppedAlt: 340.000 m
   - - - '17'
       - John Urlich
-    - place: '77'
+    - place: '78'
       total: 104.946
       jump: null
       penalties:
@@ -17809,7 +17849,7 @@ score:
       stoppedAlt: 360.000 m
   - - - '52'
       - Virpi Nieminen
-    - place: '78'
+    - place: '79'
       total: 85.84
       jump: null
       penalties:
@@ -17848,7 +17888,7 @@ score:
       stoppedAlt: 285.000 m
   - - - '28'
       - Evgeniya Laritskaya
-    - place: '79'
+    - place: '80'
       total: 79.552
       jump: null
       penalties:
@@ -17887,7 +17927,7 @@ score:
       stoppedAlt: 276.000 m
   - - - '43'
       - Les Bestt
-    - place: '80'
+    - place: '81'
       total: 71.883
       jump: null
       penalties:
@@ -17926,7 +17966,7 @@ score:
       stoppedAlt: 278.000 m
   - - - '27'
       - ! 'Boris Marold '
-    - place: '81'
+    - place: '82'
       total: 69.019
       jump: null
       penalties:
@@ -17965,7 +18005,7 @@ score:
       stoppedAlt: 288.000 m
   - - - '82'
       - Alain Le-gac
-    - place: '82'
+    - place: '83'
       total: 62.264
       jump: null
       penalties:
@@ -18004,7 +18044,7 @@ score:
       stoppedAlt: 261.000 m
   - - - '47'
       - ! 'Miguel De Jong '
-    - place: '83'
+    - place: '84'
       total: 54.477
       jump: null
       penalties:
@@ -18043,7 +18083,7 @@ score:
       stoppedAlt: 264.000 m
   - - - '105'
       - Chris Lawry
-    - place: '84'
+    - place: '85'
       total: 51.949
       jump: null
       penalties:
@@ -18082,7 +18122,7 @@ score:
       stoppedAlt: 276.000 m
   - - - '70'
       - Matthew Barlow
-    - place: '85'
+    - place: '86'
       total: 45.282
       jump: null
       penalties:
@@ -18121,7 +18161,7 @@ score:
       stoppedAlt: 1431.000 m
   - - - '97'
       - Konrad Schwab
-    - place: '86'
+    - place: '87'
       total: 32.347
       jump: null
       penalties:
@@ -18160,7 +18200,7 @@ score:
       stoppedAlt: 267.000 m
   - - - '58'
       - Anna Belova
-    - place: '87'
+    - place: '88'
       total: 21.782
       jump: null
       penalties:
@@ -18199,7 +18239,7 @@ score:
       stoppedAlt: 267.000 m
   - - - '53'
       - Hadewych van Kempen
-    - place: 88=
+    - place: 89=
       total: 16.352
       jump: null
       penalties:
@@ -18230,7 +18270,7 @@ score:
       stoppedAlt: null
   - - - '40'
       - Phil de Joux
-    - place: 88=
+    - place: 89=
       total: 16.352
       jump: null
       penalties:
@@ -18259,46 +18299,6 @@ score:
       subtotal: 16.352
       landedMade: 0.000 km
       stoppedAlt: null
-  - - - '76'
-      - Dmitriy Korchenkov
-    - place: '90'
-      total: 14.847
-      jump: null
-      penalties:
-        adds: []
-        muls:
-        - penalty-fraction: 0.1
-        resets: []
-      breakdown:
-        effort: 81.689
-        arrival: 0
-        time: 0
-        reach: 66.786
-        distance: 148.474
-        leading: 0
-      demeritFrac: 133.627
-      demeritPoint: 0
-      velocity:
-        ss: 2012-01-10T04:03:13.341953034975Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 53.365 km
-        flown: 53.365 km
-      demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: Restricted Airspace infringement > 100m
-      subtotal: 148.474
-      landedMade: 53.087 km
-      stoppedAlt: 355.000 m
   - - - '86'
       - Talgat Irgaleev
     - place: '91'
@@ -41038,9 +41038,49 @@ scoreDf:
       subtotal: 610.695
       landedMade: 141.152 km
       stoppedAlt: null
+  - - - '98'
+      - Patrick Collin
+    - place: '35'
+      total: 547.246
+      jump: null
+      penalties:
+        adds: []
+        muls:
+        - penalty-fraction: 0.9
+        resets: []
+      breakdown:
+        effort: 236.532
+        arrival: 13.5
+        time: 111.7
+        reach: 236.532
+        distance: 473.065
+        leading: 9.9
+      demeritFrac: 60.805
+      demeritPoint: 0
+      velocity:
+        ss: 2012-01-09T03:50:43.01086803838Z
+        gs: null
+        es: 2012-01-09T06:46:23.14806081849Z
+        ssDistance: 126.252 km
+        ssElapsed: 2.927816 h
+        gsElapsed: 2.927816 h
+        ssVelocity: 43.12 km / h
+        gsVelocity: 43.12 km / h
+      reach:
+        extra: 141.152 km
+        flown: 141.152 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: Restricted Airspace infringement > 100m
+      subtotal: 608.051
+      landedMade: 141.152 km
+      stoppedAlt: null
   - - - '94'
       - Mitch Shipley
-    - place: '35'
+    - place: '36'
       total: 516.646
       jump: null
       penalties:
@@ -41079,7 +41119,7 @@ scoreDf:
       stoppedAlt: 364.000 m
   - - - '33'
       - Conrad Loten
-    - place: '36'
+    - place: '37'
       total: 509.034
       jump: null
       penalties:
@@ -41118,7 +41158,7 @@ scoreDf:
       stoppedAlt: 386.000 m
   - - - '21'
       - Gavin Myers
-    - place: '37'
+    - place: '38'
       total: 494.996
       jump: null
       penalties:
@@ -41157,7 +41197,7 @@ scoreDf:
       stoppedAlt: 326.000 m
   - - - '106'
       - Adam Parer
-    - place: '38'
+    - place: '39'
       total: 472.734
       jump: null
       penalties:
@@ -41196,7 +41236,7 @@ scoreDf:
       stoppedAlt: 326.000 m
   - - - '62'
       - Enda Murphy
-    - place: '39'
+    - place: '40'
       total: 454.814
       jump: null
       penalties:
@@ -41235,7 +41275,7 @@ scoreDf:
       stoppedAlt: 363.000 m
   - - - '95'
       - Anton Struganov
-    - place: '40'
+    - place: '41'
       total: 451.729
       jump: null
       penalties:
@@ -41274,7 +41314,7 @@ scoreDf:
       stoppedAlt: 437.000 m
   - - - '96'
       - Brodrick Osborne
-    - place: '41'
+    - place: '42'
       total: 451.121
       jump: null
       penalties:
@@ -41313,7 +41353,7 @@ scoreDf:
       stoppedAlt: 440.000 m
   - - - '66'
       - Jonas Lobitz
-    - place: '42'
+    - place: '43'
       total: 449.898
       jump: null
       penalties:
@@ -41352,7 +41392,7 @@ scoreDf:
       stoppedAlt: 420.000 m
   - - - '82'
       - Alain Le-gac
-    - place: '43'
+    - place: '44'
       total: 400.223
       jump: null
       penalties:
@@ -41391,7 +41431,7 @@ scoreDf:
       stoppedAlt: 428.000 m
   - - - '7'
       - Shaun O'neill
-    - place: '44'
+    - place: '45'
       total: 390.715
       jump: null
       penalties:
@@ -41430,7 +41470,7 @@ scoreDf:
       stoppedAlt: 403.000 m
   - - - '101'
       - ! 'Andrew Luton '
-    - place: '45'
+    - place: '46'
       total: 379.767
       jump: null
       penalties:
@@ -41469,7 +41509,7 @@ scoreDf:
       stoppedAlt: 457.000 m
   - - - '71'
       - Edoardo Giudiceandrea
-    - place: '46'
+    - place: '47'
       total: 379.306
       jump: null
       penalties:
@@ -41508,7 +41548,7 @@ scoreDf:
       stoppedAlt: 429.000 m
   - - - '77'
       - Len Paton
-    - place: '47'
+    - place: '48'
       total: 365.541
       jump: null
       penalties:
@@ -41547,7 +41587,7 @@ scoreDf:
       stoppedAlt: 461.000 m
   - - - '43'
       - Les Bestt
-    - place: '48'
+    - place: '49'
       total: 355.252
       jump: null
       penalties:
@@ -41586,7 +41626,7 @@ scoreDf:
       stoppedAlt: 459.000 m
   - - - '16'
       - Grant Edward
-    - place: '49'
+    - place: '50'
       total: 341.573
       jump: null
       penalties:
@@ -41625,7 +41665,7 @@ scoreDf:
       stoppedAlt: 467.000 m
   - - - '29'
       - Konstantin Lukyanov
-    - place: '50'
+    - place: '51'
       total: 339.561
       jump: null
       penalties:
@@ -41664,7 +41704,7 @@ scoreDf:
       stoppedAlt: 427.000 m
   - - - '19'
       - Mikhail Karmazin
-    - place: '51'
+    - place: '52'
       total: 338.455
       jump: null
       penalties:
@@ -41703,7 +41743,7 @@ scoreDf:
       stoppedAlt: 397.000 m
   - - - '87'
       - Corinna Schwiegershausen
-    - place: '52'
+    - place: '53'
       total: 331.583
       jump: null
       penalties:
@@ -41742,7 +41782,7 @@ scoreDf:
       stoppedAlt: 385.000 m
   - - - '12'
       - Glen Mcfarlane
-    - place: '53'
+    - place: '54'
       total: 321.228
       jump: null
       penalties:
@@ -41781,7 +41821,7 @@ scoreDf:
       stoppedAlt: 384.000 m
   - - - '8'
       - Primoz Gricar
-    - place: '54'
+    - place: '55'
       total: 298.709
       jump: null
       penalties:
@@ -41820,7 +41860,7 @@ scoreDf:
       stoppedAlt: 462.000 m
   - - - '46'
       - Jonathon Foote
-    - place: '55'
+    - place: '56'
       total: 294.57
       jump: null
       penalties:
@@ -41859,7 +41899,7 @@ scoreDf:
       stoppedAlt: 409.000 m
   - - - '51'
       - Rob In 't Groen
-    - place: '56'
+    - place: '57'
       total: 284.507
       jump: null
       penalties:
@@ -41898,7 +41938,7 @@ scoreDf:
       stoppedAlt: 457.000 m
   - - - '3'
       - Rod Flockhart
-    - place: '57'
+    - place: '58'
       total: 281.546
       jump: null
       penalties:
@@ -41937,7 +41977,7 @@ scoreDf:
       stoppedAlt: 465.000 m
   - - - '47'
       - ! 'Miguel De Jong '
-    - place: '58'
+    - place: '59'
       total: 265.314
       jump: null
       penalties:
@@ -41976,7 +42016,7 @@ scoreDf:
       stoppedAlt: 514.000 m
   - - - '85'
       - Neil Petersen
-    - place: 59=
+    - place: 60=
       total: 236.269
       jump: null
       penalties:
@@ -42015,7 +42055,7 @@ scoreDf:
       stoppedAlt: 419.000 m
   - - - '70'
       - Matthew Barlow
-    - place: 59=
+    - place: 60=
       total: 235.756
       jump: null
       penalties:
@@ -42054,7 +42094,7 @@ scoreDf:
       stoppedAlt: 1327.000 m
   - - - '32'
       - Kathryn O'Riordan
-    - place: '61'
+    - place: '62'
       total: 228.448
       jump: null
       penalties:
@@ -42093,7 +42133,7 @@ scoreDf:
       stoppedAlt: 364.000 m
   - - - '52'
       - Virpi Nieminen
-    - place: '62'
+    - place: '63'
       total: 216.121
       jump: null
       penalties:
@@ -42132,7 +42172,7 @@ scoreDf:
       stoppedAlt: 435.000 m
   - - - '73'
       - Gijs Wanders
-    - place: '63'
+    - place: '64'
       total: 208.74
       jump: null
       penalties:
@@ -42171,7 +42211,7 @@ scoreDf:
       stoppedAlt: 380.000 m
   - - - '49'
       - Tony Giammichele
-    - place: '64'
+    - place: '65'
       total: 204.328
       jump: null
       penalties:
@@ -42210,7 +42250,7 @@ scoreDf:
       stoppedAlt: 374.000 m
   - - - '79'
       - David Stevens
-    - place: '65'
+    - place: '66'
       total: 202.187
       jump: null
       penalties:
@@ -42249,7 +42289,7 @@ scoreDf:
       stoppedAlt: 352.000 m
   - - - '105'
       - Chris Lawry
-    - place: '66'
+    - place: '67'
       total: 199.866
       jump: null
       penalties:
@@ -42288,7 +42328,7 @@ scoreDf:
       stoppedAlt: 367.000 m
   - - - '41'
       - Curt Warren
-    - place: '67'
+    - place: '68'
       total: 197.961
       jump: null
       penalties:
@@ -42327,7 +42367,7 @@ scoreDf:
       stoppedAlt: 353.000 m
   - - - '102'
       - Davide Guiducci
-    - place: '68'
+    - place: '69'
       total: 171.612
       jump: null
       penalties:
@@ -42366,7 +42406,7 @@ scoreDf:
       stoppedAlt: 371.000 m
   - - - '22'
       - Mark Russell
-    - place: '69'
+    - place: '70'
       total: 166.699
       jump: null
       penalties:
@@ -42405,7 +42445,7 @@ scoreDf:
       stoppedAlt: 246.000 m
   - - - '83'
       - Peter Dall
-    - place: '70'
+    - place: '71'
       total: 161.426
       jump: null
       penalties:
@@ -42444,7 +42484,7 @@ scoreDf:
       stoppedAlt: 343.000 m
   - - - '17'
       - John Urlich
-    - place: '71'
+    - place: '72'
       total: 156.735
       jump: null
       penalties:
@@ -42484,7 +42524,7 @@ scoreDf:
       stoppedAlt: 408.000 m
   - - - '20'
       - ! 'Luke Browne '
-    - place: '72'
+    - place: '73'
       total: 144.693
       jump: null
       penalties:
@@ -42523,7 +42563,7 @@ scoreDf:
       stoppedAlt: 369.000 m
   - - - '27'
       - ! 'Boris Marold '
-    - place: '73'
+    - place: '74'
       total: 139.911
       jump: null
       penalties:
@@ -42562,7 +42602,7 @@ scoreDf:
       stoppedAlt: 238.000 m
   - - - '97'
       - Konrad Schwab
-    - place: '74'
+    - place: '75'
       total: 122.072
       jump: null
       penalties:
@@ -42599,9 +42639,49 @@ scoreDf:
       subtotal: 122.072
       landedMade: 33.760 km
       stoppedAlt: 332.000 m
+  - - - '76'
+      - Dmitriy Korchenkov
+    - place: '76'
+      total: 100.881
+      jump: null
+      penalties:
+        adds: []
+        muls:
+        - penalty-fraction: 0.9
+        resets: []
+      breakdown:
+        effort: 60.635
+        arrival: 0
+        time: 0
+        reach: 51.455
+        distance: 112.09
+        leading: 0
+      demeritFrac: 11.209
+      demeritPoint: 0
+      velocity:
+        ss: 2012-01-09T04:11:39.39831433248Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 30.706 km
+        flown: 30.706 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: Restricted Airspace infringement > 100m
+      subtotal: 112.09
+      landedMade: 30.053 km
+      stoppedAlt: 296.000 m
   - - - '64'
       - Gustavo Carvalho
-    - place: '75'
+    - place: '77'
       total: 97.271
       jump: null
       penalties:
@@ -42640,7 +42720,7 @@ scoreDf:
       stoppedAlt: 345.000 m
   - - - '40'
       - Phil de Joux
-    - place: '76'
+    - place: '78'
       total: 95.763
       jump: null
       penalties:
@@ -42679,7 +42759,7 @@ scoreDf:
       stoppedAlt: 287.000 m
   - - - '2'
       - Pablo Gomes
-    - place: '77'
+    - place: '79'
       total: 89.864
       jump: null
       penalties:
@@ -42718,7 +42798,7 @@ scoreDf:
       stoppedAlt: 288.000 m
   - - - '53'
       - Hadewych van Kempen
-    - place: '78'
+    - place: '80'
       total: 86.869
       jump: null
       penalties:
@@ -42757,7 +42837,7 @@ scoreDf:
       stoppedAlt: 274.000 m
   - - - '37'
       - Peter Ebeling
-    - place: '79'
+    - place: '81'
       total: 62.042
       jump: null
       penalties:
@@ -42794,49 +42874,9 @@ scoreDf:
       subtotal: 62.042
       landedMade: 15.292 km
       stoppedAlt: 293.000 m
-  - - - '98'
-      - Patrick Collin
-    - place: '80'
-      total: 60.805
-      jump: null
-      penalties:
-        adds: []
-        muls:
-        - penalty-fraction: 0.1
-        resets: []
-      breakdown:
-        effort: 236.532
-        arrival: 13.5
-        time: 111.7
-        reach: 236.532
-        distance: 473.065
-        leading: 9.9
-      demeritFrac: 547.246
-      demeritPoint: 0
-      velocity:
-        ss: 2012-01-09T03:50:43.01086803838Z
-        gs: null
-        es: 2012-01-09T06:46:23.14806081849Z
-        ssDistance: 126.252 km
-        ssElapsed: 2.927816 h
-        gsElapsed: 2.927816 h
-        ssVelocity: 43.12 km / h
-        gsVelocity: 43.12 km / h
-      reach:
-        extra: 141.152 km
-        flown: 141.152 km
-      demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: Restricted Airspace infringement > 100m
-      subtotal: 608.051
-      landedMade: 141.152 km
-      stoppedAlt: null
   - - - '30'
       - Fredy Bircher
-    - place: '81'
+    - place: '82'
       total: 55.495
       jump: null
       penalties:
@@ -42875,7 +42915,7 @@ scoreDf:
       stoppedAlt: 257.000 m
   - - - '48'
       - Paolo Rosichetti
-    - place: '82'
+    - place: '83'
       total: 53.614
       jump: null
       penalties:
@@ -42914,7 +42954,7 @@ scoreDf:
       stoppedAlt: 245.000 m
   - - - '81'
       - Valentino Bau
-    - place: '83'
+    - place: '84'
       total: 46.181
       jump: null
       penalties:
@@ -42953,7 +42993,7 @@ scoreDf:
       stoppedAlt: 265.000 m
   - - - '35'
       - Carole Tobler
-    - place: '84'
+    - place: '85'
       total: 27.818
       jump: null
       penalties:
@@ -42992,7 +43032,7 @@ scoreDf:
       stoppedAlt: 246.000 m
   - - - '58'
       - Anna Belova
-    - place: '85'
+    - place: '86'
       total: 21.083
       jump: null
       penalties:
@@ -43029,46 +43069,6 @@ scoreDf:
       subtotal: 21.083
       landedMade: 3.428 km
       stoppedAlt: 239.000 m
-  - - - '76'
-      - Dmitriy Korchenkov
-    - place: '86'
-      total: 11.209
-      jump: null
-      penalties:
-        adds: []
-        muls:
-        - penalty-fraction: 0.1
-        resets: []
-      breakdown:
-        effort: 60.635
-        arrival: 0
-        time: 0
-        reach: 51.455
-        distance: 112.09
-        leading: 0
-      demeritFrac: 100.881
-      demeritPoint: 0
-      velocity:
-        ss: 2012-01-09T04:11:39.39831433248Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 30.706 km
-        flown: 30.706 km
-      demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: Restricted Airspace infringement > 100m
-      subtotal: 112.09
-      landedMade: 30.053 km
-      stoppedAlt: 296.000 m
 - - - - '60'
       - Rohan Holtkamp
     - place: '1'
@@ -45916,9 +45916,49 @@ scoreDf:
       subtotal: 141.412
       landedMade: 51.092 km
       stoppedAlt: 296.000 m
+  - - - '76'
+      - Dmitriy Korchenkov
+    - place: '74'
+      total: 133.627
+      jump: null
+      penalties:
+        adds: []
+        muls:
+        - penalty-fraction: 0.9
+        resets: []
+      breakdown:
+        effort: 81.689
+        arrival: 0
+        time: 0
+        reach: 66.786
+        distance: 148.474
+        leading: 0
+      demeritFrac: 14.847
+      demeritPoint: 0
+      velocity:
+        ss: 2012-01-10T04:03:13.341953034975Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 53.365 km
+        flown: 53.365 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: Restricted Airspace infringement > 100m
+      subtotal: 148.474
+      landedMade: 53.087 km
+      stoppedAlt: 355.000 m
   - - - '64'
       - Gustavo Carvalho
-    - place: '74'
+    - place: '75'
       total: 133.483
       jump: null
       penalties:
@@ -45957,7 +45997,7 @@ scoreDf:
       stoppedAlt: 331.000 m
   - - - '81'
       - Valentino Bau
-    - place: '75'
+    - place: '76'
       total: 120.755
       jump: null
       penalties:
@@ -45996,7 +46036,7 @@ scoreDf:
       stoppedAlt: 303.000 m
   - - - '19'
       - Mikhail Karmazin
-    - place: '76'
+    - place: '77'
       total: 119.982
       jump: null
       penalties:
@@ -46035,7 +46075,7 @@ scoreDf:
       stoppedAlt: 340.000 m
   - - - '17'
       - John Urlich
-    - place: '77'
+    - place: '78'
       total: 104.946
       jump: null
       penalties:
@@ -46075,7 +46115,7 @@ scoreDf:
       stoppedAlt: 360.000 m
   - - - '52'
       - Virpi Nieminen
-    - place: '78'
+    - place: '79'
       total: 85.84
       jump: null
       penalties:
@@ -46114,7 +46154,7 @@ scoreDf:
       stoppedAlt: 285.000 m
   - - - '28'
       - Evgeniya Laritskaya
-    - place: '79'
+    - place: '80'
       total: 79.552
       jump: null
       penalties:
@@ -46153,7 +46193,7 @@ scoreDf:
       stoppedAlt: 276.000 m
   - - - '43'
       - Les Bestt
-    - place: '80'
+    - place: '81'
       total: 71.883
       jump: null
       penalties:
@@ -46192,7 +46232,7 @@ scoreDf:
       stoppedAlt: 278.000 m
   - - - '27'
       - ! 'Boris Marold '
-    - place: '81'
+    - place: '82'
       total: 69.019
       jump: null
       penalties:
@@ -46231,7 +46271,7 @@ scoreDf:
       stoppedAlt: 288.000 m
   - - - '82'
       - Alain Le-gac
-    - place: '82'
+    - place: '83'
       total: 62.264
       jump: null
       penalties:
@@ -46270,7 +46310,7 @@ scoreDf:
       stoppedAlt: 261.000 m
   - - - '47'
       - ! 'Miguel De Jong '
-    - place: '83'
+    - place: '84'
       total: 54.477
       jump: null
       penalties:
@@ -46309,7 +46349,7 @@ scoreDf:
       stoppedAlt: 264.000 m
   - - - '105'
       - Chris Lawry
-    - place: '84'
+    - place: '85'
       total: 51.949
       jump: null
       penalties:
@@ -46348,7 +46388,7 @@ scoreDf:
       stoppedAlt: 276.000 m
   - - - '70'
       - Matthew Barlow
-    - place: '85'
+    - place: '86'
       total: 45.282
       jump: null
       penalties:
@@ -46387,7 +46427,7 @@ scoreDf:
       stoppedAlt: 1431.000 m
   - - - '97'
       - Konrad Schwab
-    - place: '86'
+    - place: '87'
       total: 32.347
       jump: null
       penalties:
@@ -46426,7 +46466,7 @@ scoreDf:
       stoppedAlt: 267.000 m
   - - - '58'
       - Anna Belova
-    - place: '87'
+    - place: '88'
       total: 21.782
       jump: null
       penalties:
@@ -46463,46 +46503,6 @@ scoreDf:
       subtotal: 21.782
       landedMade: 6.803 km
       stoppedAlt: 267.000 m
-  - - - '76'
-      - Dmitriy Korchenkov
-    - place: '88'
-      total: 14.847
-      jump: null
-      penalties:
-        adds: []
-        muls:
-        - penalty-fraction: 0.1
-        resets: []
-      breakdown:
-        effort: 81.689
-        arrival: 0
-        time: 0
-        reach: 66.786
-        distance: 148.474
-        leading: 0
-      demeritFrac: 133.627
-      demeritPoint: 0
-      velocity:
-        ss: 2012-01-10T04:03:13.341953034975Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 53.365 km
-        flown: 53.365 km
-      demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: Restricted Airspace infringement > 100m
-      subtotal: 148.474
-      landedMade: 53.087 km
-      stoppedAlt: 355.000 m
   - - - '86'
       - Talgat Irgaleev
     - place: '89'

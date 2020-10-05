@@ -381,7 +381,7 @@ tasks:
       - Dmitriy Korchenkov
     - adds: []
       muls:
-      - penalty-fraction: 0.1
+      - penalty-fraction: 0.9
       resets: []
     - Restricted Airspace infringement > 100m
   - - - '17'
@@ -395,7 +395,7 @@ tasks:
       - Patrick Collin
     - adds: []
       muls:
-      - penalty-fraction: 0.1
+      - penalty-fraction: 0.9
       resets: []
     - Restricted Airspace infringement > 100m
 - taskName: Day 5
@@ -477,7 +477,7 @@ tasks:
       - Dmitriy Korchenkov
     - adds: []
       muls:
-      - penalty-fraction: 0.1
+      - penalty-fraction: 0.9
       resets: []
     - Restricted Airspace infringement > 100m
   - - - '17'

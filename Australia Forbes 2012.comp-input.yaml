@@ -291,14 +291,14 @@ tasks:
   - - - '67'
       - ! 'Andy Phillips '
     - adds:
-      - penalty-points: 0.16
+      - penalty-points: -0.16
       muls: []
       resets: []
     - CTAF infringement of 218m
   - - - '77'
       - Len Paton
     - adds:
-      - penalty-points: 0.13
+      - penalty-points: -0.13
       muls: []
       resets: []
     - CTAF infringement of 201m
@@ -387,7 +387,7 @@ tasks:
   - - - '17'
       - John Urlich
     - adds:
-      - penalty-points: 9.0e-2
+      - penalty-points: -9.0e-2
       muls: []
       resets: []
     - CTAF infringement of 177m
@@ -483,7 +483,7 @@ tasks:
   - - - '17'
       - John Urlich
     - adds:
-      - penalty-points: 0.43
+      - penalty-points: -0.43
       muls: []
       resets: []
     - CTAF infringment of 302m
@@ -565,7 +565,7 @@ tasks:
   - - - '96'
       - Brodrick Osborne
     - adds:
-      - penalty-points: 6
+      - penalty-points: -6
       muls: []
       resets: []
     - Jump the gun adjustment

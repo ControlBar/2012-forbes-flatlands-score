@@ -9420,11 +9420,11 @@ score:
   - - - '77'
       - Len Paton
     - place: '46'
-      total: 494.369
+      total: 494.109
       jump: null
       penalties:
         adds:
-        - penalty-points: 0.13
+        - penalty-points: -0.13
         muls: []
         resets: []
       breakdown:
@@ -9435,7 +9435,7 @@ score:
         distance: 424.508
         leading: 0
       demeritFrac: 0
-      demeritPoint: -0.13
+      demeritPoint: 0.13
       velocity:
         ss: 2012-01-07T03:41:18.672283440028Z
         gs: null
@@ -9889,11 +9889,11 @@ score:
   - - - '67'
       - ! 'Andy Phillips '
     - place: '58'
-      total: 305.024
+      total: 304.704
       jump: null
       penalties:
         adds:
-        - penalty-points: 0.16
+        - penalty-points: -0.16
         muls: []
         resets: []
       breakdown:
@@ -9904,7 +9904,7 @@ score:
         distance: 304.864
         leading: 0
       demeritFrac: 0
-      demeritPoint: -0.16
+      demeritPoint: 0.16
       velocity:
         ss: 2012-01-07T04:01:59.187012154698Z
         gs: null
@@ -14095,11 +14095,11 @@ score:
   - - - '17'
       - John Urlich
     - place: '73'
-      total: 156.735
+      total: 156.555
       jump: null
       penalties:
         adds:
-        - penalty-points: 9.0e-2
+        - penalty-points: -9.0e-2
         muls: []
         resets: []
       breakdown:
@@ -14110,7 +14110,7 @@ score:
         distance: 156.645
         leading: 0
       demeritFrac: 0
-      demeritPoint: -9.0e-2
+      demeritPoint: 9.0e-2
       velocity:
         ss: 2012-01-09T02:44:19.218177411773Z
         gs: null
@@ -17810,11 +17810,11 @@ score:
   - - - '17'
       - John Urlich
     - place: '78'
-      total: 104.946
+      total: 104.086
       jump: null
       penalties:
         adds:
-        - penalty-points: 0.43
+        - penalty-points: -0.43
         muls: []
         resets: []
       breakdown:
@@ -17825,7 +17825,7 @@ score:
         distance: 104.516
         leading: 0
       demeritFrac: 0
-      demeritPoint: -0.43
+      demeritPoint: 0.43
       velocity:
         ss: 2012-01-10T03:39:51.170933370851Z
         gs: null
@@ -20057,11 +20057,11 @@ score:
   - - - '96'
       - Brodrick Osborne
     - place: '44'
-      total: 572.43
+      total: 560.43
       jump: null
       penalties:
         adds:
-        - penalty-points: 6
+        - penalty-points: -6
         muls: []
         resets: []
       breakdown:
@@ -20072,7 +20072,7 @@ score:
         distance: 426.643
         leading: 45.5
       demeritFrac: 0
-      demeritPoint: -6
+      demeritPoint: 6
       velocity:
         ss: 2012-01-12T03:13:34.591114001234Z
         gs: null
@@ -37880,11 +37880,11 @@ scoreDf:
   - - - '77'
       - Len Paton
     - place: '42'
-      total: 494.369
+      total: 494.109
       jump: null
       penalties:
         adds:
-        - penalty-points: 0.13
+        - penalty-points: -0.13
         muls: []
         resets: []
       breakdown:
@@ -37895,7 +37895,7 @@ scoreDf:
         distance: 424.508
         leading: 0
       demeritFrac: 0
-      demeritPoint: -0.13
+      demeritPoint: 0.13
       velocity:
         ss: 2012-01-07T03:41:18.672283440028Z
         gs: null
@@ -38349,11 +38349,11 @@ scoreDf:
   - - - '67'
       - ! 'Andy Phillips '
     - place: '54'
-      total: 305.024
+      total: 304.704
       jump: null
       penalties:
         adds:
-        - penalty-points: 0.16
+        - penalty-points: -0.16
         muls: []
         resets: []
       breakdown:
@@ -38364,7 +38364,7 @@ scoreDf:
         distance: 304.864
         leading: 0
       demeritFrac: 0
-      demeritPoint: -0.16
+      demeritPoint: 0.16
       velocity:
         ss: 2012-01-07T04:01:59.187012154698Z
         gs: null
@@ -42485,11 +42485,11 @@ scoreDf:
   - - - '17'
       - John Urlich
     - place: '72'
-      total: 156.735
+      total: 156.555
       jump: null
       penalties:
         adds:
-        - penalty-points: 9.0e-2
+        - penalty-points: -9.0e-2
         muls: []
         resets: []
       breakdown:
@@ -42500,7 +42500,7 @@ scoreDf:
         distance: 156.645
         leading: 0
       demeritFrac: 0
-      demeritPoint: -9.0e-2
+      demeritPoint: 9.0e-2
       velocity:
         ss: 2012-01-09T02:44:19.218177411773Z
         gs: null
@@ -46076,11 +46076,11 @@ scoreDf:
   - - - '17'
       - John Urlich
     - place: '78'
-      total: 104.946
+      total: 104.086
       jump: null
       penalties:
         adds:
-        - penalty-points: 0.43
+        - penalty-points: -0.43
         muls: []
         resets: []
       breakdown:
@@ -46091,7 +46091,7 @@ scoreDf:
         distance: 104.516
         leading: 0
       demeritFrac: 0
-      demeritPoint: -0.43
+      demeritPoint: 0.43
       velocity:
         ss: 2012-01-10T03:39:51.170933370851Z
         gs: null
@@ -48261,11 +48261,11 @@ scoreDf:
   - - - '96'
       - Brodrick Osborne
     - place: '44'
-      total: 572.43
+      total: 560.43
       jump: null
       penalties:
         adds:
-        - penalty-points: 6
+        - penalty-points: -6
         muls: []
         resets: []
       breakdown:
@@ -48276,7 +48276,7 @@ scoreDf:
         distance: 426.643
         leading: 45.5
       demeritFrac: 0
-      demeritPoint: -6
+      demeritPoint: 6
       velocity:
         ss: 2012-01-12T03:13:34.591114001234Z
         gs: null

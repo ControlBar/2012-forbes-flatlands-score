@@ -154,12 +154,12 @@ validityWorkingStop:
   reachStats:
     extra:
       max: 124.018000 km
-      mean: 37.200457 km
-      stdDev: 30.230148 km
+      mean: 36.808874 km
+      stdDev: 30.309338 km
     flown:
       max: 124.018000 km
-      mean: 37.200457 km
-      stdDev: 30.230148 km
+      mean: 36.808874 km
+      stdDev: 30.309338 km
   stillFlying: 94
 - flying: 94
   landed: 0
@@ -210,12 +210,12 @@ validityWorkingStop:
   reachStats:
     extra:
       max: 217.389000 km
-      mean: 133.968880 km
-      stdDev: 77.267874 km
+      mean: 131.118479 km
+      stdDev: 78.848187 km
     flown:
       max: 217.389000 km
-      mean: 133.968880 km
-      stdDev: 77.267874 km
+      mean: 131.118479 km
+      stdDev: 78.848187 km
   stillFlying: 92
 - flying: 94
   landed: 0
@@ -252,12 +252,12 @@ validityWorkingStop:
   reachStats:
     extra:
       max: 158.848000 km
-      mean: 112.529100 km
-      stdDev: 53.917560 km
+      mean: 111.292516 km
+      stdDev: 54.888793 km
     flown:
       max: 158.848000 km
-      mean: 112.529100 km
-      stdDev: 53.917560 km
+      mean: 111.292516 km
+      stdDev: 54.888793 km
   stillFlying: 90
 validityWorkingTime:
 - gsBestTime: null
@@ -2846,6 +2846,33 @@ score:
         time: 0
         effort: 0.17578125
         reach: 4.03337e-2
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+  - - - '86'
+      - Talgat Irgaleev
+    - breakdown:
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '95'
+      total: 0
+      fractions:
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
       reach:
         extra: 0.000000 km
         flown: 0.000000 km
@@ -12845,6 +12872,60 @@ score:
       timeElapsed: null
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
+  - - - '57'
+      - Julia Kucherenko
+    - breakdown:
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '93'
+      total: 0
+      fractions:
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+  - - - '91'
+      - Francesco Rinaldi
+    - breakdown:
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '93'
+      total: 0
+      fractions:
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
 - - - - '100'
       - Attila Bertok
     - breakdown:
@@ -20288,6 +20369,33 @@ score:
         time: 0
         effort: 4.541016e-2
         reach: 3.147282e-2
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+  - - - '86'
+      - Talgat Irgaleev
+    - breakdown:
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '91'
+      total: 0
+      fractions:
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
       reach:
         extra: 0.000000 km
         flown: 0.000000 km

@@ -104,6 +104,7 @@ tasks:
     close: 2012-01-05T09:00:00Z
   startGates: []
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
@@ -192,6 +193,7 @@ tasks:
     close: 2012-01-06T09:00:00Z
   startGates: []
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
@@ -280,6 +282,7 @@ tasks:
     close: 2012-01-07T09:00:00Z
   startGates: []
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
@@ -370,6 +373,7 @@ tasks:
     close: 2012-01-09T09:00:00Z
   startGates: []
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
@@ -467,6 +471,7 @@ tasks:
     close: 2012-01-10T09:00:00Z
   startGates: []
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
@@ -557,6 +562,7 @@ tasks:
     close: 2012-01-12T09:00:00Z
   startGates: []
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
@@ -652,6 +658,7 @@ tasks:
     close: 2012-01-13T09:00:00Z
   startGates: []
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
@@ -740,6 +747,7 @@ tasks:
     close: 2012-01-14T09:00:00Z
   startGates: []
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false

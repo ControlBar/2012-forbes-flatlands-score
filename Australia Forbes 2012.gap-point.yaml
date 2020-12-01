@@ -444,9 +444,54 @@ score:
       subtotal: 601.67
       landedMade: 124.022 km
       stoppedAlt: 325.000 m
+  - - - '61'
+      - Jonny Durand
+    - place: '3'
+      total: 578.622
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 289.762
+        arrival: 0
+        time: 0
+        reach: 280.831
+        distance: 570.593
+        leading: 8
+      velocity:
+        ss: 2012-01-05T03:30:36.33881672591Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 117.500 km
+        flown: 117.500 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 578.622
+      landedMade: 117.500 km
+      stoppedAlt: 264.000 m
   - - - '8'
       - Primoz Gricar
-    - place: '3'
+    - place: '4'
       total: 560.379
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -491,7 +536,7 @@ score:
       stoppedAlt: 1086.000 m
   - - - '60'
       - Rohan Holtkamp
-    - place: '4'
+    - place: '5'
       total: 547.698
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -536,7 +581,7 @@ score:
       stoppedAlt: 1103.000 m
   - - - '36'
       - Franz Herrmann
-    - place: '5'
+    - place: '6'
       total: 533.255
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -581,7 +626,7 @@ score:
       stoppedAlt: 272.000 m
   - - - '1'
       - Lukas Bader
-    - place: '6'
+    - place: '7'
       total: 490.772
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -626,7 +671,7 @@ score:
       stoppedAlt: 1636.000 m
   - - - '93'
       - Trent Brown
-    - place: '7'
+    - place: '8'
       total: 489.192
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -671,7 +716,7 @@ score:
       stoppedAlt: 1591.000 m
   - - - '15'
       - ! 'Jean Souviron '
-    - place: '8'
+    - place: '9'
       total: 486.445
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -716,7 +761,7 @@ score:
       stoppedAlt: 1455.000 m
   - - - '56'
       - Cameron Tunbridge
-    - place: '9'
+    - place: '10'
       total: 469.316
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -761,7 +806,7 @@ score:
       stoppedAlt: 256.000 m
   - - - '89'
       - Scott Barrett
-    - place: '10'
+    - place: '11'
       total: 462.551
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -806,7 +851,7 @@ score:
       stoppedAlt: 1557.000 m
   - - - '85'
       - Neil Petersen
-    - place: '11'
+    - place: '12'
       total: 459.635
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -851,7 +896,7 @@ score:
       stoppedAlt: 1481.000 m
   - - - '26'
       - Guy Hubbard
-    - place: '12'
+    - place: '13'
       total: 458.994
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -896,7 +941,7 @@ score:
       stoppedAlt: 1272.000 m
   - - - '11'
       - Steve Blenkinsop
-    - place: '13'
+    - place: '14'
       total: 429.81
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -941,7 +986,7 @@ score:
       stoppedAlt: 2031.000 m
   - - - '12'
       - Glen Mcfarlane
-    - place: '14'
+    - place: '15'
       total: 428.558
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -986,7 +1031,7 @@ score:
       stoppedAlt: 1985.000 m
   - - - '95'
       - Anton Struganov
-    - place: '15'
+    - place: '16'
       total: 395.32
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1031,7 +1076,7 @@ score:
       stoppedAlt: 319.000 m
   - - - '23'
       - Gerolf Heinrichs
-    - place: '16'
+    - place: '17'
       total: 378.179
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1076,7 +1121,7 @@ score:
       stoppedAlt: 358.000 m
   - - - '30'
       - Fredy Bircher
-    - place: '17'
+    - place: '18'
       total: 374.663
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1121,7 +1166,7 @@ score:
       stoppedAlt: 1675.000 m
   - - - '84'
       - Yasuhiro Noma
-    - place: '18'
+    - place: '19'
       total: 372.442
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1166,7 +1211,7 @@ score:
       stoppedAlt: 294.000 m
   - - - '42'
       - Suan Selenati
-    - place: '19'
+    - place: '20'
       total: 358.514
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1211,7 +1256,7 @@ score:
       stoppedAlt: 291.000 m
   - - - '77'
       - Len Paton
-    - place: '20'
+    - place: '21'
       total: 349.371
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1256,7 +1301,7 @@ score:
       stoppedAlt: 297.000 m
   - - - '3'
       - Rod Flockhart
-    - place: '21'
+    - place: '22'
       total: 344.636
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1301,7 +1346,7 @@ score:
       stoppedAlt: 272.000 m
   - - - '90'
       - Adam Stevens
-    - place: '22'
+    - place: '23'
       total: 343.868
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1346,7 +1391,7 @@ score:
       stoppedAlt: 294.000 m
   - - - '49'
       - Tony Giammichele
-    - place: '23'
+    - place: '24'
       total: 339.626
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1391,7 +1436,7 @@ score:
       stoppedAlt: 285.000 m
   - - - '66'
       - Jonas Lobitz
-    - place: '24'
+    - place: '25'
       total: 326.941
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1436,7 +1481,7 @@ score:
       stoppedAlt: 306.000 m
   - - - '92'
       - Hans Kiefinger
-    - place: '25'
+    - place: '26'
       total: 322.905
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1481,7 +1526,7 @@ score:
       stoppedAlt: 290.000 m
   - - - '75'
       - Joerg Bajewski
-    - place: '26'
+    - place: '27'
       total: 315.239
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1526,7 +1571,7 @@ score:
       stoppedAlt: 2090.000 m
   - - - '70'
       - Matthew Barlow
-    - place: 27=
+    - place: 28=
       total: 310.266
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1571,7 +1616,7 @@ score:
       stoppedAlt: 1322.000 m
   - - - '102'
       - Davide Guiducci
-    - place: 27=
+    - place: 28=
       total: 309.94
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1616,7 +1661,7 @@ score:
       stoppedAlt: 320.000 m
   - - - '81'
       - Valentino Bau
-    - place: '29'
+    - place: '30'
       total: 307.884
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1661,7 +1706,7 @@ score:
       stoppedAlt: 274.000 m
   - - - '25'
       - Nick Purcell
-    - place: '30'
+    - place: '31'
       total: 304.308
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1706,7 +1751,7 @@ score:
       stoppedAlt: 320.000 m
   - - - '47'
       - ! 'Miguel De Jong '
-    - place: '31'
+    - place: '32'
       total: 303.239
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1751,7 +1796,7 @@ score:
       stoppedAlt: 291.000 m
   - - - '99'
       - Tullio Gervasoni
-    - place: '32'
+    - place: '33'
       total: 299.946
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1796,7 +1841,7 @@ score:
       stoppedAlt: 302.000 m
   - - - '59'
       - Artur Dzamikhov
-    - place: '33'
+    - place: '34'
       total: 298.657
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1841,7 +1886,7 @@ score:
       stoppedAlt: 290.000 m
   - - - '7'
       - Shaun O'neill
-    - place: 34=
+    - place: 35=
       total: 294.279
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1886,7 +1931,7 @@ score:
       stoppedAlt: 282.000 m
   - - - '14'
       - Olav Lien Olsen
-    - place: 34=
+    - place: 35=
       total: 294.193
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1931,7 +1976,7 @@ score:
       stoppedAlt: 292.000 m
   - - - '65'
       - Davis Straub
-    - place: 34=
+    - place: 35=
       total: 294.025
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -1976,7 +2021,7 @@ score:
       stoppedAlt: 277.000 m
   - - - '48'
       - Paolo Rosichetti
-    - place: 37=
+    - place: 38=
       total: 293.458
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -2021,7 +2066,7 @@ score:
       stoppedAlt: 270.000 m
   - - - '43'
       - Les Bestt
-    - place: 37=
+    - place: 38=
       total: 292.578
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -2066,7 +2111,7 @@ score:
       stoppedAlt: 318.000 m
   - - - '31'
       - Andrew Barnes
-    - place: '39'
+    - place: '40'
       total: 291.685
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -2111,7 +2156,7 @@ score:
       stoppedAlt: 320.000 m
   - - - '45'
       - Roland Wöhrle
-    - place: '40'
+    - place: '41'
       total: 291.301
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -2156,7 +2201,7 @@ score:
       stoppedAlt: 286.000 m
   - - - '106'
       - Adam Parer
-    - place: '41'
+    - place: '42'
       total: 289.907
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -2199,51 +2244,6 @@ score:
       subtotal: 289.907
       landedMade: 38.283 km
       stoppedAlt: 332.000 m
-  - - - '61'
-      - Jonny Durand
-    - place: '42'
-      total: 288.86
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 280.831
-        distance: 280.831
-        leading: 8
-      velocity:
-        ss: 2012-01-05T03:30:36.33881672591Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 117.500 km
-        flown: 117.500 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 288.86
-      landedMade: 117.500 km
-      stoppedAlt: 264.000 m
   - - - '13'
       - John Smith
     - place: '43'
@@ -29164,9 +29164,54 @@ score:
       subtotal: 89.134
       landedMade: 18.088 km
       stoppedAlt: 234.000 m
+  - - - '88'
+      - Martin Sielaff
+    - place: '85'
+      total: 69.656
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 35.555
+        arrival: 0
+        time: 0
+        reach: 34.101
+        distance: 69.656
+        leading: 0
+      velocity:
+        ss: 2012-01-13T03:48:41.62245254323Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 15.200 km
+        flown: 15.200 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 69.656
+      landedMade: 15.200 km
+      stoppedAlt: 253.000 m
   - - - '46'
       - Jonathon Foote
-    - place: '85'
+    - place: '86'
       total: 68.732
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -29211,7 +29256,7 @@ score:
       stoppedAlt: 238.000 m
   - - - '52'
       - Virpi Nieminen
-    - place: '86'
+    - place: '87'
       total: 58.764
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -29254,51 +29299,6 @@ score:
       subtotal: 58.764
       landedMade: 13.668 km
       stoppedAlt: 248.000 m
-  - - - '88'
-      - Martin Sielaff
-    - place: '87'
-      total: 34.101
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 34.101
-        distance: 34.101
-        leading: 0
-      velocity:
-        ss: 2012-01-13T03:48:41.62245254323Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 15.200 km
-        flown: 15.200 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 34.101
-      landedMade: 15.200 km
-      stoppedAlt: 253.000 m
   - - - '62'
       - Enda Murphy
     - place: 88=
@@ -33593,9 +33593,54 @@ scoreDf:
       subtotal: 601.67
       landedMade: 124.022 km
       stoppedAlt: 325.000 m
+  - - - '61'
+      - Jonny Durand
+    - place: '3'
+      total: 578.622
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 289.762
+        arrival: 0
+        time: 0
+        reach: 280.831
+        distance: 570.593
+        leading: 8
+      velocity:
+        ss: 2012-01-05T03:30:36.33881672591Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 117.500 km
+        flown: 117.500 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 578.622
+      landedMade: 117.500 km
+      stoppedAlt: 264.000 m
   - - - '8'
       - Primoz Gricar
-    - place: '3'
+    - place: '4'
       total: 560.379
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -33640,7 +33685,7 @@ scoreDf:
       stoppedAlt: 1086.000 m
   - - - '60'
       - Rohan Holtkamp
-    - place: '4'
+    - place: '5'
       total: 547.698
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -33685,7 +33730,7 @@ scoreDf:
       stoppedAlt: 1103.000 m
   - - - '36'
       - Franz Herrmann
-    - place: '5'
+    - place: '6'
       total: 533.255
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -33730,7 +33775,7 @@ scoreDf:
       stoppedAlt: 272.000 m
   - - - '1'
       - Lukas Bader
-    - place: '6'
+    - place: '7'
       total: 490.772
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -33775,7 +33820,7 @@ scoreDf:
       stoppedAlt: 1636.000 m
   - - - '93'
       - Trent Brown
-    - place: '7'
+    - place: '8'
       total: 489.192
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -33820,7 +33865,7 @@ scoreDf:
       stoppedAlt: 1591.000 m
   - - - '15'
       - ! 'Jean Souviron '
-    - place: '8'
+    - place: '9'
       total: 486.445
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -33865,7 +33910,7 @@ scoreDf:
       stoppedAlt: 1455.000 m
   - - - '56'
       - Cameron Tunbridge
-    - place: '9'
+    - place: '10'
       total: 469.316
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -33910,7 +33955,7 @@ scoreDf:
       stoppedAlt: 256.000 m
   - - - '89'
       - Scott Barrett
-    - place: '10'
+    - place: '11'
       total: 462.551
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -33955,7 +34000,7 @@ scoreDf:
       stoppedAlt: 1557.000 m
   - - - '85'
       - Neil Petersen
-    - place: '11'
+    - place: '12'
       total: 459.635
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34000,7 +34045,7 @@ scoreDf:
       stoppedAlt: 1481.000 m
   - - - '26'
       - Guy Hubbard
-    - place: '12'
+    - place: '13'
       total: 458.994
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34045,7 +34090,7 @@ scoreDf:
       stoppedAlt: 1272.000 m
   - - - '11'
       - Steve Blenkinsop
-    - place: '13'
+    - place: '14'
       total: 429.81
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34090,7 +34135,7 @@ scoreDf:
       stoppedAlt: 2031.000 m
   - - - '12'
       - Glen Mcfarlane
-    - place: '14'
+    - place: '15'
       total: 428.558
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34135,7 +34180,7 @@ scoreDf:
       stoppedAlt: 1985.000 m
   - - - '95'
       - Anton Struganov
-    - place: '15'
+    - place: '16'
       total: 395.32
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34180,7 +34225,7 @@ scoreDf:
       stoppedAlt: 319.000 m
   - - - '23'
       - Gerolf Heinrichs
-    - place: '16'
+    - place: '17'
       total: 378.179
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34225,7 +34270,7 @@ scoreDf:
       stoppedAlt: 358.000 m
   - - - '30'
       - Fredy Bircher
-    - place: '17'
+    - place: '18'
       total: 374.663
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34270,7 +34315,7 @@ scoreDf:
       stoppedAlt: 1675.000 m
   - - - '84'
       - Yasuhiro Noma
-    - place: '18'
+    - place: '19'
       total: 372.442
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34315,7 +34360,7 @@ scoreDf:
       stoppedAlt: 294.000 m
   - - - '42'
       - Suan Selenati
-    - place: '19'
+    - place: '20'
       total: 358.514
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34360,7 +34405,7 @@ scoreDf:
       stoppedAlt: 291.000 m
   - - - '77'
       - Len Paton
-    - place: '20'
+    - place: '21'
       total: 349.371
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34405,7 +34450,7 @@ scoreDf:
       stoppedAlt: 297.000 m
   - - - '3'
       - Rod Flockhart
-    - place: '21'
+    - place: '22'
       total: 344.636
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34450,7 +34495,7 @@ scoreDf:
       stoppedAlt: 272.000 m
   - - - '90'
       - Adam Stevens
-    - place: '22'
+    - place: '23'
       total: 343.868
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34495,7 +34540,7 @@ scoreDf:
       stoppedAlt: 294.000 m
   - - - '49'
       - Tony Giammichele
-    - place: '23'
+    - place: '24'
       total: 339.626
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34540,7 +34585,7 @@ scoreDf:
       stoppedAlt: 285.000 m
   - - - '66'
       - Jonas Lobitz
-    - place: '24'
+    - place: '25'
       total: 326.941
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34585,7 +34630,7 @@ scoreDf:
       stoppedAlt: 306.000 m
   - - - '92'
       - Hans Kiefinger
-    - place: '25'
+    - place: '26'
       total: 322.905
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34630,7 +34675,7 @@ scoreDf:
       stoppedAlt: 290.000 m
   - - - '75'
       - Joerg Bajewski
-    - place: '26'
+    - place: '27'
       total: 315.239
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34675,7 +34720,7 @@ scoreDf:
       stoppedAlt: 2090.000 m
   - - - '70'
       - Matthew Barlow
-    - place: 27=
+    - place: 28=
       total: 310.266
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34720,7 +34765,7 @@ scoreDf:
       stoppedAlt: 1322.000 m
   - - - '102'
       - Davide Guiducci
-    - place: 27=
+    - place: 28=
       total: 309.94
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34765,7 +34810,7 @@ scoreDf:
       stoppedAlt: 320.000 m
   - - - '81'
       - Valentino Bau
-    - place: '29'
+    - place: '30'
       total: 307.884
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34810,7 +34855,7 @@ scoreDf:
       stoppedAlt: 274.000 m
   - - - '25'
       - Nick Purcell
-    - place: '30'
+    - place: '31'
       total: 304.308
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34855,7 +34900,7 @@ scoreDf:
       stoppedAlt: 320.000 m
   - - - '47'
       - ! 'Miguel De Jong '
-    - place: '31'
+    - place: '32'
       total: 303.239
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34900,7 +34945,7 @@ scoreDf:
       stoppedAlt: 291.000 m
   - - - '99'
       - Tullio Gervasoni
-    - place: '32'
+    - place: '33'
       total: 299.946
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34945,7 +34990,7 @@ scoreDf:
       stoppedAlt: 302.000 m
   - - - '59'
       - Artur Dzamikhov
-    - place: '33'
+    - place: '34'
       total: 298.657
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -34990,7 +35035,7 @@ scoreDf:
       stoppedAlt: 290.000 m
   - - - '7'
       - Shaun O'neill
-    - place: 34=
+    - place: 35=
       total: 294.279
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -35035,7 +35080,7 @@ scoreDf:
       stoppedAlt: 282.000 m
   - - - '14'
       - Olav Lien Olsen
-    - place: 34=
+    - place: 35=
       total: 294.193
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -35080,7 +35125,7 @@ scoreDf:
       stoppedAlt: 292.000 m
   - - - '65'
       - Davis Straub
-    - place: 34=
+    - place: 35=
       total: 294.025
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -35125,7 +35170,7 @@ scoreDf:
       stoppedAlt: 277.000 m
   - - - '48'
       - Paolo Rosichetti
-    - place: 37=
+    - place: 38=
       total: 293.458
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -35170,7 +35215,7 @@ scoreDf:
       stoppedAlt: 270.000 m
   - - - '43'
       - Les Bestt
-    - place: 37=
+    - place: 38=
       total: 292.578
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -35215,7 +35260,7 @@ scoreDf:
       stoppedAlt: 318.000 m
   - - - '31'
       - Andrew Barnes
-    - place: '39'
+    - place: '40'
       total: 291.685
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -35260,7 +35305,7 @@ scoreDf:
       stoppedAlt: 320.000 m
   - - - '45'
       - Roland Wöhrle
-    - place: '40'
+    - place: '41'
       total: 291.301
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -35305,7 +35350,7 @@ scoreDf:
       stoppedAlt: 286.000 m
   - - - '106'
       - Adam Parer
-    - place: '41'
+    - place: '42'
       total: 289.907
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -35348,51 +35393,6 @@ scoreDf:
       subtotal: 289.907
       landedMade: 38.283 km
       stoppedAlt: 332.000 m
-  - - - '61'
-      - Jonny Durand
-    - place: '42'
-      total: 288.86
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 280.831
-        distance: 280.831
-        leading: 8
-      velocity:
-        ss: 2012-01-05T03:30:36.33881672591Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 117.500 km
-        flown: 117.500 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 288.86
-      landedMade: 117.500 km
-      stoppedAlt: 264.000 m
   - - - '13'
       - John Smith
     - place: '43'
@@ -61681,9 +61681,54 @@ scoreDf:
       subtotal: 89.134
       landedMade: 18.088 km
       stoppedAlt: 234.000 m
+  - - - '88'
+      - Martin Sielaff
+    - place: '85'
+      total: 69.656
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 35.555
+        arrival: 0
+        time: 0
+        reach: 34.101
+        distance: 69.656
+        leading: 0
+      velocity:
+        ss: 2012-01-13T03:48:41.62245254323Z
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 15.200 km
+        flown: 15.200 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 69.656
+      landedMade: 15.200 km
+      stoppedAlt: 253.000 m
   - - - '46'
       - Jonathon Foote
-    - place: '85'
+    - place: '86'
       total: 68.732
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -61728,7 +61773,7 @@ scoreDf:
       stoppedAlt: 238.000 m
   - - - '52'
       - Virpi Nieminen
-    - place: '86'
+    - place: '87'
       total: 58.764
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -61771,51 +61816,6 @@ scoreDf:
       subtotal: 58.764
       landedMade: 13.668 km
       stoppedAlt: 248.000 m
-  - - - '88'
-      - Martin Sielaff
-    - place: '87'
-      total: 34.101
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 34.101
-        distance: 34.101
-        leading: 0
-      velocity:
-        ss: 2012-01-13T03:48:41.62245254323Z
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 15.200 km
-        flown: 15.200 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 34.101
-      landedMade: 15.200 km
-      stoppedAlt: 253.000 m
   - - - '50'
       - Monique Pavy
     - place: '88'

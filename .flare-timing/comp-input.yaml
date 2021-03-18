@@ -1,0 +1,224 @@
+comp:
+  compName: 2012 Hang Gliding Pre-World Forbes
+  discipline: hg
+  earthMath: Haversines
+  location: Forbes, Australia
+  from: 2012-01-05
+  to: 2012-01-14
+  civilId: '7592'
+  utcOffset:
+    timeZoneMinutes: 660
+  scoreBack: null
+  give:
+    giveFraction: 5.0e-3
+    giveDistance: null
+  earth:
+    sphere:
+      radius: 6371000.0 m
+nominal:
+  launch: 0.96
+  goal: 0.2
+  distance: 80.0 km
+  free: 5.000 km
+  time: 2.000000 h
+compTweak:
+  arrivalRank: true
+  arrivalTime: false
+  essNotGoalScaling: 0.8
+  leadingAreaDistanceSquared: false
+  leadingWeightScaling: null
+pilots:
+- - '106'
+  - Adam Parer
+- - '90'
+  - Adam Stevens
+- - '82'
+  - Alain Le-gac
+- - '31'
+  - Andrew Barnes
+- - '101'
+  - ! 'Andrew Luton '
+- - '67'
+  - ! 'Andy Phillips '
+- - '58'
+  - Anna Belova
+- - '95'
+  - Anton Struganov
+- - '59'
+  - Artur Dzamikhov
+- - '100'
+  - Attila Bertok
+- - '27'
+  - ! 'Boris Marold '
+- - '96'
+  - Brodrick Osborne
+- - '56'
+  - Cameron Tunbridge
+- - '35'
+  - Carole Tobler
+- - '105'
+  - Chris Lawry
+- - '24'
+  - Christian Baertschi
+- - '78'
+  - Christine Aichner
+- - '33'
+  - Conrad Loten
+- - '87'
+  - Corinna Schwiegershausen
+- - '41'
+  - Curt Warren
+- - '79'
+  - David Stevens
+- - '102'
+  - Davide Guiducci
+- - '65'
+  - Davis Straub
+- - '76'
+  - Dmitriy Korchenkov
+- - '71'
+  - Edoardo Giudiceandrea
+- - '62'
+  - Enda Murphy
+- - '28'
+  - Evgeniya Laritskaya
+- - '91'
+  - Francesco Rinaldi
+- - '44'
+  - Francoise Dieuzeide-banet
+- - '36'
+  - Franz Herrmann
+- - '30'
+  - Fredy Bircher
+- - '21'
+  - Gavin Myers
+- - '23'
+  - Gerolf Heinrichs
+- - '73'
+  - Gijs Wanders
+- - '12'
+  - Glen Mcfarlane
+- - '16'
+  - Grant Edward
+- - '68'
+  - Grant Heaney
+- - '64'
+  - Gustavo Carvalho
+- - '26'
+  - Guy Hubbard
+- - '53'
+  - Hadewych van Kempen
+- - '92'
+  - Hans Kiefinger
+- - '15'
+  - ! 'Jean Souviron '
+- - '75'
+  - Joerg Bajewski
+- - '13'
+  - John Smith
+- - '17'
+  - John Urlich
+- - '34'
+  - Jon snr Durand
+- - '66'
+  - Jonas Lobitz
+- - '69'
+  - Jonathan Kinred
+- - '46'
+  - Jonathon Foote
+- - '61'
+  - Jonny Durand
+- - '57'
+  - Julia Kucherenko
+- - '18'
+  - Jürgen Pasker
+- - '55'
+  - Kari Suhonen
+- - '32'
+  - Kathryn O'Riordan
+- - '97'
+  - Konrad Schwab
+- - '29'
+  - Konstantin Lukyanov
+- - '77'
+  - Len Paton
+- - '43'
+  - Les Bestt
+- - '1'
+  - Lukas Bader
+- - '20'
+  - ! 'Luke Browne '
+- - '10'
+  - Marat Matnurov
+- - '22'
+  - Mark Russell
+- - '88'
+  - Martin Sielaff
+- - '70'
+  - Matthew Barlow
+- - '47'
+  - ! 'Miguel De Jong '
+- - '19'
+  - Mikhail Karmazin
+- - '94'
+  - Mitch Shipley
+- - '50'
+  - Monique Pavy
+- - '85'
+  - Neil Petersen
+- - '25'
+  - Nick Purcell
+- - '14'
+  - Olav Lien Olsen
+- - '2'
+  - Pablo Gomes
+- - '48'
+  - Paolo Rosichetti
+- - '98'
+  - Patrick Collin
+- - '83'
+  - Peter Dall
+- - '37'
+  - Peter Ebeling
+- - '6'
+  - Phil Schroder
+- - '40'
+  - Phil de Joux
+- - '8'
+  - Primoz Gricar
+- - '51'
+  - Rob In 't Groen
+- - '103'
+  - Roberto Nichele
+- - '3'
+  - Rod Flockhart
+- - '60'
+  - Rohan Holtkamp
+- - '45'
+  - Roland Wöhrle
+- - '89'
+  - Scott Barrett
+- - '7'
+  - Shaun O'neill
+- - '11'
+  - Steve Blenkinsop
+- - '42'
+  - Suan Selenati
+- - '86'
+  - Talgat Irgaleev
+- - '49'
+  - Tony Giammichele
+- - '72'
+  - Tove Heaney
+- - '93'
+  - Trent Brown
+- - '99'
+  - Tullio Gervasoni
+- - '81'
+  - Valentino Bau
+- - '52'
+  - Virpi Nieminen
+- - '5'
+  - Wolfgang Siess
+- - '84'
+  - Yasuhiro Noma

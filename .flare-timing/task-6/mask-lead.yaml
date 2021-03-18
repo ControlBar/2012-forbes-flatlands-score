@@ -1,0 +1,476 @@
+raceTime:
+  openTask: 2012-01-12T01:00:00Z
+  closeTask: 2012-01-12T09:00:00Z
+  firstStart: 2012-01-12T02:47:02.572423061515Z
+  firstLead: 2012-01-12T02:47:02.572423061515Z
+  lastArrival: 2012-01-12T08:35:41.791009572901Z
+  leadAllDown: 21023.428
+  leadArrival: 20919.219
+  leadClose: 22377.428
+  openClose: 28800
+  tickClose: 22377.428
+raceDistance: 186.882644 km
+sumDistance: 13847.098892 km
+leadAreaToCoef: 0.00000297275094 km^-1 s^-1
+leadCoefMin: 4.6963561
+leadRank:
+- - - '57'
+    - Julia Kucherenko
+  - area: 1579801.3996 km s
+    coef: 4.6963561
+    frac: 1
+- - - '95'
+    - Anton Struganov
+  - area: 1632237.9054 km s
+    coef: 4.85223677
+    frac: 0.82704179
+- - - '60'
+    - Rohan Holtkamp
+  - area: 1635112.6396 km s
+    coef: 4.86078264
+    frac: 0.82077678
+- - - '45'
+    - Roland Wöhrle
+  - area: 1636053.0195 km s
+    coef: 4.86357815
+    frac: 0.81875111
+- - - '75'
+    - Joerg Bajewski
+  - area: 1639237.4939 km s
+    coef: 4.8730448
+    frac: 0.81197359
+- - - '90'
+    - Adam Stevens
+  - area: 1639575.9348 km s
+    coef: 4.8740509
+    frac: 0.81126049
+- - - '84'
+    - Yasuhiro Noma
+  - area: 1647579.0752 km s
+    coef: 4.89784224
+    frac: 0.79476892
+- - - '1'
+    - Lukas Bader
+  - area: 1650117.2360 km s
+    coef: 4.90538756
+    frac: 0.78967667
+- - - '24'
+    - Christian Baertschi
+  - area: 1650262.9171 km s
+    coef: 4.90582064
+    frac: 0.78938627
+- - - '87'
+    - Corinna Schwiegershausen
+  - area: 1652335.9796 km s
+    coef: 4.91198334
+    frac: 0.78527526
+- - - '49'
+    - Tony Giammichele
+  - area: 1665254.2865 km s
+    coef: 4.95038624
+    frac: 0.76048291
+- - - '13'
+    - John Smith
+  - area: 1670359.4509 km s
+    coef: 4.96556263
+    frac: 0.7510359
+- - - '25'
+    - Nick Purcell
+  - area: 1671447.7984 km s
+    coef: 4.96879801
+    frac: 0.74904514
+- - - '6'
+    - Phil Schroder
+  - area: 1675999.3224 km s
+    coef: 4.98232856
+    frac: 0.7408035
+- - - '68'
+    - Grant Heaney
+  - area: 1714152.0313 km s
+    coef: 5.09574706
+    frac: 0.67614907
+- - - '41'
+    - Curt Warren
+  - area: 1725884.7949 km s
+    coef: 5.13062565
+    frac: 0.65755888
+- - - '100'
+    - Attila Bertok
+  - area: 1732783.5216 km s
+    coef: 5.15113384
+    frac: 0.64686091
+- - - '18'
+    - Jürgen Pasker
+  - area: 1735235.3259 km s
+    coef: 5.15842245
+    frac: 0.6430978
+- - - '66'
+    - Jonas Lobitz
+  - area: 1741658.2653 km s
+    coef: 5.17751624
+    frac: 0.63333221
+- - - '21'
+    - Gavin Myers
+  - area: 1743029.2474 km s
+    coef: 5.18159183
+    frac: 0.63126459
+- - - '102'
+    - Davide Guiducci
+  - area: 1770943.2501 km s
+    coef: 5.26457321
+    frac: 0.59034097
+- - - '33'
+    - Conrad Loten
+  - area: 1776962.6482 km s
+    coef: 5.28246738
+    frac: 0.58178489
+- - - '103'
+    - Roberto Nichele
+  - area: 1783331.8646 km s
+    coef: 5.30140148
+    frac: 0.57282585
+- - - '48'
+    - Paolo Rosichetti
+  - area: 1805251.0233 km s
+    coef: 5.36656168
+    frac: 0.54268194
+- - - '55'
+    - Kari Suhonen
+  - area: 1808245.3672 km s
+    coef: 5.37546311
+    frac: 0.53864156
+- - - '31'
+    - Andrew Barnes
+  - area: 1838625.5731 km s
+    coef: 5.4657759
+    frac: 0.49859511
+- - - '43'
+    - Les Bestt
+  - area: 1849064.8458 km s
+    coef: 5.49680926
+    frac: 0.48520189
+- - - '71'
+    - Edoardo Giudiceandrea
+  - area: 1849637.8354 km s
+    coef: 5.49851261
+    frac: 0.48447183
+- - - '94'
+    - Mitch Shipley
+  - area: 1857645.8012 km s
+    coef: 5.5223183
+    frac: 0.47432203
+- - - '106'
+    - Adam Parer
+  - area: 1862501.2854 km s
+    coef: 5.53675245
+    frac: 0.46821539
+- - - '26'
+    - Guy Hubbard
+  - area: 1868359.4580 km s
+    coef: 5.55416733
+    frac: 0.46089402
+- - - '99'
+    - Tullio Gervasoni
+  - area: 1871304.8042 km s
+    coef: 5.56292312
+    frac: 0.45723175
+- - - '30'
+    - Fredy Bircher
+  - area: 1871881.7420 km s
+    coef: 5.56463821
+    frac: 0.45651583
+- - - '96'
+    - Brodrick Osborne
+  - area: 1874053.0906 km s
+    coef: 5.57109309
+    frac: 0.45382562
+- - - '8'
+    - Primoz Gricar
+  - area: 1875062.1013 km s
+    coef: 5.57409262
+    frac: 0.45257775
+- - - '93'
+    - Trent Brown
+  - area: 1877615.6284 km s
+    coef: 5.58168362
+    frac: 0.44942608
+- - - '92'
+    - Hans Kiefinger
+  - area: 1882038.3014 km s
+    coef: 5.59483113
+    frac: 0.44398863
+- - - '85'
+    - Neil Petersen
+  - area: 1888607.0102 km s
+    coef: 5.61435826
+    frac: 0.43596144
+- - - '22'
+    - Mark Russell
+  - area: 1888987.3110 km s
+    coef: 5.6154888
+    frac: 0.43549845
+- - - '44'
+    - Francoise Dieuzeide-banet
+  - area: 1904198.2971 km s
+    coef: 5.66070728
+    frac: 0.41713255
+- - - '35'
+    - Carole Tobler
+  - area: 1907171.3595 km s
+    coef: 5.66954545
+    frac: 0.41357669
+- - - '36'
+    - Franz Herrmann
+  - area: 1912476.4162 km s
+    coef: 5.68531606
+    frac: 0.40725832
+- - - '89'
+    - Scott Barrett
+  - area: 1919966.1628 km s
+    coef: 5.70758121
+    frac: 0.39839483
+- - - '78'
+    - Christine Aichner
+  - area: 1930854.3005 km s
+    coef: 5.73994894
+    frac: 0.38562474
+- - - '3'
+    - Rod Flockhart
+  - area: 1971764.0601 km s
+    coef: 5.86156346
+    frac: 0.3387762
+- - - '11'
+    - Steve Blenkinsop
+  - area: 1992565.1706 km s
+    coef: 5.92339998
+    frac: 0.31558468
+- - - '52'
+    - Virpi Nieminen
+  - area: 2004615.9235 km s
+    coef: 5.95922387
+    frac: 0.30232754
+- - - '20'
+    - ! 'Luke Browne '
+  - area: 2016803.9059 km s
+    coef: 5.99545571
+    frac: 0.28904634
+- - - '72'
+    - Tove Heaney
+  - area: 2017849.5083 km s
+    coef: 5.99856402
+    frac: 0.28791274
+- - - '27'
+    - ! 'Boris Marold '
+  - area: 2028352.4228 km s
+    coef: 6.02978657
+    frac: 0.27657545
+- - - '42'
+    - Suan Selenati
+  - area: 2066862.8574 km s
+    coef: 6.1442685
+    frac: 0.2357399
+- - - '101'
+    - ! 'Andrew Luton '
+  - area: 2067383.0528 km s
+    coef: 6.14581491
+    frac: 0.23519583
+- - - '56'
+    - Cameron Tunbridge
+  - area: 2124177.6649 km s
+    coef: 6.31465115
+    frac: 0.17690215
+- - - '53'
+    - Hadewych van Kempen
+  - area: 2128083.9679 km s
+    coef: 6.32626362
+    frac: 0.17296929
+- - - '98'
+    - Patrick Collin
+  - area: 2134907.4001 km s
+    coef: 6.34654798
+    frac: 0.16612179
+- - - '77'
+    - Len Paton
+  - area: 2152488.3816 km s
+    coef: 6.39881186
+    frac: 0.14860672
+- - - '69'
+    - Jonathan Kinred
+  - area: 2177455.9338 km s
+    coef: 6.47303417
+    frac: 0.12403755
+- - - '73'
+    - Gijs Wanders
+  - area: 2190033.4368 km s
+    coef: 6.51042396
+    frac: 0.11179064
+- - - '83'
+    - Peter Dall
+  - area: 2226920.3225 km s
+    coef: 6.62007948
+    frac: 7.634863e-2
+- - - '28'
+    - Evgeniya Laritskaya
+  - area: 2345540.6358 km s
+    coef: 6.97270813
+    frac: 0
+- - - '34'
+    - Jon snr Durand
+  - area: 2405128.9870 km s
+    coef: 7.14984946
+    frac: 0
+- - - '19'
+    - Mikhail Karmazin
+  - area: 2433939.3763 km s
+    coef: 7.23549557
+    frac: 0
+- - - '67'
+    - ! 'Andy Phillips '
+  - area: 2435238.4788 km s
+    coef: 7.23935748
+    frac: 0
+- - - '7'
+    - Shaun O'neill
+  - area: 2440551.5799 km s
+    coef: 7.255152
+    frac: 0
+- - - '29'
+    - Konstantin Lukyanov
+  - area: 2455154.6939 km s
+    coef: 7.29856342
+    frac: 0
+- - - '17'
+    - John Urlich
+  - area: 2466728.3163 km s
+    coef: 7.33296892
+    frac: 0
+- - - '82'
+    - Alain Le-gac
+  - area: 2501046.1465 km s
+    coef: 7.43498728
+    frac: 0
+- - - '76'
+    - Dmitriy Korchenkov
+  - area: 2660663.2358 km s
+    coef: 7.90948913
+    frac: 0
+- - - '16'
+    - Grant Edward
+  - area: 2746885.4298 km s
+    coef: 8.16580624
+    frac: 0
+- - - '105'
+    - Chris Lawry
+  - area: 2809238.3959 km s
+    coef: 8.35116608
+    frac: 0
+- - - '12'
+    - Glen Mcfarlane
+  - area: 2819514.6101 km s
+    coef: 8.38171471
+    frac: 0
+- - - '40'
+    - Phil de Joux
+  - area: 2822304.3354 km s
+    coef: 8.39000787
+    frac: 0
+- - - '81'
+    - Valentino Bau
+  - area: 2828163.4615 km s
+    coef: 8.40742559
+    frac: 0
+- - - '64'
+    - Gustavo Carvalho
+  - area: 2855383.9101 km s
+    coef: 8.4883452
+    frac: 0
+- - - '97'
+    - Konrad Schwab
+  - area: 2894191.8938 km s
+    coef: 8.60371167
+    frac: 0
+- - - '47'
+    - ! 'Miguel De Jong '
+  - area: 2900571.3618 km s
+    coef: 8.62267624
+    frac: 0
+- - - '23'
+    - Gerolf Heinrichs
+  - area: 2972272.9837 km s
+    coef: 8.83582731
+    frac: 0
+- - - '32'
+    - Kathryn O'Riordan
+  - area: 3020145.9177 km s
+    coef: 8.97814161
+    frac: 0
+- - - '88'
+    - Martin Sielaff
+  - area: 3142178.7449 km s
+    coef: 9.34091482
+    frac: 0
+- - - '59'
+    - Artur Dzamikhov
+  - area: 3153435.7791 km s
+    coef: 9.37437918
+    frac: 0
+- - - '15'
+    - ! 'Jean Souviron '
+  - area: 3193739.2680 km s
+    coef: 9.49419141
+    frac: 0
+- - - '70'
+    - Matthew Barlow
+  - area: 3202219.2690 km s
+    coef: 9.51940034
+    frac: 0
+- - - '50'
+    - Monique Pavy
+  - area: 3208932.7017 km s
+    coef: 9.5393577
+    frac: 0
+- - - '79'
+    - David Stevens
+  - area: 3212996.2843 km s
+    coef: 9.55143772
+    frac: 0
+- - - '5'
+    - Wolfgang Siess
+  - area: 3326483.4400 km s
+    coef: 9.88880677
+    frac: 0
+- - - '62'
+    - Enda Murphy
+  - area: 3386187.6943 km s
+    coef: 10.06629265
+    frac: 0
+- - - '58'
+    - Anna Belova
+  - area: 3454142.6585 km s
+    coef: 10.26830583
+    frac: 0
+- - - '37'
+    - Peter Ebeling
+  - area: 3489393.8733 km s
+    coef: 10.37309892
+    frac: 0
+- - - '46'
+    - Jonathon Foote
+  - area: 3645172.6744 km s
+    coef: 10.83619049
+    frac: 0
+- - - '2'
+    - Pablo Gomes
+  - area: 3769148.7957 km s
+    coef: 11.20474062
+    frac: 0
+- - - '86'
+    - Talgat Irgaleev
+  - area: 3869608.6171 km s
+    coef: 11.50338265
+    frac: 0
+- - - '14'
+    - Olav Lien Olsen
+  - area: 3893061.5264 km s
+    coef: 11.57310231
+    frac: 0

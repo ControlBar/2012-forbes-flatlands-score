@@ -1,0 +1,8054 @@
+validityWorking:
+  time:
+    nominalTime: 2.000000 h
+    ssBestTime: 3.718498 h
+    gsBestTime: 3.718498 h
+    nominalDistance: 80.0 km
+    reachMax:
+      extra: 158.864345 km
+      flown: 158.864345 km
+  launch:
+    nominalLaunch: 0.96
+    flying: 90
+    present: 91
+  distance:
+    sum: 9487.1 km
+    flying: 90
+    area: 52.8864345
+    nominalGoal: 0.2
+    nominalDistance: 80.0 km
+    minimumDistance: 5.000 km
+    reachMax:
+      extra: 158.864345 km
+      flown: 158.864345 km
+  stop: null
+validity:
+  time: 1
+  launch: 1
+  distance: 1
+  task: 1
+  stop: null
+allocation:
+  goalRatio: 0.32222222
+  weight:
+    effort: 0.2608588
+    arrival: 5.97853e-2
+    time: 0.33479768
+    reach: 0.2608588
+    distance: 0.5217176
+    leading: 8.369942e-2
+  points:
+    effort: 260.859
+    arrival: 59.8
+    time: 334.8
+    reach: 260.859
+    distance: 521.718
+    leading: 83.7
+  taskPoints: 1000
+score:
+- - - '23'
+    - Gerolf Heinrichs
+  - place: '1'
+    total: 1000
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 59.8
+      time: 334.8
+      reach: 260.859
+      distance: 521.718
+      leading: 83.7
+    velocity:
+      ss: 2012-01-14T03:31:18.022783494136Z
+      gs: null
+      es: 2012-01-14T07:14:24.61483374102Z
+      ssDistance: 148.964 km
+      ssElapsed: 3.718498 h
+      gsElapsed: 3.718498 h
+      ssVelocity: 40.06 km / h
+      gsVelocity: 40.06 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 1000
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '100'
+    - Attila Bertok
+  - place: '2'
+    total: 883.163
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 55.4
+      time: 241.3
+      reach: 260.859
+      distance: 521.718
+      leading: 64.8
+    velocity:
+      ss: 2012-01-14T03:30:55.587779838351Z
+      gs: null
+      es: 2012-01-14T07:31:07.089658130097Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.003195 h
+      gsElapsed: 4.003195 h
+      ssVelocity: 37.21 km / h
+      gsVelocity: 37.21 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 883.163
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '83'
+    - Peter Dall
+  - place: '3'
+    total: 873.765
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 47.5
+      time: 259.7
+      reach: 260.859
+      distance: 521.718
+      leading: 44.9
+    velocity:
+      ss: 2012-01-14T03:44:06.01081705043Z
+      gs: null
+      es: 2012-01-14T07:39:30.47689044964Z
+      ssDistance: 148.964 km
+      ssElapsed: 3.923463 h
+      gsElapsed: 3.923463 h
+      ssVelocity: 37.97 km / h
+      gsVelocity: 37.97 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 873.765
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '66'
+    - Jonas Lobitz
+  - place: '4'
+    total: 871.538
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 51.3
+      time: 227.8
+      reach: 260.859
+      distance: 521.718
+      leading: 70.8
+    velocity:
+      ss: 2012-01-14T03:31:16.807088607842Z
+      gs: null
+      es: 2012-01-14T07:35:18.317723301335Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.067086 h
+      gsElapsed: 4.067086 h
+      ssVelocity: 36.63 km / h
+      gsVelocity: 36.63 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 871.538
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '102'
+    - Davide Guiducci
+  - place: '5'
+    total: 805.147
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 40.6
+      time: 194.4
+      reach: 260.859
+      distance: 521.718
+      leading: 48.5
+    velocity:
+      ss: 2012-01-14T03:35:58.368777987538Z
+      gs: null
+      es: 2012-01-14T07:50:30.041334289374Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.242131 h
+      gsElapsed: 4.242131 h
+      ssVelocity: 35.12 km / h
+      gsVelocity: 35.12 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 805.147
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '41'
+    - Curt Warren
+  - place: '6'
+    total: 800.935
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 25.4
+      time: 253.8
+      reach: 260.859
+      distance: 521.718
+      leading: 0
+    velocity:
+      ss: 2012-01-14T04:00:00Z
+      gs: null
+      es: 2012-01-14T07:56:52Z
+      ssDistance: 148.964 km
+      ssElapsed: 3.947778 h
+      gsElapsed: 3.947778 h
+      ssVelocity: 37.73 km / h
+      gsVelocity: 37.73 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.870 km
+      flown: 158.870 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 800.935
+    landedMade: 158.870 km
+    stoppedAlt: null
+- - - '93'
+    - Trent Brown
+  - place: '7'
+    total: 800.125
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 29.6
+      time: 199.2
+      reach: 260.859
+      distance: 521.718
+      leading: 49.6
+    velocity:
+      ss: 2012-01-14T03:42:43.20394202437Z
+      gs: null
+      es: 2012-01-14T07:55:39.722076557268Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.215699 h
+      gsElapsed: 4.215699 h
+      ssVelocity: 35.34 km / h
+      gsVelocity: 35.34 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 800.125
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '70'
+    - Matthew Barlow
+  - place: '8'
+    total: 798.576
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 43.9
+      time: 181.7
+      reach: 260.859
+      distance: 521.718
+      leading: 51.3
+    velocity:
+      ss: 2012-01-14T03:31:13.04588560688Z
+      gs: null
+      es: 2012-01-14T07:50:06.223121155855Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.314771 h
+      gsElapsed: 4.314771 h
+      ssVelocity: 34.52 km / h
+      gsVelocity: 34.52 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 798.576
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '60'
+    - Rohan Holtkamp
+  - place: '9'
+    total: 795.008
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 37.5
+      time: 188.2
+      reach: 260.859
+      distance: 521.718
+      leading: 47.7
+    velocity:
+      ss: 2012-01-14T03:35:44.565831663676Z
+      gs: null
+      es: 2012-01-14T07:52:23.579609365435Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.277504 h
+      gsElapsed: 4.277504 h
+      ssVelocity: 34.83 km / h
+      gsVelocity: 34.83 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 795.008
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '36'
+    - Franz Herrmann
+  - place: '10'
+    total: 787.366
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 32
+      time: 180.1
+      reach: 260.859
+      distance: 521.718
+      leading: 53.5
+    velocity:
+      ss: 2012-01-14T03:35:41.48562210887Z
+      gs: null
+      es: 2012-01-14T07:55:08.058973352344Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.324048 h
+      gsElapsed: 4.324048 h
+      ssVelocity: 34.45 km / h
+      gsVelocity: 34.45 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 787.366
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '34'
+    - Jon snr Durand
+  - place: '11'
+    total: 785.572
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 34.6
+      time: 177
+      reach: 260.859
+      distance: 521.718
+      leading: 52.2
+    velocity:
+      ss: 2012-01-14T03:33:00.60317273699Z
+      gs: null
+      es: 2012-01-14T07:53:34.010718929905Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.342613 h
+      gsElapsed: 4.342613 h
+      ssVelocity: 34.30 km / h
+      gsVelocity: 34.30 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 785.572
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '81'
+    - Valentino Bau
+  - place: '12'
+    total: 772.772
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 23.5
+      time: 176.1
+      reach: 260.859
+      distance: 521.718
+      leading: 51.4
+    velocity:
+      ss: 2012-01-14T03:36:06.607746320548Z
+      gs: null
+      es: 2012-01-14T07:56:59.64093842599Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.348065 h
+      gsElapsed: 4.348065 h
+      ssVelocity: 34.26 km / h
+      gsVelocity: 34.26 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 772.772
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '95'
+    - Anton Struganov
+  - place: '13'
+    total: 764.96
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 12.8
+      time: 230.5
+      reach: 260.859
+      distance: 521.718
+      leading: 0
+    velocity:
+      ss: 2012-01-14T04:00:00Z
+      gs: null
+      es: 2012-01-14T08:03:14Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.053889 h
+      gsElapsed: 4.053889 h
+      ssVelocity: 36.75 km / h
+      gsVelocity: 36.75 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.870 km
+      flown: 158.870 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 764.96
+    landedMade: 158.870 km
+    stoppedAlt: null
+- - - '45'
+    - Roland Wöhrle
+  - place: '14'
+    total: 763.134
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 20.4
+      time: 173.2
+      reach: 260.859
+      distance: 521.718
+      leading: 47.8
+    velocity:
+      ss: 2012-01-14T03:35:43.59742687394Z
+      gs: null
+      es: 2012-01-14T07:57:37.68817258576Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.365025 h
+      gsElapsed: 4.365025 h
+      ssVelocity: 34.13 km / h
+      gsVelocity: 34.13 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 763.134
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '92'
+    - Hans Kiefinger
+  - place: 15=
+    total: 759.949
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 16
+      time: 170.7
+      reach: 260.859
+      distance: 521.718
+      leading: 51.6
+    velocity:
+      ss: 2012-01-14T03:35:41.44690191433Z
+      gs: null
+      es: 2012-01-14T07:58:30.97170331241Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.380424 h
+      gsElapsed: 4.380424 h
+      ssVelocity: 34.01 km / h
+      gsVelocity: 34.01 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 759.949
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '84'
+    - Yasuhiro Noma
+  - place: 15=
+    total: 759.824
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 19.1
+      time: 172.5
+      reach: 260.859
+      distance: 521.718
+      leading: 46.5
+    velocity:
+      ss: 2012-01-14T03:35:31.517994620766Z
+      gs: null
+      es: 2012-01-14T07:57:40.54883008497Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.369175 h
+      gsElapsed: 4.369175 h
+      ssVelocity: 34.09 km / h
+      gsVelocity: 34.09 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 759.824
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '89'
+    - Scott Barrett
+  - place: '17'
+    total: 757.529
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 13.5
+      time: 171.8
+      reach: 260.859
+      distance: 521.718
+      leading: 50.6
+    velocity:
+      ss: 2012-01-14T03:40:03.902953968645Z
+      gs: null
+      es: 2012-01-14T08:02:29.477774225245Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.373771 h
+      gsElapsed: 4.373771 h
+      ssVelocity: 34.06 km / h
+      gsVelocity: 34.06 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 757.529
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '1'
+    - Lukas Bader
+  - place: '18'
+    total: 755.012
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 17.9
+      time: 160
+      reach: 260.859
+      distance: 521.718
+      leading: 55.3
+    velocity:
+      ss: 2012-01-14T03:31:03.337708794344Z
+      gs: null
+      es: 2012-01-14T07:57:48.158350964432Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.445784 h
+      gsElapsed: 4.445784 h
+      ssVelocity: 33.51 km / h
+      gsVelocity: 33.51 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 755.012
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '31'
+    - Andrew Barnes
+  - place: '19'
+    total: 753.088
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 21.9
+      time: 162.7
+      reach: 260.859
+      distance: 521.718
+      leading: 46.8
+    velocity:
+      ss: 2012-01-14T03:31:42.02701301292Z
+      gs: null
+      es: 2012-01-14T07:57:26.90933758969Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.429134 h
+      gsElapsed: 4.429134 h
+      ssVelocity: 33.63 km / h
+      gsVelocity: 33.63 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 753.088
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '5'
+    - Wolfgang Siess
+  - place: '20'
+    total: 751.763
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 27.4
+      time: 163.1
+      reach: 260.859
+      distance: 521.718
+      leading: 39.6
+    velocity:
+      ss: 2012-01-14T03:31:11.73352457118Z
+      gs: null
+      es: 2012-01-14T07:56:48.564225578369Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.426897 h
+      gsElapsed: 4.426897 h
+      ssVelocity: 33.65 km / h
+      gsVelocity: 33.65 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 751.763
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '11'
+    - Steve Blenkinsop
+  - place: '21'
+    total: 748.088
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 16.9
+      time: 158.3
+      reach: 260.859
+      distance: 521.718
+      leading: 51.2
+    velocity:
+      ss: 2012-01-14T03:30:49.85639292038Z
+      gs: null
+      es: 2012-01-14T07:58:14.231693541477Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.456771 h
+      gsElapsed: 4.456771 h
+      ssVelocity: 33.42 km / h
+      gsVelocity: 33.42 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 748.088
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '15'
+    - ! 'Jean Souviron '
+  - place: '22'
+    total: 744.585
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 12.3
+      time: 160.5
+      reach: 260.859
+      distance: 521.718
+      leading: 50
+    velocity:
+      ss: 2012-01-14T03:37:05.096935900419Z
+      gs: null
+      es: 2012-01-14T08:03:38.594849513584Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.442638 h
+      gsElapsed: 4.442638 h
+      ssVelocity: 33.53 km / h
+      gsVelocity: 33.53 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 744.585
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '75'
+    - Joerg Bajewski
+  - place: '23'
+    total: 743.607
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 15.2
+      time: 157.8
+      reach: 260.859
+      distance: 521.718
+      leading: 48.9
+    velocity:
+      ss: 2012-01-14T03:31:07.88103637782Z
+      gs: null
+      es: 2012-01-14T07:58:42.98614966939Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.459751 h
+      gsElapsed: 4.459751 h
+      ssVelocity: 33.40 km / h
+      gsVelocity: 33.40 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 743.607
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '59'
+    - Artur Dzamikhov
+  - place: '24'
+    total: 741.606
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 14.5
+      time: 158.8
+      reach: 260.859
+      distance: 521.718
+      leading: 46.5
+    velocity:
+      ss: 2012-01-14T03:31:58.197422297454Z
+      gs: null
+      es: 2012-01-14T07:59:10.043505616094Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.453291 h
+      gsElapsed: 4.453291 h
+      ssVelocity: 33.45 km / h
+      gsVelocity: 33.45 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 741.606
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '99'
+    - Tullio Gervasoni
+  - place: '25'
+    total: 740.918
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 13.1
+      time: 158.5
+      reach: 260.859
+      distance: 521.718
+      leading: 47.6
+    velocity:
+      ss: 2012-01-14T03:35:43.851995312Z
+      gs: null
+      es: 2012-01-14T08:03:03.573215958365Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.455478 h
+      gsElapsed: 4.455478 h
+      ssVelocity: 33.43 km / h
+      gsVelocity: 33.43 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 740.918
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '68'
+    - Grant Heaney
+  - place: 26=
+    total: 731.855
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 12.2
+      time: 147.1
+      reach: 260.859
+      distance: 521.718
+      leading: 50.9
+    velocity:
+      ss: 2012-01-14T03:32:06.054409956585Z
+      gs: null
+      es: 2012-01-14T08:03:46.565354747335Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.527920 h
+      gsElapsed: 4.527920 h
+      ssVelocity: 32.90 km / h
+      gsVelocity: 32.90 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 731.855
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '71'
+    - Edoardo Giudiceandrea
+  - place: 26=
+    total: 731.692
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 12.5
+      time: 145.6
+      reach: 260.859
+      distance: 521.718
+      leading: 51.9
+    velocity:
+      ss: 2012-01-14T03:31:08.17197081871Z
+      gs: null
+      es: 2012-01-14T08:03:24.02771481004Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.537738 h
+      gsElapsed: 4.537738 h
+      ssVelocity: 32.83 km / h
+      gsVelocity: 32.83 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 731.692
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '94'
+    - Mitch Shipley
+  - place: '28'
+    total: 729.605
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 14
+      time: 152.3
+      reach: 260.859
+      distance: 521.718
+      leading: 41.6
+    velocity:
+      ss: 2012-01-14T03:30:36.816672287596Z
+      gs: null
+      es: 2012-01-14T08:00:17.495008509162Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.494633 h
+      gsElapsed: 4.494633 h
+      ssVelocity: 33.14 km / h
+      gsVelocity: 33.14 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 729.605
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '90'
+    - Adam Stevens
+  - place: '29'
+    total: 706.448
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 12
+      time: 121.2
+      reach: 260.859
+      distance: 521.718
+      leading: 51.5
+    velocity:
+      ss: 2012-01-14T03:30:53.43813297878Z
+      gs: null
+      es: 2012-01-14T08:12:57.603591275665Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.701157 h
+      gsElapsed: 4.701157 h
+      ssVelocity: 31.69 km / h
+      gsVelocity: 31.69 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 706.448
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '20'
+    - ! 'Luke Browne '
+  - place: 30=
+    total: 533.195
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 253.981
+      arrival: 0
+      time: 0
+      reach: 253.553
+      distance: 507.534
+      leading: 25.7
+    velocity:
+      ss: 2012-01-14T03:34:05.14040185029Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 154.415 km
+      flown: 154.415 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 533.195
+    landedMade: 154.415 km
+    stoppedAlt: 227.000 m
+- - - '13'
+    - John Smith
+  - place: 30=
+    total: 532.578
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 248.886
+      arrival: 0
+      time: 0
+      reach: 250.595
+      distance: 499.48
+      leading: 33.1
+    velocity:
+      ss: 2012-01-14T03:36:23.356704664158Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 152.613 km
+      flown: 152.613 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 532.578
+    landedMade: 152.613 km
+    stoppedAlt: 232.000 m
+- - - '103'
+    - Roberto Nichele
+  - place: '32'
+    total: 529.411
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 252.707
+      arrival: 0
+      time: 0
+      reach: 252.7
+      distance: 505.407
+      leading: 24
+    velocity:
+      ss: 2012-01-14T03:51:01.968178469146Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 153.895 km
+      flown: 153.895 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 529.411
+    landedMade: 153.895 km
+    stoppedAlt: 238.000 m
+- - - '48'
+    - Paolo Rosichetti
+  - place: '33'
+    total: 527.796
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 238.569
+      arrival: 0
+      time: 0
+      reach: 246.506
+      distance: 485.074
+      leading: 42.7
+    velocity:
+      ss: 2012-01-14T03:30:44.968868234208Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 150.123 km
+      flown: 150.123 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 527.796
+    landedMade: 150.123 km
+    stoppedAlt: 231.000 m
+- - - '14'
+    - Olav Lien Olsen
+  - place: '34'
+    total: 525.825
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 251.306
+      arrival: 0
+      time: 0
+      reach: 251.732
+      distance: 503.038
+      leading: 22.8
+    velocity:
+      ss: 2012-01-14T03:33:13.785126906267Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 153.306 km
+      flown: 153.306 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 525.825
+    landedMade: 153.306 km
+    stoppedAlt: 250.000 m
+- - - '26'
+    - Guy Hubbard
+  - place: '35'
+    total: 524.782
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 240.734
+      arrival: 0
+      time: 0
+      reach: 247.358
+      distance: 488.092
+      leading: 36.7
+    velocity:
+      ss: 2012-01-14T03:32:43.35241108167Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 150.642 km
+      flown: 150.642 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 524.782
+    landedMade: 150.642 km
+    stoppedAlt: 332.000 m
+- - - '19'
+    - Mikhail Karmazin
+  - place: 36=
+    total: 524.264
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 249.268
+      arrival: 0
+      time: 0
+      reach: 250.746
+      distance: 500.013
+      leading: 24.3
+    velocity:
+      ss: 2012-01-14T03:33:23.053742407254Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 152.705 km
+      flown: 152.705 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 524.264
+    landedMade: 152.705 km
+    stoppedAlt: 243.000 m
+- - - '25'
+    - Nick Purcell
+  - place: 36=
+    total: 523.545
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 240.734
+      arrival: 0
+      time: 0
+      reach: 247.376
+      distance: 488.11
+      leading: 35.4
+    velocity:
+      ss: 2012-01-14T03:31:20.684478782878Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 150.653 km
+      flown: 150.653 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 523.545
+    landedMade: 150.653 km
+    stoppedAlt: 270.000 m
+- - - '30'
+    - Fredy Bircher
+  - place: '38'
+    total: 519.476
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 259.967
+      arrival: 0
+      time: 0
+      reach: 259.509
+      distance: 519.476
+      leading: 0
+    velocity: null
+    penaltyReason: ''
+    reach:
+      extra: 158.042 km
+      flown: 158.042 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 519.476
+    landedMade: 158.042 km
+    stoppedAlt: null
+- - - '77'
+    - Len Paton
+  - place: '39'
+    total: 515.861
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 238.569
+      arrival: 0
+      time: 0
+      reach: 246.512
+      distance: 485.081
+      leading: 30.8
+    velocity:
+      ss: 2012-01-14T03:42:56.20580627079Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 150.127 km
+      flown: 150.127 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 515.861
+    landedMade: 150.127 km
+    stoppedAlt: 230.000 m
+- - - '8'
+    - Primoz Gricar
+  - place: '40'
+    total: 515.019
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 222.138
+      arrival: 0
+      time: 0
+      reach: 242.031
+      distance: 464.169
+      leading: 50.9
+    velocity:
+      ss: 2012-01-14T03:35:18.28075865262Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 147.398 km
+      flown: 147.398 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 515.019
+    landedMade: 147.398 km
+    stoppedAlt: 244.000 m
+- - - '73'
+    - Gijs Wanders
+  - place: '41'
+    total: 504.698
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 235.13
+      arrival: 0
+      time: 0
+      reach: 245.427
+      distance: 480.557
+      leading: 24.1
+    velocity:
+      ss: 2012-01-14T03:31:18.397785039556Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 149.466 km
+      flown: 149.466 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 504.698
+    landedMade: 149.466 km
+    stoppedAlt: 245.000 m
+- - - '105'
+    - Chris Lawry
+  - place: '42'
+    total: 498.091
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 231.818
+      arrival: 0
+      time: 0
+      reach: 244.496
+      distance: 476.314
+      leading: 21.8
+    velocity:
+      ss: 2012-01-14T03:37:29.43708760178Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 148.899 km
+      flown: 148.899 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 498.091
+    landedMade: 148.899 km
+    stoppedAlt: 244.000 m
+- - - '33'
+    - Conrad Loten
+  - place: '43'
+    total: 496.825
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 228.761
+      arrival: 0
+      time: 0
+      reach: 243.647
+      distance: 472.408
+      leading: 24.4
+    velocity:
+      ss: 2012-01-14T03:40:51.38043359533Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 148.382 km
+      flown: 148.382 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 496.825
+    landedMade: 148.382 km
+    stoppedAlt: 238.000 m
+- - - '56'
+    - Cameron Tunbridge
+  - place: '44'
+    total: 489.758
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 216.533
+      arrival: 0
+      time: 0
+      reach: 240.562
+      distance: 457.095
+      leading: 32.7
+    velocity:
+      ss: 2012-01-14T03:39:42.937569271253Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 146.503 km
+      flown: 146.503 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 489.758
+    landedMade: 146.503 km
+    stoppedAlt: 240.000 m
+- - - '6'
+    - Phil Schroder
+  - place: '45'
+    total: 489.4
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 215.769
+      arrival: 0
+      time: 0
+      reach: 240.549
+      distance: 456.318
+      leading: 33.1
+    velocity:
+      ss: 2012-01-14T03:30:58.31807520324Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 146.495 km
+      flown: 146.495 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 489.4
+    landedMade: 146.495 km
+    stoppedAlt: 235.000 m
+- - - '51'
+    - Rob In 't Groen
+  - place: '46'
+    total: 466.916
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 188.002
+      arrival: 0
+      time: 0
+      reach: 231.81
+      distance: 419.812
+      leading: 47.1
+    velocity:
+      ss: 2012-01-14T02:55:24.9451960676Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 141.173 km
+      flown: 141.173 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 466.916
+    landedMade: 141.173 km
+    stoppedAlt: 220.000 m
+- - - '3'
+    - Rod Flockhart
+  - place: '47'
+    total: 432.931
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 178.831
+      arrival: 0
+      time: 0
+      reach: 223.417
+      distance: 402.248
+      leading: 30.7
+    velocity:
+      ss: 2012-01-14T03:36:16.585970891004Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 136.062 km
+      flown: 136.062 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 432.931
+    landedMade: 136.062 km
+    stoppedAlt: 225.000 m
+- - - '97'
+    - Konrad Schwab
+  - place: '48'
+    total: 431.69
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 191.059
+      arrival: 0
+      time: 0
+      reach: 233.314
+      distance: 424.373
+      leading: 7.3
+    velocity:
+      ss: 2012-01-14T03:32:20.01400321619Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 142.089 km
+      flown: 142.089 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 431.69
+    landedMade: 142.089 km
+    stoppedAlt: 275.000 m
+- - - '21'
+    - Gavin Myers
+  - place: '49'
+    total: 419.029
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 178.704
+      arrival: 0
+      time: 0
+      reach: 223.215
+      distance: 401.919
+      leading: 17.1
+    velocity:
+      ss: 2012-01-14T03:47:16.80816777697Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 135.939 km
+      flown: 135.939 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 419.029
+    landedMade: 135.939 km
+    stoppedAlt: 219.000 m
+- - - '12'
+    - Glen Mcfarlane
+  - place: '50'
+    total: 411.448
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 176.029
+      arrival: 0
+      time: 0
+      reach: 221.243
+      distance: 397.272
+      leading: 14.2
+    velocity:
+      ss: 2012-01-14T03:32:10.53477210591Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 134.738 km
+      flown: 134.738 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 411.448
+    landedMade: 134.738 km
+    stoppedAlt: 247.000 m
+- - - '29'
+    - Konstantin Lukyanov
+  - place: 51=
+    total: 408.455
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 176.029
+      arrival: 0
+      time: 0
+      reach: 221.311
+      distance: 397.339
+      leading: 11.1
+    velocity:
+      ss: 2012-01-14T03:28:58.09827135159Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 134.779 km
+      flown: 134.779 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 408.455
+    landedMade: 134.779 km
+    stoppedAlt: 213.000 m
+- - - '43'
+    - Les Bestt
+  - place: 51=
+    total: 408.093
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 170.934
+      arrival: 0
+      time: 0
+      reach: 218.153
+      distance: 389.087
+      leading: 19
+    velocity:
+      ss: 2012-01-14T03:31:22.538676254728Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 132.856 km
+      flown: 132.856 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 408.093
+    landedMade: 132.856 km
+    stoppedAlt: 249.000 m
+- - - '69'
+    - Jonathan Kinred
+  - place: '53'
+    total: 403.48
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 165.457
+      arrival: 0
+      time: 0
+      reach: 214.889
+      distance: 380.346
+      leading: 23.1
+    velocity:
+      ss: 2012-01-14T03:32:47.19909761324Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 130.868 km
+      flown: 130.868 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 403.48
+    landedMade: 130.868 km
+    stoppedAlt: 272.000 m
+- - - '55'
+    - Kari Suhonen
+  - place: '54'
+    total: 387.095
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 161.126
+      arrival: 0
+      time: 0
+      reach: 212.697
+      distance: 373.823
+      leading: 13.3
+    velocity:
+      ss: 2012-01-14T03:32:26.800305211784Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 129.533 km
+      flown: 129.533 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 387.095
+    landedMade: 129.533 km
+    stoppedAlt: 232.000 m
+- - - '47'
+    - ! 'Miguel De Jong '
+  - place: '55'
+    total: 364.804
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 151.191
+      arrival: 0
+      time: 0
+      reach: 207.119
+      distance: 358.31
+      leading: 6.5
+    velocity:
+      ss: 2012-01-14T03:33:03.17056885555Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 126.136 km
+      flown: 126.136 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 364.804
+    landedMade: 126.136 km
+    stoppedAlt: 226.000 m
+- - - '27'
+    - ! 'Boris Marold '
+  - place: '56'
+    total: 360.333
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 152.337
+      arrival: 0
+      time: 0
+      reach: 207.996
+      distance: 360.333
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:32:35.53075665381Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 126.670 km
+      flown: 126.670 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 360.333
+    landedMade: 126.670 km
+    stoppedAlt: 263.000 m
+- - - '91'
+    - Francesco Rinaldi
+  - place: '57'
+    total: 348.781
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 138.963
+      arrival: 0
+      time: 0
+      reach: 195.552
+      distance: 334.516
+      leading: 14.3
+    velocity:
+      ss: 2012-01-14T03:37:55.520019096456Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 119.092 km
+      flown: 119.092 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 348.781
+    landedMade: 119.092 km
+    stoppedAlt: 214.000 m
+- - - '98'
+    - Patrick Collin
+  - place: '58'
+    total: 308.137
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 134.505
+      arrival: 0
+      time: 0
+      reach: 173.631
+      distance: 308.137
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:58:52.79729180741Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 105.742 km
+      flown: 105.742 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 308.137
+    landedMade: 105.742 km
+    stoppedAlt: 215.000 m
+- - - '96'
+    - Brodrick Osborne
+  - place: '59'
+    total: 289.76
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 130.175
+      arrival: 0
+      time: 0
+      reach: 159.585
+      distance: 289.76
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:39:42.809906385794Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 97.188 km
+      flown: 97.188 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 289.76
+    landedMade: 97.188 km
+    stoppedAlt: 213.000 m
+- - - '44'
+    - Francoise Dieuzeide-banet
+  - place: '60'
+    total: 260.344
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 125.971
+      arrival: 0
+      time: 0
+      reach: 134.372
+      distance: 260.344
+      leading: 0
+    velocity:
+      ss: 2012-01-14T04:19:12.335037306473Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 81.833 km
+      flown: 81.833 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 260.344
+    landedMade: 81.833 km
+    stoppedAlt: 216.000 m
+- - - '67'
+    - ! 'Andy Phillips '
+  - place: '61'
+    total: 252.251
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 123.933
+      arrival: 0
+      time: 0
+      reach: 128.318
+      distance: 252.251
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:32:02.670321136543Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 78.146 km
+      flown: 78.146 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 252.251
+    landedMade: 78.146 km
+    stoppedAlt: 273.000 m
+- - - '16'
+    - Grant Edward
+  - place: '62'
+    total: 232.499
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 117.565
+      arrival: 0
+      time: 0
+      reach: 114.934
+      distance: 232.499
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:47:26.709561979195Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 69.995 km
+      flown: 69.995 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 232.499
+    landedMade: 69.995 km
+    stoppedAlt: 264.000 m
+- - - '49'
+    - Tony Giammichele
+  - place: '63'
+    total: 222.698
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 115.145
+      arrival: 0
+      time: 0
+      reach: 107.553
+      distance: 222.698
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:34:13.121644105152Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 65.500 km
+      flown: 65.500 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 222.698
+    landedMade: 65.500 km
+    stoppedAlt: 213.000 m
+- - - '7'
+    - Shaun O'neill
+  - place: 64=
+    total: 221.482
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 114.635
+      arrival: 0
+      time: 0
+      reach: 106.847
+      distance: 221.482
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:35:16.13135454366Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 65.070 km
+      flown: 65.070 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 221.482
+    landedMade: 65.070 km
+    stoppedAlt: 209.000 m
+- - - '2'
+    - Pablo Gomes
+  - place: 64=
+    total: 220.814
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 114.253
+      arrival: 0
+      time: 0
+      reach: 106.561
+      distance: 220.814
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:36:08.979665002599Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 64.896 km
+      flown: 64.896 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 220.814
+    landedMade: 64.896 km
+    stoppedAlt: 261.000 m
+- - - '37'
+    - Peter Ebeling
+  - place: '66'
+    total: 219.953
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 113.871
+      arrival: 0
+      time: 0
+      reach: 106.082
+      distance: 219.953
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:39:07.736340516865Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 64.604 km
+      flown: 64.604 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 219.953
+    landedMade: 64.604 km
+    stoppedAlt: 260.000 m
+- - - '87'
+    - Corinna Schwiegershausen
+  - place: '67'
+    total: 192.629
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 97.567
+      arrival: 0
+      time: 0
+      reach: 95.062
+      distance: 192.629
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:30:25.35770608Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 57.893 km
+      flown: 57.893 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 192.629
+    landedMade: 57.893 km
+    stoppedAlt: 223.000 m
+- - - '82'
+    - Alain Le-gac
+  - place: 68=
+    total: 192.089
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 97.313
+      arrival: 0
+      time: 0
+      reach: 94.776
+      distance: 192.089
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:40:13.395650266506Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 57.719 km
+      flown: 57.719 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 192.089
+    landedMade: 57.719 km
+    stoppedAlt: 217.000 m
+- - - '24'
+    - Christian Baertschi
+  - place: 68=
+    total: 191.662
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 97.058
+      arrival: 0
+      time: 0
+      reach: 94.604
+      distance: 191.662
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:36:50.25044418939Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 57.614 km
+      flown: 57.614 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 191.662
+    landedMade: 57.614 km
+    stoppedAlt: 210.000 m
+- - - '78'
+    - Christine Aichner
+  - place: '70'
+    total: 190.137
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 96.039
+      arrival: 0
+      time: 0
+      reach: 94.098
+      distance: 190.137
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:34:28.822940449285Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 57.306 km
+      flown: 57.306 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 190.137
+    landedMade: 57.306 km
+    stoppedAlt: 210.000 m
+- - - '62'
+    - Enda Murphy
+  - place: '71'
+    total: 188.897
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 95.147
+      arrival: 0
+      time: 0
+      reach: 93.75
+      distance: 188.897
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:31:55.913688223695Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 57.094 km
+      flown: 57.094 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 188.897
+    landedMade: 57.094 km
+    stoppedAlt: 284.000 m
+- - - '42'
+    - Suan Selenati
+  - place: '72'
+    total: 170.675
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 83.811
+      arrival: 0
+      time: 0
+      reach: 86.864
+      distance: 170.675
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:41:30.329773524198Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 52.900 km
+      flown: 52.900 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 170.675
+    landedMade: 52.900 km
+    stoppedAlt: 219.000 m
+- - - '79'
+    - David Stevens
+  - place: 73=
+    total: 169.299
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 82.792
+      arrival: 0
+      time: 0
+      reach: 86.507
+      distance: 169.299
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:35:14.35326993499Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 52.683 km
+      flown: 52.683 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 169.299
+    landedMade: 52.683 km
+    stoppedAlt: 266.000 m
+- - - '18'
+    - Jürgen Pasker
+  - place: 73=
+    total: 169.262
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 82.792
+      arrival: 0
+      time: 0
+      reach: 86.469
+      distance: 169.262
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:33:47.56370166557Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 52.660 km
+      flown: 52.660 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 169.262
+    landedMade: 52.660 km
+    stoppedAlt: 227.000 m
+- - - '22'
+    - Mark Russell
+  - place: '75'
+    total: 165.514
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 80.117
+      arrival: 0
+      time: 0
+      reach: 85.397
+      distance: 165.514
+      leading: 0
+    velocity: null
+    penaltyReason: ''
+    reach:
+      extra: 52.007 km
+      flown: 52.007 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 165.514
+    landedMade: 52.007 km
+    stoppedAlt: null
+- - - '76'
+    - Dmitriy Korchenkov
+  - place: '76'
+    total: 164.326
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 79.226
+      arrival: 0
+      time: 0
+      reach: 85.1
+      distance: 164.326
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:39:00.127339943395Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 51.826 km
+      flown: 51.826 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 164.326
+    landedMade: 51.826 km
+    stoppedAlt: 211.000 m
+- - - '52'
+    - Virpi Nieminen
+  - place: '77'
+    total: 153.436
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 70.819
+      arrival: 0
+      time: 0
+      reach: 82.617
+      distance: 153.436
+      leading: 0
+    velocity:
+      ss: 2012-01-14T02:54:39.52121619938Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 50.314 km
+      flown: 50.314 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 153.436
+    landedMade: 50.314 km
+    stoppedAlt: 221.000 m
+- - - '40'
+    - Phil de Joux
+  - place: '78'
+    total: 131.417
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 55.662
+      arrival: 0
+      time: 0
+      reach: 75.755
+      distance: 131.417
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:33:40.731114560926Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 46.135 km
+      flown: 46.135 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 131.417
+    landedMade: 46.135 km
+    stoppedAlt: 216.000 m
+- - - '53'
+    - Hadewych van Kempen
+  - place: '79'
+    total: 104.643
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 45.981
+      arrival: 0
+      time: 0
+      reach: 58.662
+      distance: 104.643
+      leading: 0
+    velocity:
+      ss: 2012-01-14T02:53:17.309330138483Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 35.725 km
+      flown: 35.725 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 104.643
+    landedMade: 35.725 km
+    stoppedAlt: 220.000 m
+- - - '101'
+    - ! 'Andrew Luton '
+  - place: '80'
+    total: 83.639
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 41.778
+      arrival: 0
+      time: 0
+      reach: 41.861
+      distance: 83.639
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:42:23.24593188885Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 25.493 km
+      flown: 25.493 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 83.639
+    landedMade: 25.493 km
+    stoppedAlt: 269.000 m
+- - - '88'
+    - Martin Sielaff
+  - place: '81'
+    total: 80.15
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 40.887
+      arrival: 0
+      time: 0
+      reach: 39.263
+      distance: 80.15
+      leading: 0
+    velocity:
+      ss: 2012-01-14T02:43:14.33604864575Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 23.911 km
+      flown: 23.911 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 80.15
+    landedMade: 23.911 km
+    stoppedAlt: 265.000 m
+- - - '17'
+    - John Urlich
+  - place: '82'
+    total: 75.877
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 39.103
+      arrival: 0
+      time: 0
+      reach: 36.774
+      distance: 75.877
+      leading: 0
+    velocity:
+      ss: 2012-01-14T02:57:01.021770451371Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 22.395 km
+      flown: 22.395 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 75.877
+    landedMade: 22.395 km
+    stoppedAlt: 225.000 m
+- - - '85'
+    - Neil Petersen
+  - place: '83'
+    total: 72.929
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 37.702
+      arrival: 0
+      time: 0
+      reach: 35.227
+      distance: 72.929
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:50:26.99232726042Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 21.453 km
+      flown: 21.453 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 72.929
+    landedMade: 21.453 km
+    stoppedAlt: 221.000 m
+- - - '46'
+    - Jonathon Foote
+  - place: '84'
+    total: 57.238
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 28.786
+      arrival: 0
+      time: 0
+      reach: 28.452
+      distance: 57.238
+      leading: 0
+    velocity:
+      ss: 2012-01-14T02:54:02.68450157876Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 17.327 km
+      flown: 17.327 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 57.238
+    landedMade: 17.327 km
+    stoppedAlt: 220.000 m
+- - - '35'
+    - Carole Tobler
+  - place: '85'
+    total: 47.142
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 23.564
+      arrival: 0
+      time: 0
+      reach: 23.578
+      distance: 47.142
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:48:31.18856249758Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 14.359 km
+      flown: 14.359 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 47.142
+    landedMade: 14.359 km
+    stoppedAlt: 223.000 m
+- - - '58'
+    - Anna Belova
+  - place: '86'
+    total: 40.341
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 20.634
+      arrival: 0
+      time: 0
+      reach: 19.707
+      distance: 40.341
+      leading: 0
+    velocity: null
+    penaltyReason: ''
+    reach:
+      extra: 12.002 km
+      flown: 12.002 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 40.341
+    landedMade: 12.002 km
+    stoppedAlt: null
+- - - '50'
+    - Monique Pavy
+  - place: '87'
+    total: 24.54
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 13.501
+      arrival: 0
+      time: 0
+      reach: 11.038
+      distance: 24.54
+      leading: 0
+    velocity:
+      ss: null
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 6.722 km
+      flown: 6.722 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 24.54
+    landedMade: 6.722 km
+    stoppedAlt: 0.000 m
+- - - '28'
+    - Evgeniya Laritskaya
+  - place: 88=
+    total: 19.801
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 11.591
+      arrival: 0
+      time: 0
+      reach: 8.21
+      distance: 19.801
+      leading: 0
+    velocity: null
+    penaltyReason: ''
+    reach:
+      extra: 0.000 km
+      flown: 0.000 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 19.801
+    landedMade: 0.000 km
+    stoppedAlt: null
+- - - '64'
+    - Gustavo Carvalho
+  - place: 88=
+    total: 19.801
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 11.591
+      arrival: 0
+      time: 0
+      reach: 8.21
+      distance: 19.801
+      leading: 0
+    velocity: null
+    penaltyReason: ''
+    reach:
+      extra: 0.000 km
+      flown: 0.000 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 19.801
+    landedMade: 0.000 km
+    stoppedAlt: null
+- - - '32'
+    - Kathryn O'Riordan
+  - place: 88=
+    total: 19.801
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 11.591
+      arrival: 0
+      time: 0
+      reach: 8.21
+      distance: 19.801
+      leading: 0
+    velocity: null
+    penaltyReason: ''
+    reach:
+      extra: 0.000 km
+      flown: 0.000 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 19.801
+    landedMade: 0.000 km
+    stoppedAlt: null
+scoreDf:
+- - - '23'
+    - Gerolf Heinrichs
+  - place: '1'
+    total: 1000
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 59.8
+      time: 334.8
+      reach: 260.859
+      distance: 521.718
+      leading: 83.7
+    velocity:
+      ss: 2012-01-14T03:31:18.022783494136Z
+      gs: null
+      es: 2012-01-14T07:14:24.61483374102Z
+      ssDistance: 148.964 km
+      ssElapsed: 3.718498 h
+      gsElapsed: 3.718498 h
+      ssVelocity: 40.06 km / h
+      gsVelocity: 40.06 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 1000
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '100'
+    - Attila Bertok
+  - place: '2'
+    total: 883.163
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 55.4
+      time: 241.3
+      reach: 260.859
+      distance: 521.718
+      leading: 64.8
+    velocity:
+      ss: 2012-01-14T03:30:55.587779838351Z
+      gs: null
+      es: 2012-01-14T07:31:07.089658130097Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.003195 h
+      gsElapsed: 4.003195 h
+      ssVelocity: 37.21 km / h
+      gsVelocity: 37.21 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 883.163
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '83'
+    - Peter Dall
+  - place: '3'
+    total: 873.765
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 47.5
+      time: 259.7
+      reach: 260.859
+      distance: 521.718
+      leading: 44.9
+    velocity:
+      ss: 2012-01-14T03:44:06.01081705043Z
+      gs: null
+      es: 2012-01-14T07:39:30.47689044964Z
+      ssDistance: 148.964 km
+      ssElapsed: 3.923463 h
+      gsElapsed: 3.923463 h
+      ssVelocity: 37.97 km / h
+      gsVelocity: 37.97 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 873.765
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '66'
+    - Jonas Lobitz
+  - place: '4'
+    total: 871.538
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 51.3
+      time: 227.8
+      reach: 260.859
+      distance: 521.718
+      leading: 70.8
+    velocity:
+      ss: 2012-01-14T03:31:16.807088607842Z
+      gs: null
+      es: 2012-01-14T07:35:18.317723301335Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.067086 h
+      gsElapsed: 4.067086 h
+      ssVelocity: 36.63 km / h
+      gsVelocity: 36.63 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 871.538
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '102'
+    - Davide Guiducci
+  - place: '5'
+    total: 805.147
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 40.6
+      time: 194.4
+      reach: 260.859
+      distance: 521.718
+      leading: 48.5
+    velocity:
+      ss: 2012-01-14T03:35:58.368777987538Z
+      gs: null
+      es: 2012-01-14T07:50:30.041334289374Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.242131 h
+      gsElapsed: 4.242131 h
+      ssVelocity: 35.12 km / h
+      gsVelocity: 35.12 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 805.147
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '93'
+    - Trent Brown
+  - place: '6'
+    total: 800.125
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 29.6
+      time: 199.2
+      reach: 260.859
+      distance: 521.718
+      leading: 49.6
+    velocity:
+      ss: 2012-01-14T03:42:43.20394202437Z
+      gs: null
+      es: 2012-01-14T07:55:39.722076557268Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.215699 h
+      gsElapsed: 4.215699 h
+      ssVelocity: 35.34 km / h
+      gsVelocity: 35.34 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 800.125
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '70'
+    - Matthew Barlow
+  - place: '7'
+    total: 798.576
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 43.9
+      time: 181.7
+      reach: 260.859
+      distance: 521.718
+      leading: 51.3
+    velocity:
+      ss: 2012-01-14T03:31:13.04588560688Z
+      gs: null
+      es: 2012-01-14T07:50:06.223121155855Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.314771 h
+      gsElapsed: 4.314771 h
+      ssVelocity: 34.52 km / h
+      gsVelocity: 34.52 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 798.576
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '60'
+    - Rohan Holtkamp
+  - place: '8'
+    total: 795.008
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 37.5
+      time: 188.2
+      reach: 260.859
+      distance: 521.718
+      leading: 47.7
+    velocity:
+      ss: 2012-01-14T03:35:44.565831663676Z
+      gs: null
+      es: 2012-01-14T07:52:23.579609365435Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.277504 h
+      gsElapsed: 4.277504 h
+      ssVelocity: 34.83 km / h
+      gsVelocity: 34.83 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 795.008
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '36'
+    - Franz Herrmann
+  - place: '9'
+    total: 787.366
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 32
+      time: 180.1
+      reach: 260.859
+      distance: 521.718
+      leading: 53.5
+    velocity:
+      ss: 2012-01-14T03:35:41.48562210887Z
+      gs: null
+      es: 2012-01-14T07:55:08.058973352344Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.324048 h
+      gsElapsed: 4.324048 h
+      ssVelocity: 34.45 km / h
+      gsVelocity: 34.45 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 787.366
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '34'
+    - Jon snr Durand
+  - place: '10'
+    total: 785.572
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 34.6
+      time: 177
+      reach: 260.859
+      distance: 521.718
+      leading: 52.2
+    velocity:
+      ss: 2012-01-14T03:33:00.60317273699Z
+      gs: null
+      es: 2012-01-14T07:53:34.010718929905Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.342613 h
+      gsElapsed: 4.342613 h
+      ssVelocity: 34.30 km / h
+      gsVelocity: 34.30 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 785.572
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '81'
+    - Valentino Bau
+  - place: '11'
+    total: 772.772
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 23.5
+      time: 176.1
+      reach: 260.859
+      distance: 521.718
+      leading: 51.4
+    velocity:
+      ss: 2012-01-14T03:36:06.607746320548Z
+      gs: null
+      es: 2012-01-14T07:56:59.64093842599Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.348065 h
+      gsElapsed: 4.348065 h
+      ssVelocity: 34.26 km / h
+      gsVelocity: 34.26 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 772.772
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '45'
+    - Roland Wöhrle
+  - place: '12'
+    total: 763.134
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 20.4
+      time: 173.2
+      reach: 260.859
+      distance: 521.718
+      leading: 47.8
+    velocity:
+      ss: 2012-01-14T03:35:43.59742687394Z
+      gs: null
+      es: 2012-01-14T07:57:37.68817258576Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.365025 h
+      gsElapsed: 4.365025 h
+      ssVelocity: 34.13 km / h
+      gsVelocity: 34.13 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 763.134
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '92'
+    - Hans Kiefinger
+  - place: 13=
+    total: 759.949
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 16
+      time: 170.7
+      reach: 260.859
+      distance: 521.718
+      leading: 51.6
+    velocity:
+      ss: 2012-01-14T03:35:41.44690191433Z
+      gs: null
+      es: 2012-01-14T07:58:30.97170331241Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.380424 h
+      gsElapsed: 4.380424 h
+      ssVelocity: 34.01 km / h
+      gsVelocity: 34.01 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 759.949
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '84'
+    - Yasuhiro Noma
+  - place: 13=
+    total: 759.824
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 19.1
+      time: 172.5
+      reach: 260.859
+      distance: 521.718
+      leading: 46.5
+    velocity:
+      ss: 2012-01-14T03:35:31.517994620766Z
+      gs: null
+      es: 2012-01-14T07:57:40.54883008497Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.369175 h
+      gsElapsed: 4.369175 h
+      ssVelocity: 34.09 km / h
+      gsVelocity: 34.09 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 759.824
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '89'
+    - Scott Barrett
+  - place: '15'
+    total: 757.529
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 13.5
+      time: 171.8
+      reach: 260.859
+      distance: 521.718
+      leading: 50.6
+    velocity:
+      ss: 2012-01-14T03:40:03.902953968645Z
+      gs: null
+      es: 2012-01-14T08:02:29.477774225245Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.373771 h
+      gsElapsed: 4.373771 h
+      ssVelocity: 34.06 km / h
+      gsVelocity: 34.06 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 757.529
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '1'
+    - Lukas Bader
+  - place: '16'
+    total: 755.012
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 17.9
+      time: 160
+      reach: 260.859
+      distance: 521.718
+      leading: 55.3
+    velocity:
+      ss: 2012-01-14T03:31:03.337708794344Z
+      gs: null
+      es: 2012-01-14T07:57:48.158350964432Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.445784 h
+      gsElapsed: 4.445784 h
+      ssVelocity: 33.51 km / h
+      gsVelocity: 33.51 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 755.012
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '31'
+    - Andrew Barnes
+  - place: '17'
+    total: 753.088
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 21.9
+      time: 162.7
+      reach: 260.859
+      distance: 521.718
+      leading: 46.8
+    velocity:
+      ss: 2012-01-14T03:31:42.02701301292Z
+      gs: null
+      es: 2012-01-14T07:57:26.90933758969Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.429134 h
+      gsElapsed: 4.429134 h
+      ssVelocity: 33.63 km / h
+      gsVelocity: 33.63 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 753.088
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '5'
+    - Wolfgang Siess
+  - place: '18'
+    total: 751.763
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 27.4
+      time: 163.1
+      reach: 260.859
+      distance: 521.718
+      leading: 39.6
+    velocity:
+      ss: 2012-01-14T03:31:11.73352457118Z
+      gs: null
+      es: 2012-01-14T07:56:48.564225578369Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.426897 h
+      gsElapsed: 4.426897 h
+      ssVelocity: 33.65 km / h
+      gsVelocity: 33.65 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 751.763
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '11'
+    - Steve Blenkinsop
+  - place: '19'
+    total: 748.088
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 16.9
+      time: 158.3
+      reach: 260.859
+      distance: 521.718
+      leading: 51.2
+    velocity:
+      ss: 2012-01-14T03:30:49.85639292038Z
+      gs: null
+      es: 2012-01-14T07:58:14.231693541477Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.456771 h
+      gsElapsed: 4.456771 h
+      ssVelocity: 33.42 km / h
+      gsVelocity: 33.42 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 748.088
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '15'
+    - ! 'Jean Souviron '
+  - place: '20'
+    total: 744.585
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 12.3
+      time: 160.5
+      reach: 260.859
+      distance: 521.718
+      leading: 50
+    velocity:
+      ss: 2012-01-14T03:37:05.096935900419Z
+      gs: null
+      es: 2012-01-14T08:03:38.594849513584Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.442638 h
+      gsElapsed: 4.442638 h
+      ssVelocity: 33.53 km / h
+      gsVelocity: 33.53 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 744.585
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '75'
+    - Joerg Bajewski
+  - place: '21'
+    total: 743.607
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 15.2
+      time: 157.8
+      reach: 260.859
+      distance: 521.718
+      leading: 48.9
+    velocity:
+      ss: 2012-01-14T03:31:07.88103637782Z
+      gs: null
+      es: 2012-01-14T07:58:42.98614966939Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.459751 h
+      gsElapsed: 4.459751 h
+      ssVelocity: 33.40 km / h
+      gsVelocity: 33.40 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 743.607
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '59'
+    - Artur Dzamikhov
+  - place: '22'
+    total: 741.606
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 14.5
+      time: 158.8
+      reach: 260.859
+      distance: 521.718
+      leading: 46.5
+    velocity:
+      ss: 2012-01-14T03:31:58.197422297454Z
+      gs: null
+      es: 2012-01-14T07:59:10.043505616094Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.453291 h
+      gsElapsed: 4.453291 h
+      ssVelocity: 33.45 km / h
+      gsVelocity: 33.45 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 741.606
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '99'
+    - Tullio Gervasoni
+  - place: '23'
+    total: 740.918
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 13.1
+      time: 158.5
+      reach: 260.859
+      distance: 521.718
+      leading: 47.6
+    velocity:
+      ss: 2012-01-14T03:35:43.851995312Z
+      gs: null
+      es: 2012-01-14T08:03:03.573215958365Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.455478 h
+      gsElapsed: 4.455478 h
+      ssVelocity: 33.43 km / h
+      gsVelocity: 33.43 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 740.918
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '68'
+    - Grant Heaney
+  - place: 24=
+    total: 731.855
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 12.2
+      time: 147.1
+      reach: 260.859
+      distance: 521.718
+      leading: 50.9
+    velocity:
+      ss: 2012-01-14T03:32:06.054409956585Z
+      gs: null
+      es: 2012-01-14T08:03:46.565354747335Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.527920 h
+      gsElapsed: 4.527920 h
+      ssVelocity: 32.90 km / h
+      gsVelocity: 32.90 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 731.855
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '71'
+    - Edoardo Giudiceandrea
+  - place: 24=
+    total: 731.692
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 12.5
+      time: 145.6
+      reach: 260.859
+      distance: 521.718
+      leading: 51.9
+    velocity:
+      ss: 2012-01-14T03:31:08.17197081871Z
+      gs: null
+      es: 2012-01-14T08:03:24.02771481004Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.537738 h
+      gsElapsed: 4.537738 h
+      ssVelocity: 32.83 km / h
+      gsVelocity: 32.83 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 731.692
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '94'
+    - Mitch Shipley
+  - place: '26'
+    total: 729.605
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 14
+      time: 152.3
+      reach: 260.859
+      distance: 521.718
+      leading: 41.6
+    velocity:
+      ss: 2012-01-14T03:30:36.816672287596Z
+      gs: null
+      es: 2012-01-14T08:00:17.495008509162Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.494633 h
+      gsElapsed: 4.494633 h
+      ssVelocity: 33.14 km / h
+      gsVelocity: 33.14 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 729.605
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '90'
+    - Adam Stevens
+  - place: '27'
+    total: 706.448
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 12
+      time: 121.2
+      reach: 260.859
+      distance: 521.718
+      leading: 51.5
+    velocity:
+      ss: 2012-01-14T03:30:53.43813297878Z
+      gs: null
+      es: 2012-01-14T08:12:57.603591275665Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.701157 h
+      gsElapsed: 4.701157 h
+      ssVelocity: 31.69 km / h
+      gsVelocity: 31.69 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.864 km
+      flown: 158.864 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 706.448
+    landedMade: 158.864 km
+    stoppedAlt: null
+- - - '20'
+    - ! 'Luke Browne '
+  - place: 28=
+    total: 533.195
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 253.981
+      arrival: 0
+      time: 0
+      reach: 253.553
+      distance: 507.534
+      leading: 25.7
+    velocity:
+      ss: 2012-01-14T03:34:05.14040185029Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 154.415 km
+      flown: 154.415 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 533.195
+    landedMade: 154.415 km
+    stoppedAlt: 227.000 m
+- - - '13'
+    - John Smith
+  - place: 28=
+    total: 532.578
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 248.886
+      arrival: 0
+      time: 0
+      reach: 250.595
+      distance: 499.48
+      leading: 33.1
+    velocity:
+      ss: 2012-01-14T03:36:23.356704664158Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 152.613 km
+      flown: 152.613 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 532.578
+    landedMade: 152.613 km
+    stoppedAlt: 232.000 m
+- - - '103'
+    - Roberto Nichele
+  - place: '30'
+    total: 529.411
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 252.707
+      arrival: 0
+      time: 0
+      reach: 252.7
+      distance: 505.407
+      leading: 24
+    velocity:
+      ss: 2012-01-14T03:51:01.968178469146Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 153.895 km
+      flown: 153.895 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 529.411
+    landedMade: 153.895 km
+    stoppedAlt: 238.000 m
+- - - '48'
+    - Paolo Rosichetti
+  - place: '31'
+    total: 527.796
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 238.569
+      arrival: 0
+      time: 0
+      reach: 246.506
+      distance: 485.074
+      leading: 42.7
+    velocity:
+      ss: 2012-01-14T03:30:44.968868234208Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 150.123 km
+      flown: 150.123 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 527.796
+    landedMade: 150.123 km
+    stoppedAlt: 231.000 m
+- - - '14'
+    - Olav Lien Olsen
+  - place: '32'
+    total: 525.825
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 251.306
+      arrival: 0
+      time: 0
+      reach: 251.732
+      distance: 503.038
+      leading: 22.8
+    velocity:
+      ss: 2012-01-14T03:33:13.785126906267Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 153.306 km
+      flown: 153.306 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 525.825
+    landedMade: 153.306 km
+    stoppedAlt: 250.000 m
+- - - '26'
+    - Guy Hubbard
+  - place: '33'
+    total: 524.782
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 240.734
+      arrival: 0
+      time: 0
+      reach: 247.358
+      distance: 488.092
+      leading: 36.7
+    velocity:
+      ss: 2012-01-14T03:32:43.35241108167Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 150.642 km
+      flown: 150.642 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 524.782
+    landedMade: 150.642 km
+    stoppedAlt: 332.000 m
+- - - '19'
+    - Mikhail Karmazin
+  - place: 34=
+    total: 524.264
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 249.268
+      arrival: 0
+      time: 0
+      reach: 250.746
+      distance: 500.013
+      leading: 24.3
+    velocity:
+      ss: 2012-01-14T03:33:23.053742407254Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 152.705 km
+      flown: 152.705 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 524.264
+    landedMade: 152.705 km
+    stoppedAlt: 243.000 m
+- - - '25'
+    - Nick Purcell
+  - place: 34=
+    total: 523.545
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 240.734
+      arrival: 0
+      time: 0
+      reach: 247.376
+      distance: 488.11
+      leading: 35.4
+    velocity:
+      ss: 2012-01-14T03:31:20.684478782878Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 150.653 km
+      flown: 150.653 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 523.545
+    landedMade: 150.653 km
+    stoppedAlt: 270.000 m
+- - - '77'
+    - Len Paton
+  - place: '36'
+    total: 515.861
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 238.569
+      arrival: 0
+      time: 0
+      reach: 246.512
+      distance: 485.081
+      leading: 30.8
+    velocity:
+      ss: 2012-01-14T03:42:56.20580627079Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 150.127 km
+      flown: 150.127 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 515.861
+    landedMade: 150.127 km
+    stoppedAlt: 230.000 m
+- - - '8'
+    - Primoz Gricar
+  - place: '37'
+    total: 515.019
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 222.138
+      arrival: 0
+      time: 0
+      reach: 242.031
+      distance: 464.169
+      leading: 50.9
+    velocity:
+      ss: 2012-01-14T03:35:18.28075865262Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 147.398 km
+      flown: 147.398 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 515.019
+    landedMade: 147.398 km
+    stoppedAlt: 244.000 m
+- - - '73'
+    - Gijs Wanders
+  - place: '38'
+    total: 504.698
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 235.13
+      arrival: 0
+      time: 0
+      reach: 245.427
+      distance: 480.557
+      leading: 24.1
+    velocity:
+      ss: 2012-01-14T03:31:18.397785039556Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 149.466 km
+      flown: 149.466 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 504.698
+    landedMade: 149.466 km
+    stoppedAlt: 245.000 m
+- - - '105'
+    - Chris Lawry
+  - place: '39'
+    total: 498.091
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 231.818
+      arrival: 0
+      time: 0
+      reach: 244.496
+      distance: 476.314
+      leading: 21.8
+    velocity:
+      ss: 2012-01-14T03:37:29.43708760178Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 148.899 km
+      flown: 148.899 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 498.091
+    landedMade: 148.899 km
+    stoppedAlt: 244.000 m
+- - - '33'
+    - Conrad Loten
+  - place: '40'
+    total: 496.825
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 228.761
+      arrival: 0
+      time: 0
+      reach: 243.647
+      distance: 472.408
+      leading: 24.4
+    velocity:
+      ss: 2012-01-14T03:40:51.38043359533Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 148.382 km
+      flown: 148.382 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 496.825
+    landedMade: 148.382 km
+    stoppedAlt: 238.000 m
+- - - '56'
+    - Cameron Tunbridge
+  - place: '41'
+    total: 489.758
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 216.533
+      arrival: 0
+      time: 0
+      reach: 240.562
+      distance: 457.095
+      leading: 32.7
+    velocity:
+      ss: 2012-01-14T03:39:42.937569271253Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 146.503 km
+      flown: 146.503 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 489.758
+    landedMade: 146.503 km
+    stoppedAlt: 240.000 m
+- - - '6'
+    - Phil Schroder
+  - place: '42'
+    total: 489.4
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 215.769
+      arrival: 0
+      time: 0
+      reach: 240.549
+      distance: 456.318
+      leading: 33.1
+    velocity:
+      ss: 2012-01-14T03:30:58.31807520324Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 146.495 km
+      flown: 146.495 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 489.4
+    landedMade: 146.495 km
+    stoppedAlt: 235.000 m
+- - - '51'
+    - Rob In 't Groen
+  - place: '43'
+    total: 466.916
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 188.002
+      arrival: 0
+      time: 0
+      reach: 231.81
+      distance: 419.812
+      leading: 47.1
+    velocity:
+      ss: 2012-01-14T02:55:24.9451960676Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 141.173 km
+      flown: 141.173 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 466.916
+    landedMade: 141.173 km
+    stoppedAlt: 220.000 m
+- - - '3'
+    - Rod Flockhart
+  - place: '44'
+    total: 432.931
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 178.831
+      arrival: 0
+      time: 0
+      reach: 223.417
+      distance: 402.248
+      leading: 30.7
+    velocity:
+      ss: 2012-01-14T03:36:16.585970891004Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 136.062 km
+      flown: 136.062 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 432.931
+    landedMade: 136.062 km
+    stoppedAlt: 225.000 m
+- - - '97'
+    - Konrad Schwab
+  - place: '45'
+    total: 431.69
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 191.059
+      arrival: 0
+      time: 0
+      reach: 233.314
+      distance: 424.373
+      leading: 7.3
+    velocity:
+      ss: 2012-01-14T03:32:20.01400321619Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 142.089 km
+      flown: 142.089 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 431.69
+    landedMade: 142.089 km
+    stoppedAlt: 275.000 m
+- - - '21'
+    - Gavin Myers
+  - place: '46'
+    total: 419.029
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 178.704
+      arrival: 0
+      time: 0
+      reach: 223.215
+      distance: 401.919
+      leading: 17.1
+    velocity:
+      ss: 2012-01-14T03:47:16.80816777697Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 135.939 km
+      flown: 135.939 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 419.029
+    landedMade: 135.939 km
+    stoppedAlt: 219.000 m
+- - - '12'
+    - Glen Mcfarlane
+  - place: '47'
+    total: 411.448
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 176.029
+      arrival: 0
+      time: 0
+      reach: 221.243
+      distance: 397.272
+      leading: 14.2
+    velocity:
+      ss: 2012-01-14T03:32:10.53477210591Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 134.738 km
+      flown: 134.738 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 411.448
+    landedMade: 134.738 km
+    stoppedAlt: 247.000 m
+- - - '29'
+    - Konstantin Lukyanov
+  - place: 48=
+    total: 408.455
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 176.029
+      arrival: 0
+      time: 0
+      reach: 221.311
+      distance: 397.339
+      leading: 11.1
+    velocity:
+      ss: 2012-01-14T03:28:58.09827135159Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 134.779 km
+      flown: 134.779 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 408.455
+    landedMade: 134.779 km
+    stoppedAlt: 213.000 m
+- - - '43'
+    - Les Bestt
+  - place: 48=
+    total: 408.093
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 170.934
+      arrival: 0
+      time: 0
+      reach: 218.153
+      distance: 389.087
+      leading: 19
+    velocity:
+      ss: 2012-01-14T03:31:22.538676254728Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 132.856 km
+      flown: 132.856 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 408.093
+    landedMade: 132.856 km
+    stoppedAlt: 249.000 m
+- - - '69'
+    - Jonathan Kinred
+  - place: '50'
+    total: 403.48
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 165.457
+      arrival: 0
+      time: 0
+      reach: 214.889
+      distance: 380.346
+      leading: 23.1
+    velocity:
+      ss: 2012-01-14T03:32:47.19909761324Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 130.868 km
+      flown: 130.868 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 403.48
+    landedMade: 130.868 km
+    stoppedAlt: 272.000 m
+- - - '55'
+    - Kari Suhonen
+  - place: '51'
+    total: 387.095
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 161.126
+      arrival: 0
+      time: 0
+      reach: 212.697
+      distance: 373.823
+      leading: 13.3
+    velocity:
+      ss: 2012-01-14T03:32:26.800305211784Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 129.533 km
+      flown: 129.533 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 387.095
+    landedMade: 129.533 km
+    stoppedAlt: 232.000 m
+- - - '47'
+    - ! 'Miguel De Jong '
+  - place: '52'
+    total: 364.804
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 151.191
+      arrival: 0
+      time: 0
+      reach: 207.119
+      distance: 358.31
+      leading: 6.5
+    velocity:
+      ss: 2012-01-14T03:33:03.17056885555Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 126.136 km
+      flown: 126.136 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 364.804
+    landedMade: 126.136 km
+    stoppedAlt: 226.000 m
+- - - '27'
+    - ! 'Boris Marold '
+  - place: '53'
+    total: 360.333
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 152.337
+      arrival: 0
+      time: 0
+      reach: 207.996
+      distance: 360.333
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:32:35.53075665381Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 126.670 km
+      flown: 126.670 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 360.333
+    landedMade: 126.670 km
+    stoppedAlt: 263.000 m
+- - - '91'
+    - Francesco Rinaldi
+  - place: '54'
+    total: 348.781
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 138.963
+      arrival: 0
+      time: 0
+      reach: 195.552
+      distance: 334.516
+      leading: 14.3
+    velocity:
+      ss: 2012-01-14T03:37:55.520019096456Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 119.092 km
+      flown: 119.092 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 348.781
+    landedMade: 119.092 km
+    stoppedAlt: 214.000 m
+- - - '98'
+    - Patrick Collin
+  - place: '55'
+    total: 308.137
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 134.505
+      arrival: 0
+      time: 0
+      reach: 173.631
+      distance: 308.137
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:58:52.79729180741Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 105.742 km
+      flown: 105.742 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 308.137
+    landedMade: 105.742 km
+    stoppedAlt: 215.000 m
+- - - '96'
+    - Brodrick Osborne
+  - place: '56'
+    total: 289.76
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 130.175
+      arrival: 0
+      time: 0
+      reach: 159.585
+      distance: 289.76
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:39:42.809906385794Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 97.188 km
+      flown: 97.188 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 289.76
+    landedMade: 97.188 km
+    stoppedAlt: 213.000 m
+- - - '44'
+    - Francoise Dieuzeide-banet
+  - place: '57'
+    total: 260.344
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 125.971
+      arrival: 0
+      time: 0
+      reach: 134.372
+      distance: 260.344
+      leading: 0
+    velocity:
+      ss: 2012-01-14T04:19:12.335037306473Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 81.833 km
+      flown: 81.833 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 260.344
+    landedMade: 81.833 km
+    stoppedAlt: 216.000 m
+- - - '67'
+    - ! 'Andy Phillips '
+  - place: '58'
+    total: 252.251
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 123.933
+      arrival: 0
+      time: 0
+      reach: 128.318
+      distance: 252.251
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:32:02.670321136543Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 78.146 km
+      flown: 78.146 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 252.251
+    landedMade: 78.146 km
+    stoppedAlt: 273.000 m
+- - - '16'
+    - Grant Edward
+  - place: '59'
+    total: 232.499
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 117.565
+      arrival: 0
+      time: 0
+      reach: 114.934
+      distance: 232.499
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:47:26.709561979195Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 69.995 km
+      flown: 69.995 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 232.499
+    landedMade: 69.995 km
+    stoppedAlt: 264.000 m
+- - - '49'
+    - Tony Giammichele
+  - place: '60'
+    total: 222.698
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 115.145
+      arrival: 0
+      time: 0
+      reach: 107.553
+      distance: 222.698
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:34:13.121644105152Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 65.500 km
+      flown: 65.500 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 222.698
+    landedMade: 65.500 km
+    stoppedAlt: 213.000 m
+- - - '7'
+    - Shaun O'neill
+  - place: 61=
+    total: 221.482
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 114.635
+      arrival: 0
+      time: 0
+      reach: 106.847
+      distance: 221.482
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:35:16.13135454366Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 65.070 km
+      flown: 65.070 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 221.482
+    landedMade: 65.070 km
+    stoppedAlt: 209.000 m
+- - - '2'
+    - Pablo Gomes
+  - place: 61=
+    total: 220.814
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 114.253
+      arrival: 0
+      time: 0
+      reach: 106.561
+      distance: 220.814
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:36:08.979665002599Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 64.896 km
+      flown: 64.896 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 220.814
+    landedMade: 64.896 km
+    stoppedAlt: 261.000 m
+- - - '37'
+    - Peter Ebeling
+  - place: '63'
+    total: 219.953
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 113.871
+      arrival: 0
+      time: 0
+      reach: 106.082
+      distance: 219.953
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:39:07.736340516865Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 64.604 km
+      flown: 64.604 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 219.953
+    landedMade: 64.604 km
+    stoppedAlt: 260.000 m
+- - - '87'
+    - Corinna Schwiegershausen
+  - place: '64'
+    total: 192.629
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 97.567
+      arrival: 0
+      time: 0
+      reach: 95.062
+      distance: 192.629
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:30:25.35770608Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 57.893 km
+      flown: 57.893 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 192.629
+    landedMade: 57.893 km
+    stoppedAlt: 223.000 m
+- - - '82'
+    - Alain Le-gac
+  - place: 65=
+    total: 192.089
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 97.313
+      arrival: 0
+      time: 0
+      reach: 94.776
+      distance: 192.089
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:40:13.395650266506Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 57.719 km
+      flown: 57.719 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 192.089
+    landedMade: 57.719 km
+    stoppedAlt: 217.000 m
+- - - '24'
+    - Christian Baertschi
+  - place: 65=
+    total: 191.662
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 97.058
+      arrival: 0
+      time: 0
+      reach: 94.604
+      distance: 191.662
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:36:50.25044418939Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 57.614 km
+      flown: 57.614 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 191.662
+    landedMade: 57.614 km
+    stoppedAlt: 210.000 m
+- - - '78'
+    - Christine Aichner
+  - place: '67'
+    total: 190.137
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 96.039
+      arrival: 0
+      time: 0
+      reach: 94.098
+      distance: 190.137
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:34:28.822940449285Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 57.306 km
+      flown: 57.306 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 190.137
+    landedMade: 57.306 km
+    stoppedAlt: 210.000 m
+- - - '62'
+    - Enda Murphy
+  - place: '68'
+    total: 188.897
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 95.147
+      arrival: 0
+      time: 0
+      reach: 93.75
+      distance: 188.897
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:31:55.913688223695Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 57.094 km
+      flown: 57.094 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 188.897
+    landedMade: 57.094 km
+    stoppedAlt: 284.000 m
+- - - '42'
+    - Suan Selenati
+  - place: '69'
+    total: 170.675
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 83.811
+      arrival: 0
+      time: 0
+      reach: 86.864
+      distance: 170.675
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:41:30.329773524198Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 52.900 km
+      flown: 52.900 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 170.675
+    landedMade: 52.900 km
+    stoppedAlt: 219.000 m
+- - - '79'
+    - David Stevens
+  - place: 70=
+    total: 169.299
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 82.792
+      arrival: 0
+      time: 0
+      reach: 86.507
+      distance: 169.299
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:35:14.35326993499Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 52.683 km
+      flown: 52.683 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 169.299
+    landedMade: 52.683 km
+    stoppedAlt: 266.000 m
+- - - '18'
+    - Jürgen Pasker
+  - place: 70=
+    total: 169.262
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 82.792
+      arrival: 0
+      time: 0
+      reach: 86.469
+      distance: 169.262
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:33:47.56370166557Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 52.660 km
+      flown: 52.660 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 169.262
+    landedMade: 52.660 km
+    stoppedAlt: 227.000 m
+- - - '76'
+    - Dmitriy Korchenkov
+  - place: '72'
+    total: 164.326
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 79.226
+      arrival: 0
+      time: 0
+      reach: 85.1
+      distance: 164.326
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:39:00.127339943395Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 51.826 km
+      flown: 51.826 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 164.326
+    landedMade: 51.826 km
+    stoppedAlt: 211.000 m
+- - - '52'
+    - Virpi Nieminen
+  - place: '73'
+    total: 153.436
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 70.819
+      arrival: 0
+      time: 0
+      reach: 82.617
+      distance: 153.436
+      leading: 0
+    velocity:
+      ss: 2012-01-14T02:54:39.52121619938Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 50.314 km
+      flown: 50.314 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 153.436
+    landedMade: 50.314 km
+    stoppedAlt: 221.000 m
+- - - '40'
+    - Phil de Joux
+  - place: '74'
+    total: 131.417
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 55.662
+      arrival: 0
+      time: 0
+      reach: 75.755
+      distance: 131.417
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:33:40.731114560926Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 46.135 km
+      flown: 46.135 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 131.417
+    landedMade: 46.135 km
+    stoppedAlt: 216.000 m
+- - - '53'
+    - Hadewych van Kempen
+  - place: '75'
+    total: 104.643
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 45.981
+      arrival: 0
+      time: 0
+      reach: 58.662
+      distance: 104.643
+      leading: 0
+    velocity:
+      ss: 2012-01-14T02:53:17.309330138483Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 35.725 km
+      flown: 35.725 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 104.643
+    landedMade: 35.725 km
+    stoppedAlt: 220.000 m
+- - - '101'
+    - ! 'Andrew Luton '
+  - place: '76'
+    total: 83.639
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 41.778
+      arrival: 0
+      time: 0
+      reach: 41.861
+      distance: 83.639
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:42:23.24593188885Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 25.493 km
+      flown: 25.493 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 83.639
+    landedMade: 25.493 km
+    stoppedAlt: 269.000 m
+- - - '88'
+    - Martin Sielaff
+  - place: '77'
+    total: 80.15
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 40.887
+      arrival: 0
+      time: 0
+      reach: 39.263
+      distance: 80.15
+      leading: 0
+    velocity:
+      ss: 2012-01-14T02:43:14.33604864575Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 23.911 km
+      flown: 23.911 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 80.15
+    landedMade: 23.911 km
+    stoppedAlt: 265.000 m
+- - - '17'
+    - John Urlich
+  - place: '78'
+    total: 75.877
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 39.103
+      arrival: 0
+      time: 0
+      reach: 36.774
+      distance: 75.877
+      leading: 0
+    velocity:
+      ss: 2012-01-14T02:57:01.021770451371Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 22.395 km
+      flown: 22.395 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 75.877
+    landedMade: 22.395 km
+    stoppedAlt: 225.000 m
+- - - '85'
+    - Neil Petersen
+  - place: '79'
+    total: 72.929
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 37.702
+      arrival: 0
+      time: 0
+      reach: 35.227
+      distance: 72.929
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:50:26.99232726042Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 21.453 km
+      flown: 21.453 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 72.929
+    landedMade: 21.453 km
+    stoppedAlt: 221.000 m
+- - - '46'
+    - Jonathon Foote
+  - place: '80'
+    total: 57.238
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 28.786
+      arrival: 0
+      time: 0
+      reach: 28.452
+      distance: 57.238
+      leading: 0
+    velocity:
+      ss: 2012-01-14T02:54:02.68450157876Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 17.327 km
+      flown: 17.327 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 57.238
+    landedMade: 17.327 km
+    stoppedAlt: 220.000 m
+- - - '35'
+    - Carole Tobler
+  - place: '81'
+    total: 47.142
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 23.564
+      arrival: 0
+      time: 0
+      reach: 23.578
+      distance: 47.142
+      leading: 0
+    velocity:
+      ss: 2012-01-14T03:48:31.18856249758Z
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 14.359 km
+      flown: 14.359 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 47.142
+    landedMade: 14.359 km
+    stoppedAlt: 223.000 m
+- - - '50'
+    - Monique Pavy
+  - place: '82'
+    total: 24.54
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 13.501
+      arrival: 0
+      time: 0
+      reach: 11.038
+      distance: 24.54
+      leading: 0
+    velocity:
+      ss: null
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 6.722 km
+      flown: 6.722 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 24.54
+    landedMade: 6.722 km
+    stoppedAlt: 0.000 m
+scoreDfNoTrack:
+- - - '41'
+    - Curt Warren
+  - place: '1'
+    total: 800.935
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 25.4
+      time: 253.8
+      reach: 260.859
+      distance: 521.718
+      leading: 0
+    velocity:
+      ss: 2012-01-14T04:00:00Z
+      gs: null
+      es: 2012-01-14T07:56:52Z
+      ssDistance: 148.964 km
+      ssElapsed: 3.947778 h
+      gsElapsed: 3.947778 h
+      ssVelocity: 37.73 km / h
+      gsVelocity: 37.73 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.870 km
+      flown: 158.870 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 800.935
+    landedMade: 158.870 km
+    stoppedAlt: null
+- - - '95'
+    - Anton Struganov
+  - place: '2'
+    total: 764.96
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 260.859
+      arrival: 12.8
+      time: 230.5
+      reach: 260.859
+      distance: 521.718
+      leading: 0
+    velocity:
+      ss: 2012-01-14T04:00:00Z
+      gs: null
+      es: 2012-01-14T08:03:14Z
+      ssDistance: 148.964 km
+      ssElapsed: 4.053889 h
+      gsElapsed: 4.053889 h
+      ssVelocity: 36.75 km / h
+      gsVelocity: 36.75 km / h
+    penaltyReason: ''
+    reach:
+      extra: 158.870 km
+      flown: 158.870 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 764.96
+    landedMade: 158.870 km
+    stoppedAlt: null
+- - - '30'
+    - Fredy Bircher
+  - place: '3'
+    total: 519.476
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 259.967
+      arrival: 0
+      time: 0
+      reach: 259.509
+      distance: 519.476
+      leading: 0
+    velocity: null
+    penaltyReason: ''
+    reach:
+      extra: 158.042 km
+      flown: 158.042 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 519.476
+    landedMade: 158.042 km
+    stoppedAlt: null
+- - - '22'
+    - Mark Russell
+  - place: '4'
+    total: 165.514
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 80.117
+      arrival: 0
+      time: 0
+      reach: 85.397
+      distance: 165.514
+      leading: 0
+    velocity: null
+    penaltyReason: ''
+    reach:
+      extra: 52.007 km
+      flown: 52.007 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 165.514
+    landedMade: 52.007 km
+    stoppedAlt: null
+- - - '58'
+    - Anna Belova
+  - place: '5'
+    total: 40.341
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 20.634
+      arrival: 0
+      time: 0
+      reach: 19.707
+      distance: 40.341
+      leading: 0
+    velocity: null
+    penaltyReason: ''
+    reach:
+      extra: 12.002 km
+      flown: 12.002 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 40.341
+    landedMade: 12.002 km
+    stoppedAlt: null
+- - - '28'
+    - Evgeniya Laritskaya
+  - place: 6=
+    total: 19.801
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 11.591
+      arrival: 0
+      time: 0
+      reach: 8.21
+      distance: 19.801
+      leading: 0
+    velocity: null
+    penaltyReason: ''
+    reach:
+      extra: 0.000 km
+      flown: 0.000 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 19.801
+    landedMade: 0.000 km
+    stoppedAlt: null
+- - - '64'
+    - Gustavo Carvalho
+  - place: 6=
+    total: 19.801
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 11.591
+      arrival: 0
+      time: 0
+      reach: 8.21
+      distance: 19.801
+      leading: 0
+    velocity: null
+    penaltyReason: ''
+    reach:
+      extra: 0.000 km
+      flown: 0.000 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 19.801
+    landedMade: 0.000 km
+    stoppedAlt: null
+- - - '32'
+    - Kathryn O'Riordan
+  - place: 6=
+    total: 19.801
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 11.591
+      arrival: 0
+      time: 0
+      reach: 8.21
+      distance: 19.801
+      leading: 0
+    velocity: null
+    penaltyReason: ''
+    reach:
+      extra: 0.000 km
+      flown: 0.000 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 19.801
+    landedMade: 0.000 km
+    stoppedAlt: null

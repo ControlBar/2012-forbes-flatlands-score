@@ -1,0 +1,700 @@
+bestDistance: 141.152306 km
+chunking:
+  startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1421
+  - 142.1 km
+  sumOf: 4099
+landout: 56
+lookahead: 76
+difficulty:
+- chunk: 40
+  startChunk: 4.0 km
+  endChunk: 4.1 km
+  endAhead: 11.7 km
+  down: 1
+  downs:
+  - 4.070 km
+  downers:
+  - - '58'
+    - Anna Belova
+  downward: 7
+  rel: 8.5387e-4
+  frac: 3.149414e-2
+- chunk: 50
+  startChunk: 5.0 km
+  endChunk: 5.1 km
+  endAhead: 12.7 km
+  down: 4
+  downs:
+  - 5.000 km
+  - 5.000 km
+  - 5.000 km
+  - 5.000 km
+  downers:
+  - - '28'
+    - Evgeniya Laritskaya
+  - - '57'
+    - Julia Kucherenko
+  - - '88'
+    - Martin Sielaff
+  - - '103'
+    - Roberto Nichele
+  downward: 6
+  rel: 7.3189e-4
+  frac: 3.881836e-2
+- chunk: 53
+  startChunk: 5.3 km
+  endChunk: 5.4 km
+  endAhead: 13.0 km
+  down: 1
+  downs:
+  - 5.366 km
+  downers:
+  - - '35'
+    - Carole Tobler
+  downward: 3
+  rel: 3.6594e-4
+  frac: 3.955078e-2
+- chunk: 104
+  startChunk: 10.4 km
+  endChunk: 10.5 km
+  endAhead: 18.1 km
+  down: 1
+  downs:
+  - 10.466 km
+  downers:
+  - - '81'
+    - Valentino Bau
+  downward: 4
+  rel: 4.8792e-4
+  frac: 6.005859e-2
+- chunk: 128
+  startChunk: 12.8 km
+  endChunk: 12.9 km
+  endAhead: 20.5 km
+  down: 1
+  downs:
+  - 12.834 km
+  downers:
+  - - '48'
+    - Paolo Rosichetti
+  downward: 3
+  rel: 3.6594e-4
+  frac: 6.884766e-2
+- chunk: 132
+  startChunk: 13.2 km
+  endChunk: 13.3 km
+  endAhead: 20.9 km
+  down: 1
+  downs:
+  - 13.267 km
+  downers:
+  - - '30'
+    - Fredy Bircher
+  downward: 2
+  rel: 2.4396e-4
+  frac: 6.982422e-2
+- chunk: 163
+  startChunk: 16.3 km
+  endChunk: 16.4 km
+  endAhead: 24.0 km
+  down: 1
+  downs:
+  - 16.347 km
+  downers:
+  - - '37'
+    - Peter Ebeling
+  downward: 2
+  rel: 2.4396e-4
+  frac: 7.495117e-2
+- chunk: 228
+  startChunk: 22.8 km
+  endChunk: 22.9 km
+  endAhead: 30.5 km
+  down: 1
+  downs:
+  - 22.823 km
+  downers:
+  - - '53'
+    - Hadewych van Kempen
+  downward: 4
+  rel: 4.8792e-4
+  frac: 0.10229492
+- chunk: 240
+  startChunk: 24.0 km
+  endChunk: 24.1 km
+  endAhead: 31.7 km
+  down: 1
+  downs:
+  - 24.059 km
+  downers:
+  - - '2'
+    - Pablo Gomes
+  downward: 4
+  rel: 4.8792e-4
+  frac: 0.10766602
+- chunk: 254
+  startChunk: 25.4 km
+  endChunk: 25.5 km
+  endAhead: 33.1 km
+  down: 1
+  downs:
+  - 25.443 km
+  downers:
+  - - '40'
+    - Phil de Joux
+  downward: 3
+  rel: 3.6594e-4
+  frac: 0.11279297
+- chunk: 259
+  startChunk: 25.9 km
+  endChunk: 26.0 km
+  endAhead: 33.6 km
+  down: 1
+  downs:
+  - 25.929 km
+  downers:
+  - - '64'
+    - Gustavo Carvalho
+  downward: 2
+  rel: 2.4396e-4
+  frac: 0.11401367
+- chunk: 307
+  startChunk: 30.7 km
+  endChunk: 30.8 km
+  endAhead: 38.4 km
+  down: 1
+  downs:
+  - 30.706 km
+  downers:
+  - - '76'
+    - Dmitriy Korchenkov
+  downward: 2
+  rel: 2.4396e-4
+  frac: 0.12524414
+- chunk: 339
+  startChunk: 33.9 km
+  endChunk: 34.0 km
+  endAhead: 41.6 km
+  down: 1
+  downs:
+  - 33.975 km
+  downers:
+  - - '97'
+    - Konrad Schwab
+  downward: 2
+  rel: 2.4396e-4
+  frac: 0.12939453
+- chunk: 414
+  startChunk: 41.4 km
+  endChunk: 41.5 km
+  endAhead: 49.1 km
+  down: 1
+  downs:
+  - 41.409 km
+  downers:
+  - - '20'
+    - ! 'Luke Browne '
+  downward: 6
+  rel: 7.3189e-4
+  frac: 0.15722656
+- chunk: 442
+  startChunk: 44.2 km
+  endChunk: 44.3 km
+  endAhead: 51.9 km
+  down: 2
+  downs:
+  - 44.268 km
+  - 44.276 km
+  downers:
+  - - '17'
+    - John Urlich
+  - - '27'
+    - ! 'Boris Marold '
+  downward: 5
+  rel: 6.099e-4
+  frac: 0.17407227
+- chunk: 458
+  startChunk: 45.8 km
+  endChunk: 45.9 km
+  endAhead: 53.5 km
+  down: 1
+  downs:
+  - 45.812 km
+  downers:
+  - - '83'
+    - Peter Dall
+  downward: 3
+  rel: 3.6594e-4
+  frac: 0.17993164
+- chunk: 470
+  startChunk: 47.0 km
+  endChunk: 47.1 km
+  endAhead: 54.7 km
+  down: 1
+  downs:
+  - 47.029 km
+  downers:
+  - - '22'
+    - Mark Russell
+  downward: 4
+  rel: 4.8792e-4
+  frac: 0.18481445
+- chunk: 485
+  startChunk: 48.5 km
+  endChunk: 48.6 km
+  endAhead: 56.2 km
+  down: 1
+  downs:
+  - 48.513 km
+  downers:
+  - - '102'
+    - Davide Guiducci
+  downward: 5
+  rel: 6.099e-4
+  frac: 0.19335938
+- chunk: 536
+  startChunk: 53.6 km
+  endChunk: 53.7 km
+  endAhead: 61.3 km
+  down: 1
+  downs:
+  - 53.623 km
+  downers:
+  - - '41'
+    - Curt Warren
+  downward: 6
+  rel: 7.3189e-4
+  frac: 0.22436523
+- chunk: 540
+  startChunk: 54.0 km
+  endChunk: 54.1 km
+  endAhead: 61.7 km
+  down: 1
+  downs:
+  - 54.071 km
+  downers:
+  - - '105'
+    - Chris Lawry
+  downward: 5
+  rel: 6.099e-4
+  frac: 0.22680664
+- chunk: 546
+  startChunk: 54.6 km
+  endChunk: 54.7 km
+  endAhead: 62.3 km
+  down: 1
+  downs:
+  - 54.629 km
+  downers:
+  - - '79'
+    - David Stevens
+  downward: 4
+  rel: 4.8792e-4
+  frac: 0.22973633
+- chunk: 552
+  startChunk: 55.2 km
+  endChunk: 55.3 km
+  endAhead: 62.9 km
+  down: 1
+  downs:
+  - 55.217 km
+  downers:
+  - - '49'
+    - Tony Giammichele
+  downward: 4
+  rel: 4.8792e-4
+  frac: 0.23242188
+- chunk: 570
+  startChunk: 57.0 km
+  endChunk: 57.1 km
+  endAhead: 64.7 km
+  down: 1
+  downs:
+  - 57.023 km
+  downers:
+  - - '73'
+    - Gijs Wanders
+  downward: 3
+  rel: 3.6594e-4
+  frac: 0.23901367
+- chunk: 603
+  startChunk: 60.3 km
+  endChunk: 60.4 km
+  endAhead: 68.0 km
+  down: 1
+  downs:
+  - 60.325 km
+  downers:
+  - - '52'
+    - Virpi Nieminen
+  downward: 4
+  rel: 4.8792e-4
+  frac: 0.25366211
+- chunk: 625
+  startChunk: 62.5 km
+  endChunk: 62.6 km
+  endAhead: 70.2 km
+  down: 1
+  downs:
+  - 62.581 km
+  downers:
+  - - '32'
+    - Kathryn O'Riordan
+  downward: 3
+  rel: 3.6594e-4
+  frac: 0.26171875
+- chunk: 650
+  startChunk: 65.0 km
+  endChunk: 65.1 km
+  endAhead: 72.7 km
+  down: 1
+  downs:
+  - 65.081 km
+  downers:
+  - - '70'
+    - Matthew Barlow
+  downward: 2
+  rel: 2.4396e-4
+  frac: 0.26782227
+- chunk: 653
+  startChunk: 65.3 km
+  endChunk: 65.4 km
+  endAhead: 73.0 km
+  down: 1
+  downs:
+  - 65.387 km
+  downers:
+  - - '85'
+    - Neil Petersen
+  downward: 1
+  rel: 1.2198e-4
+  frac: 0.26831055
+- chunk: 784
+  startChunk: 78.4 km
+  endChunk: 78.5 km
+  endAhead: 86.1 km
+  down: 1
+  downs:
+  - 78.447 km
+  downers:
+  - - '47'
+    - ! 'Miguel De Jong '
+  downward: 3
+  rel: 3.6594e-4
+  frac: 0.28344727
+- chunk: 831
+  startChunk: 83.1 km
+  endChunk: 83.2 km
+  endAhead: 90.8 km
+  down: 1
+  downs:
+  - 83.102 km
+  downers:
+  - - '3'
+    - Rod Flockhart
+  downward: 4
+  rel: 4.8792e-4
+  frac: 0.30053711
+- chunk: 840
+  startChunk: 84.0 km
+  endChunk: 84.1 km
+  endAhead: 91.7 km
+  down: 1
+  downs:
+  - 84.042 km
+  downers:
+  - - '51'
+    - Rob In 't Groen
+  downward: 3
+  rel: 3.6594e-4
+  frac: 0.30395508
+- chunk: 876
+  startChunk: 87.6 km
+  endChunk: 87.7 km
+  endAhead: 95.3 km
+  down: 1
+  downs:
+  - 87.635 km
+  downers:
+  - - '46'
+    - Jonathon Foote
+  downward: 2
+  rel: 2.4396e-4
+  frac: 0.31274414
+- chunk: 892
+  startChunk: 89.2 km
+  endChunk: 89.3 km
+  endAhead: 96.9 km
+  down: 1
+  downs:
+  - 89.209 km
+  downers:
+  - - '8'
+    - Primoz Gricar
+  downward: 2
+  rel: 2.4396e-4
+  frac: 0.31616211
+- chunk: 956
+  startChunk: 95.6 km
+  endChunk: 95.7 km
+  endAhead: 103.3 km
+  down: 1
+  downs:
+  - 95.617 km
+  downers:
+  - - '12'
+    - Glen Mcfarlane
+  downward: 5
+  rel: 6.099e-4
+  frac: 0.34057617
+- chunk: 980
+  startChunk: 98.0 km
+  endChunk: 98.1 km
+  endAhead: 105.7 km
+  down: 1
+  downs:
+  - 98.075 km
+  downers:
+  - - '87'
+    - Corinna Schwiegershausen
+  downward: 5
+  rel: 6.099e-4
+  frac: 0.35253906
+- chunk: 1001
+  startChunk: 100.1 km
+  endChunk: 100.2 km
+  endAhead: 107.8 km
+  down: 1
+  downs:
+  - 100.108 km
+  downers:
+  - - '19'
+    - Mikhail Karmazin
+  downward: 4
+  rel: 4.8792e-4
+  frac: 0.36279297
+- chunk: 1002
+  startChunk: 100.2 km
+  endChunk: 100.3 km
+  endAhead: 107.9 km
+  down: 1
+  downs:
+  - 100.286 km
+  downers:
+  - - '29'
+    - Konstantin Lukyanov
+  downward: 3
+  rel: 3.6594e-4
+  frac: 0.36303711
+- chunk: 1008
+  startChunk: 100.8 km
+  endChunk: 100.9 km
+  endAhead: 108.5 km
+  down: 1
+  downs:
+  - 100.866 km
+  downers:
+  - - '16'
+    - Grant Edward
+  downward: 2
+  rel: 2.4396e-4
+  frac: 0.36450195
+- chunk: 1054
+  startChunk: 105.4 km
+  endChunk: 105.5 km
+  endAhead: 113.1 km
+  down: 1
+  downs:
+  - 105.445 km
+  downers:
+  - - '43'
+    - Les Bestt
+  downward: 4
+  rel: 4.8792e-4
+  frac: 0.37646484
+- chunk: 1088
+  startChunk: 108.8 km
+  endChunk: 108.9 km
+  endAhead: 116.5 km
+  down: 1
+  downs:
+  - 108.897 km
+  downers:
+  - - '77'
+    - Len Paton
+  downward: 3
+  rel: 3.6594e-4
+  frac: 0.38891602
+- chunk: 1124
+  startChunk: 112.4 km
+  endChunk: 112.5 km
+  endAhead: 120.1 km
+  down: 1
+  downs:
+  - 112.494 km
+  downers:
+  - - '71'
+    - Edoardo Giudiceandrea
+  downward: 3
+  rel: 3.6594e-4
+  frac: 0.40161133
+- chunk: 1127
+  startChunk: 112.7 km
+  endChunk: 112.8 km
+  endAhead: 120.4 km
+  down: 1
+  downs:
+  - 112.769 km
+  downers:
+  - - '101'
+    - ! 'Andrew Luton '
+  downward: 3
+  rel: 3.6594e-4
+  frac: 0.40258789
+- chunk: 1168
+  startChunk: 116.8 km
+  endChunk: 116.9 km
+  endAhead: 124.5 km
+  down: 1
+  downs:
+  - 116.821 km
+  downers:
+  - - '7'
+    - Shaun O'neill
+  downward: 2
+  rel: 2.4396e-4
+  frac: 0.41259766
+- chunk: 1200
+  startChunk: 120.0 km
+  endChunk: 120.1 km
+  endAhead: 127.7 km
+  down: 1
+  downs:
+  - 120.083 km
+  downers:
+  - - '82'
+    - Alain Le-gac
+  downward: 4
+  rel: 4.8792e-4
+  frac: 0.42041016
+- chunk: 1263
+  startChunk: 126.3 km
+  endChunk: 126.4 km
+  endAhead: 134.0 km
+  down: 1
+  downs:
+  - 126.323 km
+  downers:
+  - - '66'
+    - Jonas Lobitz
+  downward: 6
+  rel: 7.3189e-4
+  frac: 0.45922852
+- chunk: 1265
+  startChunk: 126.5 km
+  endChunk: 126.6 km
+  endAhead: 134.2 km
+  down: 1
+  downs:
+  - 126.583 km
+  downers:
+  - - '96'
+    - Brodrick Osborne
+  downward: 5
+  rel: 6.099e-4
+  frac: 0.46044922
+- chunk: 1269
+  startChunk: 126.9 km
+  endChunk: 127.0 km
+  endAhead: 134.6 km
+  down: 1
+  downs:
+  - 126.995 km
+  downers:
+  - - '95'
+    - Anton Struganov
+  downward: 4
+  rel: 4.8792e-4
+  frac: 0.46240234
+- chunk: 1276
+  startChunk: 127.6 km
+  endChunk: 127.7 km
+  endAhead: 135.3 km
+  down: 1
+  downs:
+  - 127.675 km
+  downers:
+  - - '106'
+    - Adam Parer
+  downward: 3
+  rel: 3.6594e-4
+  frac: 0.46484375
+- chunk: 1282
+  startChunk: 128.2 km
+  endChunk: 128.3 km
+  endAhead: 135.9 km
+  down: 1
+  downs:
+  - 128.269 km
+  downers:
+  - - '62'
+    - Enda Murphy
+  downward: 2
+  rel: 2.4396e-4
+  frac: 0.46630859
+- chunk: 1330
+  startChunk: 133.0 km
+  endChunk: 133.1 km
+  endAhead: 140.7 km
+  down: 1
+  downs:
+  - 133.082 km
+  downers:
+  - - '21'
+    - Gavin Myers
+  downward: 3
+  rel: 3.6594e-4
+  frac: 0.47558594
+- chunk: 1385
+  startChunk: 138.5 km
+  endChunk: 138.6 km
+  endAhead: 146.2 km
+  down: 1
+  downs:
+  - 138.591 km
+  downers:
+  - - '33'
+    - Conrad Loten
+  downward: 3
+  rel: 3.6594e-4
+  frac: 0.49511719
+- chunk: 1400
+  startChunk: 140.0 km
+  endChunk: 140.1 km
+  endAhead: 147.7 km
+  down: 1
+  downs:
+  - 140.022 km
+  downers:
+  - - '94'
+    - Mitch Shipley
+  downward: 2
+  rel: 2.4396e-4
+  frac: 0.4987793
+- chunk: 1411
+  startChunk: 141.1 km
+  endChunk: 141.2 km
+  endAhead: 148.8 km
+  down: 1
+  downs:
+  - 141.152 km
+  downers:
+  - - '67'
+    - ! 'Andy Phillips '
+  downward: 1
+  rel: 1.2198e-4
+  frac: 0.5

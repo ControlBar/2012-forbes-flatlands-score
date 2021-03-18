@@ -1,0 +1,386 @@
+pilotGroup:
+  absent:
+  - - '101'
+    - ! 'Andrew Luton '
+  - - '65'
+    - Davis Straub
+  - - '86'
+    - Talgat Irgaleev
+  didFlyNoTracklog: []
+  dnf: []
+task:
+  taskName: day 2
+  zones:
+    raw:
+    - zoneName: FORBES
+      lat: -33.36137
+      lng: 147.93207
+      radius: 100.0 m
+      giveIn: 99.5 m
+      giveOut: 100.5 m
+      alt: null
+    - zoneName: FORBES
+      lat: -33.36137
+      lng: 147.93207
+      radius: 5000.0 m
+      giveIn: 4975.0 m
+      giveOut: 5025.0 m
+      alt: null
+    - zoneName: MINES
+      lat: -32.90223
+      lng: 147.98492
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: null
+    - zoneName: SKULLS
+      lat: -32.9536
+      lng: 147.55457
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: null
+    - zoneName: BOGAN
+      lat: -33.12592
+      lng: 147.91043
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: null
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - -33.36137000 deg
+          - 147.93207000 deg
+          radius: 100.0 m
+      race:
+      - cylinder:
+          center:
+          - -33.36137000 deg
+          - 147.93207000 deg
+          radius: 5000.0 m
+      - cylinder:
+          center:
+          - -32.90223000 deg
+          - 147.98492000 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - -32.95360000 deg
+          - 147.55457000 deg
+          radius: 400.0 m
+      race-ess-is-goal:
+        circle:
+          center:
+          - -33.12592000 deg
+          - 147.91043000 deg
+          radius: 400.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 5
+  zoneTimes:
+  - open: 2012-01-06T01:00:00Z
+    close: 2012-01-06T09:00:00Z
+  startGates: []
+  stopped: null
+  cancelled: false
+  taskTweak:
+    arrivalRank: true
+    arrivalTime: false
+    essNotGoalScaling: 0.8
+    leadingAreaDistanceSquared: false
+    leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 2 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals: []
+taskFolder:
+- Tracklogs
+- day 2
+pilots:
+- - - '106'
+    - Adam Parer
+  - Adam Parer.20100904-082116.5684.106.kml
+- - - '90'
+    - Adam Stevens
+  - Adam_Stevens.20120106-112511.17640.90.kml
+- - - '82'
+    - Alain Le-gac
+  - Alain_Le_gac.20120106-121819.5698.82.kml
+- - - '31'
+    - Andrew Barnes
+  - Andrew_Barnes.20120106-102003.5800.31.kml
+- - - '67'
+    - ! 'Andy Phillips '
+  - Andy Phillips .20100904-090137.[CIVLID].67.kml
+- - - '58'
+    - Anna Belova
+  - Anna_Belova.20120106-084500.5827.58.kml
+- - - '95'
+    - Anton Struganov
+  - Anton_Struganov.20120106-085054.5845.95.kml
+- - - '59'
+    - Artur Dzamikhov
+  - Artur_Dzamikhov.20120106-085140.5876.59.kml
+- - - '100'
+    - Attila Bertok
+  - Attila Bertok.20100904-094538.5885.100.kml
+- - - '27'
+    - ! 'Boris Marold '
+  - Boris Marold .20100904-100325.[CIVLID].27.kml
+- - - '96'
+    - Brodrick Osborne
+  - Brodrick_Osborne.20120106-112600.5961.96.kml
+- - - '56'
+    - Cameron Tunbridge
+  - Cameron_Tunbridge.20120106-091849.5986.56.kml
+- - - '35'
+    - Carole Tobler
+  - Carole Tobler.20100904-101255.6009.35.kml
+- - - '105'
+    - Chris Lawry
+  - Chris_Lawry.20120106-092203.6025.105.kml
+- - - '24'
+    - Christian Baertschi
+  - Christian_Baertschi.20120106-112150.12973.24.kml
+- - - '78'
+    - Christine Aichner
+  - Christine_Aichner.20120106-090802.6042.78.kml
+- - - '33'
+    - Conrad Loten
+  - Conrad_Loten.20120106-092007.6067.33.kml
+- - - '87'
+    - Corinna Schwiegershausen
+  - Corinna_Schwiegershausen.20120106-094526.1377.87.kml
+- - - '41'
+    - Curt Warren
+  - Curt Warren.20100904-092913.6077.41.kml
+- - - '79'
+    - David Stevens
+  - David_Stevens.20120106-100951.6139.79.kml
+- - - '102'
+    - Davide Guiducci
+  - Davide_Guiducci.20120106-110211.6142.102.kml
+- - - '76'
+    - Dmitriy Korchenkov
+  - Dmitriy_Korchenkov.20120106-084034.15029.76.kml
+- - - '71'
+    - Edoardo Giudiceandrea
+  - Edoardo Giudiceandrea.20100904-100641.6199.71.kml
+- - - '62'
+    - Enda Murphy
+  - Enda_Murphy.20120106-095104.295.62.kml
+- - - '28'
+    - Evgeniya Laritskaya
+  - Evgeniya_Laritskaya.20120106-105035.6263.28.kml
+- - - '91'
+    - Francesco Rinaldi
+  - Francesco Rinaldi.20100904-084122.6335.91.kml
+- - - '44'
+    - Francoise Dieuzeide-banet
+  - Francoise_Dieuzeide_banet.20120106-121616.6325.44.kml
+- - - '36'
+    - Franz Herrmann
+  - Franz_Herrmann.20120106-104655.6339.36.kml
+- - - '30'
+    - Fredy Bircher
+  - Fredy Bircher.20100904-082552.6349.30.kml
+- - - '21'
+    - Gavin Myers
+  - Gavin_Myers.20120106-112808.18334.21.kml
+- - - '23'
+    - Gerolf Heinrichs
+  - Gerolf_Heinrichs.20120106-104830.6405.23.kml
+- - - '73'
+    - Gijs Wanders
+  - Gijs Wanders.20100904-094850.13730.73.kml
+- - - '12'
+    - Glen Mcfarlane
+  - Glen_Mcfarlane.20120106-112721.17641.12.kml
+- - - '16'
+    - Grant Edward
+  - Grant_Edward.20120106-094722.12116.16.kml
+- - - '68'
+    - Grant Heaney
+  - Grant_Heaney.20120106-105731.6441.68.kml
+- - - '64'
+    - Gustavo Carvalho
+  - Gustavo_Carvalho.20120106-105552.19170.64.kml
+- - - '26'
+    - Guy Hubbard
+  - Guy Hubbard.20100904-090720.6467.26.kml
+- - - '53'
+    - Hadewych van Kempen
+  - Hadewych van Kempen.20100904-081321.6468.53.kml
+- - - '92'
+    - Hans Kiefinger
+  - Hans Kiefinger.20100904-081001.6479.92.kml
+- - - '15'
+    - ! 'Jean Souviron '
+  - Jean_Souviron.20120106-121719.[CIVLID].15.kml
+- - - '75'
+    - Joerg Bajewski
+  - Joerg_Bajewski.20120106-090650.6740.75.kml
+- - - '13'
+    - John Smith
+  - John Smith.20100904-074512.22582.13.kml
+- - - '17'
+    - John Urlich
+  - John Urlich.20100904-100448.6718.17.kml
+- - - '34'
+    - Jon snr Durand
+  - Jon snr Durand.20100904-085502.6731.34.kml
+- - - '66'
+    - Jonas Lobitz
+  - Jonas_Lobitz.20120106-092318.12354.66.kml
+- - - '69'
+    - Jonathan Kinred
+  - Jonathan_Kinred.20120106-100306.22676.69.kml
+- - - '46'
+    - Jonathon Foote
+  - Jonathon_Foote.20120106-110015.6735.46.kml
+- - - '61'
+    - Jonny Durand
+  - Jonny_Durand.20120106-095245.2231.61.kml
+- - - '57'
+    - Julia Kucherenko
+  - Julia_Kucherenko.20120106-095922.11395.57.kml
+- - - '18'
+    - Jürgen Pasker
+  - J_rgen_Pasker.20120106-105932.18079.18.kml
+- - - '55'
+    - Kari Suhonen
+  - Kari_Suhonen.20120106-092607.6831.55.kml
+- - - '32'
+    - Kathryn O'Riordan
+  - Kathryn_O_Riordan.20120106-101701.21371.32.kml
+- - - '97'
+    - Konrad Schwab
+  - Konrad_Schwab.20120106-091019.9816.97.kml
+- - - '29'
+    - Konstantin Lukyanov
+  - Konstantin Lukyanov.20100904-091052.16902.29.kml
+- - - '77'
+    - Len Paton
+  - Len_Paton.20120106-100822.6946.77.kml
+- - - '43'
+    - Les Bestt
+  - Les_Bestt.20120106-114132.6952.43.kml
+- - - '1'
+    - Lukas Bader
+  - Lukas_Bader.20120106-085721.6992.1.kml
+- - - '20'
+    - ! 'Luke Browne '
+  - Luke Browne .20100904-090522.[CIVLID].20.kml
+- - - '10'
+    - Marat Matnurov
+  - Marat_Matnurov.20120106-100834.15032.10.kml
+- - - '22'
+    - Mark Russell
+  - Mark_Russell.20120106-090554.14776.22.kml
+- - - '88'
+    - Martin Sielaff
+  - Martin_Sielaff.20120106-110126.18336.88.kml
+- - - '70'
+    - Matthew Barlow
+  - Matthew_Barlow.20120106-103706.7113.70.kml
+- - - '47'
+    - ! 'Miguel De Jong '
+  - Miguel_De_Jong.20120106-113840.[CIVLID].47.kml
+- - - '19'
+    - Mikhail Karmazin
+  - Mikhail_Karmazin.20120106-085319.7169.19.kml
+- - - '94'
+    - Mitch Shipley
+  - Mitch Shipley.20100904-083705.7187.94.kml
+- - - '50'
+    - Monique Pavy
+  - Monique_Pavy.20120106-112859.7194.50.kml
+- - - '85'
+    - Neil Petersen
+  - Neil_Petersen.20120106-123050.7220.85.kml
+- - - '25'
+    - Nick Purcell
+  - Nick Purcell.20100904-092739.7229.25.kml
+- - - '14'
+    - Olav Lien Olsen
+  - Olav_Lien_Olsen.20120106-100609.7270.14.kml
+- - - '2'
+    - Pablo Gomes
+  - Pablo Gomes.20100904-095618.[CIVLID].2.kml
+- - - '48'
+    - Paolo Rosichetti
+  - Paolo_Rosichetti.20120106-110434.7320.48.kml
+- - - '98'
+    - Patrick Collin
+  - Patrick_Collin.20120106-112648.7332.98.kml
+- - - '83'
+    - Peter Dall
+  - Peter_Dall.20120106-101834.7384.83.kml
+- - - '37'
+    - Peter Ebeling
+  - Peter_Ebeling.20120106-114228.7388.37.kml
+- - - '6'
+    - Phil Schroder
+  - Phil_Schroder.20120106-114334.7419.6.kml
+- - - '40'
+    - Phil de Joux
+  - Phil de Joux.20100904-080853.21437.40.kml
+- - - '8'
+    - Primoz Gricar
+  - Primoz_Gricar.20120106-104444.7437.8.kml
+- - - '51'
+    - Rob In 't Groen
+  - Rob In 't Groen.20100904-092126.7510.51.kml
+- - - '103'
+    - Roberto Nichele
+  - Roberto Nichele.20100904-082345.7533.103.kml
+- - - '3'
+    - Rod Flockhart
+  - Rod Flockhart.20100904-093557.7537.3.kml
+- - - '60'
+    - Rohan Holtkamp
+  - Rohan Holtkamp.20100904-084748.7544.60.kml
+- - - '45'
+    - Roland Wöhrle
+  - Roland_W_hrle.20120106-090935.7547.45.kml
+- - - '89'
+    - Scott Barrett
+  - Scott Barrett.20100904-085033.7601.89.kml
+- - - '7'
+    - Shaun O'neill
+  - Shaun_O_neill.20120106-114431.7650.7.kml
+- - - '11'
+    - Steve Blenkinsop
+  - Steve_Blenkinsop.20120106-094925.7701.11.kml
+- - - '42'
+    - Suan Selenati
+  - Suan_Selenati.20120106-220531.15184.42.kml
+- - - '49'
+    - Tony Giammichele
+  - Tony Giammichele.20100904-085258.7839.49.kml
+- - - '72'
+    - Tove Heaney
+  - Tove Heaney.20100904-100101.7850.72.kml
+- - - '93'
+    - Trent Brown
+  - Trent Brown.20100904-092440.7853.93.kml
+- - - '99'
+    - Tullio Gervasoni
+  - Tullio_Gervasoni.20120106-100407.7865.99.kml
+- - - '81'
+    - Valentino Bau
+  - Valentino Bau.20100904-100934.7889.81.kml
+- - - '52'
+    - Virpi Nieminen
+  - Virpi_Nieminen.20120106-092327.7914.52.kml
+- - - '5'
+    - Wolfgang Siess
+  - Wolfgang_Siess.20120106-095551.7961.5.kml
+- - - '84'
+    - Yasuhiro Noma
+  - Yasuhiro_Noma.20120106-103401.7971.84.kml
